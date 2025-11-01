@@ -32,6 +32,18 @@ def print_set_json(msem_json):
         card["artist" + ("2" if in_dfc else "")] = msem_card["artist"]
         card["alias" + ("2" if in_dfc else "")] = ""
 
+        if card_layout(msem_card) == "adventure":
+            adventure = msem_card["pageData"]
+            card["card_name2"] = adventure["name"]
+            card["cost2"] = adventure["manaCost"]
+            card["rules_text2"] = adventure["text"]
+            card["color2"] = getColors(adventure["manaCost"])
+            card["flavor_text2"] = ""
+            card["pt2"] = ""
+            card["special_text2"] = ""
+            card["artist2"] = card["artist"]
+            card["alias2"] = ""
+
         if not in_dfc:
             card["shape"] = card_layout(msem_card)
             card["set"] = msem_json["code"]
@@ -67,6 +79,16 @@ def card_layout(msem_card):
         return "adventure"
     
     return "normal"
+
+def getColors(c):
+    colors = "WUBRG"
+    res = ""
+
+    for color in colors:
+        if color in c:
+            res += color
+
+    return res
 
 def liststr(l):
     s = ""
