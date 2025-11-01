@@ -1,0 +1,4141 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "1-ST Thankless Companion",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "AOSE Extractor",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "AOSE Scrapper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "AOSE Valiant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "AOSE Xenocultivator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "A Life's Value",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "A Rush of Stillness in the Air",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "A Sucker for You",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "A Whole New World_AVX",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/305.jpg"
+			}
+		},
+		{
+			"name": "Abberant Frostbringer",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Artifact Creature — Horror",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Abominable Xenoflora",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Horror",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Abomination's Desire",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Abomination Antithesis",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Abomination Broodmother",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Abrupt Duplication_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Accursed by Unborn Fates_AVX",
+			"rarity": "special",
+			"mana_cost": "{2}{U/B}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/320.jpg"
+			}
+		},
+		{
+			"name": "Adamant Engineer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Adaptive Terrains_AVX",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Alien Formations",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Align with Animus Vox",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "All-Devouring Hope",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Alone in the Universe",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Ambush Predator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "An Unfamiliar Swarm",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Ancient Durumderm",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Animus Channeler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Animus Seer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Antigravity Agent",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Apex Abomination",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Horror Beast",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Arisen Psion",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Wizard Pilot",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "As a Matter of Course",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Ascended Explorer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Angel",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Aspiring Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Ataraxia",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Attuned Lifeform",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Attuned Slayer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Attuned Specialist",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Berserker Wizard",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Avengeance Angel_AVX",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Bad Romance",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Battle of Principles_AVX",
+			"rarity": "special",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/290.jpg"
+			}
+		},
+		{
+			"name": "Behavioral Specialist",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Artificer Scout",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Biocultivator",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Biohazard",
+			"rarity": "mythic",
+			"mana_cost": "{X}{B}{G}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Bioluminescent Display",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Bioluminescent Predator",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Bizarre Dreams",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Brand New Species",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Brandy Axel, Combat's Baby",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Bright Future_AVX",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{R}{W}",
+			"type": "Instant",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/306.jpg"
+			}
+		},
+		{
+			"name": "Brightsouled Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Bril, the Oltenen Emissary",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Elemental Noble",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Build Monsters from Relics",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Champion of the Red Dawn_AVX",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/307.jpg"
+			}
+		},
+		{
+			"name": "Channeling Stone_AVX",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Chaos Is Your Redemption",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Claimed by the Veil_AVX",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Cloven Forms_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/298.jpg"
+			}
+		},
+		{
+			"name": "Comet, Pulled from Orbit",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Planeswalker — Comet",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/308.jpg"
+			}
+		},
+		{
+			"name": "Corecharge_AVX",
+			"rarity": "special",
+			"mana_cost": "{6}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/309.jpg"
+			}
+		},
+		{
+			"name": "Corrupted Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Berserker",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Cosmic Tendrils_AVX",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/322.jpg"
+			}
+		},
+		{
+			"name": "Cower Before True Power",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Cradle of War",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Culminating Despair_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Curio Hellkite_AVX",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/291.jpg"
+			}
+		},
+		{
+			"name": "Cursory Glance_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "DC-4 Cutie",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "DL-19 Reject",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Dazzle_AVX",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Death in Reverse_AVX",
+			"rarity": "special",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Instant",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/310.jpg"
+			}
+		},
+		{
+			"name": "Debaser of Truth",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Defective Abomination",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Demolitionist Deviser_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/292.jpg"
+			}
+		},
+		{
+			"name": "Deploy the Rovers",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Desperate Android",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Construct Scout",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Destroyed Monument_AVX",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/311.jpg"
+			}
+		},
+		{
+			"name": "Diabolus ex Machina",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Digital Immortality",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Doom",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Doomed Explorer",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Dragongate_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/293.jpg"
+			}
+		},
+		{
+			"name": "Drown in Apathy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Earlymorning Hart",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Earthbreaker Behemoth_AVX",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/312.jpg"
+			}
+		},
+		{
+			"name": "Earthly Ambitions",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Eldan Jackson, Last Hope",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Eminent Extraction Engine",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Artifact",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Emotions Like a Rain Cloud",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Enter the Wormhole",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Enthusiastic Double",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Elemental Reflection",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Everybody Knows",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Everything Is Going Great",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Exhausted Explorer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Exit This Mortal Stage",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Expedition Outfitter",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Expose",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Extant Decay",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Extinction Specialist",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Druid",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Extraction Mercenary",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Eyes in Orbit",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Face the Truth_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/294.jpg"
+			}
+		},
+		{
+			"name": "Faith Given Form",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Faithful Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental Advisor",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Fallen Hero",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Zombie Soldier",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "False Vitality_AVX",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/313.jpg"
+			}
+		},
+		{
+			"name": "Fearsome Xenoblossom",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Plant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Ferocious Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Field Engineer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Flenser's Lieutenant",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Elemental Horror",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Fleshwarper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Forget the World",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "From Within the Dark_AVX",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/295.jpg"
+			}
+		},
+		{
+			"name": "Frost Walker_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Full Salvo_AVX",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/296.jpg"
+			}
+		},
+		{
+			"name": "Gate of Realms_AVX",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/323.jpg"
+			}
+		},
+		{
+			"name": "Ghastly Progenitor",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Glitch, Drinker of Seas",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "Legendary Planeswalker — Glitch",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Glowspore Grove_AVX",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Gluttonous Empath",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Elemental Horror",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Go Blank",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Granter of Weariness",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Grasp of Darkness",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Gravitational Ripper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Grim Armory_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "HO-20 Rising Sun",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Phoenix",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Hand of the Triumvirate",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Harvest the Stars",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Hatewracked Explorer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Human Elemental Horror",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Heartforge Savant",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Hearts Beat Fast",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Heat Blast_AVX",
+			"rarity": "common",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Herald of Darkness",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Elemental",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Herald of Teardrops",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Holdsteady Engine",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Horrific Salvage",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Instant",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Hurried Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "I-6 Dragoon",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Construct Soldier",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "IG-2 Disassembler",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact Creature — Construct Artificer",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Ignited Vanguard",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Elemental Soldier",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Ignition Engine",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "In Dire Straits",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Instant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Incineration Expert",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Inexorable Explorer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Inquisitive Guardian",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Elemental",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Insatiable Abomination",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Interstellar Beacon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Invent the Future_AVX",
+			"rarity": "special",
+			"mana_cost": "{X}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Invincible",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "J-7 Freeze Frame",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Jaded Confidant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Journey's End_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Kan, Triumvirate Tactician",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Kan's Faithful",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Kill This Love",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Kilnfire_AVX",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "LH-6 Brutality",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Last Request_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/314.jpg"
+			}
+		},
+		{
+			"name": "Legend of the Devout_AVX",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Enchantment — Aura Persona",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Let's Go, Don't Wait",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Life as a Means to a Triumph",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Lifeforge Battery",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Lift Weary Heads from Rest",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Listen and Learn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Lives Redeemed_AVX",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/299.jpg"
+			}
+		},
+		{
+			"name": "Living Atrocity",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental Horror",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Living Beyond Your Years",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Living Planet",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Living Supernova",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Avatar",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Lonely Relic",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Long Lost Cause",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Zombie Pilot",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Lost Crew",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Zombie",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Lost Explorer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Scout",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Lost and Alone_AVX",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Love Letters_AVX",
+			"rarity": "special",
+			"mana_cost": "{X}",
+			"type": "Artifact",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/324.jpg"
+			}
+		},
+		{
+			"name": "Lust for Life",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Lysander Jal, Ex-Explorer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Zombie Cleric",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Manifest Memories_AVX",
+			"rarity": "special",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Instant",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Master of Munitions",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Memory of Fatalism",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Spirit Horror",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Mia, Into the Unknown",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Mineral Expert",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Moonlight_AVX",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Mourn No More_AVX",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/315.jpg"
+			}
+		},
+		{
+			"name": "Muse's Whims",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Muse's Wrath",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Nebula's Blessing",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Never Enough",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Nihilistic Shock Trooper",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "No Good Deed Goes Unpunished",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "OH-14 Diamond",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Construct Scout",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "OM-6 Walker",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Construct Berserker",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Observation Field",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Olten's Farewell",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Olten's Heart",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Olten Surveyor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Olten Tarrasque",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Olten Vipermoa",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Bird Beast",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Oltenen Paradise-Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Oltenen Terror",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Ominous Hart_AVX",
+			"rarity": "special",
+			"mana_cost": "{7}{B}{B}",
+			"type": "Creature — Elk Horror",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "On Repeat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "One Last Mission",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Operation 433",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Operative BABY",
+			"rarity": "rare",
+			"mana_cost": "{2/W}{2/W}{2/W}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Operative GINGER",
+			"rarity": "rare",
+			"mana_cost": "{2/R}{2/R}{2/R}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Operative POSH",
+			"rarity": "rare",
+			"mana_cost": "{2/U}{2/U}{2/U}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Operative SCARY",
+			"rarity": "rare",
+			"mana_cost": "{2/B}{2/B}{2/B}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Operative SPORTY",
+			"rarity": "rare",
+			"mana_cost": "{2/G}{2/G}{2/G}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Convocation",
+			"rarity": "mythic",
+			"mana_cost": "{X}{W}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Forest_AVX",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/326.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Island_AVX",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/327.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Mountain_AVX",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/328.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Passage_AVX",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Plains_AVX",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/329.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Swamp_AVX",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/330.jpg"
+			}
+		},
+		{
+			"name": "Outside the Airlock",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "P-3 Ambusher",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Past, Present, Future_AVX",
+			"rarity": "special",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/316.jpg"
+			}
+		},
+		{
+			"name": "Phantom Walker_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Postmortem Contemplation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Power Plant_AVX",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/331.jpg"
+			}
+		},
+		{
+			"name": "Precursor's Edge",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Precursor Custodians",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Precursor Gate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Precursor Omniprocessor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Predatory Abomination",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Pretty Savage",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Bounty_AVX",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/300.jpg"
+			}
+		},
+		{
+			"name": "Prophetic Prism_AVX",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Propulsion Pack",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Psionic Rebuke",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Rage of the Ravaged_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{B/R}{B/R}",
+			"type": "Enchantment",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/321.jpg"
+			}
+		},
+		{
+			"name": "Realm of the Triumvirate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Reckless Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Berserker",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Reconnaissance Expert",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Refute",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Regurgitator Ooze_AVX",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/301.jpg"
+			}
+		},
+		{
+			"name": "Remi Amber, Slyten Specialist // Remi Amber, Unlimited",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "230",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/AVX-files/img/230a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/230a_front.jpg"
+			}
+		},
+		{
+			"name": "Remi Amber, Slyten Specialist // Remi Amber, Unlimited",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "230",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/AVX-files/img/230a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/230a_front.jpg"
+			}
+		},
+		{
+			"name": "Repurposed Custodian",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Rewriter of Flesh",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Ruffled Scrum_AVX",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Rugged Ferocity_AVX",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Runic Pillars_AVX",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/325.jpg"
+			}
+		},
+		{
+			"name": "Sage of Folded Possibilities",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Human Elemental Druid",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Savagery Evergrowing",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Enchantment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Savant of Cables",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Scanning Module",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Scion of Calamities_AVX",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Avatar",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/297.jpg"
+			}
+		},
+		{
+			"name": "Scion of Torrents_AVX",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elemental Avatar",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Second Wave Explorer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Sesilius of Wicked Ways",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Planeswalker — Sesilius",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Shroud in Stars",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Skittering Atrocity",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Artifact Creature — Horror",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Skytouch Distorter",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Slyten Analyst",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Slyten Connoisseur",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Slyten Jewel Runner",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Slyten Visions",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "So Much to Do",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "So Much to See",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Solar Pulse",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Song of Shoals_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/317.jpg"
+			}
+		},
+		{
+			"name": "Sounds of Silence",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Specialized Constructor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Spinning Gears Abomination",
+			"rarity": "rare",
+			"mana_cost": "{X}",
+			"type": "Artifact Creature — Horror",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Splendor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Stand Unassailable_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/302.jpg"
+			}
+		},
+		{
+			"name": "Starbane Elemental_AVX",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Stardust Surveyor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Starjump_AVX",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Instant",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/318.jpg"
+			}
+		},
+		{
+			"name": "Starry Abomination",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elemental Horror",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Start Over",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Stubborn Denial",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Suncolored Dreamer",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Creature — Elemental Beast",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Sunder Reality's Peace",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Supernatural Stamina",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Supernova",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Sword of Love and Loathing",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "TD-3 Slyten Retriever",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "TF-6 Ruler",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "TT-20 Salvation",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Take the Throne Above",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Tarmovore_AVX",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Lhurgoyf",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/303.jpg"
+			}
+		},
+		{
+			"name": "The Bliss of Ignorance Dies_AVX",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "The Future is Unlimited",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "The Hunter of Nebulas",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{U}{B}",
+			"type": "Legendary Creature — Horror Warrior",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "The Past Is Gone",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "The Sin of Hope",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "The Sun Also Rises_AVX",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/319.jpg"
+			}
+		},
+		{
+			"name": "The World Follows After",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "This Is Not Our Fate",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Toxic Fumes",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Traveling Duo",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Traverse Boundless Space",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Triplicate Monstrosity_AVX",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Snake Horror",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/304.jpg"
+			}
+		},
+		{
+			"name": "Triumvirate Bellringer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Triumvirate Inductee",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Elemental Wizard",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Triumvirate Infiltrator",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Rogue",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Triumvirate Strategist",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elemental Soldier",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Trying One More Time",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Turn the Record Over",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Twelve Thousand Eyes_AVX",
+			"rarity": "special",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Twisted Predator_AVX",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Twisted Scinid",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Lizard Horror",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Uncanny Allocator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Advisor",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Uncovered Secrets_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Undeath Comes_AVX",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/287.jpg"
+			}
+		},
+		{
+			"name": "Underhanded Deal",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Unstable Prophet",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Unstable Vein",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Upbeat Vanguard",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Vantage Point_AVX",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Vastness of Space",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Vibrant Rapture_AVX",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/288.jpg"
+			}
+		},
+		{
+			"name": "Vindictive Guardian",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Soldier",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Vivid Crag",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Vivid Creek",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Vivid Grove",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Vivid Marsh",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Vivid Meadow",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Voice of the Universe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Voltaic Conduit",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "WZ-18 Troublemaker",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Construct Scout",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Wandering Visionary",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Watch Me Burn",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Watch from Above_AVX",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Weaving Reality in a Tapestry",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Whistling Blades_AVX",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/289.jpg"
+			}
+		},
+		{
+			"name": "Words Unspoken",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Worn Study_AVX",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Yet Life Still Flourishes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AVX-files/img/190.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 A Sucker for You
+	2 Adamant Engineer
+	2 All-Devouring Hope
+	1 Apex Abomination
+	2 As a Matter of Course
+	2 Ataraxia
+	2 Attuned Slayer
+	1 Biohazard
+	1 Brandy Axel, Combat's Baby
+	2 Bril, the Oltenen Emissary
+	2 Channeling Stone_AVX
+	2 Chaos Is Your Redemption
+	2 Cradle of War
+	1 DC-4 Cutie
+	2 Debaser of Truth
+	2 Diabolus ex Machina
+	1 Digital Immortality
+	1 Doom
+	2 Earthly Ambitions
+	2 Eldan Jackson, Last Hope
+	1 Eminent Extraction Engine
+	2 Enthusiastic Double
+	2 Extinction Specialist
+	2 Extraction Mercenary
+	2 Faith Given Form
+	2 Fallen Hero
+	2 Fearsome Xenoblossom
+	2 Forget the World
+	2 Ghastly Progenitor
+	1 Glitch, Drinker of Seas
+	2 HO-20 Rising Sun
+	2 Harvest the Stars
+	1 Heartforge Savant
+	2 Hearts Beat Fast
+	2 Holdsteady Engine
+	2 I-6 Dragoon
+	2 Ignition Engine
+	2 In Dire Straits
+	2 Inquisitive Guardian
+	2 Insatiable Abomination
+	2 Kan, Triumvirate Tactician
+	2 LH-6 Brutality
+	2 Lifeforge Battery
+	2 Living Beyond Your Years
+	2 Living Planet
+	2 Living Supernova
+	1 Lysander Jal, Ex-Explorer
+	1 Mia, Into the Unknown
+	2 Muse's Wrath
+	2 Never Enough
+	2 Nihilistic Shock Trooper
+	2 No Good Deed Goes Unpunished
+	2 OM-6 Walker
+	2 Olten's Farewell
+	1 Olten's Heart
+	2 Olten Surveyor
+	2 Operation 433
+	2 Operative BABY
+	2 Operative GINGER
+	2 Operative POSH
+	2 Operative SCARY
+	2 Operative SPORTY
+	1 Otherworldly Convocation
+	1 Pretty Savage
+	1 Remi Amber, Slyten Specialist // Remi Amber, Unlimited
+	1 Remi Amber, Slyten Specialist // Remi Amber, Unlimited
+	2 Sage of Folded Possibilities
+	1 Sesilius of Wicked Ways
+	2 Skytouch Distorter
+	2 Sounds of Silence
+	2 Spinning Gears Abomination
+	2 Stardust Surveyor
+	1 Supernova
+	1 Sword of Love and Loathing
+	2 TF-6 Ruler
+	1 Take the Throne Above
+	2 The Future is Unlimited
+	1 The Hunter of Nebulas
+	2 The Past Is Gone
+	2 The Sin of Hope
+	1 This Is Not Our Fate
+	2 Triumvirate Inductee
+	1 Turn the Record Over
+	1 Watch Me Burn
+	2 Words Unspoken
+[uncommon(3)]
+	4 AOSE Scrapper
+	4 AOSE Valiant
+	4 AOSE Xenocultivator
+	4 A Life's Value
+	4 A Rush of Stillness in the Air
+	4 Abomination's Desire
+	4 Align with Animus Vox
+	4 Ambush Predator
+	4 Animus Channeler
+	4 Animus Seer
+	4 Antigravity Agent
+	4 Attuned Lifeform
+	4 Attuned Specialist
+	4 Bioluminescent Display
+	4 Brightsouled Guardian
+	4 Desperate Android
+	4 Drown in Apathy
+	4 Earlymorning Hart
+	4 Emotions Like a Rain Cloud
+	4 Everybody Knows
+	4 Everything Is Going Great
+	4 Exhausted Explorer
+	4 Exit This Mortal Stage
+	4 Expose
+	4 Ferocious Flame
+	4 Gluttonous Empath
+	4 Granter of Weariness
+	4 Herald of Darkness
+	4 Hurried Scavenger
+	4 Ignited Vanguard
+	4 Incineration Expert
+	4 Inexorable Explorer
+	4 Jaded Confidant
+	4 Kan's Faithful
+	4 Let's Go, Don't Wait
+	4 Life as a Means to a Triumph
+	4 Listen and Learn
+	4 Lonely Relic
+	4 Lust for Life
+	4 Memory of Fatalism
+	4 Observation Field
+	4 Oltenen Paradise-Seeker
+	4 Oltenen Terror
+	4 On Repeat
+	4 One Last Mission
+	4 Outside the Airlock
+	4 Postmortem Contemplation
+	4 Precursor Gate
+	4 Precursor Omniprocessor
+	4 Reckless Guardian
+	4 Repurposed Custodian
+	4 Rewriter of Flesh
+	4 Savagery Evergrowing
+	4 Savant of Cables
+	4 Slyten Analyst
+	4 Slyten Connoisseur
+	4 Specialized Constructor
+	4 Splendor
+	4 Starry Abomination
+	4 Start Over
+	4 Stubborn Denial
+	4 The World Follows After
+	4 Toxic Fumes
+	4 Traverse Boundless Space
+	4 Triumvirate Bellringer
+	4 Trying One More Time
+	4 Uncanny Allocator
+	4 Underhanded Deal
+	4 Vivid Crag
+	4 Vivid Creek
+	4 Vivid Grove
+	4 Vivid Marsh
+	4 Vivid Meadow
+	4 Voice of the Universe
+	4 Yet Life Still Flourishes
+[common(7)]
+	8 1-ST Thankless Companion
+	8 AOSE Extractor
+	8 Abberant Frostbringer
+	8 Abominable Xenoflora
+	8 Abomination Antithesis
+	8 Abomination Broodmother
+	8 Adaptive Terrains_AVX
+	8 Alien Formations
+	8 Alone in the Universe
+	8 An Unfamiliar Swarm
+	8 Ancient Durumderm
+	8 Arisen Psion
+	8 Ascended Explorer
+	8 Aspiring Guardian
+	8 Bad Romance
+	8 Behavioral Specialist
+	8 Biocultivator
+	8 Bioluminescent Predator
+	8 Bizarre Dreams
+	8 Brand New Species
+	8 Build Monsters from Relics
+	8 Claimed by the Veil_AVX
+	8 Corrupted Guardian
+	8 Cower Before True Power
+	8 DL-19 Reject
+	8 Dazzle_AVX
+	8 Defective Abomination
+	8 Deploy the Rovers
+	8 Doomed Explorer
+	8 Enter the Wormhole
+	8 Expedition Outfitter
+	8 Extant Decay
+	8 Eyes in Orbit
+	8 Faithful Guardian
+	8 Field Engineer
+	8 Flenser's Lieutenant
+	8 Fleshwarper
+	8 Glowspore Grove_AVX
+	8 Go Blank
+	8 Grasp of Darkness
+	8 Gravitational Ripper
+	8 Hand of the Triumvirate
+	8 Hatewracked Explorer
+	8 Heat Blast_AVX
+	8 Herald of Teardrops
+	8 Horrific Salvage
+	8 IG-2 Disassembler
+	8 Interstellar Beacon
+	8 Invincible
+	8 J-7 Freeze Frame
+	8 Kill This Love
+	8 Kilnfire_AVX
+	8 Lift Weary Heads from Rest
+	8 Living Atrocity
+	8 Long Lost Cause
+	8 Lost Crew
+	8 Lost Explorer
+	8 Lost and Alone_AVX
+	8 Master of Munitions
+	8 Mineral Expert
+	8 Muse's Whims
+	8 Nebula's Blessing
+	8 OH-14 Diamond
+	8 Olten Tarrasque
+	8 Olten Vipermoa
+	8 P-3 Ambusher
+	8 Precursor's Edge
+	8 Precursor Custodians
+	8 Predatory Abomination
+	8 Prophetic Prism_AVX
+	8 Propulsion Pack
+	8 Psionic Rebuke
+	8 Realm of the Triumvirate
+	8 Reconnaissance Expert
+	8 Refute
+	8 Ruffled Scrum_AVX
+	8 Rugged Ferocity_AVX
+	8 Scanning Module
+	8 Second Wave Explorer
+	8 Shroud in Stars
+	8 Skittering Atrocity
+	8 Slyten Jewel Runner
+	8 Slyten Visions
+	8 So Much to Do
+	8 So Much to See
+	8 Solar Pulse
+	8 Suncolored Dreamer
+	8 Sunder Reality's Peace
+	8 Supernatural Stamina
+	8 TD-3 Slyten Retriever
+	8 TT-20 Salvation
+	8 The Bliss of Ignorance Dies_AVX
+	8 Traveling Duo
+	8 Triumvirate Infiltrator
+	8 Triumvirate Strategist
+	8 Twisted Predator_AVX
+	8 Twisted Scinid
+	8 Unstable Prophet
+	8 Unstable Vein
+	8 Upbeat Vanguard
+	8 Vastness of Space
+	8 Vindictive Guardian
+	8 Voltaic Conduit
+	8 WZ-18 Troublemaker
+	8 Wandering Visionary
+	8 Weaving Reality in a Tapestry
+[foil(1)]
+	12 1-ST Thankless Companion
+	12 AOSE Extractor
+	6 AOSE Scrapper
+	6 AOSE Valiant
+	6 AOSE Xenocultivator
+	6 A Life's Value
+	6 A Rush of Stillness in the Air
+	2 A Sucker for You
+	12 Abberant Frostbringer
+	12 Abominable Xenoflora
+	6 Abomination's Desire
+	12 Abomination Antithesis
+	12 Abomination Broodmother
+	2 Adamant Engineer
+	12 Adaptive Terrains_AVX
+	12 Alien Formations
+	6 Align with Animus Vox
+	2 All-Devouring Hope
+	12 Alone in the Universe
+	6 Ambush Predator
+	12 An Unfamiliar Swarm
+	12 Ancient Durumderm
+	6 Animus Channeler
+	6 Animus Seer
+	6 Antigravity Agent
+	1 Apex Abomination
+	12 Arisen Psion
+	2 As a Matter of Course
+	12 Ascended Explorer
+	12 Aspiring Guardian
+	2 Ataraxia
+	6 Attuned Lifeform
+	2 Attuned Slayer
+	6 Attuned Specialist
+	12 Bad Romance
+	12 Behavioral Specialist
+	12 Biocultivator
+	1 Biohazard
+	6 Bioluminescent Display
+	12 Bioluminescent Predator
+	12 Bizarre Dreams
+	12 Brand New Species
+	1 Brandy Axel, Combat's Baby
+	6 Brightsouled Guardian
+	2 Bril, the Oltenen Emissary
+	12 Build Monsters from Relics
+	2 Channeling Stone_AVX
+	2 Chaos Is Your Redemption
+	12 Claimed by the Veil_AVX
+	12 Corrupted Guardian
+	12 Cower Before True Power
+	2 Cradle of War
+	1 DC-4 Cutie
+	12 DL-19 Reject
+	12 Dazzle_AVX
+	2 Debaser of Truth
+	12 Defective Abomination
+	12 Deploy the Rovers
+	6 Desperate Android
+	2 Diabolus ex Machina
+	1 Digital Immortality
+	1 Doom
+	12 Doomed Explorer
+	6 Drown in Apathy
+	6 Earlymorning Hart
+	2 Earthly Ambitions
+	2 Eldan Jackson, Last Hope
+	1 Eminent Extraction Engine
+	6 Emotions Like a Rain Cloud
+	12 Enter the Wormhole
+	2 Enthusiastic Double
+	6 Everybody Knows
+	6 Everything Is Going Great
+	6 Exhausted Explorer
+	6 Exit This Mortal Stage
+	12 Expedition Outfitter
+	6 Expose
+	12 Extant Decay
+	2 Extinction Specialist
+	2 Extraction Mercenary
+	12 Eyes in Orbit
+	2 Faith Given Form
+	12 Faithful Guardian
+	2 Fallen Hero
+	2 Fearsome Xenoblossom
+	6 Ferocious Flame
+	12 Field Engineer
+	12 Flenser's Lieutenant
+	12 Fleshwarper
+	2 Forget the World
+	2 Ghastly Progenitor
+	1 Glitch, Drinker of Seas
+	12 Glowspore Grove_AVX
+	6 Gluttonous Empath
+	12 Go Blank
+	6 Granter of Weariness
+	12 Grasp of Darkness
+	12 Gravitational Ripper
+	2 HO-20 Rising Sun
+	12 Hand of the Triumvirate
+	2 Harvest the Stars
+	12 Hatewracked Explorer
+	1 Heartforge Savant
+	2 Hearts Beat Fast
+	12 Heat Blast_AVX
+	6 Herald of Darkness
+	12 Herald of Teardrops
+	2 Holdsteady Engine
+	12 Horrific Salvage
+	6 Hurried Scavenger
+	2 I-6 Dragoon
+	12 IG-2 Disassembler
+	6 Ignited Vanguard
+	2 Ignition Engine
+	2 In Dire Straits
+	6 Incineration Expert
+	6 Inexorable Explorer
+	2 Inquisitive Guardian
+	2 Insatiable Abomination
+	12 Interstellar Beacon
+	12 Invincible
+	12 J-7 Freeze Frame
+	6 Jaded Confidant
+	2 Kan, Triumvirate Tactician
+	6 Kan's Faithful
+	12 Kill This Love
+	12 Kilnfire_AVX
+	2 LH-6 Brutality
+	6 Let's Go, Don't Wait
+	6 Life as a Means to a Triumph
+	2 Lifeforge Battery
+	12 Lift Weary Heads from Rest
+	6 Listen and Learn
+	12 Living Atrocity
+	2 Living Beyond Your Years
+	2 Living Planet
+	2 Living Supernova
+	6 Lonely Relic
+	12 Long Lost Cause
+	12 Lost Crew
+	12 Lost Explorer
+	12 Lost and Alone_AVX
+	6 Lust for Life
+	1 Lysander Jal, Ex-Explorer
+	12 Master of Munitions
+	6 Memory of Fatalism
+	1 Mia, Into the Unknown
+	12 Mineral Expert
+	12 Muse's Whims
+	2 Muse's Wrath
+	12 Nebula's Blessing
+	2 Never Enough
+	2 Nihilistic Shock Trooper
+	2 No Good Deed Goes Unpunished
+	12 OH-14 Diamond
+	2 OM-6 Walker
+	6 Observation Field
+	2 Olten's Farewell
+	1 Olten's Heart
+	2 Olten Surveyor
+	12 Olten Tarrasque
+	12 Olten Vipermoa
+	6 Oltenen Paradise-Seeker
+	6 Oltenen Terror
+	6 On Repeat
+	6 One Last Mission
+	2 Operation 433
+	2 Operative BABY
+	2 Operative GINGER
+	2 Operative POSH
+	2 Operative SCARY
+	2 Operative SPORTY
+	1 Otherworldly Convocation
+	6 Outside the Airlock
+	12 P-3 Ambusher
+	6 Postmortem Contemplation
+	12 Precursor's Edge
+	12 Precursor Custodians
+	6 Precursor Gate
+	6 Precursor Omniprocessor
+	12 Predatory Abomination
+	1 Pretty Savage
+	12 Prophetic Prism_AVX
+	12 Propulsion Pack
+	12 Psionic Rebuke
+	12 Realm of the Triumvirate
+	6 Reckless Guardian
+	12 Reconnaissance Expert
+	12 Refute
+	1 Remi Amber, Slyten Specialist // Remi Amber, Unlimited
+	1 Remi Amber, Slyten Specialist // Remi Amber, Unlimited
+	6 Repurposed Custodian
+	6 Rewriter of Flesh
+	12 Ruffled Scrum_AVX
+	12 Rugged Ferocity_AVX
+	2 Sage of Folded Possibilities
+	6 Savagery Evergrowing
+	6 Savant of Cables
+	12 Scanning Module
+	12 Second Wave Explorer
+	1 Sesilius of Wicked Ways
+	12 Shroud in Stars
+	12 Skittering Atrocity
+	2 Skytouch Distorter
+	6 Slyten Analyst
+	6 Slyten Connoisseur
+	12 Slyten Jewel Runner
+	12 Slyten Visions
+	12 So Much to Do
+	12 So Much to See
+	12 Solar Pulse
+	2 Sounds of Silence
+	6 Specialized Constructor
+	2 Spinning Gears Abomination
+	6 Splendor
+	2 Stardust Surveyor
+	6 Starry Abomination
+	6 Start Over
+	6 Stubborn Denial
+	12 Suncolored Dreamer
+	12 Sunder Reality's Peace
+	12 Supernatural Stamina
+	1 Supernova
+	1 Sword of Love and Loathing
+	12 TD-3 Slyten Retriever
+	2 TF-6 Ruler
+	12 TT-20 Salvation
+	1 Take the Throne Above
+	12 The Bliss of Ignorance Dies_AVX
+	2 The Future is Unlimited
+	1 The Hunter of Nebulas
+	2 The Past Is Gone
+	2 The Sin of Hope
+	6 The World Follows After
+	1 This Is Not Our Fate
+	6 Toxic Fumes
+	12 Traveling Duo
+	6 Traverse Boundless Space
+	6 Triumvirate Bellringer
+	2 Triumvirate Inductee
+	12 Triumvirate Infiltrator
+	12 Triumvirate Strategist
+	6 Trying One More Time
+	1 Turn the Record Over
+	12 Twisted Predator_AVX
+	12 Twisted Scinid
+	6 Uncanny Allocator
+	6 Underhanded Deal
+	12 Unstable Prophet
+	12 Unstable Vein
+	12 Upbeat Vanguard
+	12 Vastness of Space
+	12 Vindictive Guardian
+	6 Vivid Crag
+	6 Vivid Creek
+	6 Vivid Grove
+	6 Vivid Marsh
+	6 Vivid Meadow
+	6 Voice of the Universe
+	12 Voltaic Conduit
+	12 WZ-18 Troublemaker
+	12 Wandering Visionary
+	1 Watch Me Burn
+	12 Weaving Reality in a Tapestry
+	2 Words Unspoken
+	6 Yet Life Still Flourishes
+[wildcard(1)]
+	6 1-ST Thankless Companion
+	6 AOSE Extractor
+	15 AOSE Scrapper
+	15 AOSE Valiant
+	15 AOSE Xenocultivator
+	15 A Life's Value
+	15 A Rush of Stillness in the Air
+	7 A Sucker for You
+	6 Abberant Frostbringer
+	6 Abominable Xenoflora
+	15 Abomination's Desire
+	6 Abomination Antithesis
+	6 Abomination Broodmother
+	7 Adamant Engineer
+	6 Adaptive Terrains_AVX
+	6 Alien Formations
+	15 Align with Animus Vox
+	7 All-Devouring Hope
+	6 Alone in the Universe
+	15 Ambush Predator
+	6 An Unfamiliar Swarm
+	6 Ancient Durumderm
+	15 Animus Channeler
+	15 Animus Seer
+	15 Antigravity Agent
+	4 Apex Abomination
+	6 Arisen Psion
+	7 As a Matter of Course
+	6 Ascended Explorer
+	6 Aspiring Guardian
+	7 Ataraxia
+	15 Attuned Lifeform
+	7 Attuned Slayer
+	15 Attuned Specialist
+	6 Bad Romance
+	6 Behavioral Specialist
+	6 Biocultivator
+	4 Biohazard
+	15 Bioluminescent Display
+	6 Bioluminescent Predator
+	6 Bizarre Dreams
+	6 Brand New Species
+	4 Brandy Axel, Combat's Baby
+	15 Brightsouled Guardian
+	7 Bril, the Oltenen Emissary
+	6 Build Monsters from Relics
+	7 Channeling Stone_AVX
+	7 Chaos Is Your Redemption
+	6 Claimed by the Veil_AVX
+	6 Corrupted Guardian
+	6 Cower Before True Power
+	7 Cradle of War
+	4 DC-4 Cutie
+	6 DL-19 Reject
+	6 Dazzle_AVX
+	7 Debaser of Truth
+	6 Defective Abomination
+	6 Deploy the Rovers
+	15 Desperate Android
+	7 Diabolus ex Machina
+	4 Digital Immortality
+	4 Doom
+	6 Doomed Explorer
+	15 Drown in Apathy
+	15 Earlymorning Hart
+	7 Earthly Ambitions
+	7 Eldan Jackson, Last Hope
+	4 Eminent Extraction Engine
+	15 Emotions Like a Rain Cloud
+	6 Enter the Wormhole
+	7 Enthusiastic Double
+	15 Everybody Knows
+	15 Everything Is Going Great
+	15 Exhausted Explorer
+	15 Exit This Mortal Stage
+	6 Expedition Outfitter
+	15 Expose
+	6 Extant Decay
+	7 Extinction Specialist
+	7 Extraction Mercenary
+	6 Eyes in Orbit
+	7 Faith Given Form
+	6 Faithful Guardian
+	7 Fallen Hero
+	7 Fearsome Xenoblossom
+	15 Ferocious Flame
+	6 Field Engineer
+	6 Flenser's Lieutenant
+	6 Fleshwarper
+	7 Forget the World
+	7 Ghastly Progenitor
+	4 Glitch, Drinker of Seas
+	6 Glowspore Grove_AVX
+	15 Gluttonous Empath
+	6 Go Blank
+	15 Granter of Weariness
+	6 Grasp of Darkness
+	6 Gravitational Ripper
+	7 HO-20 Rising Sun
+	6 Hand of the Triumvirate
+	7 Harvest the Stars
+	6 Hatewracked Explorer
+	4 Heartforge Savant
+	7 Hearts Beat Fast
+	6 Heat Blast_AVX
+	15 Herald of Darkness
+	6 Herald of Teardrops
+	7 Holdsteady Engine
+	6 Horrific Salvage
+	15 Hurried Scavenger
+	7 I-6 Dragoon
+	6 IG-2 Disassembler
+	15 Ignited Vanguard
+	7 Ignition Engine
+	7 In Dire Straits
+	15 Incineration Expert
+	15 Inexorable Explorer
+	7 Inquisitive Guardian
+	7 Insatiable Abomination
+	6 Interstellar Beacon
+	6 Invincible
+	6 J-7 Freeze Frame
+	15 Jaded Confidant
+	7 Kan, Triumvirate Tactician
+	15 Kan's Faithful
+	6 Kill This Love
+	6 Kilnfire_AVX
+	7 LH-6 Brutality
+	15 Let's Go, Don't Wait
+	15 Life as a Means to a Triumph
+	7 Lifeforge Battery
+	6 Lift Weary Heads from Rest
+	15 Listen and Learn
+	6 Living Atrocity
+	7 Living Beyond Your Years
+	7 Living Planet
+	7 Living Supernova
+	15 Lonely Relic
+	6 Long Lost Cause
+	6 Lost Crew
+	6 Lost Explorer
+	6 Lost and Alone_AVX
+	15 Lust for Life
+	4 Lysander Jal, Ex-Explorer
+	6 Master of Munitions
+	15 Memory of Fatalism
+	4 Mia, Into the Unknown
+	6 Mineral Expert
+	6 Muse's Whims
+	7 Muse's Wrath
+	6 Nebula's Blessing
+	7 Never Enough
+	7 Nihilistic Shock Trooper
+	7 No Good Deed Goes Unpunished
+	6 OH-14 Diamond
+	7 OM-6 Walker
+	15 Observation Field
+	7 Olten's Farewell
+	4 Olten's Heart
+	7 Olten Surveyor
+	6 Olten Tarrasque
+	6 Olten Vipermoa
+	15 Oltenen Paradise-Seeker
+	15 Oltenen Terror
+	15 On Repeat
+	15 One Last Mission
+	7 Operation 433
+	7 Operative BABY
+	7 Operative GINGER
+	7 Operative POSH
+	7 Operative SCARY
+	7 Operative SPORTY
+	4 Otherworldly Convocation
+	15 Outside the Airlock
+	6 P-3 Ambusher
+	15 Postmortem Contemplation
+	6 Precursor's Edge
+	6 Precursor Custodians
+	15 Precursor Gate
+	15 Precursor Omniprocessor
+	6 Predatory Abomination
+	4 Pretty Savage
+	6 Prophetic Prism_AVX
+	6 Propulsion Pack
+	6 Psionic Rebuke
+	6 Realm of the Triumvirate
+	15 Reckless Guardian
+	6 Reconnaissance Expert
+	6 Refute
+	4 Remi Amber, Slyten Specialist // Remi Amber, Unlimited
+	4 Remi Amber, Slyten Specialist // Remi Amber, Unlimited
+	15 Repurposed Custodian
+	15 Rewriter of Flesh
+	6 Ruffled Scrum_AVX
+	6 Rugged Ferocity_AVX
+	7 Sage of Folded Possibilities
+	15 Savagery Evergrowing
+	15 Savant of Cables
+	6 Scanning Module
+	6 Second Wave Explorer
+	4 Sesilius of Wicked Ways
+	6 Shroud in Stars
+	6 Skittering Atrocity
+	7 Skytouch Distorter
+	15 Slyten Analyst
+	15 Slyten Connoisseur
+	6 Slyten Jewel Runner
+	6 Slyten Visions
+	6 So Much to Do
+	6 So Much to See
+	6 Solar Pulse
+	7 Sounds of Silence
+	15 Specialized Constructor
+	7 Spinning Gears Abomination
+	15 Splendor
+	7 Stardust Surveyor
+	15 Starry Abomination
+	15 Start Over
+	15 Stubborn Denial
+	6 Suncolored Dreamer
+	6 Sunder Reality's Peace
+	6 Supernatural Stamina
+	4 Supernova
+	4 Sword of Love and Loathing
+	6 TD-3 Slyten Retriever
+	7 TF-6 Ruler
+	6 TT-20 Salvation
+	4 Take the Throne Above
+	6 The Bliss of Ignorance Dies_AVX
+	7 The Future is Unlimited
+	4 The Hunter of Nebulas
+	7 The Past Is Gone
+	7 The Sin of Hope
+	15 The World Follows After
+	4 This Is Not Our Fate
+	15 Toxic Fumes
+	6 Traveling Duo
+	15 Traverse Boundless Space
+	15 Triumvirate Bellringer
+	7 Triumvirate Inductee
+	6 Triumvirate Infiltrator
+	6 Triumvirate Strategist
+	15 Trying One More Time
+	4 Turn the Record Over
+	6 Twisted Predator_AVX
+	6 Twisted Scinid
+	15 Uncanny Allocator
+	15 Underhanded Deal
+	6 Unstable Prophet
+	6 Unstable Vein
+	6 Upbeat Vanguard
+	6 Vastness of Space
+	6 Vindictive Guardian
+	15 Vivid Crag
+	15 Vivid Creek
+	15 Vivid Grove
+	15 Vivid Marsh
+	15 Vivid Meadow
+	15 Voice of the Universe
+	6 Voltaic Conduit
+	6 WZ-18 Troublemaker
+	6 Wandering Visionary
+	4 Watch Me Burn
+	6 Weaving Reality in a Tapestry
+	7 Words Unspoken
+	15 Yet Life Still Flourishes

@@ -1,0 +1,2349 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Absorb the Soul",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Aetheric Disarm",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Ancestral Warlord",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Spirit Samurai",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Answer Midnight's Call",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Armored Transports",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Project",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Autumn Moon_RWR",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Bank Job",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Battlesuit Prototyping",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Project",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Blind Sharpshooter",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Brazen Blackguard",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Rogue",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Catalina's Turf",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Caylin Whirlwind",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Clear the Way Home",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Clutch Shot",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Consign to Oblivion",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Consult on Ages Lost",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Corporate War",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment — Project",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Crush All in Their Path",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Custom Armaments",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Project",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Daring Cavalier",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Darken the Sky",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Dawn of the Final Day",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Dead Man's Ambush",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Demolitionist Deviser",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Derail",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Determined Slayer",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Devised Battlesuit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Devised Companions",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Deviser's Cunning",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Devour Memories",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Diligent Analyst",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Artificer Detective",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Dominik's Shack",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Doom Defied",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Douse in Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Dragonwrought Engineer",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Drink Thoughts Like Oil",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Dueling Duo",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Samurai Rogue",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Elderbane Rifle",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Elections Tampering",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Project",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Emmerich, the Negotiator",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Evening Report",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Failing Defenses",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Fashionable Heiress",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Flamearrow Partisan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Archer",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Doorway",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Forsaken Gunfighter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit Rogue",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Fortunate Exorcist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Artificer Cleric",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Fulfill Twisted Dreams",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Galvan Coal Line",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Ganzorig's Domain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Gathering the Gang",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Gilded Gunman",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Gleeful Deviser",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Grifter's Diversion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Grizzled Stoker",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Guardian of Rawthlin",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Guiying's Gambit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Guns Akimbo",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Guns Blazing",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Hartwin, Cunning Lieutenant",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Vampire",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Hellbent Speed",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Project",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Henrike Clevain, Rail Baron",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Hiroto's Refuge",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Honorable Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Hostile Takeover",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Impeccable Aim",
+			"rarity": "common",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Imperial Titan",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Jin Yahui, Sage of War",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Keep the Peace",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Laconic Deputy",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Last Stop",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Lie Dreaming Not Dead",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Lightning Draw",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Lostrite Evoker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Druid",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Lumenbay Flyer Line",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Lumenbay Jailer",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Lurk at Vision's Edge",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Magnificent Raid",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Mari, Dawn Resurgent",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Planeswalker — Mari",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Marinton-Ravengulch Line",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Marinton Occultist",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Druid Wizard",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Marre Guardian",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Marshal Jin Guiying",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Mei Liva, the Exfiltrator",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Planeswalker — Mei",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Mei Liva's Emissary",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Modular Mercenary",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Morningsoul Posse",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Mountain-Western Inventor",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Neblus' Legacy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Night of Falling Stars",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Northern Express Line",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Pained Ascension",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Past Unresolved_RWR",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Propaganda Division",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment — Project",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Prophet of Reclamation",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Ranger's Guile_RWR",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Raven-Cursed Dominik",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Ravengulch Contractor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Rawthlin Market Line",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Recall Forgotten Eons",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Reckless Research",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Project",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Reclaim the World",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Relic Heist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Renegade Spiritualist",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Ride the Storm",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Riga's Workshop",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Riko, the Paragon",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Riko's Academy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Rise from the Harbor",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Rising Temper",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Riv's Safehouse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Saboteur's Panic",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Sammel Wyldjack",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Savvy Saboteur",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Scrapyard Raiders",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Secret-Hoarder",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Severin, Broken Genius",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Shadow of Izumito",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Shatter Mortal Conveyances",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Shattered Prison",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Shroud the World in Doom",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Shrouded Sanctuary_RWR",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Singularity's Grasp",
+			"rarity": "mythic",
+			"mana_cost": "{X}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Snowclearer",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Project",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Sovereign Skies",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Project",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Spark New Life",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{G}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Sparkline Dancer",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Sparkline Harness",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment — Project",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Specialist Saboteur",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Spectacle of Innovation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Project",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Stand Unassailable",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Stay On Guard",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Steam Daimyo's Gauntlets",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Steamcharged Armor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Steamwork Musicians",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct Bard",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Steelclad Investigator",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human Scout Detective",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Stormcannon Testing",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Project",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Strike Down the Usurpers",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Suborn Humanity's Works",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Sullivan's Courier",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Sullivan's Heralds",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Sunrise Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Takumi's Headquarters",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Taste Brilliance",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Technology Transfer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment — Project",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Teeth Without Number",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Tenne, Thief of Destiny",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Tentacled Grip",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Tesqua Cohort",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "The Long Road North",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Thoughtslick Engineer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Artificer",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Throne of the West",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact — Project",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Thuggish Detective",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Rogue Detective",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Thunderwhirl Dancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Tower Over The Sky",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Tracing Leylines",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Transformative Insights",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Traveling Marshal",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Detective",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Treacherous Toss",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Truth Unveiled",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Truthmarked Archivist",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Tsolmon, the Huntress",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Tsubasa's Redoubt",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Twelve Thousand Eyes",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Twinblade Paragon",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Unforget",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Union Rail Strikebreaker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Unorthodox Methods",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Project",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Wandering Doyen",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Monk",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Watch from Above",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Watchful Signalman",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Weary Sentinel",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Witchlock Sniper",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Worlds Colliding",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Worldwide Reach",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Project",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Wrassle",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Xiong Mao, the Protector",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Legendary Planeswalker — Xiong Mao",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Xiu, the Sharpshooter",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Xiu's Escape",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Young Falconer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RWR-files/img/105.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Answer Midnight's Call
+	2 Battlesuit Prototyping
+	2 Brazen Blackguard
+	2 Caylin Whirlwind
+	2 Consign to Oblivion
+	2 Corporate War
+	2 Crush All in Their Path
+	2 Dawn of the Final Day
+	2 Demolitionist Deviser
+	2 Dragonwrought Engineer
+	2 Emmerich, the Negotiator
+	2 Fulfill Twisted Dreams
+	2 Hartwin, Cunning Lieutenant
+	2 Henrike Clevain, Rail Baron
+	2 Imperial Titan
+	2 Jin Yahui, Sage of War
+	1 Last Stop
+	1 Magnificent Raid
+	1 Mari, Dawn Resurgent
+	2 Marshal Jin Guiying
+	1 Mei Liva, the Exfiltrator
+	2 Night of Falling Stars
+	2 Raven-Cursed Dominik
+	2 Reckless Research
+	2 Relic Heist
+	2 Ride the Storm
+	2 Riko, the Paragon
+	2 Sammel Wyldjack
+	2 Severin, Broken Genius
+	2 Shatter Mortal Conveyances
+	2 Shattered Prison
+	2 Shroud the World in Doom
+	2 Shrouded Sanctuary_RWR
+	1 Singularity's Grasp
+	2 Sovereign Skies
+	2 Spark New Life
+	2 Steam Daimyo's Gauntlets
+	2 Steelclad Investigator
+	1 Taste Brilliance
+	1 Tenne, Thief of Destiny
+	1 The Long Road North
+	2 Throne of the West
+	2 Thuggish Detective
+	2 Tower Over The Sky
+	2 Tsolmon, the Huntress
+	2 Twelve Thousand Eyes
+	2 Unforget
+	2 Wandering Doyen
+	1 Worlds Colliding
+	1 Xiong Mao, the Protector
+	2 Xiu, the Sharpshooter
+[uncommon(3)]
+	4 Ancestral Warlord
+	4 Autumn Moon_RWR
+	4 Darken the Sky
+	4 Devised Battlesuit
+	4 Deviser's Cunning
+	4 Douse in Flame
+	4 Drink Thoughts Like Oil
+	4 Dueling Duo
+	4 Elections Tampering
+	4 Fashionable Heiress
+	4 Flamearrow Partisan
+	4 Forgotten Doorway
+	4 Fortunate Exorcist
+	4 Galvan Coal Line
+	4 Gathering the Gang
+	4 Guiying's Gambit
+	4 Guns Akimbo
+	4 Hellbent Speed
+	4 Honorable Enforcer
+	4 Hostile Takeover
+	4 Lie Dreaming Not Dead
+	4 Lumenbay Flyer Line
+	4 Lumenbay Jailer
+	4 Lurk at Vision's Edge
+	4 Marinton-Ravengulch Line
+	4 Mountain-Western Inventor
+	4 Northern Express Line
+	4 Pained Ascension
+	4 Propaganda Division
+	4 Ravengulch Contractor
+	4 Rawthlin Market Line
+	4 Reclaim the World
+	4 Rising Temper
+	4 Spectacle of Innovation
+	4 Stand Unassailable
+	4 Steamcharged Armor
+	4 Stormcannon Testing
+	4 Suborn Humanity's Works
+	4 Sullivan's Heralds
+	4 Sunrise Sentinel
+	4 Technology Transfer
+	4 Thoughtslick Engineer
+	4 Thunderwhirl Dancer
+	4 Truth Unveiled
+	4 Union Rail Strikebreaker
+	4 Unorthodox Methods
+	4 Worldwide Reach
+	4 Xiu's Escape
+[common(7)]
+	8 Absorb the Soul
+	8 Aetheric Disarm
+	8 Armored Transports
+	8 Bank Job
+	8 Blind Sharpshooter
+	8 Catalina's Turf
+	8 Clear the Way Home
+	8 Clutch Shot
+	8 Consult on Ages Lost
+	8 Custom Armaments
+	8 Daring Cavalier
+	8 Dead Man's Ambush
+	8 Derail
+	8 Determined Slayer
+	8 Devised Companions
+	8 Devour Memories
+	8 Diligent Analyst
+	8 Dominik's Shack
+	8 Doom Defied
+	8 Elderbane Rifle
+	8 Evening Report
+	8 Failing Defenses
+	8 Forsaken Gunfighter
+	8 Ganzorig's Domain
+	8 Gilded Gunman
+	8 Gleeful Deviser
+	8 Grifter's Diversion
+	8 Grizzled Stoker
+	8 Guardian of Rawthlin
+	8 Guns Blazing
+	8 Hiroto's Refuge
+	8 Impeccable Aim
+	8 Keep the Peace
+	8 Laconic Deputy
+	8 Lightning Draw
+	8 Lostrite Evoker
+	8 Marinton Occultist
+	8 Marre Guardian
+	8 Mei Liva's Emissary
+	8 Modular Mercenary
+	8 Morningsoul Posse
+	8 Neblus' Legacy
+	8 Past Unresolved_RWR
+	8 Prophet of Reclamation
+	8 Ranger's Guile_RWR
+	8 Recall Forgotten Eons
+	8 Renegade Spiritualist
+	8 Riga's Workshop
+	8 Riko's Academy
+	8 Rise from the Harbor
+	8 Riv's Safehouse
+	8 Saboteur's Panic
+	8 Savvy Saboteur
+	8 Scrapyard Raiders
+	8 Secret-Hoarder
+	8 Shadow of Izumito
+	8 Snowclearer
+	8 Sparkline Dancer
+	8 Sparkline Harness
+	8 Specialist Saboteur
+	8 Stay On Guard
+	8 Steamwork Musicians
+	8 Strike Down the Usurpers
+	8 Sullivan's Courier
+	8 Takumi's Headquarters
+	8 Teeth Without Number
+	8 Tentacled Grip
+	8 Tesqua Cohort
+	8 Tracing Leylines
+	8 Transformative Insights
+	8 Traveling Marshal
+	8 Treacherous Toss
+	8 Truthmarked Archivist
+	8 Tsubasa's Redoubt
+	8 Twinblade Paragon
+	8 Watch from Above
+	8 Watchful Signalman
+	8 Weary Sentinel
+	8 Witchlock Sniper
+	8 Wrassle
+	8 Young Falconer
+[foil(1)]
+	12 Absorb the Soul
+	12 Aetheric Disarm
+	6 Ancestral Warlord
+	2 Answer Midnight's Call
+	12 Armored Transports
+	6 Autumn Moon_RWR
+	12 Bank Job
+	2 Battlesuit Prototyping
+	12 Blind Sharpshooter
+	2 Brazen Blackguard
+	12 Catalina's Turf
+	2 Caylin Whirlwind
+	12 Clear the Way Home
+	12 Clutch Shot
+	2 Consign to Oblivion
+	12 Consult on Ages Lost
+	2 Corporate War
+	2 Crush All in Their Path
+	12 Custom Armaments
+	12 Daring Cavalier
+	6 Darken the Sky
+	2 Dawn of the Final Day
+	12 Dead Man's Ambush
+	2 Demolitionist Deviser
+	12 Derail
+	12 Determined Slayer
+	6 Devised Battlesuit
+	12 Devised Companions
+	6 Deviser's Cunning
+	12 Devour Memories
+	12 Diligent Analyst
+	12 Dominik's Shack
+	12 Doom Defied
+	6 Douse in Flame
+	2 Dragonwrought Engineer
+	6 Drink Thoughts Like Oil
+	6 Dueling Duo
+	12 Elderbane Rifle
+	6 Elections Tampering
+	2 Emmerich, the Negotiator
+	12 Evening Report
+	12 Failing Defenses
+	6 Fashionable Heiress
+	6 Flamearrow Partisan
+	6 Forgotten Doorway
+	12 Forsaken Gunfighter
+	6 Fortunate Exorcist
+	2 Fulfill Twisted Dreams
+	6 Galvan Coal Line
+	12 Ganzorig's Domain
+	6 Gathering the Gang
+	12 Gilded Gunman
+	12 Gleeful Deviser
+	12 Grifter's Diversion
+	12 Grizzled Stoker
+	12 Guardian of Rawthlin
+	6 Guiying's Gambit
+	6 Guns Akimbo
+	12 Guns Blazing
+	2 Hartwin, Cunning Lieutenant
+	6 Hellbent Speed
+	2 Henrike Clevain, Rail Baron
+	12 Hiroto's Refuge
+	6 Honorable Enforcer
+	6 Hostile Takeover
+	12 Impeccable Aim
+	2 Imperial Titan
+	2 Jin Yahui, Sage of War
+	12 Keep the Peace
+	12 Laconic Deputy
+	1 Last Stop
+	6 Lie Dreaming Not Dead
+	12 Lightning Draw
+	12 Lostrite Evoker
+	6 Lumenbay Flyer Line
+	6 Lumenbay Jailer
+	6 Lurk at Vision's Edge
+	1 Magnificent Raid
+	1 Mari, Dawn Resurgent
+	6 Marinton-Ravengulch Line
+	12 Marinton Occultist
+	12 Marre Guardian
+	2 Marshal Jin Guiying
+	1 Mei Liva, the Exfiltrator
+	12 Mei Liva's Emissary
+	12 Modular Mercenary
+	12 Morningsoul Posse
+	6 Mountain-Western Inventor
+	12 Neblus' Legacy
+	2 Night of Falling Stars
+	6 Northern Express Line
+	6 Pained Ascension
+	12 Past Unresolved_RWR
+	6 Propaganda Division
+	12 Prophet of Reclamation
+	12 Ranger's Guile_RWR
+	2 Raven-Cursed Dominik
+	6 Ravengulch Contractor
+	6 Rawthlin Market Line
+	12 Recall Forgotten Eons
+	2 Reckless Research
+	6 Reclaim the World
+	2 Relic Heist
+	12 Renegade Spiritualist
+	2 Ride the Storm
+	12 Riga's Workshop
+	2 Riko, the Paragon
+	12 Riko's Academy
+	12 Rise from the Harbor
+	6 Rising Temper
+	12 Riv's Safehouse
+	12 Saboteur's Panic
+	2 Sammel Wyldjack
+	12 Savvy Saboteur
+	12 Scrapyard Raiders
+	12 Secret-Hoarder
+	2 Severin, Broken Genius
+	12 Shadow of Izumito
+	2 Shatter Mortal Conveyances
+	2 Shattered Prison
+	2 Shroud the World in Doom
+	2 Shrouded Sanctuary_RWR
+	1 Singularity's Grasp
+	12 Snowclearer
+	2 Sovereign Skies
+	2 Spark New Life
+	12 Sparkline Dancer
+	12 Sparkline Harness
+	12 Specialist Saboteur
+	6 Spectacle of Innovation
+	6 Stand Unassailable
+	12 Stay On Guard
+	2 Steam Daimyo's Gauntlets
+	6 Steamcharged Armor
+	12 Steamwork Musicians
+	2 Steelclad Investigator
+	6 Stormcannon Testing
+	12 Strike Down the Usurpers
+	6 Suborn Humanity's Works
+	12 Sullivan's Courier
+	6 Sullivan's Heralds
+	6 Sunrise Sentinel
+	12 Takumi's Headquarters
+	1 Taste Brilliance
+	6 Technology Transfer
+	12 Teeth Without Number
+	1 Tenne, Thief of Destiny
+	12 Tentacled Grip
+	12 Tesqua Cohort
+	1 The Long Road North
+	6 Thoughtslick Engineer
+	2 Throne of the West
+	2 Thuggish Detective
+	6 Thunderwhirl Dancer
+	2 Tower Over The Sky
+	12 Tracing Leylines
+	12 Transformative Insights
+	12 Traveling Marshal
+	12 Treacherous Toss
+	6 Truth Unveiled
+	12 Truthmarked Archivist
+	2 Tsolmon, the Huntress
+	12 Tsubasa's Redoubt
+	2 Twelve Thousand Eyes
+	12 Twinblade Paragon
+	2 Unforget
+	6 Union Rail Strikebreaker
+	6 Unorthodox Methods
+	2 Wandering Doyen
+	12 Watch from Above
+	12 Watchful Signalman
+	12 Weary Sentinel
+	12 Witchlock Sniper
+	1 Worlds Colliding
+	6 Worldwide Reach
+	12 Wrassle
+	1 Xiong Mao, the Protector
+	2 Xiu, the Sharpshooter
+	6 Xiu's Escape
+	12 Young Falconer
+[wildcard(1)]
+	6 Absorb the Soul
+	6 Aetheric Disarm
+	15 Ancestral Warlord
+	7 Answer Midnight's Call
+	6 Armored Transports
+	15 Autumn Moon_RWR
+	6 Bank Job
+	7 Battlesuit Prototyping
+	6 Blind Sharpshooter
+	7 Brazen Blackguard
+	6 Catalina's Turf
+	7 Caylin Whirlwind
+	6 Clear the Way Home
+	6 Clutch Shot
+	7 Consign to Oblivion
+	6 Consult on Ages Lost
+	7 Corporate War
+	7 Crush All in Their Path
+	6 Custom Armaments
+	6 Daring Cavalier
+	15 Darken the Sky
+	7 Dawn of the Final Day
+	6 Dead Man's Ambush
+	7 Demolitionist Deviser
+	6 Derail
+	6 Determined Slayer
+	15 Devised Battlesuit
+	6 Devised Companions
+	15 Deviser's Cunning
+	6 Devour Memories
+	6 Diligent Analyst
+	6 Dominik's Shack
+	6 Doom Defied
+	15 Douse in Flame
+	7 Dragonwrought Engineer
+	15 Drink Thoughts Like Oil
+	15 Dueling Duo
+	6 Elderbane Rifle
+	15 Elections Tampering
+	7 Emmerich, the Negotiator
+	6 Evening Report
+	6 Failing Defenses
+	15 Fashionable Heiress
+	15 Flamearrow Partisan
+	15 Forgotten Doorway
+	6 Forsaken Gunfighter
+	15 Fortunate Exorcist
+	7 Fulfill Twisted Dreams
+	15 Galvan Coal Line
+	6 Ganzorig's Domain
+	15 Gathering the Gang
+	6 Gilded Gunman
+	6 Gleeful Deviser
+	6 Grifter's Diversion
+	6 Grizzled Stoker
+	6 Guardian of Rawthlin
+	15 Guiying's Gambit
+	15 Guns Akimbo
+	6 Guns Blazing
+	7 Hartwin, Cunning Lieutenant
+	15 Hellbent Speed
+	7 Henrike Clevain, Rail Baron
+	6 Hiroto's Refuge
+	15 Honorable Enforcer
+	15 Hostile Takeover
+	6 Impeccable Aim
+	7 Imperial Titan
+	7 Jin Yahui, Sage of War
+	6 Keep the Peace
+	6 Laconic Deputy
+	4 Last Stop
+	15 Lie Dreaming Not Dead
+	6 Lightning Draw
+	6 Lostrite Evoker
+	15 Lumenbay Flyer Line
+	15 Lumenbay Jailer
+	15 Lurk at Vision's Edge
+	4 Magnificent Raid
+	4 Mari, Dawn Resurgent
+	15 Marinton-Ravengulch Line
+	6 Marinton Occultist
+	6 Marre Guardian
+	7 Marshal Jin Guiying
+	4 Mei Liva, the Exfiltrator
+	6 Mei Liva's Emissary
+	6 Modular Mercenary
+	6 Morningsoul Posse
+	15 Mountain-Western Inventor
+	6 Neblus' Legacy
+	7 Night of Falling Stars
+	15 Northern Express Line
+	15 Pained Ascension
+	6 Past Unresolved_RWR
+	15 Propaganda Division
+	6 Prophet of Reclamation
+	6 Ranger's Guile_RWR
+	7 Raven-Cursed Dominik
+	15 Ravengulch Contractor
+	15 Rawthlin Market Line
+	6 Recall Forgotten Eons
+	7 Reckless Research
+	15 Reclaim the World
+	7 Relic Heist
+	6 Renegade Spiritualist
+	7 Ride the Storm
+	6 Riga's Workshop
+	7 Riko, the Paragon
+	6 Riko's Academy
+	6 Rise from the Harbor
+	15 Rising Temper
+	6 Riv's Safehouse
+	6 Saboteur's Panic
+	7 Sammel Wyldjack
+	6 Savvy Saboteur
+	6 Scrapyard Raiders
+	6 Secret-Hoarder
+	7 Severin, Broken Genius
+	6 Shadow of Izumito
+	7 Shatter Mortal Conveyances
+	7 Shattered Prison
+	7 Shroud the World in Doom
+	7 Shrouded Sanctuary_RWR
+	4 Singularity's Grasp
+	6 Snowclearer
+	7 Sovereign Skies
+	7 Spark New Life
+	6 Sparkline Dancer
+	6 Sparkline Harness
+	6 Specialist Saboteur
+	15 Spectacle of Innovation
+	15 Stand Unassailable
+	6 Stay On Guard
+	7 Steam Daimyo's Gauntlets
+	15 Steamcharged Armor
+	6 Steamwork Musicians
+	7 Steelclad Investigator
+	15 Stormcannon Testing
+	6 Strike Down the Usurpers
+	15 Suborn Humanity's Works
+	6 Sullivan's Courier
+	15 Sullivan's Heralds
+	15 Sunrise Sentinel
+	6 Takumi's Headquarters
+	4 Taste Brilliance
+	15 Technology Transfer
+	6 Teeth Without Number
+	4 Tenne, Thief of Destiny
+	6 Tentacled Grip
+	6 Tesqua Cohort
+	4 The Long Road North
+	15 Thoughtslick Engineer
+	7 Throne of the West
+	7 Thuggish Detective
+	15 Thunderwhirl Dancer
+	7 Tower Over The Sky
+	6 Tracing Leylines
+	6 Transformative Insights
+	6 Traveling Marshal
+	6 Treacherous Toss
+	15 Truth Unveiled
+	6 Truthmarked Archivist
+	7 Tsolmon, the Huntress
+	6 Tsubasa's Redoubt
+	7 Twelve Thousand Eyes
+	6 Twinblade Paragon
+	7 Unforget
+	15 Union Rail Strikebreaker
+	15 Unorthodox Methods
+	7 Wandering Doyen
+	6 Watch from Above
+	6 Watchful Signalman
+	6 Weary Sentinel
+	6 Witchlock Sniper
+	4 Worlds Colliding
+	15 Worldwide Reach
+	6 Wrassle
+	4 Xiong Mao, the Protector
+	7 Xiu, the Sharpshooter
+	15 Xiu's Escape
+	6 Young Falconer

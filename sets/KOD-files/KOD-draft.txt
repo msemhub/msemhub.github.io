@@ -1,0 +1,3556 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "A Grave Sentence",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "A Wide World Awaits",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Aerie Warden",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird Warrior",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Aether Runes",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Aether Sculptor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Lizard Artificer",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Aetherspear",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Agrestal Decay",
+			"rarity": "rare",
+			"mana_cost": "{1}{B/G}",
+			"type": "Enchantment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "All-Enduring Mafua",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W/B}{W/B}",
+			"type": "Legendary Planeswalker — Mafua",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Am'atambi, Fable Weaver",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/R}{G}{U}",
+			"type": "Legendary Creature — Spider Bard",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Ambitious Ostrich",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "An'yama, Elder Guardian",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Cat Beast",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Ancient Dominion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Mountain Plains",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Animorph",
+			"rarity": "rare",
+			"mana_cost": "{3}{U/R}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Anomalion",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Anuran Encounters",
+			"rarity": "rare",
+			"mana_cost": "{G/U}{G/U}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Aparodist",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Arcane Refusal",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Art of Evasion",
+			"rarity": "rare",
+			"mana_cost": "{1}{G/W}",
+			"type": "Instant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Artful Chari",
+			"rarity": "rare",
+			"mana_cost": "{G/W}{U}{R}",
+			"type": "Legendary Creature — Frog Shaman",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Aspirant of Legend",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Azure Caterwauler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R/G}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Babyscale Bruiser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Lizard Scout",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Back-Alley Gnoll",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Hyena Warrior",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Badru, the Skyshadow",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/G}{W}{U}",
+			"type": "Legendary Creature — Bird Rogue",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Barbed Cocoon",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Batiga Escort",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Battle for Msuji Highlands",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Berylscale Alaj",
+			"rarity": "rare",
+			"mana_cost": "{W/U}{B}{G}",
+			"type": "Legendary Creature — Lizard Rogue",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Beyond the Boneyard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Blackmoat Bully",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Crocodile Warrior",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Bleak Dominion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Swamp Mountain",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Blind Blackguard",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Creature — Salamander Rogue",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Blisterbug",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Bloodfell Caves",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Bloodied Wulfhound",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Hound",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Blossoming Sands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Bogfume Pact",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Bone Splinters",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Boneyard Mantis",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Bourasan Highguard",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Hound Warrior",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Bourasan Street Watch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Hound Knight",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Brushfire",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Butcher of Shallow Graves",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Crocodile Warlock",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Bwema, the Ruthless",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/R}{W}",
+			"type": "Legendary Creature — Hound Warrior",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Calamity of Yore",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Canid Simulacrum",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Canine Acumen",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Cave Eel",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Fish",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Chimperial Guard",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Ape Warrior",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Chitterrax",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Coastal Dominion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island Swamp",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Coldblood Bender",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Lizard Wizard",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Colony Queen",
+			"rarity": "rare",
+			"mana_cost": "{3}{B/G}{B/G}",
+			"type": "Creature — Insect Noble",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Colony Soldier",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Crashing Mammoth",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Elephant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Croak Tales",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Darkwing Wretch",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Desert Storm",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Desolate Dominion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains Swamp",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Devious Paladin",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Badger Knight",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Disciple of the All-Mother",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Crocodile Shaman",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Dismal Backwater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Distorted Reflection",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Elegant Agility",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Elken Grovetender",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elk Druid",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "End of Days",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Esoteric Egg",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Eternal Deliverance",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Evolving Wilds_KOD",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Explore Forgotten Lands",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U/B}{G}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Fakadeh, Florid Queen",
+			"rarity": "rare",
+			"mana_cost": "{1}{R/W}{U}{B}",
+			"type": "Legendary Creature — Bird Noble",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Fateful Eruption",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Fearless King Shabil",
+			"rarity": "rare",
+			"mana_cost": "{2}{W/B}{R}{G}",
+			"type": "Legendary Creature — Cat Noble",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Feline Furor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Felling Vines",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Fester Swarm",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Fierce Combatant",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Hound Warrior",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Flatboat Artisan",
+			"rarity": "rare",
+			"mana_cost": "{U/R}{U/R}",
+			"type": "Creature — Otter Rogue",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Forest_KOD",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Foul Vulture",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Fractured Illusion",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Frontier Savior",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Fuel the Arcflame",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Fume Whisperer",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Lizard Wizard",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Gentle Giraffe",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Giraffe",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Gharial Bandit",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Crocodile Rogue",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Gleaming River",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Glinthide Hero",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/U}{G/U}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Glory in the Fray",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Gnarled Challenger",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Golden Gust",
+			"rarity": "common",
+			"mana_cost": "{1}{W/U}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Grace of Timber",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Great Migration",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Greypelt Brute",
+			"rarity": "uncommon",
+			"mana_cost": "{R/W}",
+			"type": "Creature — Hound Warrior",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Greypelt Clergy",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Hound Cleric",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Greypelt Emissary",
+			"rarity": "rare",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Creature — Hound Warrior",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Greypelt Initiate",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Hound Knight",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Greypelt Ruffian",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Hound Warrior",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Greypelt Trooper",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Hound Warrior",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Grotto Scarab",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Guide to the Wayward",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/U}",
+			"type": "Creature — Goat Scout",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Headhunter Mantis",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Hembwe, the All-Mother's Hand",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R/G}{W}",
+			"type": "Legendary Planeswalker — Hembwe",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Hemophage Parasite",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Leech",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Herd Matron",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Antelope Cleric",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Hero Slayer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Homestead",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/W}",
+			"type": "Enchantment",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Howling Shieldbreaker",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Hyena Warrior",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Icecap Tortoise",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Turtle Elemental",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Indomitable Rage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Infestation",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Into Waridi Valley",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{U}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Iron Hide",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Island_KOD",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Join the Colony",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Jowly Recruit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Hound Knight",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Joyful Deviant",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}",
+			"type": "Creature — Hyena Rogue",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Jungle Hollow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Kafyabari Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Hyena Warrior",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Kafyabari Patrol",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Lizard Scout",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Kalosi Invoker",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Crocodile Shaman",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Kambiro, the Untrue King",
+			"rarity": "rare",
+			"mana_cost": "{3}{W/B}{W/B}",
+			"type": "Legendary Creature — Lemur Noble",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Kiana, the Unyielding",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/B}{R}{W}",
+			"type": "Legendary Creature — Hound Knight",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "King Shabil's Tournament",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R/W}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Kutaan Incubation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Kwende Peak Huntsman",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Kwende Peak Partisan",
+			"rarity": "common",
+			"mana_cost": "{3}{R/G}",
+			"type": "Creature — Cat Scout",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Kwende Peak Sentry",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Ape Warrior",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Lace-Barred Owl",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Lair Recluse",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Lava Spill",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Lumbering Ox",
+			"rarity": "rare",
+			"mana_cost": "{1}{R/G}{R/G}",
+			"type": "Creature — Ox Warrior",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Lunar Emissary",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Lupine Ferocity",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Lustrous Shrike",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Maddening Thoughts",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Majestic Dominion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp Forest",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Malnourish",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Manglehorn Hunter",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Ox Warrior",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Manic River-Fishers",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U/B}{R}",
+			"type": "Creature — Hyena Warrior Scout",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Mercurial Chameleon",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/U}{G/U}",
+			"type": "Creature — Lizard",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Milunda, Prairie Prince",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Horse Knight",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Mountain_KOD",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Msuji Operative",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/R}{B}",
+			"type": "Creature — Lizard Rogue",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Msuji Sureshot",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W/U}{B}",
+			"type": "Creature — Lizard Archer",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Murky Peat",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Murmuring Typhoon",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Mwiti, Ever-Scarred",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Hound Warrior",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Mythos Scribe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat Bard",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Nectarkin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Nest Matriarch",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Netherform",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Neural Contagion",
+			"rarity": "rare",
+			"mana_cost": "{3}{U/B}{U/B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Nightmare Chanter",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Lizard Bard",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Nip at the Heel",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Olde King Koswe",
+			"rarity": "rare",
+			"mana_cost": "{4}{U/R}{G}{W}",
+			"type": "Legendary Creature — Ape Noble",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "On Marvelous Wings",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Oozing Adder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/G}{R}",
+			"type": "Creature — Snake",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Ophidian Augury",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Ornery Bloom",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Ox of Blood Bend",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ox Warrior",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Pacifism_KOD",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Pact of Dark Power",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Paint Over",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Pakka, the Shadowcloak",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Cat Rogue",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Palace Vanguard",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cat Knight",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Pangoling",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G/U}{G/U}",
+			"type": "Creature — Pangolin Shapeshifter",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Panthera Magus",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cat Shaman",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Parrot Pools",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Pestilent Vermin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Rat Shaman",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Petrify",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Pith Wilt",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}{B}",
+			"type": "Instant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Plains_KOD",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Plaxolotl",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U/R}",
+			"type": "Creature — Salamander",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Primal Dominion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain Forest",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Primation",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Pristine Dominion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island Mountain",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Prodigious Panya",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Mouse Warrior",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Prophetic Prism_KOD",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Provincial Loyalty",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Pungent Beetle",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}",
+			"type": "Creature — Insect",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Punja Stick Trap",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Quill Sniper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Porcupine Warrior",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Rage of the Ravaged",
+			"rarity": "rare",
+			"mana_cost": "{1}{B/R}{B/R}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Raiding Gnoll-Band",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/R}{B/R}",
+			"type": "Creature — Hyena Rogue",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Rainbow Phoenix",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Rains Bring New Life",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Rapacious Instinct",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Ravenous Pack",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Hound",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Resting Wildehound",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Hound",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Reticulate Chemist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Snake Wizard",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Ring-Tailed Ascetic",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Lemur Cleric",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Rip to Shreds",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Rousing Battlehound",
+			"rarity": "common",
+			"mana_cost": "{4}{R/W}",
+			"type": "Creature — Hound Warrior",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Royal Bloodhound",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Hound",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Ruchi, the Effervescent",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G/W}{U}",
+			"type": "Legendary Planeswalker — Ruchi",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Rugged Dominion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest Plains",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Rugged Ferocity",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Rugged Highlands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Ruinous Naga",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Snake Warrior",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Rumble in the Jungle",
+			"rarity": "rare",
+			"mana_cost": "{5}{R/G}{R/G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Runescale Brawler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/U}{W}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Ruthless Mastiff",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Hound",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Sable Hoopoe",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Sage of Storms",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Bird Wizard",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Samaki School",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Fish",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Sandblast",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Savannah Huntsman",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Scale-Crown Archer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Lizard Archer",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Scavenger's Feast",
+			"rarity": "common",
+			"mana_cost": "{1}{W/B}",
+			"type": "Sorcery",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Scoured Barrens",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Serenity of Youth",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Serum Smoker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cat Bard",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Settle the Dust",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Shabil's Absolute Triumph",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Shadow Stalker",
+			"rarity": "common",
+			"mana_cost": "{2}{U/B}",
+			"type": "Creature — Hound Rogue",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Sheltered Diviner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Turtle Wizard",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Shrewd Sikoyo",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}",
+			"type": "Creature — Fish Rogue",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Shrieking Gnoll",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Hyena Warrior",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Siamang Minstrel",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Ape Bard",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Silthway Scuttler",
+			"rarity": "uncommon",
+			"mana_cost": "{B/G}{B/G}",
+			"type": "Creature — Insect",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Silverhorn Tactician",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Ox Warrior",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Simian Sentinel",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Monkey Warrior",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Sirif of the Lord's Legion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R/G}",
+			"type": "Legendary Creature — Cat Knight",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Speckled Outcast",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Hyena Warrior",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Spirit Transfusion",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Squall Serpent",
+			"rarity": "common",
+			"mana_cost": "{2}{U/R}",
+			"type": "Creature — Snake",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Stalwart Dominion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Plains Island",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Student of the Scroll",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Hound Wizard",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Stupefied Piper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Rabbit Bard",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Stygian Condor",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Suncrown Mastodon",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Elephant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Sunwashed Spires",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Swamp_KOD",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Swiftwater Cliffs",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "T'nege, Skyguard",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Bird Knight",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Take the Bait",
+			"rarity": "rare",
+			"mana_cost": "{2}{W/B}{W/B}",
+			"type": "Sorcery",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Tal, Locus Sentry",
+			"rarity": "rare",
+			"mana_cost": "{1}{W/U}",
+			"type": "Legendary Creature — Bird Monk",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Tanager Typhoon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Tarrying Gharial",
+			"rarity": "common",
+			"mana_cost": "{5}{G/U}",
+			"type": "Creature — Crocodile",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Tawny Prophet",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Bird Wizard",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "The Banishment of Seh'a",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/B}{W/B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "The Harnessing of Fire",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "The Sungaru Gang",
+			"rarity": "rare",
+			"mana_cost": "{2}{R/G}{W}{B}",
+			"type": "Legendary Creature — Rabbit Rogue",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Theurgic Flock",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Thornwood Falls",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Thorny Bushwacker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Threshing Sundew",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B/G}{B/G}",
+			"type": "Creature — Plant",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Thrice-Clawed Troika",
+			"rarity": "rare",
+			"mana_cost": "{1}{G/U}{B}{R}",
+			"type": "Legendary Creature — Cat Wizard",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Tranquil Cove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Trials of Ndengo",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Triumphant Tactics",
+			"rarity": "rare",
+			"mana_cost": "{3}{R/W}{R/W}",
+			"type": "Sorcery",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Tropical Grove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Trouble Brewing",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Turf War",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Twilight Ambush",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Twinklewings",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Umala, the Reverent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Hound Knight",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Unbracing Rain",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Unlikeliest Heroes",
+			"rarity": "rare",
+			"mana_cost": "{G/W}",
+			"type": "Creature — Mouse Army",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Vast Savannah",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Verdant Dominion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest Island",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Vibrant Flames",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Virtuorangutan",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ape Bard",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Warhound Shuja",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Legendary Creature — Hound Warrior",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Welkin Tern_KOD",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Will of a Fickle Lord",
+			"rarity": "rare",
+			"mana_cost": "{2}{W/U}{W/U}",
+			"type": "Enchantment",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Wind-Scarred Crag",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Wind Ward",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Windwatch Eagle",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Wings of Liberty",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Wisdom Beyond Age",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Wise Farseer Chini",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Squirrel Scout",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Xiong Mao, Restless Waif",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B/R}{G}",
+			"type": "Legendary Planeswalker — Xiong Mao",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KOD-files/img/242.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 A Wide World Awaits
+	2 Agrestal Decay
+	1 All-Enduring Mafua
+	2 Am'atambi, Fable Weaver
+	2 An'yama, Elder Guardian
+	2 Animorph
+	2 Anomalion
+	2 Anuran Encounters
+	2 Aparodist
+	2 Art of Evasion
+	2 Artful Chari
+	2 Badru, the Skyshadow
+	2 Berylscale Alaj
+	2 Blind Blackguard
+	2 Butcher of Shallow Graves
+	2 Canid Simulacrum
+	2 Colony Queen
+	2 Crashing Mammoth
+	1 End of Days
+	2 Eternal Deliverance
+	2 Fakadeh, Florid Queen
+	2 Fateful Eruption
+	2 Fearless King Shabil
+	2 Flatboat Artisan
+	2 Fractured Illusion
+	2 Frontier Savior
+	2 Fume Whisperer
+	2 Gleaming River
+	2 Greypelt Emissary
+	1 Hembwe, the All-Mother's Hand
+	2 Howling Shieldbreaker
+	2 Kalosi Invoker
+	2 Kambiro, the Untrue King
+	2 Kiana, the Unyielding
+	2 Lumbering Ox
+	2 Lunar Emissary
+	1 Manic River-Fishers
+	2 Mercurial Chameleon
+	1 Msuji Sureshot
+	2 Murky Peat
+	2 Neural Contagion
+	2 Olde King Koswe
+	2 Ophidian Augury
+	1 Pangoling
+	2 Petrify
+	1 Plaxolotl
+	1 Prodigious Panya
+	2 Rage of the Ravaged
+	2 Raiding Gnoll-Band
+	1 Rainbow Phoenix
+	1 Ruchi, the Effervescent
+	2 Ruinous Naga
+	2 Rumble in the Jungle
+	2 Settle the Dust
+	2 Sunwashed Spires
+	2 Take the Bait
+	2 Tal, Locus Sentry
+	2 The Sungaru Gang
+	1 Threshing Sundew
+	2 Thrice-Clawed Troika
+	2 Triumphant Tactics
+	2 Tropical Grove
+	1 Trouble Brewing
+	2 Unlikeliest Heroes
+	2 Vast Savannah
+	1 Warhound Shuja
+	2 Will of a Fickle Lord
+	1 Xiong Mao, Restless Waif
+[uncommon(3)]
+	4 A Grave Sentence
+	4 Aether Sculptor
+	4 Ancient Dominion
+	4 Arcane Refusal
+	4 Azure Caterwauler
+	4 Babyscale Bruiser
+	4 Back-Alley Gnoll
+	4 Batiga Escort
+	4 Battle for Msuji Highlands
+	4 Beyond the Boneyard
+	4 Bleak Dominion
+	4 Bourasan Highguard
+	4 Bourasan Street Watch
+	4 Bwema, the Ruthless
+	4 Calamity of Yore
+	4 Canine Acumen
+	4 Chitterrax
+	4 Coastal Dominion
+	4 Coldblood Bender
+	4 Darkwing Wretch
+	4 Desolate Dominion
+	4 Disciple of the All-Mother
+	4 Distorted Reflection
+	4 Explore Forgotten Lands
+	4 Feline Furor
+	4 Fester Swarm
+	4 Fierce Combatant
+	4 Glinthide Hero
+	4 Greypelt Brute
+	4 Greypelt Initiate
+	4 Grotto Scarab
+	4 Guide to the Wayward
+	4 Hero Slayer
+	4 Homestead
+	4 Into Waridi Valley
+	4 Join the Colony
+	4 Kafyabari Enforcer
+	4 King Shabil's Tournament
+	4 Kutaan Incubation
+	4 Lair Recluse
+	4 Majestic Dominion
+	4 Milunda, Prairie Prince
+	4 Msuji Operative
+	4 Mwiti, Ever-Scarred
+	4 Mythos Scribe
+	4 Nectarkin
+	4 Netherform
+	4 On Marvelous Wings
+	4 Oozing Adder
+	4 Ornery Bloom
+	4 Pact of Dark Power
+	4 Pakka, the Shadowcloak
+	4 Parrot Pools
+	4 Pestilent Vermin
+	4 Pith Wilt
+	4 Primal Dominion
+	4 Primation
+	4 Pristine Dominion
+	4 Provincial Loyalty
+	4 Quill Sniper
+	4 Rains Bring New Life
+	4 Reticulate Chemist
+	4 Rugged Dominion
+	4 Runescale Brawler
+	4 Sage of Storms
+	4 Savannah Huntsman
+	4 Serum Smoker
+	4 Shabil's Absolute Triumph
+	4 Sheltered Diviner
+	4 Shrewd Sikoyo
+	4 Shrieking Gnoll
+	4 Silthway Scuttler
+	4 Sirif of the Lord's Legion
+	4 Stalwart Dominion
+	4 Stygian Condor
+	4 T'nege, Skyguard
+	4 Tanager Typhoon
+	4 Tawny Prophet
+	4 The Banishment of Seh'a
+	4 The Harnessing of Fire
+	4 Theurgic Flock
+	4 Thorny Bushwacker
+	4 Trials of Ndengo
+	4 Twilight Ambush
+	4 Umala, the Reverent
+	4 Verdant Dominion
+	4 Vibrant Flames
+	4 Virtuorangutan
+	4 Wisdom Beyond Age
+	4 Wise Farseer Chini
+[common(7)]
+	8 Aerie Warden
+	8 Aether Runes
+	8 Aetherspear
+	8 Ambitious Ostrich
+	8 Aspirant of Legend
+	8 Barbed Cocoon
+	8 Blackmoat Bully
+	8 Blisterbug
+	8 Bloodfell Caves
+	8 Bloodied Wulfhound
+	8 Blossoming Sands
+	8 Bogfume Pact
+	8 Bone Splinters
+	8 Boneyard Mantis
+	8 Brushfire
+	8 Cave Eel
+	8 Chimperial Guard
+	8 Colony Soldier
+	8 Croak Tales
+	8 Desert Storm
+	8 Devious Paladin
+	8 Dismal Backwater
+	8 Elegant Agility
+	8 Elken Grovetender
+	8 Esoteric Egg
+	8 Evolving Wilds_KOD
+	8 Felling Vines
+	8 Foul Vulture
+	8 Fuel the Arcflame
+	8 Gentle Giraffe
+	8 Gharial Bandit
+	8 Glory in the Fray
+	8 Gnarled Challenger
+	8 Golden Gust
+	8 Grace of Timber
+	8 Great Migration
+	8 Greypelt Clergy
+	8 Greypelt Ruffian
+	8 Greypelt Trooper
+	8 Headhunter Mantis
+	8 Hemophage Parasite
+	8 Herd Matron
+	8 Icecap Tortoise
+	8 Indomitable Rage
+	8 Infestation
+	8 Iron Hide
+	8 Jowly Recruit
+	8 Joyful Deviant
+	8 Jungle Hollow
+	8 Kafyabari Patrol
+	8 Kwende Peak Huntsman
+	8 Kwende Peak Partisan
+	8 Kwende Peak Sentry
+	8 Lace-Barred Owl
+	8 Lava Spill
+	8 Lupine Ferocity
+	8 Lustrous Shrike
+	8 Maddening Thoughts
+	8 Malnourish
+	8 Manglehorn Hunter
+	8 Murmuring Typhoon
+	8 Nest Matriarch
+	8 Nightmare Chanter
+	8 Nip at the Heel
+	8 Ox of Blood Bend
+	8 Pacifism_KOD
+	8 Paint Over
+	8 Palace Vanguard
+	8 Panthera Magus
+	8 Prophetic Prism_KOD
+	8 Pungent Beetle
+	8 Punja Stick Trap
+	8 Rapacious Instinct
+	8 Ravenous Pack
+	8 Resting Wildehound
+	8 Ring-Tailed Ascetic
+	8 Rip to Shreds
+	8 Rousing Battlehound
+	8 Royal Bloodhound
+	8 Rugged Ferocity
+	8 Rugged Highlands
+	8 Ruthless Mastiff
+	8 Sable Hoopoe
+	8 Samaki School
+	8 Sandblast
+	8 Scale-Crown Archer
+	8 Scavenger's Feast
+	8 Scoured Barrens
+	8 Serenity of Youth
+	8 Shadow Stalker
+	8 Siamang Minstrel
+	8 Silverhorn Tactician
+	8 Simian Sentinel
+	8 Speckled Outcast
+	8 Spirit Transfusion
+	8 Squall Serpent
+	8 Student of the Scroll
+	8 Stupefied Piper
+	8 Suncrown Mastodon
+	8 Swiftwater Cliffs
+	8 Tarrying Gharial
+	8 Thornwood Falls
+	8 Tranquil Cove
+	8 Turf War
+	8 Twinklewings
+	8 Unbracing Rain
+	8 Welkin Tern_KOD
+	8 Wind-Scarred Crag
+	8 Wind Ward
+	8 Windwatch Eagle
+	8 Wings of Liberty
+[foil(1)]
+	6 A Grave Sentence
+	1 A Wide World Awaits
+	12 Aerie Warden
+	12 Aether Runes
+	6 Aether Sculptor
+	12 Aetherspear
+	2 Agrestal Decay
+	1 All-Enduring Mafua
+	2 Am'atambi, Fable Weaver
+	12 Ambitious Ostrich
+	2 An'yama, Elder Guardian
+	6 Ancient Dominion
+	2 Animorph
+	2 Anomalion
+	2 Anuran Encounters
+	2 Aparodist
+	6 Arcane Refusal
+	2 Art of Evasion
+	2 Artful Chari
+	12 Aspirant of Legend
+	6 Azure Caterwauler
+	6 Babyscale Bruiser
+	6 Back-Alley Gnoll
+	2 Badru, the Skyshadow
+	12 Barbed Cocoon
+	6 Batiga Escort
+	6 Battle for Msuji Highlands
+	2 Berylscale Alaj
+	6 Beyond the Boneyard
+	12 Blackmoat Bully
+	6 Bleak Dominion
+	2 Blind Blackguard
+	12 Blisterbug
+	12 Bloodfell Caves
+	12 Bloodied Wulfhound
+	12 Blossoming Sands
+	12 Bogfume Pact
+	12 Bone Splinters
+	12 Boneyard Mantis
+	6 Bourasan Highguard
+	6 Bourasan Street Watch
+	12 Brushfire
+	2 Butcher of Shallow Graves
+	6 Bwema, the Ruthless
+	6 Calamity of Yore
+	2 Canid Simulacrum
+	6 Canine Acumen
+	12 Cave Eel
+	12 Chimperial Guard
+	6 Chitterrax
+	6 Coastal Dominion
+	6 Coldblood Bender
+	2 Colony Queen
+	12 Colony Soldier
+	2 Crashing Mammoth
+	12 Croak Tales
+	6 Darkwing Wretch
+	12 Desert Storm
+	6 Desolate Dominion
+	12 Devious Paladin
+	6 Disciple of the All-Mother
+	12 Dismal Backwater
+	6 Distorted Reflection
+	12 Elegant Agility
+	12 Elken Grovetender
+	1 End of Days
+	12 Esoteric Egg
+	2 Eternal Deliverance
+	12 Evolving Wilds_KOD
+	6 Explore Forgotten Lands
+	2 Fakadeh, Florid Queen
+	2 Fateful Eruption
+	2 Fearless King Shabil
+	6 Feline Furor
+	12 Felling Vines
+	6 Fester Swarm
+	6 Fierce Combatant
+	2 Flatboat Artisan
+	12 Foul Vulture
+	2 Fractured Illusion
+	2 Frontier Savior
+	12 Fuel the Arcflame
+	2 Fume Whisperer
+	12 Gentle Giraffe
+	12 Gharial Bandit
+	2 Gleaming River
+	6 Glinthide Hero
+	12 Glory in the Fray
+	12 Gnarled Challenger
+	12 Golden Gust
+	12 Grace of Timber
+	12 Great Migration
+	6 Greypelt Brute
+	12 Greypelt Clergy
+	2 Greypelt Emissary
+	6 Greypelt Initiate
+	12 Greypelt Ruffian
+	12 Greypelt Trooper
+	6 Grotto Scarab
+	6 Guide to the Wayward
+	12 Headhunter Mantis
+	1 Hembwe, the All-Mother's Hand
+	12 Hemophage Parasite
+	12 Herd Matron
+	6 Hero Slayer
+	6 Homestead
+	2 Howling Shieldbreaker
+	12 Icecap Tortoise
+	12 Indomitable Rage
+	12 Infestation
+	6 Into Waridi Valley
+	12 Iron Hide
+	6 Join the Colony
+	12 Jowly Recruit
+	12 Joyful Deviant
+	12 Jungle Hollow
+	6 Kafyabari Enforcer
+	12 Kafyabari Patrol
+	2 Kalosi Invoker
+	2 Kambiro, the Untrue King
+	2 Kiana, the Unyielding
+	6 King Shabil's Tournament
+	6 Kutaan Incubation
+	12 Kwende Peak Huntsman
+	12 Kwende Peak Partisan
+	12 Kwende Peak Sentry
+	12 Lace-Barred Owl
+	6 Lair Recluse
+	12 Lava Spill
+	2 Lumbering Ox
+	2 Lunar Emissary
+	12 Lupine Ferocity
+	12 Lustrous Shrike
+	12 Maddening Thoughts
+	6 Majestic Dominion
+	12 Malnourish
+	12 Manglehorn Hunter
+	1 Manic River-Fishers
+	2 Mercurial Chameleon
+	6 Milunda, Prairie Prince
+	6 Msuji Operative
+	1 Msuji Sureshot
+	2 Murky Peat
+	12 Murmuring Typhoon
+	6 Mwiti, Ever-Scarred
+	6 Mythos Scribe
+	6 Nectarkin
+	12 Nest Matriarch
+	6 Netherform
+	2 Neural Contagion
+	12 Nightmare Chanter
+	12 Nip at the Heel
+	2 Olde King Koswe
+	6 On Marvelous Wings
+	6 Oozing Adder
+	2 Ophidian Augury
+	6 Ornery Bloom
+	12 Ox of Blood Bend
+	12 Pacifism_KOD
+	6 Pact of Dark Power
+	12 Paint Over
+	6 Pakka, the Shadowcloak
+	12 Palace Vanguard
+	1 Pangoling
+	12 Panthera Magus
+	6 Parrot Pools
+	6 Pestilent Vermin
+	2 Petrify
+	6 Pith Wilt
+	1 Plaxolotl
+	6 Primal Dominion
+	6 Primation
+	6 Pristine Dominion
+	1 Prodigious Panya
+	12 Prophetic Prism_KOD
+	6 Provincial Loyalty
+	12 Pungent Beetle
+	12 Punja Stick Trap
+	6 Quill Sniper
+	2 Rage of the Ravaged
+	2 Raiding Gnoll-Band
+	1 Rainbow Phoenix
+	6 Rains Bring New Life
+	12 Rapacious Instinct
+	12 Ravenous Pack
+	12 Resting Wildehound
+	6 Reticulate Chemist
+	12 Ring-Tailed Ascetic
+	12 Rip to Shreds
+	12 Rousing Battlehound
+	12 Royal Bloodhound
+	1 Ruchi, the Effervescent
+	6 Rugged Dominion
+	12 Rugged Ferocity
+	12 Rugged Highlands
+	2 Ruinous Naga
+	2 Rumble in the Jungle
+	6 Runescale Brawler
+	12 Ruthless Mastiff
+	12 Sable Hoopoe
+	6 Sage of Storms
+	12 Samaki School
+	12 Sandblast
+	6 Savannah Huntsman
+	12 Scale-Crown Archer
+	12 Scavenger's Feast
+	12 Scoured Barrens
+	12 Serenity of Youth
+	6 Serum Smoker
+	2 Settle the Dust
+	6 Shabil's Absolute Triumph
+	12 Shadow Stalker
+	6 Sheltered Diviner
+	6 Shrewd Sikoyo
+	6 Shrieking Gnoll
+	12 Siamang Minstrel
+	6 Silthway Scuttler
+	12 Silverhorn Tactician
+	12 Simian Sentinel
+	6 Sirif of the Lord's Legion
+	12 Speckled Outcast
+	12 Spirit Transfusion
+	12 Squall Serpent
+	6 Stalwart Dominion
+	12 Student of the Scroll
+	12 Stupefied Piper
+	6 Stygian Condor
+	12 Suncrown Mastodon
+	2 Sunwashed Spires
+	12 Swiftwater Cliffs
+	6 T'nege, Skyguard
+	2 Take the Bait
+	2 Tal, Locus Sentry
+	6 Tanager Typhoon
+	12 Tarrying Gharial
+	6 Tawny Prophet
+	6 The Banishment of Seh'a
+	6 The Harnessing of Fire
+	2 The Sungaru Gang
+	6 Theurgic Flock
+	12 Thornwood Falls
+	6 Thorny Bushwacker
+	1 Threshing Sundew
+	2 Thrice-Clawed Troika
+	12 Tranquil Cove
+	6 Trials of Ndengo
+	2 Triumphant Tactics
+	2 Tropical Grove
+	1 Trouble Brewing
+	12 Turf War
+	6 Twilight Ambush
+	12 Twinklewings
+	6 Umala, the Reverent
+	12 Unbracing Rain
+	2 Unlikeliest Heroes
+	2 Vast Savannah
+	6 Verdant Dominion
+	6 Vibrant Flames
+	6 Virtuorangutan
+	1 Warhound Shuja
+	12 Welkin Tern_KOD
+	2 Will of a Fickle Lord
+	12 Wind-Scarred Crag
+	12 Wind Ward
+	12 Windwatch Eagle
+	12 Wings of Liberty
+	6 Wisdom Beyond Age
+	6 Wise Farseer Chini
+	1 Xiong Mao, Restless Waif
+[wildcard(1)]
+	15 A Grave Sentence
+	4 A Wide World Awaits
+	6 Aerie Warden
+	6 Aether Runes
+	15 Aether Sculptor
+	6 Aetherspear
+	7 Agrestal Decay
+	4 All-Enduring Mafua
+	7 Am'atambi, Fable Weaver
+	6 Ambitious Ostrich
+	7 An'yama, Elder Guardian
+	15 Ancient Dominion
+	7 Animorph
+	7 Anomalion
+	7 Anuran Encounters
+	7 Aparodist
+	15 Arcane Refusal
+	7 Art of Evasion
+	7 Artful Chari
+	6 Aspirant of Legend
+	15 Azure Caterwauler
+	15 Babyscale Bruiser
+	15 Back-Alley Gnoll
+	7 Badru, the Skyshadow
+	6 Barbed Cocoon
+	15 Batiga Escort
+	15 Battle for Msuji Highlands
+	7 Berylscale Alaj
+	15 Beyond the Boneyard
+	6 Blackmoat Bully
+	15 Bleak Dominion
+	7 Blind Blackguard
+	6 Blisterbug
+	6 Bloodfell Caves
+	6 Bloodied Wulfhound
+	6 Blossoming Sands
+	6 Bogfume Pact
+	6 Bone Splinters
+	6 Boneyard Mantis
+	15 Bourasan Highguard
+	15 Bourasan Street Watch
+	6 Brushfire
+	7 Butcher of Shallow Graves
+	15 Bwema, the Ruthless
+	15 Calamity of Yore
+	7 Canid Simulacrum
+	15 Canine Acumen
+	6 Cave Eel
+	6 Chimperial Guard
+	15 Chitterrax
+	15 Coastal Dominion
+	15 Coldblood Bender
+	7 Colony Queen
+	6 Colony Soldier
+	7 Crashing Mammoth
+	6 Croak Tales
+	15 Darkwing Wretch
+	6 Desert Storm
+	15 Desolate Dominion
+	6 Devious Paladin
+	15 Disciple of the All-Mother
+	6 Dismal Backwater
+	15 Distorted Reflection
+	6 Elegant Agility
+	6 Elken Grovetender
+	4 End of Days
+	6 Esoteric Egg
+	7 Eternal Deliverance
+	6 Evolving Wilds_KOD
+	15 Explore Forgotten Lands
+	7 Fakadeh, Florid Queen
+	7 Fateful Eruption
+	7 Fearless King Shabil
+	15 Feline Furor
+	6 Felling Vines
+	15 Fester Swarm
+	15 Fierce Combatant
+	7 Flatboat Artisan
+	6 Foul Vulture
+	7 Fractured Illusion
+	7 Frontier Savior
+	6 Fuel the Arcflame
+	7 Fume Whisperer
+	6 Gentle Giraffe
+	6 Gharial Bandit
+	7 Gleaming River
+	15 Glinthide Hero
+	6 Glory in the Fray
+	6 Gnarled Challenger
+	6 Golden Gust
+	6 Grace of Timber
+	6 Great Migration
+	15 Greypelt Brute
+	6 Greypelt Clergy
+	7 Greypelt Emissary
+	15 Greypelt Initiate
+	6 Greypelt Ruffian
+	6 Greypelt Trooper
+	15 Grotto Scarab
+	15 Guide to the Wayward
+	6 Headhunter Mantis
+	4 Hembwe, the All-Mother's Hand
+	6 Hemophage Parasite
+	6 Herd Matron
+	15 Hero Slayer
+	15 Homestead
+	7 Howling Shieldbreaker
+	6 Icecap Tortoise
+	6 Indomitable Rage
+	6 Infestation
+	15 Into Waridi Valley
+	6 Iron Hide
+	15 Join the Colony
+	6 Jowly Recruit
+	6 Joyful Deviant
+	6 Jungle Hollow
+	15 Kafyabari Enforcer
+	6 Kafyabari Patrol
+	7 Kalosi Invoker
+	7 Kambiro, the Untrue King
+	7 Kiana, the Unyielding
+	15 King Shabil's Tournament
+	15 Kutaan Incubation
+	6 Kwende Peak Huntsman
+	6 Kwende Peak Partisan
+	6 Kwende Peak Sentry
+	6 Lace-Barred Owl
+	15 Lair Recluse
+	6 Lava Spill
+	7 Lumbering Ox
+	7 Lunar Emissary
+	6 Lupine Ferocity
+	6 Lustrous Shrike
+	6 Maddening Thoughts
+	15 Majestic Dominion
+	6 Malnourish
+	6 Manglehorn Hunter
+	4 Manic River-Fishers
+	7 Mercurial Chameleon
+	15 Milunda, Prairie Prince
+	15 Msuji Operative
+	4 Msuji Sureshot
+	7 Murky Peat
+	6 Murmuring Typhoon
+	15 Mwiti, Ever-Scarred
+	15 Mythos Scribe
+	15 Nectarkin
+	6 Nest Matriarch
+	15 Netherform
+	7 Neural Contagion
+	6 Nightmare Chanter
+	6 Nip at the Heel
+	7 Olde King Koswe
+	15 On Marvelous Wings
+	15 Oozing Adder
+	7 Ophidian Augury
+	15 Ornery Bloom
+	6 Ox of Blood Bend
+	6 Pacifism_KOD
+	15 Pact of Dark Power
+	6 Paint Over
+	15 Pakka, the Shadowcloak
+	6 Palace Vanguard
+	4 Pangoling
+	6 Panthera Magus
+	15 Parrot Pools
+	15 Pestilent Vermin
+	7 Petrify
+	15 Pith Wilt
+	4 Plaxolotl
+	15 Primal Dominion
+	15 Primation
+	15 Pristine Dominion
+	4 Prodigious Panya
+	6 Prophetic Prism_KOD
+	15 Provincial Loyalty
+	6 Pungent Beetle
+	6 Punja Stick Trap
+	15 Quill Sniper
+	7 Rage of the Ravaged
+	7 Raiding Gnoll-Band
+	4 Rainbow Phoenix
+	15 Rains Bring New Life
+	6 Rapacious Instinct
+	6 Ravenous Pack
+	6 Resting Wildehound
+	15 Reticulate Chemist
+	6 Ring-Tailed Ascetic
+	6 Rip to Shreds
+	6 Rousing Battlehound
+	6 Royal Bloodhound
+	4 Ruchi, the Effervescent
+	15 Rugged Dominion
+	6 Rugged Ferocity
+	6 Rugged Highlands
+	7 Ruinous Naga
+	7 Rumble in the Jungle
+	15 Runescale Brawler
+	6 Ruthless Mastiff
+	6 Sable Hoopoe
+	15 Sage of Storms
+	6 Samaki School
+	6 Sandblast
+	15 Savannah Huntsman
+	6 Scale-Crown Archer
+	6 Scavenger's Feast
+	6 Scoured Barrens
+	6 Serenity of Youth
+	15 Serum Smoker
+	7 Settle the Dust
+	15 Shabil's Absolute Triumph
+	6 Shadow Stalker
+	15 Sheltered Diviner
+	15 Shrewd Sikoyo
+	15 Shrieking Gnoll
+	6 Siamang Minstrel
+	15 Silthway Scuttler
+	6 Silverhorn Tactician
+	6 Simian Sentinel
+	15 Sirif of the Lord's Legion
+	6 Speckled Outcast
+	6 Spirit Transfusion
+	6 Squall Serpent
+	15 Stalwart Dominion
+	6 Student of the Scroll
+	6 Stupefied Piper
+	15 Stygian Condor
+	6 Suncrown Mastodon
+	7 Sunwashed Spires
+	6 Swiftwater Cliffs
+	15 T'nege, Skyguard
+	7 Take the Bait
+	7 Tal, Locus Sentry
+	15 Tanager Typhoon
+	6 Tarrying Gharial
+	15 Tawny Prophet
+	15 The Banishment of Seh'a
+	15 The Harnessing of Fire
+	7 The Sungaru Gang
+	15 Theurgic Flock
+	6 Thornwood Falls
+	15 Thorny Bushwacker
+	4 Threshing Sundew
+	7 Thrice-Clawed Troika
+	6 Tranquil Cove
+	15 Trials of Ndengo
+	7 Triumphant Tactics
+	7 Tropical Grove
+	4 Trouble Brewing
+	6 Turf War
+	15 Twilight Ambush
+	6 Twinklewings
+	15 Umala, the Reverent
+	6 Unbracing Rain
+	7 Unlikeliest Heroes
+	7 Vast Savannah
+	15 Verdant Dominion
+	15 Vibrant Flames
+	15 Virtuorangutan
+	4 Warhound Shuja
+	6 Welkin Tern_KOD
+	7 Will of a Fickle Lord
+	6 Wind-Scarred Crag
+	6 Wind Ward
+	6 Windwatch Eagle
+	6 Wings of Liberty
+	15 Wisdom Beyond Age
+	15 Wise Farseer Chini
+	4 Xiong Mao, Restless Waif

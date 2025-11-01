@@ -1,0 +1,4447 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Across the Realms",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Adamantine Servitor",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/291.jpg"
+			}
+		},
+		{
+			"name": "Aedryd, Spectral Liege",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Spirit Knight",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Aelwen, Crimson Battleguard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R/W}{B}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Aether Torrent",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Ageless Lorekeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Gargoyle Wizard",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/292.jpg"
+			}
+		},
+		{
+			"name": "Aith Aera Sentinel",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Aith Aera Wildcaller",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Albin, the Huntmaster",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Alleviate",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Ambition's Crown_SWR",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/293.jpg"
+			}
+		},
+		{
+			"name": "Amelle, Revered Liturgist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Ancestral Glade",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/319.jpg"
+			}
+		},
+		{
+			"name": "Angel of Redemption",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Anthus, Fey Fabulist",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Faerie Bard",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Anthus's Accomplice",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Appropriate",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Aralia and Zanthos",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Dryad Shaman",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Aramas, the Veindrinker",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Vampire Rogue",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Arcane Knowledge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Archmage's Tower",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/320.jpg"
+			}
+		},
+		{
+			"name": "Arleigh, Spellblade Prodigy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Artificer's Familiar",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Bird Construct",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Ashen Procession",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Assassination Contract",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Astute Prophet_SWR",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Aureate Golem",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/294.jpg"
+			}
+		},
+		{
+			"name": "Awoken Animus",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/295.jpg"
+			}
+		},
+		{
+			"name": "Azohn, Familiar Handler",
+			"rarity": "uncommon",
+			"mana_cost": "{G/U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Balefire Conjurer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Azra Wizard",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Baljurn, the Runelord",
+			"rarity": "rare",
+			"mana_cost": "{2}{W/B}{U}",
+			"type": "Legendary Artifact Creature — Giant Artificer",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Barlick, Twyllian Hero",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Legendary Creature — Kithkin Knight",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/342.jpg"
+			}
+		},
+		{
+			"name": "Battlefield Leadership",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Belligerent Mob",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Bloodbelly Glutton",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ogre Warrior",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Bloodbond Ritualist",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Breyga, Frontier Expert_SWR",
+			"rarity": "rare",
+			"mana_cost": "{1}{R/W}{G}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Burning Grasp",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Bustling Marketplace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/321.jpg"
+			}
+		},
+		{
+			"name": "Calenfyr",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/W}{B}",
+			"type": "Legendary Creature — Dryad Avatar",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Call Forth Greatness",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Campaign Recruiter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Carrion Sculptor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Catacomb Dredger",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Ooze",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Ceanne, Shield of Caerdyne",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Chamber of Ceremonies",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/322.jpg"
+			}
+		},
+		{
+			"name": "Charnel Legion",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Skeleton Knight",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Cleave",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Clockwork Artifice",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Cloudpeak Spires",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/323.jpg"
+			}
+		},
+		{
+			"name": "Cloven Forms",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Coincutter Agent",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Coincutter Ambush",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Coincutter Fence",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Combat Expertise",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Command Tower_SWR",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/343.jpg"
+			}
+		},
+		{
+			"name": "Commander's Stronghold",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/324.jpg"
+			}
+		},
+		{
+			"name": "Commanding Princess",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Conjured Acropolis",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/325.jpg"
+			}
+		},
+		{
+			"name": "Convocation Elder",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Corpseshift",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Corym, Gyrewood Ranger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Elf Ranger",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Corym's Elite",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Countercasting",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Critical Focus",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Crypt Tutor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Cyril, Volaris Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}{U}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Czeros, Sky Prowler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Drake",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Daggersworn Elite",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Damaris Alfahir",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U/B}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Damned Deal_SWR",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Daughter of Calenfyr",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dryad Druid",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Dauntless Paladin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Death Knell",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Decisive Onslaught",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Defend the Frontier",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Dragon's Trove",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Dragonfire Sniper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Archer",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Dragonheart Seer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon Wizard",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Dread Cabalist",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Dreadstone Watcher",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Gargoyle",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/296.jpg"
+			}
+		},
+		{
+			"name": "Dreadworld Demon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Drosera and Nerium",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/R}{U}",
+			"type": "Legendary Creature — Faerie Rogue",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Duskbringer Prelate",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Dwarven Tunnelers",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Efflorescence",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Eilwyn, Speaker of Seasons",
+			"rarity": "uncommon",
+			"mana_cost": "{B/G}{U}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Elderin, Crystalline Crusader",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Golem Knight",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/297.jpg"
+			}
+		},
+		{
+			"name": "Elderthrone Castellan",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Elderthrone Shard",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/298.jpg"
+			}
+		},
+		{
+			"name": "Elemental Essence",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/299.jpg"
+			}
+		},
+		{
+			"name": "Emberheart Arcanist",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Empyreal Exemplar",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Angel Construct",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/300.jpg"
+			}
+		},
+		{
+			"name": "Endmire Raven",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Bird",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Endmire Scourer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/301.jpg"
+			}
+		},
+		{
+			"name": "Eryth, Mire Dredger",
+			"rarity": "rare",
+			"mana_cost": "{3}{U/B}{G}",
+			"type": "Legendary Creature — Hag Warlock",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Etched Longspear",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/302.jpg"
+			}
+		},
+		{
+			"name": "Eternal Purpose",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Faerie Infiltration",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Fhinon, the Dirgechanter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/B}{G}",
+			"type": "Legendary Creature — Satyr Bard",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Fiery Explosion",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Fists of Ironwood",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Flurry of Bolts",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Folkvar, Galdurheim Brawler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/W}{R}",
+			"type": "Legendary Creature — Dwarf Warrior",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Forest_SWR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/341.jpg"
+			}
+		},
+		{
+			"name": "Fortune's Favored",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "From the Forest's Heart",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Frontier Trackers",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Frontier Wayfinder",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Fulguration",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Galdurheim Invoker",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dwarf Shaman",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Galdurheim Reaver",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Galdurheim Veteran",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dwarf Knight",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Garragrok, Horde Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}",
+			"type": "Legendary Creature — Ogre Warrior",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Garrison Steward",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Gharsha, Monstrous Quarry",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/R}{G}",
+			"type": "Legendary Creature — Troll Warrior",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Gladesworn Ranger-Captain",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Ranger Knight",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Glamer Artist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Wizard",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Gloamrazer Hydra",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Gloriosa, Glade Regent",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Faerie Wizard",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Gnolf, the Reliquarian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Gorganith, Ruin Maw",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Hydra",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Grand Arcana",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Great Fortitude",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Great Vorganisaath",
+			"rarity": "rare",
+			"mana_cost": "{4}{B/G}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Greater Restoration",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Grim Necromancer",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Grizzled Warpriest",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Dwarf Cleric",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Guardian of Vraniveer",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Elf Scout Knight",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Gwynmere, the Tideshaper",
+			"rarity": "rare",
+			"mana_cost": "{4}{G/U}{W}",
+			"type": "Legendary Creature — Merfolk Wizard",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Gyrewood Diplomacy",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Gyrewood Drakkis",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Lizard Beast",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Gyrewood Invoker",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Haerthach, the Wight King",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}{W}",
+			"type": "Legendary Creature — Spirit Knight",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Hallos, Battlefield Sorcerer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/R}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Hardened Explorer_SWR",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Harkuun Ironwood",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/G}{B}",
+			"type": "Legendary Creature — Minotaur Druid",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Haunted Heirloom",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Spirit Knight",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/303.jpg"
+			}
+		},
+		{
+			"name": "Hearty Provisions",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Hellfire Titan",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Giant Warrior Shaman",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Hellkite Annihilator",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Heretic's Vow",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Hethwyr Warcaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "High Guildmaster",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Hint of Wolfsbane",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Hoarding Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Hollowghast, the Iron Phantom",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/U}{B}",
+			"type": "Legendary Artifact Creature — Spirit Knight",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Hopebearer Pilgrimage",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Impervious Fortifications",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Improved Initiative",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Infernal Immolator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Azra Wizard",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Intrepid Escort",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Invigorating Growth",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Ironpact Marauder",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Orc Rogue",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Ironpact Outrider",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Warrior Scout",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Island_SWR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/338.jpg"
+			}
+		},
+		{
+			"name": "Itheline, Song of Aith Aera",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Elf Shaman",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Izahl, the Stormbringer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W/U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Johanna, Skarvith Marshal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Journeying Drake",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Kalyn, Wildkin Envoy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/U}{G}",
+			"type": "Legendary Creature — Shapeshifter",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Kenleigh, Liege of Redemption_SWR",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Kindled Vengeance",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "King Gjarbrand",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Dwarf Warrior Noble",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Knight-Academic",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard Knight",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Knight of the Cockatrice",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Knotwood Lumberer",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Korephyr, Riddle Sage",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Sphinx Wizard",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Kveta, Lion of Trossingen",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/R}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Lead from the Front",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Legends Remembered_SWR",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Lightning Ripple",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Lord of Sacrilege",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Lorekeeper",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Lurzog, Kytherax's Disciple",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Zombie Wizard",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Lute Tickler",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Bard",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Mageweave Cloak",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/304.jpg"
+			}
+		},
+		{
+			"name": "Magnificent Palace",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/326.jpg"
+			}
+		},
+		{
+			"name": "Margyd, Sanctum Commander",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Margyd's Celebrant",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric Knight",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Marrowcaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Mass Conjuration",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Merciless Blackguard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Merithyl, Nature's Embrace",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Midnight Gate",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/327.jpg"
+			}
+		},
+		{
+			"name": "Mirrorweft Rod",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/305.jpg"
+			}
+		},
+		{
+			"name": "Monstrous Webspinner",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Morwyn, Voice of Vraniveer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Mountain_SWR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/340.jpg"
+			}
+		},
+		{
+			"name": "Mourngash, the Harvester",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Treefolk",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Mystic Conduit",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Mystical Tomb",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/328.jpg"
+			}
+		},
+		{
+			"name": "Necrotic Swathe",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Nherix, the Soulcage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Horror Warlock",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Nightshade Ambusher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Nightspire Contacts",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Nozoya, Primal Muse",
+			"rarity": "rare",
+			"mana_cost": "{R/G}{U}",
+			"type": "Legendary Creature — Elemental Merfolk",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "Oakcudgel Giant",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Oathkeeper's Verdict",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Oriveen, Scroll Savant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Osgaerith Archivist",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Osgaerith Desecrator",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Pack Huntress",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Pallid Herald",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Peerless Skirmisher",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue Knight",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Perfect Solution",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Pestilent Scavenger",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat Rogue",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Petrus, Nightspire Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Pilgrim of Ancient Paths",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Golem Scout",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/306.jpg"
+			}
+		},
+		{
+			"name": "Plains_SWR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/337.jpg"
+			}
+		},
+		{
+			"name": "Pledged Griffin",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Point Blank Shot",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Poisoned Shiv",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Portal Guide",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Practiced Sorcerer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Prophetic Prism_SWR",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/307.jpg"
+			}
+		},
+		{
+			"name": "Pulverize the Intruders",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Qilanor, Woodland Tracker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/R}{G}",
+			"type": "Legendary Creature — Elf Scout",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Radiant Rebuker",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Ranger's Expertise",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Instant",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Razorwing Champion",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Ready for Anything",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Reclaimed by Nature",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Redeployment Orders",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Regal Dragoon",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Rezzal, the Loamfeaster",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Righteous Valor",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Riverrun Invoker",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Rogue's Passage_SWR",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/329.jpg"
+			}
+		},
+		{
+			"name": "Rushwater Hunter",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Rushwater Raider",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Ryleth, Vengeful Shadow",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Elf Assassin",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Ryleth's Commando",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Sacred Summits",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/330.jpg"
+			}
+		},
+		{
+			"name": "Sage of the Hereafter",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Sphinx Wizard",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Sanctification",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Sarrithaz, the Fiendblade",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Azra Warlock",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Scarhide, Arsenal Crafter",
+			"rarity": "uncommon",
+			"mana_cost": "{W/B}{R}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Scion of Sarrithaz",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Seaside Grotto",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/331.jpg"
+			}
+		},
+		{
+			"name": "Seasons of War",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Seeds of Prophecy",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Sequester",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Shae, Master Evoker",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Shambling Soulcatcher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Warlock",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Shatterhold Crusher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Shimmerhide Boots",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/308.jpg"
+			}
+		},
+		{
+			"name": "Siegebreaker Ogre",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Ogre Warrior",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Silvercrest Historian",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Silvercrest Intercessor",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Silvercrest Sentry",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Silvercrest Vanguard",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Human Wizard Knight",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Skali, the Last Sunfeather",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R/G}{W}",
+			"type": "Legendary Creature — Griffin",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/287.jpg"
+			}
+		},
+		{
+			"name": "Skarvith Bannerlord",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Skirmish Tactician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier Advisor",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Skyknight Paragon",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Skyknight Recruit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Slaug, Ironpact Warlord",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Slaug's Warhowler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Knight",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Slayer's Stratagem",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Smoke and Mirrors",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Sneaking In",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Solarian Avenger",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Soul Drain",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Soulbreaker Apprentice",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Sovereign's Ambitions",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Sovereign Stone",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/309.jpg"
+			}
+		},
+		{
+			"name": "Sovereign Will",
+			"rarity": "common",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Sower of Spring",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Scout Druid",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Spectral Chains",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Spelldust Sprite",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Wizard",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Spellwarden Sphinx",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Sphinx Wizard",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Sphere of Sorcery",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/310.jpg"
+			}
+		},
+		{
+			"name": "Spire Runner",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Staff of Possibilities",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/311.jpg"
+			}
+		},
+		{
+			"name": "Stalwart Champion",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Stalwart Seraph",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Stolen Moments",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Storied Harvest",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Stormbreaker's Edge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/312.jpg"
+			}
+		},
+		{
+			"name": "Stormcloud Drake",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Elemental Drake",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Strength of Purpose",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Student of the Wilds",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Sunder History",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Sunfeather's Trust",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Sunlit Meadow",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/332.jpg"
+			}
+		},
+		{
+			"name": "Swamp_SWR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/339.jpg"
+			}
+		},
+		{
+			"name": "Sylshal, Life's Gyre",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Dryad",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Sylvan Chronicler",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Syr Illan, Hethwyr's Spear",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Tactician's Journal",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/313.jpg"
+			}
+		},
+		{
+			"name": "Taleweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Bard",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Tegan, the Sparrowhawk",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Archer",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Temple Servitor",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/314.jpg"
+			}
+		},
+		{
+			"name": "Temporal Vortex",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Test of Loyalty",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Thyra, Winter's Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Tip of the Spear",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Towering Inferno",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Tranquil Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/333.jpg"
+			}
+		},
+		{
+			"name": "Trinket Smuggler",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Trossingen's Finest",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Trossingen Warden",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Trove Keeper",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Turn Back Time",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Tyrant's Breath",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Vaeldan, the Mythkeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/G}{W}",
+			"type": "Legendary Creature — Elf Knight",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/288.jpg"
+			}
+		},
+		{
+			"name": "Vaeldan's Liberator",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Warrior Knight",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Vale Ruins",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/334.jpg"
+			}
+		},
+		{
+			"name": "Vantage Point",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Varagan Packmaster",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Varagan Wyrmling",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Veindrinker's Cabalist",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Vampire Warlock",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Velinor, Storm of Shadows",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Venwyn, the Dragon's Fang",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Dragon Warrior",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Victory Approaches",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Vital Strike",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Vitality Exchange",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Instant",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Vokha, Bloodstone Exarch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Gargoyle Warlock",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Volaris Tideshaper",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Vorganisaath's Flamewaker",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Dragon Wizard",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Vorpaline Edge",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/315.jpg"
+			}
+		},
+		{
+			"name": "Vraniveer's Edge",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/335.jpg"
+			}
+		},
+		{
+			"name": "Vune, the Facemaker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Shapeshifter",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Wand of Endless Spells",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/316.jpg"
+			}
+		},
+		{
+			"name": "Warbringer Titan",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Giant Knight",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Warfront Captain",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Warsworn Angel",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Weight of Nobility",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Wharling Willow",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Whispered Breath",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Wild Invocation",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Wild Pyromancy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Wildbond Aspirant",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Wildkin Grove",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/336.jpg"
+			}
+		},
+		{
+			"name": "Wildsong Summoner",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Wind Stance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Woodcutter's Hatchet",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/317.jpg"
+			}
+		},
+		{
+			"name": "Wyrmfire",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Xedrios, Progenitor Wyrm",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact Creature — Dragon",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/318.jpg"
+			}
+		},
+		{
+			"name": "Xilreth, Dread Servant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/U}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/289.jpg"
+			}
+		},
+		{
+			"name": "Zarthane, Scourge of Galdurheim",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Zorganis, Dread Specter",
+			"rarity": "rare",
+			"mana_cost": "{2}{U/R}{B}",
+			"type": "Legendary Creature — Specter",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SWR-files/img/290.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Adamantine Servitor
+	2 Albin, the Huntmaster
+	2 Anthus, Fey Fabulist
+	2 Anthus's Accomplice
+	2 Aralia and Zanthos
+	2 Aramas, the Veindrinker
+	2 Baljurn, the Runelord
+	2 Bloodbelly Glutton
+	2 Breyga, Frontier Expert_SWR
+	2 Bustling Marketplace
+	2 Calenfyr
+	2 Ceanne, Shield of Caerdyne
+	2 Chamber of Ceremonies
+	2 Cloven Forms
+	2 Commander's Stronghold
+	2 Commanding Princess
+	2 Conjured Acropolis
+	2 Empyreal Exemplar
+	2 Eryth, Mire Dredger
+	2 Eternal Purpose
+	2 Fortune's Favored
+	2 From the Forest's Heart
+	2 Fulguration
+	2 Garragrok, Horde Tyrant
+	2 Garrison Steward
+	2 Gladesworn Ranger-Captain
+	2 Gloamrazer Hydra
+	2 Gloriosa, Glade Regent
+	2 Gorganith, Ruin Maw
+	2 Grand Arcana
+	2 Great Vorganisaath
+	2 Grim Necromancer
+	2 Guardian of Vraniveer
+	2 Gwynmere, the Tideshaper
+	2 Hellfire Titan
+	2 Hellkite Annihilator
+	2 High Guildmaster
+	2 Hint of Wolfsbane
+	2 Impervious Fortifications
+	2 Ironpact Marauder
+	2 Izahl, the Stormbringer
+	2 Kenleigh, Liege of Redemption_SWR
+	2 Kindled Vengeance
+	2 King Gjarbrand
+	2 Korephyr, Riddle Sage
+	2 Kveta, Lion of Trossingen
+	2 Lord of Sacrilege
+	2 Margyd, Sanctum Commander
+	2 Margyd's Celebrant
+	2 Mass Conjuration
+	2 Morwyn, Voice of Vraniveer
+	2 Nightspire Contacts
+	2 Nozoya, Primal Muse
+	2 Osgaerith Archivist
+	2 Pallid Herald
+	2 Peerless Skirmisher
+	2 Ranger's Expertise
+	2 Rezzal, the Loamfeaster
+	2 Rushwater Raider
+	2 Ryleth's Commando
+	2 Sage of the Hereafter
+	2 Sanctification
+	2 Sarrithaz, the Fiendblade
+	2 Seasons of War
+	2 Shae, Master Evoker
+	2 Shimmerhide Boots
+	2 Silvercrest Intercessor
+	2 Silvercrest Vanguard
+	2 Skyknight Paragon
+	2 Slaug, Ironpact Warlord
+	2 Solarian Avenger
+	2 Spelldust Sprite
+	2 Sphere of Sorcery
+	2 Stolen Moments
+	2 Sylshal, Life's Gyre
+	2 Syr Illan, Hethwyr's Spear
+	2 Towering Inferno
+	2 Trinket Smuggler
+	2 Turn Back Time
+	2 Tyrant's Breath
+	2 Vaeldan's Liberator
+	2 Vantage Point
+	2 Veindrinker's Cabalist
+	2 Velinor, Storm of Shadows
+	2 Victory Approaches
+	2 Vitality Exchange
+	2 Vorganisaath's Flamewaker
+	2 Vorpaline Edge
+	2 Wand of Endless Spells
+	2 Warbringer Titan
+	2 Warfront Captain
+	2 Wild Invocation
+	2 Wildbond Aspirant
+	2 Wildsong Summoner
+	2 Xedrios, Progenitor Wyrm
+	2 Zorganis, Dread Specter
+[uncommon(3)]
+	4 Aedryd, Spectral Liege
+	4 Aelwen, Crimson Battleguard
+	4 Aether Torrent
+	4 Ageless Lorekeeper
+	4 Ambition's Crown_SWR
+	4 Amelle, Revered Liturgist
+	4 Ancestral Glade
+	4 Appropriate
+	4 Arcane Knowledge
+	4 Archmage's Tower
+	4 Arleigh, Spellblade Prodigy
+	4 Astute Prophet_SWR
+	4 Azohn, Familiar Handler
+	4 Call Forth Greatness
+	4 Campaign Recruiter
+	4 Carrion Sculptor
+	4 Cloudpeak Spires
+	4 Combat Expertise
+	4 Corym, Gyrewood Ranger
+	4 Countercasting
+	4 Critical Focus
+	4 Crypt Tutor
+	4 Cyril, Volaris Captain
+	4 Czeros, Sky Prowler
+	4 Daggersworn Elite
+	4 Damaris Alfahir
+	4 Dauntless Paladin
+	4 Decisive Onslaught
+	4 Defend the Frontier
+	4 Dragonfire Sniper
+	4 Dragonheart Seer
+	4 Dreadworld Demon
+	4 Drosera and Nerium
+	4 Efflorescence
+	4 Eilwyn, Speaker of Seasons
+	4 Elderin, Crystalline Crusader
+	4 Elemental Essence
+	4 Endmire Scourer
+	4 Fhinon, the Dirgechanter
+	4 Flurry of Bolts
+	4 Folkvar, Galdurheim Brawler
+	4 Galdurheim Reaver
+	4 Gharsha, Monstrous Quarry
+	4 Gnolf, the Reliquarian
+	4 Great Fortitude
+	4 Greater Restoration
+	4 Gyrewood Drakkis
+	4 Haerthach, the Wight King
+	4 Hallos, Battlefield Sorcerer
+	4 Harkuun Ironwood
+	4 Heretic's Vow
+	4 Hethwyr Warcaster
+	4 Hoarding Dragon
+	4 Hollowghast, the Iron Phantom
+	4 Improved Initiative
+	4 Infernal Immolator
+	4 Intrepid Escort
+	4 Itheline, Song of Aith Aera
+	4 Johanna, Skarvith Marshal
+	4 Kalyn, Wildkin Envoy
+	4 Knight-Academic
+	4 Legends Remembered_SWR
+	4 Lightning Ripple
+	4 Lurzog, Kytherax's Disciple
+	4 Mageweave Cloak
+	4 Marrowcaster
+	4 Merciless Blackguard
+	4 Merithyl, Nature's Embrace
+	4 Midnight Gate
+	4 Mirrorweft Rod
+	4 Mourngash, the Harvester
+	4 Mystical Tomb
+	4 Nherix, the Soulcage
+	4 Nightshade Ambusher
+	4 Oathkeeper's Verdict
+	4 Oriveen, Scroll Savant
+	4 Petrus, Nightspire Enforcer
+	4 Pilgrim of Ancient Paths
+	4 Poisoned Shiv
+	4 Practiced Sorcerer
+	4 Pulverize the Intruders
+	4 Qilanor, Woodland Tracker
+	4 Rogue's Passage_SWR
+	4 Ryleth, Vengeful Shadow
+	4 Sacred Summits
+	4 Scarhide, Arsenal Crafter
+	4 Seaside Grotto
+	4 Seeds of Prophecy
+	4 Shambling Soulcatcher
+	4 Shatterhold Crusher
+	4 Skali, the Last Sunfeather
+	4 Skarvith Bannerlord
+	4 Skirmish Tactician
+	4 Slayer's Stratagem
+	4 Sovereign's Ambitions
+	4 Sower of Spring
+	4 Spectral Chains
+	4 Spellwarden Sphinx
+	4 Staff of Possibilities
+	4 Stalwart Seraph
+	4 Storied Harvest
+	4 Stormbreaker's Edge
+	4 Stormcloud Drake
+	4 Student of the Wilds
+	4 Sunfeather's Trust
+	4 Sunlit Meadow
+	4 Taleweaver
+	4 Tegan, the Sparrowhawk
+	4 Thyra, Winter's Warden
+	4 Vaeldan, the Mythkeeper
+	4 Venwyn, the Dragon's Fang
+	4 Vokha, Bloodstone Exarch
+	4 Vune, the Facemaker
+	4 Wharling Willow
+	4 Whispered Breath
+	4 Wild Pyromancy
+	4 Wildkin Grove
+	4 Wind Stance
+	4 Xilreth, Dread Servant
+	4 Zarthane, Scourge of Galdurheim
+[common(7)]
+	8 Across the Realms
+	8 Aith Aera Sentinel
+	8 Aith Aera Wildcaller
+	8 Alleviate
+	8 Angel of Redemption
+	8 Artificer's Familiar
+	8 Ashen Procession
+	8 Assassination Contract
+	8 Aureate Golem
+	8 Awoken Animus
+	8 Balefire Conjurer
+	8 Battlefield Leadership
+	8 Belligerent Mob
+	8 Bloodbond Ritualist
+	8 Burning Grasp
+	8 Catacomb Dredger
+	8 Charnel Legion
+	8 Cleave
+	8 Clockwork Artifice
+	8 Coincutter Agent
+	8 Coincutter Ambush
+	8 Coincutter Fence
+	8 Convocation Elder
+	8 Corpseshift
+	8 Corym's Elite
+	8 Damned Deal_SWR
+	8 Daughter of Calenfyr
+	8 Death Knell
+	8 Dragon's Trove
+	8 Dread Cabalist
+	8 Dreadstone Watcher
+	8 Duskbringer Prelate
+	8 Dwarven Tunnelers
+	8 Elderthrone Castellan
+	8 Elderthrone Shard
+	8 Emberheart Arcanist
+	8 Endmire Raven
+	8 Etched Longspear
+	8 Faerie Infiltration
+	8 Fiery Explosion
+	8 Fists of Ironwood
+	8 Frontier Trackers
+	8 Frontier Wayfinder
+	8 Galdurheim Invoker
+	8 Galdurheim Veteran
+	8 Glamer Artist
+	8 Grizzled Warpriest
+	8 Gyrewood Diplomacy
+	8 Gyrewood Invoker
+	8 Hardened Explorer_SWR
+	8 Haunted Heirloom
+	8 Hearty Provisions
+	8 Hopebearer Pilgrimage
+	8 Invigorating Growth
+	8 Ironpact Outrider
+	8 Journeying Drake
+	8 Knight of the Cockatrice
+	8 Knotwood Lumberer
+	8 Lead from the Front
+	8 Lorekeeper
+	8 Lute Tickler
+	8 Magnificent Palace
+	8 Monstrous Webspinner
+	8 Mystic Conduit
+	8 Necrotic Swathe
+	8 Oakcudgel Giant
+	8 Osgaerith Desecrator
+	8 Pack Huntress
+	8 Perfect Solution
+	8 Pestilent Scavenger
+	8 Pledged Griffin
+	8 Point Blank Shot
+	8 Portal Guide
+	8 Prophetic Prism_SWR
+	8 Radiant Rebuker
+	8 Razorwing Champion
+	8 Ready for Anything
+	8 Reclaimed by Nature
+	8 Redeployment Orders
+	8 Regal Dragoon
+	8 Righteous Valor
+	8 Riverrun Invoker
+	8 Rushwater Hunter
+	8 Scion of Sarrithaz
+	8 Sequester
+	8 Siegebreaker Ogre
+	8 Silvercrest Historian
+	8 Silvercrest Sentry
+	8 Skyknight Recruit
+	8 Slaug's Warhowler
+	8 Smoke and Mirrors
+	8 Sneaking In
+	8 Soul Drain
+	8 Soulbreaker Apprentice
+	8 Sovereign Stone
+	8 Sovereign Will
+	8 Spire Runner
+	8 Stalwart Champion
+	8 Strength of Purpose
+	8 Sunder History
+	8 Sylvan Chronicler
+	8 Tactician's Journal
+	8 Temple Servitor
+	8 Temporal Vortex
+	8 Test of Loyalty
+	8 Tip of the Spear
+	8 Tranquil Shrine
+	8 Trossingen's Finest
+	8 Trossingen Warden
+	8 Trove Keeper
+	8 Vale Ruins
+	8 Varagan Packmaster
+	8 Varagan Wyrmling
+	8 Vital Strike
+	8 Volaris Tideshaper
+	8 Vraniveer's Edge
+	8 Warsworn Angel
+	8 Weight of Nobility
+	8 Woodcutter's Hatchet
+	8 Wyrmfire
+[foil(1)]
+	12 Across the Realms
+	2 Adamantine Servitor
+	6 Aedryd, Spectral Liege
+	6 Aelwen, Crimson Battleguard
+	6 Aether Torrent
+	6 Ageless Lorekeeper
+	12 Aith Aera Sentinel
+	12 Aith Aera Wildcaller
+	2 Albin, the Huntmaster
+	12 Alleviate
+	6 Ambition's Crown_SWR
+	6 Amelle, Revered Liturgist
+	6 Ancestral Glade
+	12 Angel of Redemption
+	2 Anthus, Fey Fabulist
+	2 Anthus's Accomplice
+	6 Appropriate
+	2 Aralia and Zanthos
+	2 Aramas, the Veindrinker
+	6 Arcane Knowledge
+	6 Archmage's Tower
+	6 Arleigh, Spellblade Prodigy
+	12 Artificer's Familiar
+	12 Ashen Procession
+	12 Assassination Contract
+	6 Astute Prophet_SWR
+	12 Aureate Golem
+	12 Awoken Animus
+	6 Azohn, Familiar Handler
+	12 Balefire Conjurer
+	2 Baljurn, the Runelord
+	12 Battlefield Leadership
+	12 Belligerent Mob
+	2 Bloodbelly Glutton
+	12 Bloodbond Ritualist
+	2 Breyga, Frontier Expert_SWR
+	12 Burning Grasp
+	2 Bustling Marketplace
+	2 Calenfyr
+	6 Call Forth Greatness
+	6 Campaign Recruiter
+	6 Carrion Sculptor
+	12 Catacomb Dredger
+	2 Ceanne, Shield of Caerdyne
+	2 Chamber of Ceremonies
+	12 Charnel Legion
+	12 Cleave
+	12 Clockwork Artifice
+	6 Cloudpeak Spires
+	2 Cloven Forms
+	12 Coincutter Agent
+	12 Coincutter Ambush
+	12 Coincutter Fence
+	6 Combat Expertise
+	2 Commander's Stronghold
+	2 Commanding Princess
+	2 Conjured Acropolis
+	12 Convocation Elder
+	12 Corpseshift
+	6 Corym, Gyrewood Ranger
+	12 Corym's Elite
+	6 Countercasting
+	6 Critical Focus
+	6 Crypt Tutor
+	6 Cyril, Volaris Captain
+	6 Czeros, Sky Prowler
+	6 Daggersworn Elite
+	6 Damaris Alfahir
+	12 Damned Deal_SWR
+	12 Daughter of Calenfyr
+	6 Dauntless Paladin
+	12 Death Knell
+	6 Decisive Onslaught
+	6 Defend the Frontier
+	12 Dragon's Trove
+	6 Dragonfire Sniper
+	6 Dragonheart Seer
+	12 Dread Cabalist
+	12 Dreadstone Watcher
+	6 Dreadworld Demon
+	6 Drosera and Nerium
+	12 Duskbringer Prelate
+	12 Dwarven Tunnelers
+	6 Efflorescence
+	6 Eilwyn, Speaker of Seasons
+	6 Elderin, Crystalline Crusader
+	12 Elderthrone Castellan
+	12 Elderthrone Shard
+	6 Elemental Essence
+	12 Emberheart Arcanist
+	2 Empyreal Exemplar
+	12 Endmire Raven
+	6 Endmire Scourer
+	2 Eryth, Mire Dredger
+	12 Etched Longspear
+	2 Eternal Purpose
+	12 Faerie Infiltration
+	6 Fhinon, the Dirgechanter
+	12 Fiery Explosion
+	12 Fists of Ironwood
+	6 Flurry of Bolts
+	6 Folkvar, Galdurheim Brawler
+	2 Fortune's Favored
+	2 From the Forest's Heart
+	12 Frontier Trackers
+	12 Frontier Wayfinder
+	2 Fulguration
+	12 Galdurheim Invoker
+	6 Galdurheim Reaver
+	12 Galdurheim Veteran
+	2 Garragrok, Horde Tyrant
+	2 Garrison Steward
+	6 Gharsha, Monstrous Quarry
+	2 Gladesworn Ranger-Captain
+	12 Glamer Artist
+	2 Gloamrazer Hydra
+	2 Gloriosa, Glade Regent
+	6 Gnolf, the Reliquarian
+	2 Gorganith, Ruin Maw
+	2 Grand Arcana
+	6 Great Fortitude
+	2 Great Vorganisaath
+	6 Greater Restoration
+	2 Grim Necromancer
+	12 Grizzled Warpriest
+	2 Guardian of Vraniveer
+	2 Gwynmere, the Tideshaper
+	12 Gyrewood Diplomacy
+	6 Gyrewood Drakkis
+	12 Gyrewood Invoker
+	6 Haerthach, the Wight King
+	6 Hallos, Battlefield Sorcerer
+	12 Hardened Explorer_SWR
+	6 Harkuun Ironwood
+	12 Haunted Heirloom
+	12 Hearty Provisions
+	2 Hellfire Titan
+	2 Hellkite Annihilator
+	6 Heretic's Vow
+	6 Hethwyr Warcaster
+	2 High Guildmaster
+	2 Hint of Wolfsbane
+	6 Hoarding Dragon
+	6 Hollowghast, the Iron Phantom
+	12 Hopebearer Pilgrimage
+	2 Impervious Fortifications
+	6 Improved Initiative
+	6 Infernal Immolator
+	6 Intrepid Escort
+	12 Invigorating Growth
+	2 Ironpact Marauder
+	12 Ironpact Outrider
+	6 Itheline, Song of Aith Aera
+	2 Izahl, the Stormbringer
+	6 Johanna, Skarvith Marshal
+	12 Journeying Drake
+	6 Kalyn, Wildkin Envoy
+	2 Kenleigh, Liege of Redemption_SWR
+	2 Kindled Vengeance
+	2 King Gjarbrand
+	6 Knight-Academic
+	12 Knight of the Cockatrice
+	12 Knotwood Lumberer
+	2 Korephyr, Riddle Sage
+	2 Kveta, Lion of Trossingen
+	12 Lead from the Front
+	6 Legends Remembered_SWR
+	6 Lightning Ripple
+	2 Lord of Sacrilege
+	12 Lorekeeper
+	6 Lurzog, Kytherax's Disciple
+	12 Lute Tickler
+	6 Mageweave Cloak
+	12 Magnificent Palace
+	2 Margyd, Sanctum Commander
+	2 Margyd's Celebrant
+	6 Marrowcaster
+	2 Mass Conjuration
+	6 Merciless Blackguard
+	6 Merithyl, Nature's Embrace
+	6 Midnight Gate
+	6 Mirrorweft Rod
+	12 Monstrous Webspinner
+	2 Morwyn, Voice of Vraniveer
+	6 Mourngash, the Harvester
+	12 Mystic Conduit
+	6 Mystical Tomb
+	12 Necrotic Swathe
+	6 Nherix, the Soulcage
+	6 Nightshade Ambusher
+	2 Nightspire Contacts
+	2 Nozoya, Primal Muse
+	12 Oakcudgel Giant
+	6 Oathkeeper's Verdict
+	6 Oriveen, Scroll Savant
+	2 Osgaerith Archivist
+	12 Osgaerith Desecrator
+	12 Pack Huntress
+	2 Pallid Herald
+	2 Peerless Skirmisher
+	12 Perfect Solution
+	12 Pestilent Scavenger
+	6 Petrus, Nightspire Enforcer
+	6 Pilgrim of Ancient Paths
+	12 Pledged Griffin
+	12 Point Blank Shot
+	6 Poisoned Shiv
+	12 Portal Guide
+	6 Practiced Sorcerer
+	12 Prophetic Prism_SWR
+	6 Pulverize the Intruders
+	6 Qilanor, Woodland Tracker
+	12 Radiant Rebuker
+	2 Ranger's Expertise
+	12 Razorwing Champion
+	12 Ready for Anything
+	12 Reclaimed by Nature
+	12 Redeployment Orders
+	12 Regal Dragoon
+	2 Rezzal, the Loamfeaster
+	12 Righteous Valor
+	12 Riverrun Invoker
+	6 Rogue's Passage_SWR
+	12 Rushwater Hunter
+	2 Rushwater Raider
+	6 Ryleth, Vengeful Shadow
+	2 Ryleth's Commando
+	6 Sacred Summits
+	2 Sage of the Hereafter
+	2 Sanctification
+	2 Sarrithaz, the Fiendblade
+	6 Scarhide, Arsenal Crafter
+	12 Scion of Sarrithaz
+	6 Seaside Grotto
+	2 Seasons of War
+	6 Seeds of Prophecy
+	12 Sequester
+	2 Shae, Master Evoker
+	6 Shambling Soulcatcher
+	6 Shatterhold Crusher
+	2 Shimmerhide Boots
+	12 Siegebreaker Ogre
+	12 Silvercrest Historian
+	2 Silvercrest Intercessor
+	12 Silvercrest Sentry
+	2 Silvercrest Vanguard
+	6 Skali, the Last Sunfeather
+	6 Skarvith Bannerlord
+	6 Skirmish Tactician
+	2 Skyknight Paragon
+	12 Skyknight Recruit
+	2 Slaug, Ironpact Warlord
+	12 Slaug's Warhowler
+	6 Slayer's Stratagem
+	12 Smoke and Mirrors
+	12 Sneaking In
+	2 Solarian Avenger
+	12 Soul Drain
+	12 Soulbreaker Apprentice
+	6 Sovereign's Ambitions
+	12 Sovereign Stone
+	12 Sovereign Will
+	6 Sower of Spring
+	6 Spectral Chains
+	2 Spelldust Sprite
+	6 Spellwarden Sphinx
+	2 Sphere of Sorcery
+	12 Spire Runner
+	6 Staff of Possibilities
+	12 Stalwart Champion
+	6 Stalwart Seraph
+	2 Stolen Moments
+	6 Storied Harvest
+	6 Stormbreaker's Edge
+	6 Stormcloud Drake
+	12 Strength of Purpose
+	6 Student of the Wilds
+	12 Sunder History
+	6 Sunfeather's Trust
+	6 Sunlit Meadow
+	2 Sylshal, Life's Gyre
+	12 Sylvan Chronicler
+	2 Syr Illan, Hethwyr's Spear
+	12 Tactician's Journal
+	6 Taleweaver
+	6 Tegan, the Sparrowhawk
+	12 Temple Servitor
+	12 Temporal Vortex
+	12 Test of Loyalty
+	6 Thyra, Winter's Warden
+	12 Tip of the Spear
+	2 Towering Inferno
+	12 Tranquil Shrine
+	2 Trinket Smuggler
+	12 Trossingen's Finest
+	12 Trossingen Warden
+	12 Trove Keeper
+	2 Turn Back Time
+	2 Tyrant's Breath
+	6 Vaeldan, the Mythkeeper
+	2 Vaeldan's Liberator
+	12 Vale Ruins
+	2 Vantage Point
+	12 Varagan Packmaster
+	12 Varagan Wyrmling
+	2 Veindrinker's Cabalist
+	2 Velinor, Storm of Shadows
+	6 Venwyn, the Dragon's Fang
+	2 Victory Approaches
+	12 Vital Strike
+	2 Vitality Exchange
+	6 Vokha, Bloodstone Exarch
+	12 Volaris Tideshaper
+	2 Vorganisaath's Flamewaker
+	2 Vorpaline Edge
+	12 Vraniveer's Edge
+	6 Vune, the Facemaker
+	2 Wand of Endless Spells
+	2 Warbringer Titan
+	2 Warfront Captain
+	12 Warsworn Angel
+	12 Weight of Nobility
+	6 Wharling Willow
+	6 Whispered Breath
+	2 Wild Invocation
+	6 Wild Pyromancy
+	2 Wildbond Aspirant
+	6 Wildkin Grove
+	2 Wildsong Summoner
+	6 Wind Stance
+	12 Woodcutter's Hatchet
+	12 Wyrmfire
+	2 Xedrios, Progenitor Wyrm
+	6 Xilreth, Dread Servant
+	6 Zarthane, Scourge of Galdurheim
+	2 Zorganis, Dread Specter
+[wildcard(1)]
+	6 Across the Realms
+	7 Adamantine Servitor
+	15 Aedryd, Spectral Liege
+	15 Aelwen, Crimson Battleguard
+	15 Aether Torrent
+	15 Ageless Lorekeeper
+	6 Aith Aera Sentinel
+	6 Aith Aera Wildcaller
+	7 Albin, the Huntmaster
+	6 Alleviate
+	15 Ambition's Crown_SWR
+	15 Amelle, Revered Liturgist
+	15 Ancestral Glade
+	6 Angel of Redemption
+	7 Anthus, Fey Fabulist
+	7 Anthus's Accomplice
+	15 Appropriate
+	7 Aralia and Zanthos
+	7 Aramas, the Veindrinker
+	15 Arcane Knowledge
+	15 Archmage's Tower
+	15 Arleigh, Spellblade Prodigy
+	6 Artificer's Familiar
+	6 Ashen Procession
+	6 Assassination Contract
+	15 Astute Prophet_SWR
+	6 Aureate Golem
+	6 Awoken Animus
+	15 Azohn, Familiar Handler
+	6 Balefire Conjurer
+	7 Baljurn, the Runelord
+	6 Battlefield Leadership
+	6 Belligerent Mob
+	7 Bloodbelly Glutton
+	6 Bloodbond Ritualist
+	7 Breyga, Frontier Expert_SWR
+	6 Burning Grasp
+	7 Bustling Marketplace
+	7 Calenfyr
+	15 Call Forth Greatness
+	15 Campaign Recruiter
+	15 Carrion Sculptor
+	6 Catacomb Dredger
+	7 Ceanne, Shield of Caerdyne
+	7 Chamber of Ceremonies
+	6 Charnel Legion
+	6 Cleave
+	6 Clockwork Artifice
+	15 Cloudpeak Spires
+	7 Cloven Forms
+	6 Coincutter Agent
+	6 Coincutter Ambush
+	6 Coincutter Fence
+	15 Combat Expertise
+	7 Commander's Stronghold
+	7 Commanding Princess
+	7 Conjured Acropolis
+	6 Convocation Elder
+	6 Corpseshift
+	15 Corym, Gyrewood Ranger
+	6 Corym's Elite
+	15 Countercasting
+	15 Critical Focus
+	15 Crypt Tutor
+	15 Cyril, Volaris Captain
+	15 Czeros, Sky Prowler
+	15 Daggersworn Elite
+	15 Damaris Alfahir
+	6 Damned Deal_SWR
+	6 Daughter of Calenfyr
+	15 Dauntless Paladin
+	6 Death Knell
+	15 Decisive Onslaught
+	15 Defend the Frontier
+	6 Dragon's Trove
+	15 Dragonfire Sniper
+	15 Dragonheart Seer
+	6 Dread Cabalist
+	6 Dreadstone Watcher
+	15 Dreadworld Demon
+	15 Drosera and Nerium
+	6 Duskbringer Prelate
+	6 Dwarven Tunnelers
+	15 Efflorescence
+	15 Eilwyn, Speaker of Seasons
+	15 Elderin, Crystalline Crusader
+	6 Elderthrone Castellan
+	6 Elderthrone Shard
+	15 Elemental Essence
+	6 Emberheart Arcanist
+	7 Empyreal Exemplar
+	6 Endmire Raven
+	15 Endmire Scourer
+	7 Eryth, Mire Dredger
+	6 Etched Longspear
+	7 Eternal Purpose
+	6 Faerie Infiltration
+	15 Fhinon, the Dirgechanter
+	6 Fiery Explosion
+	6 Fists of Ironwood
+	15 Flurry of Bolts
+	15 Folkvar, Galdurheim Brawler
+	7 Fortune's Favored
+	7 From the Forest's Heart
+	6 Frontier Trackers
+	6 Frontier Wayfinder
+	7 Fulguration
+	6 Galdurheim Invoker
+	15 Galdurheim Reaver
+	6 Galdurheim Veteran
+	7 Garragrok, Horde Tyrant
+	7 Garrison Steward
+	15 Gharsha, Monstrous Quarry
+	7 Gladesworn Ranger-Captain
+	6 Glamer Artist
+	7 Gloamrazer Hydra
+	7 Gloriosa, Glade Regent
+	15 Gnolf, the Reliquarian
+	7 Gorganith, Ruin Maw
+	7 Grand Arcana
+	15 Great Fortitude
+	7 Great Vorganisaath
+	15 Greater Restoration
+	7 Grim Necromancer
+	6 Grizzled Warpriest
+	7 Guardian of Vraniveer
+	7 Gwynmere, the Tideshaper
+	6 Gyrewood Diplomacy
+	15 Gyrewood Drakkis
+	6 Gyrewood Invoker
+	15 Haerthach, the Wight King
+	15 Hallos, Battlefield Sorcerer
+	6 Hardened Explorer_SWR
+	15 Harkuun Ironwood
+	6 Haunted Heirloom
+	6 Hearty Provisions
+	7 Hellfire Titan
+	7 Hellkite Annihilator
+	15 Heretic's Vow
+	15 Hethwyr Warcaster
+	7 High Guildmaster
+	7 Hint of Wolfsbane
+	15 Hoarding Dragon
+	15 Hollowghast, the Iron Phantom
+	6 Hopebearer Pilgrimage
+	7 Impervious Fortifications
+	15 Improved Initiative
+	15 Infernal Immolator
+	15 Intrepid Escort
+	6 Invigorating Growth
+	7 Ironpact Marauder
+	6 Ironpact Outrider
+	15 Itheline, Song of Aith Aera
+	7 Izahl, the Stormbringer
+	15 Johanna, Skarvith Marshal
+	6 Journeying Drake
+	15 Kalyn, Wildkin Envoy
+	7 Kenleigh, Liege of Redemption_SWR
+	7 Kindled Vengeance
+	7 King Gjarbrand
+	15 Knight-Academic
+	6 Knight of the Cockatrice
+	6 Knotwood Lumberer
+	7 Korephyr, Riddle Sage
+	7 Kveta, Lion of Trossingen
+	6 Lead from the Front
+	15 Legends Remembered_SWR
+	15 Lightning Ripple
+	7 Lord of Sacrilege
+	6 Lorekeeper
+	15 Lurzog, Kytherax's Disciple
+	6 Lute Tickler
+	15 Mageweave Cloak
+	6 Magnificent Palace
+	7 Margyd, Sanctum Commander
+	7 Margyd's Celebrant
+	15 Marrowcaster
+	7 Mass Conjuration
+	15 Merciless Blackguard
+	15 Merithyl, Nature's Embrace
+	15 Midnight Gate
+	15 Mirrorweft Rod
+	6 Monstrous Webspinner
+	7 Morwyn, Voice of Vraniveer
+	15 Mourngash, the Harvester
+	6 Mystic Conduit
+	15 Mystical Tomb
+	6 Necrotic Swathe
+	15 Nherix, the Soulcage
+	15 Nightshade Ambusher
+	7 Nightspire Contacts
+	7 Nozoya, Primal Muse
+	6 Oakcudgel Giant
+	15 Oathkeeper's Verdict
+	15 Oriveen, Scroll Savant
+	7 Osgaerith Archivist
+	6 Osgaerith Desecrator
+	6 Pack Huntress
+	7 Pallid Herald
+	7 Peerless Skirmisher
+	6 Perfect Solution
+	6 Pestilent Scavenger
+	15 Petrus, Nightspire Enforcer
+	15 Pilgrim of Ancient Paths
+	6 Pledged Griffin
+	6 Point Blank Shot
+	15 Poisoned Shiv
+	6 Portal Guide
+	15 Practiced Sorcerer
+	6 Prophetic Prism_SWR
+	15 Pulverize the Intruders
+	15 Qilanor, Woodland Tracker
+	6 Radiant Rebuker
+	7 Ranger's Expertise
+	6 Razorwing Champion
+	6 Ready for Anything
+	6 Reclaimed by Nature
+	6 Redeployment Orders
+	6 Regal Dragoon
+	7 Rezzal, the Loamfeaster
+	6 Righteous Valor
+	6 Riverrun Invoker
+	15 Rogue's Passage_SWR
+	6 Rushwater Hunter
+	7 Rushwater Raider
+	15 Ryleth, Vengeful Shadow
+	7 Ryleth's Commando
+	15 Sacred Summits
+	7 Sage of the Hereafter
+	7 Sanctification
+	7 Sarrithaz, the Fiendblade
+	15 Scarhide, Arsenal Crafter
+	6 Scion of Sarrithaz
+	15 Seaside Grotto
+	7 Seasons of War
+	15 Seeds of Prophecy
+	6 Sequester
+	7 Shae, Master Evoker
+	15 Shambling Soulcatcher
+	15 Shatterhold Crusher
+	7 Shimmerhide Boots
+	6 Siegebreaker Ogre
+	6 Silvercrest Historian
+	7 Silvercrest Intercessor
+	6 Silvercrest Sentry
+	7 Silvercrest Vanguard
+	15 Skali, the Last Sunfeather
+	15 Skarvith Bannerlord
+	15 Skirmish Tactician
+	7 Skyknight Paragon
+	6 Skyknight Recruit
+	7 Slaug, Ironpact Warlord
+	6 Slaug's Warhowler
+	15 Slayer's Stratagem
+	6 Smoke and Mirrors
+	6 Sneaking In
+	7 Solarian Avenger
+	6 Soul Drain
+	6 Soulbreaker Apprentice
+	15 Sovereign's Ambitions
+	6 Sovereign Stone
+	6 Sovereign Will
+	15 Sower of Spring
+	15 Spectral Chains
+	7 Spelldust Sprite
+	15 Spellwarden Sphinx
+	7 Sphere of Sorcery
+	6 Spire Runner
+	15 Staff of Possibilities
+	6 Stalwart Champion
+	15 Stalwart Seraph
+	7 Stolen Moments
+	15 Storied Harvest
+	15 Stormbreaker's Edge
+	15 Stormcloud Drake
+	6 Strength of Purpose
+	15 Student of the Wilds
+	6 Sunder History
+	15 Sunfeather's Trust
+	15 Sunlit Meadow
+	7 Sylshal, Life's Gyre
+	6 Sylvan Chronicler
+	7 Syr Illan, Hethwyr's Spear
+	6 Tactician's Journal
+	15 Taleweaver
+	15 Tegan, the Sparrowhawk
+	6 Temple Servitor
+	6 Temporal Vortex
+	6 Test of Loyalty
+	15 Thyra, Winter's Warden
+	6 Tip of the Spear
+	7 Towering Inferno
+	6 Tranquil Shrine
+	7 Trinket Smuggler
+	6 Trossingen's Finest
+	6 Trossingen Warden
+	6 Trove Keeper
+	7 Turn Back Time
+	7 Tyrant's Breath
+	15 Vaeldan, the Mythkeeper
+	7 Vaeldan's Liberator
+	6 Vale Ruins
+	7 Vantage Point
+	6 Varagan Packmaster
+	6 Varagan Wyrmling
+	7 Veindrinker's Cabalist
+	7 Velinor, Storm of Shadows
+	15 Venwyn, the Dragon's Fang
+	7 Victory Approaches
+	6 Vital Strike
+	7 Vitality Exchange
+	15 Vokha, Bloodstone Exarch
+	6 Volaris Tideshaper
+	7 Vorganisaath's Flamewaker
+	7 Vorpaline Edge
+	6 Vraniveer's Edge
+	15 Vune, the Facemaker
+	7 Wand of Endless Spells
+	7 Warbringer Titan
+	7 Warfront Captain
+	6 Warsworn Angel
+	6 Weight of Nobility
+	15 Wharling Willow
+	15 Whispered Breath
+	7 Wild Invocation
+	15 Wild Pyromancy
+	7 Wildbond Aspirant
+	15 Wildkin Grove
+	7 Wildsong Summoner
+	15 Wind Stance
+	6 Woodcutter's Hatchet
+	6 Wyrmfire
+	7 Xedrios, Progenitor Wyrm
+	15 Xilreth, Dread Servant
+	15 Zarthane, Scourge of Galdurheim
+	7 Zorganis, Dread Specter

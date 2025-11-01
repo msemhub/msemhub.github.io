@@ -1,0 +1,3933 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abbey of Masquerades",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Abolition of Self",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Absari, Chiresian Herald",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Planeswalker — Absari",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Abyssal Champion",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Demon Knight",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Adept of Rations",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Adept of Signals",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Adept of Transfusions",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Affair of Honor",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Afternoon Ritual",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Alchemical Awakening",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Alchemical Devastation",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Alchemist's Laboratory",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Alder Courtier",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Faerie Druid",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Alluring Rider // Orphaned Nuckalavee",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Faerie Shapeshifter",
+			"collector_number": "158",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/158a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/158a_front.jpg"
+			}
+		},
+		{
+			"name": "Alluring Rider // Orphaned Nuckalavee",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Faerie Shapeshifter",
+			"collector_number": "158",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/158a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/158a_front.jpg"
+			}
+		},
+		{
+			"name": "Amleth, Royal Claimant",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Angel of the Flock",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Animus, Life's Entropy // Animus Reformed",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Creature",
+			"collector_number": "1",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/1a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/1a_front.jpg"
+			}
+		},
+		{
+			"name": "Animus, Life's Entropy // Animus Reformed",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Creature",
+			"collector_number": "1",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/1a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/1a_front.jpg"
+			}
+		},
+		{
+			"name": "Arcane Dredger",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Merfolk Wizard Rogue",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Aristocrat's Gallery",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Artificial Mortality",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Artificial Sanctity",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Augmented Alchemist",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Balsam Elemental",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Barking Irons",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Barton, Keen Surgeon",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Barton's Pocketwatch",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Battle of Burning Cliffs",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Battlefield Preserver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Beachhead Partisan",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Beatrice of the Urchins",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Benthic Alchemist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Birds of Odd Feathers",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Bitter Regrets",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Blade of the First Stare // Scourge of the Last Dance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "118",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/118a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/118a_front.jpg"
+			}
+		},
+		{
+			"name": "Blade of the First Stare // Scourge of the Last Dance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "118",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/118a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/118a_front.jpg"
+			}
+		},
+		{
+			"name": "Blighted Dullahan",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Faerie Knight",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Bloodpact Collector",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Brackish Kelpie",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Faerie Beast",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Branded Contractor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Bristling Baron",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Cabinet of Curiosities",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Capital Towpath",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Carrier Familiar",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Cathette, Rabble Rouser",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Planeswalker — Cathette",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Cattish Bluestocking // Literary Lioness",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "44",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/44a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/44a_front.jpg"
+			}
+		},
+		{
+			"name": "Cattish Bluestocking // Literary Lioness",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "44",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/44a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/44a_front.jpg"
+			}
+		},
+		{
+			"name": "Celestial Scythe",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Chartered Treasury",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Chimeral Plating",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Clocktower Hideout",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Coalition Alchemist",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Coalition Apothecary",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Coalition Grenadier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Coastal Conjurer // Diluvian Diviner",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Merfolk Shaman",
+			"collector_number": "45",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/45a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/45a_front.jpg"
+			}
+		},
+		{
+			"name": "Coastal Conjurer // Diluvian Diviner",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Merfolk Shaman",
+			"collector_number": "45",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/45a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/45a_front.jpg"
+			}
+		},
+		{
+			"name": "Colonial Effigy",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Consumption Catalyst",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Covetous Pixie",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Faerie",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Crimson Masquerade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Cruel Display",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Cursed Marksman",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Cursory Glance_ETF",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Cycle of Scars",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Dabbling Patron",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Daughter of Tempests // Sibling of All Elements",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Shapeshifter",
+			"collector_number": "47",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/47a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/47a_front.jpg"
+			}
+		},
+		{
+			"name": "Daughter of Tempests // Sibling of All Elements",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Shapeshifter",
+			"collector_number": "47",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/47a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/47a_front.jpg"
+			}
+		},
+		{
+			"name": "Death of the Author",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Decayed Bedchamber",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Delegitimize",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Demon of Necessary Evil",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Demon Noble",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Desperate Contrition",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Disharmony of the Spheres",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Disowned Spirit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Dissipate_ETF",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Distant Shores",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Divine Conspiracy",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Domestic Conspirators",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Earthly Principality",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Edulcorate",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Elementary Conclusion",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Endless Betrayals",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Endless Enlightenment",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Estranged Partisan // Sylvan Subversive",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Faerie Soldier",
+			"collector_number": "164",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/164a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/164a_front.jpg"
+			}
+		},
+		{
+			"name": "Estranged Partisan // Sylvan Subversive",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Faerie Soldier",
+			"collector_number": "164",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/164a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/164a_front.jpg"
+			}
+		},
+		{
+			"name": "Eternal Servant",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Ethereal Shepherd",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Ethereal Threshold",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit Wall",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Exchange Scholar",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Failed Martyr // Universal Savior",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "12",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/12a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/12a_front.jpg"
+			}
+		},
+		{
+			"name": "Failed Martyr // Universal Savior",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "12",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/12a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/12a_front.jpg"
+			}
+		},
+		{
+			"name": "Faithful of New Covenants",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Fallen Sluagh",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Faerie Spirit",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Fallen Star's Revelation",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "False Dilemma",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Fellow Traveler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Fetching Gancanagh",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Faerie",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Fiend of Convenience",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon Advisor",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Fine Collection",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Flight of Fancy",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Foggy Town Militia",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Forest_ETF",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Attic",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Futile Faith",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Ghost of Lost Futures",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Glaistig of Wild Hunts",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Faerie Noble",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Gnarled Sprite",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Faerie Shapeshifter",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Grasping Choir",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Griefless Widow",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Grim Sower",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Faerie Druid",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Guided Hand",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Hamlet Witch",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Haunted Manor",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Heir Unapparent",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Hell's Bells",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Hermetic Fisher",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Hopeless Romantic // Hopeless Lanonshee",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "96",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/96a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/96a_front.jpg"
+			}
+		},
+		{
+			"name": "Hopeless Romantic // Hopeless Lanonshee",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "96",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/96a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/96a_front.jpg"
+			}
+		},
+		{
+			"name": "Hotblooded Sorcerer // Inglorious Blaze",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "129",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/129a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/129a_front.jpg"
+			}
+		},
+		{
+			"name": "Hotblooded Sorcerer // Inglorious Blaze",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "129",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/129a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/129a_front.jpg"
+			}
+		},
+		{
+			"name": "Hunter's Distinction",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Hunting Company",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Hyden, Form Philosopher // The Finest Specimen",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "175",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/175a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/175a_front.jpg"
+			}
+		},
+		{
+			"name": "Hyden, Form Philosopher // The Finest Specimen",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "175",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/175a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/175a_front.jpg"
+			}
+		},
+		{
+			"name": "Illuminating Archangel",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Immured Fiend",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Demon Wall",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Imperfect Insight",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Incarnation of Enmity",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Demon Serpent",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Indebted Burglar",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Induced Violence",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Industrial District",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Industrial Revolt",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Inherited Blessing",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Inhuman Grace // Unfallen Angel",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Cleric",
+			"collector_number": "98",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/98a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/98a_front.jpg"
+			}
+		},
+		{
+			"name": "Inhuman Grace // Unfallen Angel",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Cleric",
+			"collector_number": "98",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/98a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/98a_front.jpg"
+			}
+		},
+		{
+			"name": "Involuntary Care",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Island_ETF",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Janneke, Surface Scholar // Janneke, Adept of Mortals",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Merfolk",
+			"collector_number": "60",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/60a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/60a_front.jpg"
+			}
+		},
+		{
+			"name": "Janneke, Surface Scholar // Janneke, Adept of Mortals",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Merfolk",
+			"collector_number": "60",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/60a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/60a_front.jpg"
+			}
+		},
+		{
+			"name": "Joane, Royal Spymaster // The Conquering Wyrm",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "22",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/22a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/22a_front.jpg"
+			}
+		},
+		{
+			"name": "Joane, Royal Spymaster // The Conquering Wyrm",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "22",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/22a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/22a_front.jpg"
+			}
+		},
+		{
+			"name": "Kanvar, Coalition Leader",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Lamplight Explosion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Lamplit Thoroughfare",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Landed Bloodsucker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Noble",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Last of Kin",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Life's Grandeur",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Liminal Medium // Sojourner of the Beyond",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "23",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/23a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/23a_front.jpg"
+			}
+		},
+		{
+			"name": "Liminal Medium // Sojourner of the Beyond",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "23",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/23a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/23a_front.jpg"
+			}
+		},
+		{
+			"name": "Line Officer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Lord Pollux Marglen // Marglen of Undying Oaths",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "100",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/100a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/100a_front.jpg"
+			}
+		},
+		{
+			"name": "Lord Pollux Marglen // Marglen of Undying Oaths",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "100",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/100a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/100a_front.jpg"
+			}
+		},
+		{
+			"name": "Lure Across the Veil",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Madame Deficit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Making Indentures",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Malignance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Masked Servant",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Master of No Quarter",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Mechanical Tactician",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Melancholic Ichor",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Mental Breakthrough",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Mercurial Merfolk",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Merfolk Shapeshifter",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Meticulous Process",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Midnight Dreary",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Midnight Visitor",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Miss Amelia Conway",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Planeswalker — Okus",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Miss Leticia Wormwood",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Planeswalker — Lettie",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Mountain_ETF",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Munitions Explosion",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Mysteries of Life",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Naive Apprentice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Natural Philosopher",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "One Life for Another",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Organic Dreadnought",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Leviathan Chimera",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Orphan Prodigy // Prodigal Spark",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "140",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/140a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/140a_front.jpg"
+			}
+		},
+		{
+			"name": "Orphan Prodigy // Prodigal Spark",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "140",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/140a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/140a_front.jpg"
+			}
+		},
+		{
+			"name": "Out-of-Depth Amateur // Specialist of the Deep",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Merfolk",
+			"collector_number": "141",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/141a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/141a_front.jpg"
+			}
+		},
+		{
+			"name": "Out-of-Depth Amateur // Specialist of the Deep",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Merfolk",
+			"collector_number": "141",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/141a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/141a_front.jpg"
+			}
+		},
+		{
+			"name": "Outsider Alchemist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Overflowing Rage",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Overwhelming Fusillade",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Palace Hall",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Parish Infantry",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Parish Rally",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Plagued Doctor // Beast of Pestilence",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "104",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/104a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/104a_front.jpg"
+			}
+		},
+		{
+			"name": "Plagued Doctor // Beast of Pestilence",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "104",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/104a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/104a_front.jpg"
+			}
+		},
+		{
+			"name": "Plains_ETF",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Point Blank",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Porcelain Peer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Private Library",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Prototype Engine",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Provincial Hamlet",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Provisional Order",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Quicken",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Reconstructed Adept",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Reduce to Essentials",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Regrets of Mortals",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Demon Horror",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Relief Battalion",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Remade Dowager",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Remove from the Equation",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Revolutionary Recruiters",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Riverbed Spirit",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Rogue Groundskeeper",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Rotten Retinue",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Royal Hospital",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Sacred Designs",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Sacred Opus",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Sanitarium Skeleton_ETF",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Scarred Duelist",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Scarring Censure",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Scavenging Soldier // Celestial Conscript",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "33",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/33a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/33a_front.jpg"
+			}
+		},
+		{
+			"name": "Scavenging Soldier // Celestial Conscript",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "33",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/33a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/33a_front.jpg"
+			}
+		},
+		{
+			"name": "Scion of Fiends",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Scribe of Pacts",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Demon Wizard",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Simul, Sylvan Alchemist",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Planeswalker — Simul",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Sleepless Night",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Social Unweaving",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Spare Rifle",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Spirit of Vitriol",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Sprout Hermit // Sprite of Spring",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Faerie Shaman",
+			"collector_number": "183",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/183a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/183a_front.jpg"
+			}
+		},
+		{
+			"name": "Sprout Hermit // Sprite of Spring",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Faerie Shaman",
+			"collector_number": "183",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/183a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/183a_front.jpg"
+			}
+		},
+		{
+			"name": "Stained Reliquary",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Steadfast Infantry",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Straw Intellectual",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Scarecrow Wizard",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Stray Sighthound // Seer of the Hunt",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Hound",
+			"collector_number": "184",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/184a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/184a_front.jpg"
+			}
+		},
+		{
+			"name": "Stray Sighthound // Seer of the Hunt",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Hound",
+			"collector_number": "184",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/184a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/184a_front.jpg"
+			}
+		},
+		{
+			"name": "Street Combat",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Street Raider",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Strider Engine",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Sublime the Soul",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Suitor of Soot",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Swamp_ETF",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Syncretic Partisan",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Taken Under Wing",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Tamer of the Ton",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Noble",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Tempting Tutor",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Tenement Alley",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "The Empty Throne",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "The Great Work Continues",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "The Marquess Devonport // The Branded Usurper",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "137",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/137a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/137a_front.jpg"
+			}
+		},
+		{
+			"name": "The Marquess Devonport // The Branded Usurper",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "137",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/137a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/137a_front.jpg"
+			}
+		},
+		{
+			"name": "The Struggle for Death",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Titan of Fallen Stars",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Faerie Angel",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Trainer of the Abyss",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Troubled Heir",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Two-Faced Aristocrat // Unfettered Noble",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "110",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/110a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/110a_front.jpg"
+			}
+		},
+		{
+			"name": "Two-Faced Aristocrat // Unfettered Noble",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "110",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/110a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/110a_front.jpg"
+			}
+		},
+		{
+			"name": "Unbreakable Oath",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Uncertain Times",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Unfounded Identity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Ungoverned Sneak // Unbound Spirit",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "76",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/76a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/76a_front.jpg"
+			}
+		},
+		{
+			"name": "Ungoverned Sneak // Unbound Spirit",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "76",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/76a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/76a_front.jpg"
+			}
+		},
+		{
+			"name": "Unite the Concordance",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "University Archive",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Unmarked Vials",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Unsolved Disappearance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Unwilling Pawn // Power of Redemption",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "38",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/38a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/38a_front.jpg"
+			}
+		},
+		{
+			"name": "Unwilling Pawn // Power of Redemption",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "38",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/ETF-files/img/38a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/38a_front.jpg"
+			}
+		},
+		{
+			"name": "Urisk's Invitation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Verdurous Growth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Veteran's Study",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Virtue of Propriety",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Virtuoso's Parlor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Volunteer Sentry",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Vortex Vitae",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Walled Garden",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Waltz of the Fallen",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Weathered Wharf",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Weeping Failure",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Ooze Chimera",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Witch of Life's Nature",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Witch of the Veil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Wormwood's Agent",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Xenocrata, Usurper of Tides",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Planeswalker — Xenocrata",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ETF-files/img/211.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Abbey of Masquerades
+	2 Absari, Chiresian Herald
+	2 Amleth, Royal Claimant
+	2 Animus, Life's Entropy // Animus Reformed
+	2 Animus, Life's Entropy // Animus Reformed
+	2 Artificial Sanctity
+	2 Barton, Keen Surgeon
+	2 Barton's Pocketwatch
+	2 Beatrice of the Urchins
+	2 Birds of Odd Feathers
+	2 Cabinet of Curiosities
+	2 Cathette, Rabble Rouser
+	2 Cursed Marksman
+	2 Demon of Necessary Evil
+	2 Desperate Contrition
+	2 Disharmony of the Spheres
+	2 Divine Conspiracy
+	2 Earthly Principality
+	2 Elementary Conclusion
+	2 Endless Betrayals
+	2 Endless Enlightenment
+	2 Ethereal Shepherd
+	2 Fallen Star's Revelation
+	2 Fetching Gancanagh
+	2 Forgotten Tyrant
+	2 Glaistig of Wild Hunts
+	2 Grim Sower
+	2 Heir Unapparent
+	2 Hyden, Form Philosopher // The Finest Specimen
+	2 Hyden, Form Philosopher // The Finest Specimen
+	2 Janneke, Surface Scholar // Janneke, Adept of Mortals
+	2 Janneke, Surface Scholar // Janneke, Adept of Mortals
+	2 Joane, Royal Spymaster // The Conquering Wyrm
+	2 Joane, Royal Spymaster // The Conquering Wyrm
+	2 Kanvar, Coalition Leader
+	2 Life's Grandeur
+	2 Line Officer
+	2 Lord Pollux Marglen // Marglen of Undying Oaths
+	2 Lord Pollux Marglen // Marglen of Undying Oaths
+	2 Master of No Quarter
+	2 Miss Amelia Conway
+	2 Miss Leticia Wormwood
+	2 Natural Philosopher
+	2 Organic Dreadnought
+	2 Quicken
+	2 Reconstructed Adept
+	2 Regrets of Mortals
+	2 Sacred Opus
+	2 Simul, Sylvan Alchemist
+	2 Spirit of Vitriol
+	2 Street Combat
+	2 Tempting Tutor
+	2 The Empty Throne
+	2 The Great Work Continues
+	2 The Marquess Devonport // The Branded Usurper
+	2 The Marquess Devonport // The Branded Usurper
+	2 Titan of Fallen Stars
+	2 Weeping Failure
+	2 Xenocrata, Usurper of Tides
+[uncommon(3)]
+	4 Abolition of Self
+	4 Adept of Rations
+	4 Adept of Signals
+	4 Adept of Transfusions
+	4 Alchemist's Laboratory
+	4 Alluring Rider // Orphaned Nuckalavee
+	4 Alluring Rider // Orphaned Nuckalavee
+	4 Angel of the Flock
+	4 Barking Irons
+	4 Battle of Burning Cliffs
+	4 Battlefield Preserver
+	4 Beachhead Partisan
+	4 Benthic Alchemist
+	4 Blade of the First Stare // Scourge of the Last Dance
+	4 Blade of the First Stare // Scourge of the Last Dance
+	4 Branded Contractor
+	4 Bristling Baron
+	4 Capital Towpath
+	4 Cattish Bluestocking // Literary Lioness
+	4 Cattish Bluestocking // Literary Lioness
+	4 Chimeral Plating
+	4 Coalition Grenadier
+	4 Consumption Catalyst
+	4 Covetous Pixie
+	4 Crimson Masquerade
+	4 Cycle of Scars
+	4 Daughter of Tempests // Sibling of All Elements
+	4 Daughter of Tempests // Sibling of All Elements
+	4 Death of the Author
+	4 Failed Martyr // Universal Savior
+	4 Failed Martyr // Universal Savior
+	4 Fallen Sluagh
+	4 Fellow Traveler
+	4 Fiend of Convenience
+	4 Foggy Town Militia
+	4 Ghost of Lost Futures
+	4 Hamlet Witch
+	4 Haunted Manor
+	4 Hell's Bells
+	4 Hermetic Fisher
+	4 Hopeless Romantic // Hopeless Lanonshee
+	4 Hopeless Romantic // Hopeless Lanonshee
+	4 Hunting Company
+	4 Illuminating Archangel
+	4 Imperfect Insight
+	4 Incarnation of Enmity
+	4 Industrial District
+	4 Lamplit Thoroughfare
+	4 Madame Deficit
+	4 Making Indentures
+	4 Malignance
+	4 Masked Servant
+	4 Mechanical Tactician
+	4 Mental Breakthrough
+	4 Midnight Dreary
+	4 Mysteries of Life
+	4 Naive Apprentice
+	4 One Life for Another
+	4 Orphan Prodigy // Prodigal Spark
+	4 Orphan Prodigy // Prodigal Spark
+	4 Overwhelming Fusillade
+	4 Porcelain Peer
+	4 Provincial Hamlet
+	4 Provisional Order
+	4 Reduce to Essentials
+	4 Royal Hospital
+	4 Sacred Designs
+	4 Scion of Fiends
+	4 Sleepless Night
+	4 Sprout Hermit // Sprite of Spring
+	4 Sprout Hermit // Sprite of Spring
+	4 Stained Reliquary
+	4 Straw Intellectual
+	4 Street Raider
+	4 Suitor of Soot
+	4 Tenement Alley
+	4 The Struggle for Death
+	4 Troubled Heir
+	4 Two-Faced Aristocrat // Unfettered Noble
+	4 Two-Faced Aristocrat // Unfettered Noble
+	4 Unfounded Identity
+	4 Unite the Concordance
+	4 Unsolved Disappearance
+	4 Unwilling Pawn // Power of Redemption
+	4 Unwilling Pawn // Power of Redemption
+	4 Urisk's Invitation
+	4 Walled Garden
+	4 Waltz of the Fallen
+	4 Weathered Wharf
+	4 Witch of the Veil
+[common(7)]
+	8 Abyssal Champion
+	8 Affair of Honor
+	8 Afternoon Ritual
+	8 Alchemical Awakening
+	8 Alchemical Devastation
+	8 Alder Courtier
+	8 Arcane Dredger
+	8 Aristocrat's Gallery
+	8 Artificial Mortality
+	8 Augmented Alchemist
+	8 Balsam Elemental
+	8 Bitter Regrets
+	8 Blighted Dullahan
+	8 Bloodpact Collector
+	8 Brackish Kelpie
+	8 Carrier Familiar
+	8 Celestial Scythe
+	8 Chartered Treasury
+	8 Clocktower Hideout
+	8 Coalition Alchemist
+	8 Coalition Apothecary
+	8 Coastal Conjurer // Diluvian Diviner
+	8 Coastal Conjurer // Diluvian Diviner
+	8 Colonial Effigy
+	8 Cruel Display
+	8 Cursory Glance_ETF
+	8 Dabbling Patron
+	8 Decayed Bedchamber
+	8 Delegitimize
+	8 Disowned Spirit
+	8 Dissipate_ETF
+	8 Distant Shores
+	8 Domestic Conspirators
+	8 Edulcorate
+	8 Estranged Partisan // Sylvan Subversive
+	8 Estranged Partisan // Sylvan Subversive
+	8 Eternal Servant
+	8 Ethereal Threshold
+	8 Exchange Scholar
+	8 Faithful of New Covenants
+	8 False Dilemma
+	8 Fine Collection
+	8 Flight of Fancy
+	8 Forgotten Attic
+	8 Futile Faith
+	8 Gnarled Sprite
+	8 Grasping Choir
+	8 Griefless Widow
+	8 Guided Hand
+	8 Hotblooded Sorcerer // Inglorious Blaze
+	8 Hotblooded Sorcerer // Inglorious Blaze
+	8 Hunter's Distinction
+	8 Immured Fiend
+	8 Indebted Burglar
+	8 Induced Violence
+	8 Industrial Revolt
+	8 Inherited Blessing
+	8 Inhuman Grace // Unfallen Angel
+	8 Inhuman Grace // Unfallen Angel
+	8 Involuntary Care
+	8 Lamplight Explosion
+	8 Landed Bloodsucker
+	8 Last of Kin
+	8 Liminal Medium // Sojourner of the Beyond
+	8 Liminal Medium // Sojourner of the Beyond
+	8 Lure Across the Veil
+	8 Melancholic Ichor
+	8 Mercurial Merfolk
+	8 Meticulous Process
+	8 Midnight Visitor
+	8 Munitions Explosion
+	8 Out-of-Depth Amateur // Specialist of the Deep
+	8 Out-of-Depth Amateur // Specialist of the Deep
+	8 Outsider Alchemist
+	8 Overflowing Rage
+	8 Palace Hall
+	8 Parish Infantry
+	8 Parish Rally
+	8 Plagued Doctor // Beast of Pestilence
+	8 Plagued Doctor // Beast of Pestilence
+	8 Point Blank
+	8 Private Library
+	8 Prototype Engine
+	8 Relief Battalion
+	8 Remade Dowager
+	8 Remove from the Equation
+	8 Revolutionary Recruiters
+	8 Riverbed Spirit
+	8 Rogue Groundskeeper
+	8 Rotten Retinue
+	8 Sanitarium Skeleton_ETF
+	8 Scarred Duelist
+	8 Scarring Censure
+	8 Scavenging Soldier // Celestial Conscript
+	8 Scavenging Soldier // Celestial Conscript
+	8 Scribe of Pacts
+	8 Social Unweaving
+	8 Spare Rifle
+	8 Steadfast Infantry
+	8 Stray Sighthound // Seer of the Hunt
+	8 Stray Sighthound // Seer of the Hunt
+	8 Strider Engine
+	8 Sublime the Soul
+	8 Syncretic Partisan
+	8 Taken Under Wing
+	8 Tamer of the Ton
+	8 Trainer of the Abyss
+	8 Unbreakable Oath
+	8 Uncertain Times
+	8 Ungoverned Sneak // Unbound Spirit
+	8 Ungoverned Sneak // Unbound Spirit
+	8 University Archive
+	8 Unmarked Vials
+	8 Verdurous Growth
+	8 Veteran's Study
+	8 Virtue of Propriety
+	8 Virtuoso's Parlor
+	8 Volunteer Sentry
+	8 Vortex Vitae
+	8 Witch of Life's Nature
+	8 Wormwood's Agent
+[foil(1)]
+	2 Abbey of Masquerades
+	6 Abolition of Self
+	2 Absari, Chiresian Herald
+	12 Abyssal Champion
+	6 Adept of Rations
+	6 Adept of Signals
+	6 Adept of Transfusions
+	12 Affair of Honor
+	12 Afternoon Ritual
+	12 Alchemical Awakening
+	12 Alchemical Devastation
+	6 Alchemist's Laboratory
+	12 Alder Courtier
+	6 Alluring Rider // Orphaned Nuckalavee
+	6 Alluring Rider // Orphaned Nuckalavee
+	2 Amleth, Royal Claimant
+	6 Angel of the Flock
+	2 Animus, Life's Entropy // Animus Reformed
+	2 Animus, Life's Entropy // Animus Reformed
+	12 Arcane Dredger
+	12 Aristocrat's Gallery
+	12 Artificial Mortality
+	2 Artificial Sanctity
+	12 Augmented Alchemist
+	12 Balsam Elemental
+	6 Barking Irons
+	2 Barton, Keen Surgeon
+	2 Barton's Pocketwatch
+	6 Battle of Burning Cliffs
+	6 Battlefield Preserver
+	6 Beachhead Partisan
+	2 Beatrice of the Urchins
+	6 Benthic Alchemist
+	2 Birds of Odd Feathers
+	12 Bitter Regrets
+	6 Blade of the First Stare // Scourge of the Last Dance
+	6 Blade of the First Stare // Scourge of the Last Dance
+	12 Blighted Dullahan
+	12 Bloodpact Collector
+	12 Brackish Kelpie
+	6 Branded Contractor
+	6 Bristling Baron
+	2 Cabinet of Curiosities
+	6 Capital Towpath
+	12 Carrier Familiar
+	2 Cathette, Rabble Rouser
+	6 Cattish Bluestocking // Literary Lioness
+	6 Cattish Bluestocking // Literary Lioness
+	12 Celestial Scythe
+	12 Chartered Treasury
+	6 Chimeral Plating
+	12 Clocktower Hideout
+	12 Coalition Alchemist
+	12 Coalition Apothecary
+	6 Coalition Grenadier
+	12 Coastal Conjurer // Diluvian Diviner
+	12 Coastal Conjurer // Diluvian Diviner
+	12 Colonial Effigy
+	6 Consumption Catalyst
+	6 Covetous Pixie
+	6 Crimson Masquerade
+	12 Cruel Display
+	2 Cursed Marksman
+	12 Cursory Glance_ETF
+	6 Cycle of Scars
+	12 Dabbling Patron
+	6 Daughter of Tempests // Sibling of All Elements
+	6 Daughter of Tempests // Sibling of All Elements
+	6 Death of the Author
+	12 Decayed Bedchamber
+	12 Delegitimize
+	2 Demon of Necessary Evil
+	2 Desperate Contrition
+	2 Disharmony of the Spheres
+	12 Disowned Spirit
+	12 Dissipate_ETF
+	12 Distant Shores
+	2 Divine Conspiracy
+	12 Domestic Conspirators
+	2 Earthly Principality
+	12 Edulcorate
+	2 Elementary Conclusion
+	2 Endless Betrayals
+	2 Endless Enlightenment
+	12 Estranged Partisan // Sylvan Subversive
+	12 Estranged Partisan // Sylvan Subversive
+	12 Eternal Servant
+	2 Ethereal Shepherd
+	12 Ethereal Threshold
+	12 Exchange Scholar
+	6 Failed Martyr // Universal Savior
+	6 Failed Martyr // Universal Savior
+	12 Faithful of New Covenants
+	6 Fallen Sluagh
+	2 Fallen Star's Revelation
+	12 False Dilemma
+	6 Fellow Traveler
+	2 Fetching Gancanagh
+	6 Fiend of Convenience
+	12 Fine Collection
+	12 Flight of Fancy
+	6 Foggy Town Militia
+	12 Forgotten Attic
+	2 Forgotten Tyrant
+	12 Futile Faith
+	6 Ghost of Lost Futures
+	2 Glaistig of Wild Hunts
+	12 Gnarled Sprite
+	12 Grasping Choir
+	12 Griefless Widow
+	2 Grim Sower
+	12 Guided Hand
+	6 Hamlet Witch
+	6 Haunted Manor
+	2 Heir Unapparent
+	6 Hell's Bells
+	6 Hermetic Fisher
+	6 Hopeless Romantic // Hopeless Lanonshee
+	6 Hopeless Romantic // Hopeless Lanonshee
+	12 Hotblooded Sorcerer // Inglorious Blaze
+	12 Hotblooded Sorcerer // Inglorious Blaze
+	12 Hunter's Distinction
+	6 Hunting Company
+	2 Hyden, Form Philosopher // The Finest Specimen
+	2 Hyden, Form Philosopher // The Finest Specimen
+	6 Illuminating Archangel
+	12 Immured Fiend
+	6 Imperfect Insight
+	6 Incarnation of Enmity
+	12 Indebted Burglar
+	12 Induced Violence
+	6 Industrial District
+	12 Industrial Revolt
+	12 Inherited Blessing
+	12 Inhuman Grace // Unfallen Angel
+	12 Inhuman Grace // Unfallen Angel
+	12 Involuntary Care
+	2 Janneke, Surface Scholar // Janneke, Adept of Mortals
+	2 Janneke, Surface Scholar // Janneke, Adept of Mortals
+	2 Joane, Royal Spymaster // The Conquering Wyrm
+	2 Joane, Royal Spymaster // The Conquering Wyrm
+	2 Kanvar, Coalition Leader
+	12 Lamplight Explosion
+	6 Lamplit Thoroughfare
+	12 Landed Bloodsucker
+	12 Last of Kin
+	2 Life's Grandeur
+	12 Liminal Medium // Sojourner of the Beyond
+	12 Liminal Medium // Sojourner of the Beyond
+	2 Line Officer
+	2 Lord Pollux Marglen // Marglen of Undying Oaths
+	2 Lord Pollux Marglen // Marglen of Undying Oaths
+	12 Lure Across the Veil
+	6 Madame Deficit
+	6 Making Indentures
+	6 Malignance
+	6 Masked Servant
+	2 Master of No Quarter
+	6 Mechanical Tactician
+	12 Melancholic Ichor
+	6 Mental Breakthrough
+	12 Mercurial Merfolk
+	12 Meticulous Process
+	6 Midnight Dreary
+	12 Midnight Visitor
+	2 Miss Amelia Conway
+	2 Miss Leticia Wormwood
+	12 Munitions Explosion
+	6 Mysteries of Life
+	6 Naive Apprentice
+	2 Natural Philosopher
+	6 One Life for Another
+	2 Organic Dreadnought
+	6 Orphan Prodigy // Prodigal Spark
+	6 Orphan Prodigy // Prodigal Spark
+	12 Out-of-Depth Amateur // Specialist of the Deep
+	12 Out-of-Depth Amateur // Specialist of the Deep
+	12 Outsider Alchemist
+	12 Overflowing Rage
+	6 Overwhelming Fusillade
+	12 Palace Hall
+	12 Parish Infantry
+	12 Parish Rally
+	12 Plagued Doctor // Beast of Pestilence
+	12 Plagued Doctor // Beast of Pestilence
+	12 Point Blank
+	6 Porcelain Peer
+	12 Private Library
+	12 Prototype Engine
+	6 Provincial Hamlet
+	6 Provisional Order
+	2 Quicken
+	2 Reconstructed Adept
+	6 Reduce to Essentials
+	2 Regrets of Mortals
+	12 Relief Battalion
+	12 Remade Dowager
+	12 Remove from the Equation
+	12 Revolutionary Recruiters
+	12 Riverbed Spirit
+	12 Rogue Groundskeeper
+	12 Rotten Retinue
+	6 Royal Hospital
+	6 Sacred Designs
+	2 Sacred Opus
+	12 Sanitarium Skeleton_ETF
+	12 Scarred Duelist
+	12 Scarring Censure
+	12 Scavenging Soldier // Celestial Conscript
+	12 Scavenging Soldier // Celestial Conscript
+	6 Scion of Fiends
+	12 Scribe of Pacts
+	2 Simul, Sylvan Alchemist
+	6 Sleepless Night
+	12 Social Unweaving
+	12 Spare Rifle
+	2 Spirit of Vitriol
+	6 Sprout Hermit // Sprite of Spring
+	6 Sprout Hermit // Sprite of Spring
+	6 Stained Reliquary
+	12 Steadfast Infantry
+	6 Straw Intellectual
+	12 Stray Sighthound // Seer of the Hunt
+	12 Stray Sighthound // Seer of the Hunt
+	2 Street Combat
+	6 Street Raider
+	12 Strider Engine
+	12 Sublime the Soul
+	6 Suitor of Soot
+	12 Syncretic Partisan
+	12 Taken Under Wing
+	12 Tamer of the Ton
+	2 Tempting Tutor
+	6 Tenement Alley
+	2 The Empty Throne
+	2 The Great Work Continues
+	2 The Marquess Devonport // The Branded Usurper
+	2 The Marquess Devonport // The Branded Usurper
+	6 The Struggle for Death
+	2 Titan of Fallen Stars
+	12 Trainer of the Abyss
+	6 Troubled Heir
+	6 Two-Faced Aristocrat // Unfettered Noble
+	6 Two-Faced Aristocrat // Unfettered Noble
+	12 Unbreakable Oath
+	12 Uncertain Times
+	6 Unfounded Identity
+	12 Ungoverned Sneak // Unbound Spirit
+	12 Ungoverned Sneak // Unbound Spirit
+	6 Unite the Concordance
+	12 University Archive
+	12 Unmarked Vials
+	6 Unsolved Disappearance
+	6 Unwilling Pawn // Power of Redemption
+	6 Unwilling Pawn // Power of Redemption
+	6 Urisk's Invitation
+	12 Verdurous Growth
+	12 Veteran's Study
+	12 Virtue of Propriety
+	12 Virtuoso's Parlor
+	12 Volunteer Sentry
+	12 Vortex Vitae
+	6 Walled Garden
+	6 Waltz of the Fallen
+	6 Weathered Wharf
+	2 Weeping Failure
+	12 Witch of Life's Nature
+	6 Witch of the Veil
+	12 Wormwood's Agent
+	2 Xenocrata, Usurper of Tides
+[wildcard(1)]
+	7 Abbey of Masquerades
+	15 Abolition of Self
+	7 Absari, Chiresian Herald
+	6 Abyssal Champion
+	15 Adept of Rations
+	15 Adept of Signals
+	15 Adept of Transfusions
+	6 Affair of Honor
+	6 Afternoon Ritual
+	6 Alchemical Awakening
+	6 Alchemical Devastation
+	15 Alchemist's Laboratory
+	6 Alder Courtier
+	15 Alluring Rider // Orphaned Nuckalavee
+	15 Alluring Rider // Orphaned Nuckalavee
+	7 Amleth, Royal Claimant
+	15 Angel of the Flock
+	7 Animus, Life's Entropy // Animus Reformed
+	7 Animus, Life's Entropy // Animus Reformed
+	6 Arcane Dredger
+	6 Aristocrat's Gallery
+	6 Artificial Mortality
+	7 Artificial Sanctity
+	6 Augmented Alchemist
+	6 Balsam Elemental
+	15 Barking Irons
+	7 Barton, Keen Surgeon
+	7 Barton's Pocketwatch
+	15 Battle of Burning Cliffs
+	15 Battlefield Preserver
+	15 Beachhead Partisan
+	7 Beatrice of the Urchins
+	15 Benthic Alchemist
+	7 Birds of Odd Feathers
+	6 Bitter Regrets
+	15 Blade of the First Stare // Scourge of the Last Dance
+	15 Blade of the First Stare // Scourge of the Last Dance
+	6 Blighted Dullahan
+	6 Bloodpact Collector
+	6 Brackish Kelpie
+	15 Branded Contractor
+	15 Bristling Baron
+	7 Cabinet of Curiosities
+	15 Capital Towpath
+	6 Carrier Familiar
+	7 Cathette, Rabble Rouser
+	15 Cattish Bluestocking // Literary Lioness
+	15 Cattish Bluestocking // Literary Lioness
+	6 Celestial Scythe
+	6 Chartered Treasury
+	15 Chimeral Plating
+	6 Clocktower Hideout
+	6 Coalition Alchemist
+	6 Coalition Apothecary
+	15 Coalition Grenadier
+	6 Coastal Conjurer // Diluvian Diviner
+	6 Coastal Conjurer // Diluvian Diviner
+	6 Colonial Effigy
+	15 Consumption Catalyst
+	15 Covetous Pixie
+	15 Crimson Masquerade
+	6 Cruel Display
+	7 Cursed Marksman
+	6 Cursory Glance_ETF
+	15 Cycle of Scars
+	6 Dabbling Patron
+	15 Daughter of Tempests // Sibling of All Elements
+	15 Daughter of Tempests // Sibling of All Elements
+	15 Death of the Author
+	6 Decayed Bedchamber
+	6 Delegitimize
+	7 Demon of Necessary Evil
+	7 Desperate Contrition
+	7 Disharmony of the Spheres
+	6 Disowned Spirit
+	6 Dissipate_ETF
+	6 Distant Shores
+	7 Divine Conspiracy
+	6 Domestic Conspirators
+	7 Earthly Principality
+	6 Edulcorate
+	7 Elementary Conclusion
+	7 Endless Betrayals
+	7 Endless Enlightenment
+	6 Estranged Partisan // Sylvan Subversive
+	6 Estranged Partisan // Sylvan Subversive
+	6 Eternal Servant
+	7 Ethereal Shepherd
+	6 Ethereal Threshold
+	6 Exchange Scholar
+	15 Failed Martyr // Universal Savior
+	15 Failed Martyr // Universal Savior
+	6 Faithful of New Covenants
+	15 Fallen Sluagh
+	7 Fallen Star's Revelation
+	6 False Dilemma
+	15 Fellow Traveler
+	7 Fetching Gancanagh
+	15 Fiend of Convenience
+	6 Fine Collection
+	6 Flight of Fancy
+	15 Foggy Town Militia
+	6 Forgotten Attic
+	7 Forgotten Tyrant
+	6 Futile Faith
+	15 Ghost of Lost Futures
+	7 Glaistig of Wild Hunts
+	6 Gnarled Sprite
+	6 Grasping Choir
+	6 Griefless Widow
+	7 Grim Sower
+	6 Guided Hand
+	15 Hamlet Witch
+	15 Haunted Manor
+	7 Heir Unapparent
+	15 Hell's Bells
+	15 Hermetic Fisher
+	15 Hopeless Romantic // Hopeless Lanonshee
+	15 Hopeless Romantic // Hopeless Lanonshee
+	6 Hotblooded Sorcerer // Inglorious Blaze
+	6 Hotblooded Sorcerer // Inglorious Blaze
+	6 Hunter's Distinction
+	15 Hunting Company
+	7 Hyden, Form Philosopher // The Finest Specimen
+	7 Hyden, Form Philosopher // The Finest Specimen
+	15 Illuminating Archangel
+	6 Immured Fiend
+	15 Imperfect Insight
+	15 Incarnation of Enmity
+	6 Indebted Burglar
+	6 Induced Violence
+	15 Industrial District
+	6 Industrial Revolt
+	6 Inherited Blessing
+	6 Inhuman Grace // Unfallen Angel
+	6 Inhuman Grace // Unfallen Angel
+	6 Involuntary Care
+	7 Janneke, Surface Scholar // Janneke, Adept of Mortals
+	7 Janneke, Surface Scholar // Janneke, Adept of Mortals
+	7 Joane, Royal Spymaster // The Conquering Wyrm
+	7 Joane, Royal Spymaster // The Conquering Wyrm
+	7 Kanvar, Coalition Leader
+	6 Lamplight Explosion
+	15 Lamplit Thoroughfare
+	6 Landed Bloodsucker
+	6 Last of Kin
+	7 Life's Grandeur
+	6 Liminal Medium // Sojourner of the Beyond
+	6 Liminal Medium // Sojourner of the Beyond
+	7 Line Officer
+	7 Lord Pollux Marglen // Marglen of Undying Oaths
+	7 Lord Pollux Marglen // Marglen of Undying Oaths
+	6 Lure Across the Veil
+	15 Madame Deficit
+	15 Making Indentures
+	15 Malignance
+	15 Masked Servant
+	7 Master of No Quarter
+	15 Mechanical Tactician
+	6 Melancholic Ichor
+	15 Mental Breakthrough
+	6 Mercurial Merfolk
+	6 Meticulous Process
+	15 Midnight Dreary
+	6 Midnight Visitor
+	7 Miss Amelia Conway
+	7 Miss Leticia Wormwood
+	6 Munitions Explosion
+	15 Mysteries of Life
+	15 Naive Apprentice
+	7 Natural Philosopher
+	15 One Life for Another
+	7 Organic Dreadnought
+	15 Orphan Prodigy // Prodigal Spark
+	15 Orphan Prodigy // Prodigal Spark
+	6 Out-of-Depth Amateur // Specialist of the Deep
+	6 Out-of-Depth Amateur // Specialist of the Deep
+	6 Outsider Alchemist
+	6 Overflowing Rage
+	15 Overwhelming Fusillade
+	6 Palace Hall
+	6 Parish Infantry
+	6 Parish Rally
+	6 Plagued Doctor // Beast of Pestilence
+	6 Plagued Doctor // Beast of Pestilence
+	6 Point Blank
+	15 Porcelain Peer
+	6 Private Library
+	6 Prototype Engine
+	15 Provincial Hamlet
+	15 Provisional Order
+	7 Quicken
+	7 Reconstructed Adept
+	15 Reduce to Essentials
+	7 Regrets of Mortals
+	6 Relief Battalion
+	6 Remade Dowager
+	6 Remove from the Equation
+	6 Revolutionary Recruiters
+	6 Riverbed Spirit
+	6 Rogue Groundskeeper
+	6 Rotten Retinue
+	15 Royal Hospital
+	15 Sacred Designs
+	7 Sacred Opus
+	6 Sanitarium Skeleton_ETF
+	6 Scarred Duelist
+	6 Scarring Censure
+	6 Scavenging Soldier // Celestial Conscript
+	6 Scavenging Soldier // Celestial Conscript
+	15 Scion of Fiends
+	6 Scribe of Pacts
+	7 Simul, Sylvan Alchemist
+	15 Sleepless Night
+	6 Social Unweaving
+	6 Spare Rifle
+	7 Spirit of Vitriol
+	15 Sprout Hermit // Sprite of Spring
+	15 Sprout Hermit // Sprite of Spring
+	15 Stained Reliquary
+	6 Steadfast Infantry
+	15 Straw Intellectual
+	6 Stray Sighthound // Seer of the Hunt
+	6 Stray Sighthound // Seer of the Hunt
+	7 Street Combat
+	15 Street Raider
+	6 Strider Engine
+	6 Sublime the Soul
+	15 Suitor of Soot
+	6 Syncretic Partisan
+	6 Taken Under Wing
+	6 Tamer of the Ton
+	7 Tempting Tutor
+	15 Tenement Alley
+	7 The Empty Throne
+	7 The Great Work Continues
+	7 The Marquess Devonport // The Branded Usurper
+	7 The Marquess Devonport // The Branded Usurper
+	15 The Struggle for Death
+	7 Titan of Fallen Stars
+	6 Trainer of the Abyss
+	15 Troubled Heir
+	15 Two-Faced Aristocrat // Unfettered Noble
+	15 Two-Faced Aristocrat // Unfettered Noble
+	6 Unbreakable Oath
+	6 Uncertain Times
+	15 Unfounded Identity
+	6 Ungoverned Sneak // Unbound Spirit
+	6 Ungoverned Sneak // Unbound Spirit
+	15 Unite the Concordance
+	6 University Archive
+	6 Unmarked Vials
+	15 Unsolved Disappearance
+	15 Unwilling Pawn // Power of Redemption
+	15 Unwilling Pawn // Power of Redemption
+	15 Urisk's Invitation
+	6 Verdurous Growth
+	6 Veteran's Study
+	6 Virtue of Propriety
+	6 Virtuoso's Parlor
+	6 Volunteer Sentry
+	6 Vortex Vitae
+	15 Walled Garden
+	15 Waltz of the Fallen
+	15 Weathered Wharf
+	7 Weeping Failure
+	6 Witch of Life's Nature
+	15 Witch of the Veil
+	6 Wormwood's Agent
+	7 Xenocrata, Usurper of Tides

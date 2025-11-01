@@ -1,0 +1,3662 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abhorrent Academic",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horror Advisor",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Accelerate Fate_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Aether Ascendant_MS3",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Aguri, Shadow of Doubt_MS3",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Spirit Rogue",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Aila, Forest Visitor",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Ainok Scout_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Hound Scout",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Alien Visitor",
+			"rarity": "special",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Creature — Alien Horror",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Amber Reserves_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Angelic Destiny_MS3",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Ankryss, Biologist Adept_MS3",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Insect Druid",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Ankulith Shard_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Arbiter of Silence_MS3",
+			"rarity": "mythic",
+			"mana_cost": "{6}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Arcane Caper_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Armament Scavenger_MS3",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Artificer's Prowess_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Astral Gateway_MS3",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Avatar of Plume de Val_MS3",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Avatar",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Backwoods Cultivator_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Barbed Cocoon_MS3",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Bauble Collector_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Bearer of Old Growth_MS3",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Beckon the Shadows_MS3",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Berbarus Unsealed_MS3",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Bestial Summons_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Bitter Duckling // Nightsong Swan",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "284",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MS3-files/img/284a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/284a_front.jpg"
+			}
+		},
+		{
+			"name": "Bitter Duckling // Nightsong Swan",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "284",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MS3-files/img/284a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/284a_front.jpg"
+			}
+		},
+		{
+			"name": "Blackmoat Bully_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Crocodile Warrior",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Blazing Volley_MS3",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Bloodleaf Tracker_MS3",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Bloodriver_MS3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Boiling Ridge_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Bustling Harbor",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "C-25 Juliet_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Cadalon Experimenter_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Cadalon Outfitter_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Calcified Dunes_MS3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Desert",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Call of the Clocktower",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Cannon Fodder_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Catch Unawares_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Cave Diving_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Children of the Clouds_MS3",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Chromatic Pendant_MS3",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Cloudbank_MS3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Combat Technician_MS3",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Consort of Morning_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Corecharge",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Corpsebed_MS3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Council of the Immortals_MS3",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Counting Stars_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Cradle of Civilization_MS3",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Crossing the Rifts_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Curiosity_MS3",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Curse of Kurayami_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery — Inscription",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Darklands Charm_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Deadwood Terror_MS3",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Death's Sentry_MS3",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Decide Boundaries",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Deep Temptation_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Demolitionist Deviser_MS3",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Descend into Insanity_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Devour Memories_MS3",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Diasune Immolator_MS3",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Diffuse_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Diligent Believer_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Dimensional Isolation_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Disciple of Faradia",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Dragongate_MS3",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Dragonwrought Engineer_MS3",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Dreary Township",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Drove of the Lost_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Druid's Deliverance_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Duelist's Wings_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Duress_MS3",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Duskwood Thicket_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Dutiful Counselor_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Eager Observer_MS3",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Earnest Labourer_MS3",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Eldritch Emergence",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Eleventh Hour Breakthrough_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Elixir of Immortality_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Endless Assembly_MS3",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Endless Expedition",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Entangled Roots_MS3",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Ephemeral Support_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Eternal Blessings",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Ethereal Armor_MS3",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Ethereal Spellmaster_MS3",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Experimental Battle Armor_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Face of All",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Elemental Shapeshifter",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Facsimile of Divinity_MS3",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Angel",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Fateful Journey_MS3",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Fell the Beast_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Felling Vines_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Ficklewing Elemental_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Filigree Drake_MS3",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Drake",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Flash of Blades_MS3",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Flawless Counterfeit_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Flourishing Dunes_MS3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Desert",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Forbidden Treasure",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Forest_MS3",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Forest_MS3",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Form of the Phoenix_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Fox of the Sunset Legion_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Fox Spirit",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "From Shengin's Heart",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Fungal Whomper_MS3",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Fungus",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Gateway Statues_MS3",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Ghostly Flicker_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Gift of the Phoenix_MS3",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Gift to the Gloam_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Gleaming Mirrorweaver_MS3",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Glittering Grove",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Goriana Naturalist_MS3",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Ox Shaman",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Grace of Timber_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Grim Botanist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Groundswell_MS3",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Guard of Cuirassiers",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Guidestone_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Clue",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Hall of Random Access Memories_MS3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Hannah, Entelan Prodigy",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Harbinger of Growth_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Hazy Moorland_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Heat of the Moment_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Heavy Moneybag_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Hellbent Speed_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Project",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Hero's Downfall_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Highland Dunes_MS3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Desert",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Host of Nature_MS3",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Hub of Innovation_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Idyllic Tutor_MS3",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Imaginative Dreamer",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Imperial Brutality_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Imperial Siege_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Infuse the Apparatus_MS3",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Inked Summoner",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock Artist",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Inner Peace_MS3",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery — Inscription",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Instant of Brilliance_MS3",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Ishim's Meddling",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Island_MS3",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Island_MS3",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Jade Vault Reclaimer_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Jadycian Empath_MS3",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Shaman",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Join the Colony_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "K-17 Drone_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Warrior",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Kantra of Old Majik_MS3",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Kantra of the Third Eye_MS3",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Kevthra's Command_MS3",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Kevthra's Will_MS3",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "King of Bones_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Skeleton Wizard",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Lackeybot",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact Creature — Goblin Construct",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Lazaire's Conjuring_MS3",
+			"rarity": "mythic",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Lijing, the True Divinity_MS3",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Fox Spirit",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Lives Redeemed_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Lord Asharo_MS3",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Lord Shigure_MS3",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Maelstrom Griffin_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Maghbri Oracle_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Maghbri Whisper_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Marin Polgek, Academy Heiress_MS3",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Marked Coin_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Marshy Marauder",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Demon Knight",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Mawdryk's Haven_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Meteorain_MS3",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Monsoon Lagoon",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Mortal Whims Falter",
+			"rarity": "rare",
+			"mana_cost": "{U/B}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Mortal Will_MS3",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Mountain_MS3",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Mountain_MS3",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Multipurpose Mannequin_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct Actor",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Natural Recycling_MS3",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Nest Matriarch_MS3",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Nidohagane Warfans_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Nightmarish Fears_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Nightrail Fence_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Nightwatch Rallier_MS3",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Nomadic Patriarch_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Elf Citizen",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Obliterating Blast_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Ophorion Refugee_MS3",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Opt_MS3",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Oracle of Edicts_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Palace of Heavenly Sovereigns_MS3",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Paragon of Noon",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Pious Flutist_MS3",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Pitchpyre Curse",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Plains_MS3",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Plains_MS3",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Primal Ruffian_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Cavern_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Champion_MS3",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Aurashaper Soldier",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Propagation Blade_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Purging Strike_MS3",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Ready to Go_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Reason Rots, Rage Remains_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Renewal Grove_MS3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Rethia Cultivator_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Ride the Storm_MS3",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Rimebreath Tyrant_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Rimecraft Owl_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Rise from the Harbor_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Risti Salvager_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Ruffler of Feathers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Rugged Fields_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Runic Pillars_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Saturated Dunes_MS3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Desert",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Scimitar Techniques_MS3",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Scorch_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Seedshrine_MS3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Self Replication_MS3",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Sentient Contraption_MS3",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Ser Wayver, the Broken Hour",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Shaping Dragonsteel_MS3",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery — Inscription",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Shatter Mortal Conveyances_MS3",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Shattered Valkyrie_MS3",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Angel Berserker",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Shengin Renegade_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Shifting Terrain_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Shimmering Dragon_MS3",
+			"rarity": "mythic",
+			"mana_cost": "{8}{R}{R}",
+			"type": "Creature — Dragon Reflection",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Shrine Razer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Sigiled Bulwark",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Knight",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Silkweaver Matron_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Aurashaper",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Skittering Swarm_MS3",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Skypath Pilgrimage",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Slum Scrounger_MS3",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Beast",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Solemn Offering_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Soul Gate_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Soulsmoke Adept_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Spark New Life_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{G}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Speedreading_MS3",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Spirit Keeper_MS3",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Spore Vessel_MS3",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Fungus",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Spur of the Moment_MS3",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Sticky Fingers_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Stonefall Golem_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Stormwake_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Strangulate_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Street Performer_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Strike from the Shadows_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Stygian Dunes_MS3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Desert",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Suburban Runebrawler",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Human Warlock Warrior",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Sukhar, Consort to the Dark",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Azra Warrior",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Sungrace Meadows_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Sunstage_MS3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Sunwright Scion_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Surestrike Elite_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Swamp_MS3",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Swamp_MS3",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Synchronous Hellkite_MS3",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Dragon Construct",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Take a Walk_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Telarine Riftcrosser_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Telvim Sculptor_MS3",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Tend to the Grove",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "The Issbarrens_MS3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "The Last Sacred Gate_MS3",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "The Sun Also Rises_MS3",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Time After Time_MS3",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Tiny Heroine Totti",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Totti",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Tombstone Looter_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Towering Stag_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Treasury Keyper_MS3",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Tricked-Out Hoverboard",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Turin's Study",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment — Study",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Turned Watcher_MS3",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Angel Vampire",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Twisted Predator_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Uncommon Grit_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Undeath Comes_MS3",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Undying Watcher_MS3",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Fungus Zombie",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Unearthly Grace_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Unleash the Dragon_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Urban Wastelands",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Veilborn Stalker_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Verdant Expanse_MS3",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Warband Commander_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cat Berserker",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Warded Tome_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Warpblade Warrior_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Mutant Warrior",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Wastes_MS3",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Watch from Above_MS3",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Weapon Smash_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Weaver of Mists",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Wild Lifescale",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Winged Envoy_MS3",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Winged Guardian_MS3",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Wish to See",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Worn Saddle_MS3",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Wurmscape_MS3",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Xolde, High King's Castle",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Zarchepet, Master of Sands_MS3",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Zhedina Envoys_MS3",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MS3-files/img/36.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Abhorrent Academic
+	2 Aether Ascendant_MS3
+	2 Aguri, Shadow of Doubt_MS3
+	2 Aila, Forest Visitor
+	1 Angelic Destiny_MS3
+	2 Ankryss, Biologist Adept_MS3
+	1 Arbiter of Silence_MS3
+	2 Astral Gateway_MS3
+	1 Avatar of Plume de Val_MS3
+	1 Berbarus Unsealed_MS3
+	2 Bloodleaf Tracker_MS3
+	2 Children of the Clouds_MS3
+	2 Chromatic Pendant_MS3
+	2 Combat Technician_MS3
+	2 Council of the Immortals_MS3
+	2 Deadwood Terror_MS3
+	2 Demolitionist Deviser_MS3
+	1 Dragongate_MS3
+	2 Dragonwrought Engineer_MS3
+	2 Endless Assembly_MS3
+	2 Ethereal Spellmaster_MS3
+	2 Face of All
+	2 Facsimile of Divinity_MS3
+	2 Fateful Journey_MS3
+	2 Fungal Whomper_MS3
+	1 Gleaming Mirrorweaver_MS3
+	2 Hall of Random Access Memories_MS3
+	2 Hannah, Entelan Prodigy
+	2 Idyllic Tutor_MS3
+	1 Infuse the Apparatus_MS3
+	2 Instant of Brilliance_MS3
+	2 Kantra of Old Majik_MS3
+	2 Kantra of the Third Eye_MS3
+	2 Kevthra's Command_MS3
+	1 Kevthra's Will_MS3
+	2 Lackeybot
+	1 Lazaire's Conjuring_MS3
+	2 Lijing, the True Divinity_MS3
+	2 Lord Asharo_MS3
+	2 Lord Shigure_MS3
+	2 Marin Polgek, Academy Heiress_MS3
+	2 Marshy Marauder
+	2 Mortal Whims Falter
+	2 Natural Recycling_MS3
+	2 Nightwatch Rallier_MS3
+	1 Palace of Heavenly Sovereigns_MS3
+	2 Paragon of Noon
+	2 Prismatic Champion_MS3
+	2 Renewal Grove_MS3
+	2 Ride the Storm_MS3
+	2 Ser Wayver, the Broken Hour
+	2 Shatter Mortal Conveyances_MS3
+	2 Shattered Valkyrie_MS3
+	1 Shimmering Dragon_MS3
+	2 Sigiled Bulwark
+	2 Speedreading_MS3
+	2 Spur of the Moment_MS3
+	2 Suburban Runebrawler
+	2 Sukhar, Consort to the Dark
+	2 Synchronous Hellkite_MS3
+	2 Telvim Sculptor_MS3
+	2 The Issbarrens_MS3
+	1 The Last Sacred Gate_MS3
+	1 The Sun Also Rises_MS3
+	1 Time After Time_MS3
+	2 Treasury Keyper_MS3
+	2 Turin's Study
+	2 Turned Watcher_MS3
+	2 Undeath Comes_MS3
+	2 Verdant Expanse_MS3
+	2 Weaver of Mists
+	2 Wild Lifescale
+	1 Wurmscape_MS3
+	2 Zarchepet, Master of Sands_MS3
+[uncommon(3)]
+	4 Ainok Scout_MS3
+	4 Amber Reserves_MS3
+	4 Arcane Caper_MS3
+	4 Artificer's Prowess_MS3
+	4 Bestial Summons_MS3
+	4 Boiling Ridge_MS3
+	4 Bustling Harbor
+	4 Call of the Clocktower
+	4 Cannon Fodder_MS3
+	4 Catch Unawares_MS3
+	4 Corecharge
+	4 Curse of Kurayami_MS3
+	4 Darklands Charm_MS3
+	4 Descend into Insanity_MS3
+	4 Disciple of Faradia
+	4 Dreary Township
+	4 Drove of the Lost_MS3
+	4 Duskwood Thicket_MS3
+	4 Eleventh Hour Breakthrough_MS3
+	4 Elixir of Immortality_MS3
+	4 Endless Expedition
+	4 Ephemeral Support_MS3
+	4 Experimental Battle Armor_MS3
+	4 Fell the Beast_MS3
+	4 Flawless Counterfeit_MS3
+	4 From Shengin's Heart
+	4 Ghostly Flicker_MS3
+	4 Gift to the Gloam_MS3
+	4 Glittering Grove
+	4 Grim Botanist
+	4 Hazy Moorland_MS3
+	4 Heat of the Moment_MS3
+	4 Hellbent Speed_MS3
+	4 Hub of Innovation_MS3
+	4 Imaginative Dreamer
+	4 Imperial Brutality_MS3
+	4 Imperial Siege_MS3
+	4 Ishim's Meddling
+	4 Jade Vault Reclaimer_MS3
+	4 K-17 Drone_MS3
+	4 King of Bones_MS3
+	4 Lives Redeemed_MS3
+	4 Maelstrom Griffin_MS3
+	4 Maghbri Oracle_MS3
+	4 Mawdryk's Haven_MS3
+	4 Monsoon Lagoon
+	4 Nightmarish Fears_MS3
+	4 Nightrail Fence_MS3
+	4 Nomadic Patriarch_MS3
+	4 Pitchpyre Curse
+	4 Primal Ruffian_MS3
+	4 Prismatic Cavern_MS3
+	4 Propagation Blade_MS3
+	4 Ready to Go_MS3
+	4 Reason Rots, Rage Remains_MS3
+	4 Rimebreath Tyrant_MS3
+	4 Rimecraft Owl_MS3
+	4 Risti Salvager_MS3
+	4 Ruffler of Feathers
+	4 Rugged Fields_MS3
+	4 Runic Pillars_MS3
+	4 Scorch_MS3
+	4 Shrine Razer
+	4 Silkweaver Matron_MS3
+	4 Skypath Pilgrimage
+	4 Soul Gate_MS3
+	4 Spark New Life_MS3
+	4 Sticky Fingers_MS3
+	4 Stonefall Golem_MS3
+	4 Stormwake_MS3
+	4 Street Performer_MS3
+	4 Strike from the Shadows_MS3
+	4 Sungrace Meadows_MS3
+	4 Sunwright Scion_MS3
+	4 Tend to the Grove
+	4 Towering Stag_MS3
+	4 Tricked-Out Hoverboard
+	4 Uncommon Grit_MS3
+	4 Unearthly Grace_MS3
+	4 Urban Wastelands
+	4 Veilborn Stalker_MS3
+	4 Wish to See
+	4 Zhedina Envoys_MS3
+[common(7)]
+	8 Accelerate Fate_MS3
+	8 Ankulith Shard_MS3
+	8 Armament Scavenger_MS3
+	8 Backwoods Cultivator_MS3
+	8 Barbed Cocoon_MS3
+	8 Bauble Collector_MS3
+	8 Bearer of Old Growth_MS3
+	8 Beckon the Shadows_MS3
+	8 Blackmoat Bully_MS3
+	8 Blazing Volley_MS3
+	8 Bloodriver_MS3
+	8 C-25 Juliet_MS3
+	8 Cadalon Experimenter_MS3
+	8 Cadalon Outfitter_MS3
+	8 Calcified Dunes_MS3
+	8 Cave Diving_MS3
+	8 Cloudbank_MS3
+	8 Consort of Morning_MS3
+	8 Corpsebed_MS3
+	8 Counting Stars_MS3
+	8 Cradle of Civilization_MS3
+	8 Crossing the Rifts_MS3
+	8 Curiosity_MS3
+	8 Death's Sentry_MS3
+	8 Deep Temptation_MS3
+	8 Devour Memories_MS3
+	8 Diasune Immolator_MS3
+	8 Diffuse_MS3
+	8 Diligent Believer_MS3
+	8 Dimensional Isolation_MS3
+	8 Druid's Deliverance_MS3
+	8 Duelist's Wings_MS3
+	8 Duress_MS3
+	8 Dutiful Counselor_MS3
+	8 Eager Observer_MS3
+	8 Earnest Labourer_MS3
+	8 Entangled Roots_MS3
+	8 Ethereal Armor_MS3
+	8 Felling Vines_MS3
+	8 Ficklewing Elemental_MS3
+	8 Filigree Drake_MS3
+	8 Flash of Blades_MS3
+	8 Flourishing Dunes_MS3
+	8 Form of the Phoenix_MS3
+	8 Fox of the Sunset Legion_MS3
+	8 Gateway Statues_MS3
+	8 Gift of the Phoenix_MS3
+	8 Goriana Naturalist_MS3
+	8 Grace of Timber_MS3
+	8 Groundswell_MS3
+	8 Guidestone_MS3
+	8 Harbinger of Growth_MS3
+	8 Heavy Moneybag_MS3
+	8 Hero's Downfall_MS3
+	8 Highland Dunes_MS3
+	8 Host of Nature_MS3
+	8 Inner Peace_MS3
+	8 Jadycian Empath_MS3
+	8 Join the Colony_MS3
+	8 Maghbri Whisper_MS3
+	8 Marked Coin_MS3
+	8 Meteorain_MS3
+	8 Mortal Will_MS3
+	8 Multipurpose Mannequin_MS3
+	8 Nest Matriarch_MS3
+	8 Nidohagane Warfans_MS3
+	8 Obliterating Blast_MS3
+	8 Ophorion Refugee_MS3
+	8 Opt_MS3
+	8 Oracle of Edicts_MS3
+	8 Pious Flutist_MS3
+	8 Purging Strike_MS3
+	8 Rethia Cultivator_MS3
+	8 Rise from the Harbor_MS3
+	8 Saturated Dunes_MS3
+	8 Scimitar Techniques_MS3
+	8 Seedshrine_MS3
+	8 Self Replication_MS3
+	8 Sentient Contraption_MS3
+	8 Shaping Dragonsteel_MS3
+	8 Shengin Renegade_MS3
+	8 Shifting Terrain_MS3
+	8 Skittering Swarm_MS3
+	8 Slum Scrounger_MS3
+	8 Solemn Offering_MS3
+	8 Soulsmoke Adept_MS3
+	8 Spirit Keeper_MS3
+	8 Spore Vessel_MS3
+	8 Strangulate_MS3
+	8 Stygian Dunes_MS3
+	8 Sunstage_MS3
+	8 Surestrike Elite_MS3
+	8 Take a Walk_MS3
+	8 Telarine Riftcrosser_MS3
+	8 Tombstone Looter_MS3
+	8 Twisted Predator_MS3
+	8 Undying Watcher_MS3
+	8 Unleash the Dragon_MS3
+	8 Warband Commander_MS3
+	8 Warded Tome_MS3
+	8 Warpblade Warrior_MS3
+	8 Watch from Above_MS3
+	8 Weapon Smash_MS3
+	8 Winged Envoy_MS3
+	8 Winged Guardian_MS3
+	8 Worn Saddle_MS3
+[foil(1)]
+	2 Abhorrent Academic
+	12 Accelerate Fate_MS3
+	2 Aether Ascendant_MS3
+	2 Aguri, Shadow of Doubt_MS3
+	2 Aila, Forest Visitor
+	6 Ainok Scout_MS3
+	6 Amber Reserves_MS3
+	1 Angelic Destiny_MS3
+	2 Ankryss, Biologist Adept_MS3
+	12 Ankulith Shard_MS3
+	1 Arbiter of Silence_MS3
+	6 Arcane Caper_MS3
+	12 Armament Scavenger_MS3
+	6 Artificer's Prowess_MS3
+	2 Astral Gateway_MS3
+	1 Avatar of Plume de Val_MS3
+	12 Backwoods Cultivator_MS3
+	12 Barbed Cocoon_MS3
+	12 Bauble Collector_MS3
+	12 Bearer of Old Growth_MS3
+	12 Beckon the Shadows_MS3
+	1 Berbarus Unsealed_MS3
+	6 Bestial Summons_MS3
+	12 Blackmoat Bully_MS3
+	12 Blazing Volley_MS3
+	2 Bloodleaf Tracker_MS3
+	12 Bloodriver_MS3
+	6 Boiling Ridge_MS3
+	6 Bustling Harbor
+	12 C-25 Juliet_MS3
+	12 Cadalon Experimenter_MS3
+	12 Cadalon Outfitter_MS3
+	12 Calcified Dunes_MS3
+	6 Call of the Clocktower
+	6 Cannon Fodder_MS3
+	6 Catch Unawares_MS3
+	12 Cave Diving_MS3
+	2 Children of the Clouds_MS3
+	2 Chromatic Pendant_MS3
+	12 Cloudbank_MS3
+	2 Combat Technician_MS3
+	12 Consort of Morning_MS3
+	6 Corecharge
+	12 Corpsebed_MS3
+	2 Council of the Immortals_MS3
+	12 Counting Stars_MS3
+	12 Cradle of Civilization_MS3
+	12 Crossing the Rifts_MS3
+	12 Curiosity_MS3
+	6 Curse of Kurayami_MS3
+	6 Darklands Charm_MS3
+	2 Deadwood Terror_MS3
+	12 Death's Sentry_MS3
+	12 Deep Temptation_MS3
+	2 Demolitionist Deviser_MS3
+	6 Descend into Insanity_MS3
+	12 Devour Memories_MS3
+	12 Diasune Immolator_MS3
+	12 Diffuse_MS3
+	12 Diligent Believer_MS3
+	12 Dimensional Isolation_MS3
+	6 Disciple of Faradia
+	1 Dragongate_MS3
+	2 Dragonwrought Engineer_MS3
+	6 Dreary Township
+	6 Drove of the Lost_MS3
+	12 Druid's Deliverance_MS3
+	12 Duelist's Wings_MS3
+	12 Duress_MS3
+	6 Duskwood Thicket_MS3
+	12 Dutiful Counselor_MS3
+	12 Eager Observer_MS3
+	12 Earnest Labourer_MS3
+	6 Eleventh Hour Breakthrough_MS3
+	6 Elixir of Immortality_MS3
+	2 Endless Assembly_MS3
+	6 Endless Expedition
+	12 Entangled Roots_MS3
+	6 Ephemeral Support_MS3
+	12 Ethereal Armor_MS3
+	2 Ethereal Spellmaster_MS3
+	6 Experimental Battle Armor_MS3
+	2 Face of All
+	2 Facsimile of Divinity_MS3
+	2 Fateful Journey_MS3
+	6 Fell the Beast_MS3
+	12 Felling Vines_MS3
+	12 Ficklewing Elemental_MS3
+	12 Filigree Drake_MS3
+	12 Flash of Blades_MS3
+	6 Flawless Counterfeit_MS3
+	12 Flourishing Dunes_MS3
+	12 Form of the Phoenix_MS3
+	12 Fox of the Sunset Legion_MS3
+	6 From Shengin's Heart
+	2 Fungal Whomper_MS3
+	12 Gateway Statues_MS3
+	6 Ghostly Flicker_MS3
+	12 Gift of the Phoenix_MS3
+	6 Gift to the Gloam_MS3
+	1 Gleaming Mirrorweaver_MS3
+	6 Glittering Grove
+	12 Goriana Naturalist_MS3
+	12 Grace of Timber_MS3
+	6 Grim Botanist
+	12 Groundswell_MS3
+	12 Guidestone_MS3
+	2 Hall of Random Access Memories_MS3
+	2 Hannah, Entelan Prodigy
+	12 Harbinger of Growth_MS3
+	6 Hazy Moorland_MS3
+	6 Heat of the Moment_MS3
+	12 Heavy Moneybag_MS3
+	6 Hellbent Speed_MS3
+	12 Hero's Downfall_MS3
+	12 Highland Dunes_MS3
+	12 Host of Nature_MS3
+	6 Hub of Innovation_MS3
+	2 Idyllic Tutor_MS3
+	6 Imaginative Dreamer
+	6 Imperial Brutality_MS3
+	6 Imperial Siege_MS3
+	1 Infuse the Apparatus_MS3
+	12 Inner Peace_MS3
+	2 Instant of Brilliance_MS3
+	6 Ishim's Meddling
+	6 Jade Vault Reclaimer_MS3
+	12 Jadycian Empath_MS3
+	12 Join the Colony_MS3
+	6 K-17 Drone_MS3
+	2 Kantra of Old Majik_MS3
+	2 Kantra of the Third Eye_MS3
+	2 Kevthra's Command_MS3
+	1 Kevthra's Will_MS3
+	6 King of Bones_MS3
+	2 Lackeybot
+	1 Lazaire's Conjuring_MS3
+	2 Lijing, the True Divinity_MS3
+	6 Lives Redeemed_MS3
+	2 Lord Asharo_MS3
+	2 Lord Shigure_MS3
+	6 Maelstrom Griffin_MS3
+	6 Maghbri Oracle_MS3
+	12 Maghbri Whisper_MS3
+	2 Marin Polgek, Academy Heiress_MS3
+	12 Marked Coin_MS3
+	2 Marshy Marauder
+	6 Mawdryk's Haven_MS3
+	12 Meteorain_MS3
+	6 Monsoon Lagoon
+	2 Mortal Whims Falter
+	12 Mortal Will_MS3
+	12 Multipurpose Mannequin_MS3
+	2 Natural Recycling_MS3
+	12 Nest Matriarch_MS3
+	12 Nidohagane Warfans_MS3
+	6 Nightmarish Fears_MS3
+	6 Nightrail Fence_MS3
+	2 Nightwatch Rallier_MS3
+	6 Nomadic Patriarch_MS3
+	12 Obliterating Blast_MS3
+	12 Ophorion Refugee_MS3
+	12 Opt_MS3
+	12 Oracle of Edicts_MS3
+	1 Palace of Heavenly Sovereigns_MS3
+	2 Paragon of Noon
+	12 Pious Flutist_MS3
+	6 Pitchpyre Curse
+	6 Primal Ruffian_MS3
+	6 Prismatic Cavern_MS3
+	2 Prismatic Champion_MS3
+	6 Propagation Blade_MS3
+	12 Purging Strike_MS3
+	6 Ready to Go_MS3
+	6 Reason Rots, Rage Remains_MS3
+	2 Renewal Grove_MS3
+	12 Rethia Cultivator_MS3
+	2 Ride the Storm_MS3
+	6 Rimebreath Tyrant_MS3
+	6 Rimecraft Owl_MS3
+	12 Rise from the Harbor_MS3
+	6 Risti Salvager_MS3
+	6 Ruffler of Feathers
+	6 Rugged Fields_MS3
+	6 Runic Pillars_MS3
+	12 Saturated Dunes_MS3
+	12 Scimitar Techniques_MS3
+	6 Scorch_MS3
+	12 Seedshrine_MS3
+	12 Self Replication_MS3
+	12 Sentient Contraption_MS3
+	2 Ser Wayver, the Broken Hour
+	12 Shaping Dragonsteel_MS3
+	2 Shatter Mortal Conveyances_MS3
+	2 Shattered Valkyrie_MS3
+	12 Shengin Renegade_MS3
+	12 Shifting Terrain_MS3
+	1 Shimmering Dragon_MS3
+	6 Shrine Razer
+	2 Sigiled Bulwark
+	6 Silkweaver Matron_MS3
+	12 Skittering Swarm_MS3
+	6 Skypath Pilgrimage
+	12 Slum Scrounger_MS3
+	12 Solemn Offering_MS3
+	6 Soul Gate_MS3
+	12 Soulsmoke Adept_MS3
+	6 Spark New Life_MS3
+	2 Speedreading_MS3
+	12 Spirit Keeper_MS3
+	12 Spore Vessel_MS3
+	2 Spur of the Moment_MS3
+	6 Sticky Fingers_MS3
+	6 Stonefall Golem_MS3
+	6 Stormwake_MS3
+	12 Strangulate_MS3
+	6 Street Performer_MS3
+	6 Strike from the Shadows_MS3
+	12 Stygian Dunes_MS3
+	2 Suburban Runebrawler
+	2 Sukhar, Consort to the Dark
+	6 Sungrace Meadows_MS3
+	12 Sunstage_MS3
+	6 Sunwright Scion_MS3
+	12 Surestrike Elite_MS3
+	2 Synchronous Hellkite_MS3
+	12 Take a Walk_MS3
+	12 Telarine Riftcrosser_MS3
+	2 Telvim Sculptor_MS3
+	6 Tend to the Grove
+	2 The Issbarrens_MS3
+	1 The Last Sacred Gate_MS3
+	1 The Sun Also Rises_MS3
+	1 Time After Time_MS3
+	12 Tombstone Looter_MS3
+	6 Towering Stag_MS3
+	2 Treasury Keyper_MS3
+	6 Tricked-Out Hoverboard
+	2 Turin's Study
+	2 Turned Watcher_MS3
+	12 Twisted Predator_MS3
+	6 Uncommon Grit_MS3
+	2 Undeath Comes_MS3
+	12 Undying Watcher_MS3
+	6 Unearthly Grace_MS3
+	12 Unleash the Dragon_MS3
+	6 Urban Wastelands
+	6 Veilborn Stalker_MS3
+	2 Verdant Expanse_MS3
+	12 Warband Commander_MS3
+	12 Warded Tome_MS3
+	12 Warpblade Warrior_MS3
+	12 Watch from Above_MS3
+	12 Weapon Smash_MS3
+	2 Weaver of Mists
+	2 Wild Lifescale
+	12 Winged Envoy_MS3
+	12 Winged Guardian_MS3
+	6 Wish to See
+	12 Worn Saddle_MS3
+	1 Wurmscape_MS3
+	2 Zarchepet, Master of Sands_MS3
+	6 Zhedina Envoys_MS3
+[wildcard(1)]
+	7 Abhorrent Academic
+	6 Accelerate Fate_MS3
+	7 Aether Ascendant_MS3
+	7 Aguri, Shadow of Doubt_MS3
+	7 Aila, Forest Visitor
+	15 Ainok Scout_MS3
+	15 Amber Reserves_MS3
+	4 Angelic Destiny_MS3
+	7 Ankryss, Biologist Adept_MS3
+	6 Ankulith Shard_MS3
+	4 Arbiter of Silence_MS3
+	15 Arcane Caper_MS3
+	6 Armament Scavenger_MS3
+	15 Artificer's Prowess_MS3
+	7 Astral Gateway_MS3
+	4 Avatar of Plume de Val_MS3
+	6 Backwoods Cultivator_MS3
+	6 Barbed Cocoon_MS3
+	6 Bauble Collector_MS3
+	6 Bearer of Old Growth_MS3
+	6 Beckon the Shadows_MS3
+	4 Berbarus Unsealed_MS3
+	15 Bestial Summons_MS3
+	6 Blackmoat Bully_MS3
+	6 Blazing Volley_MS3
+	7 Bloodleaf Tracker_MS3
+	6 Bloodriver_MS3
+	15 Boiling Ridge_MS3
+	15 Bustling Harbor
+	6 C-25 Juliet_MS3
+	6 Cadalon Experimenter_MS3
+	6 Cadalon Outfitter_MS3
+	6 Calcified Dunes_MS3
+	15 Call of the Clocktower
+	15 Cannon Fodder_MS3
+	15 Catch Unawares_MS3
+	6 Cave Diving_MS3
+	7 Children of the Clouds_MS3
+	7 Chromatic Pendant_MS3
+	6 Cloudbank_MS3
+	7 Combat Technician_MS3
+	6 Consort of Morning_MS3
+	15 Corecharge
+	6 Corpsebed_MS3
+	7 Council of the Immortals_MS3
+	6 Counting Stars_MS3
+	6 Cradle of Civilization_MS3
+	6 Crossing the Rifts_MS3
+	6 Curiosity_MS3
+	15 Curse of Kurayami_MS3
+	15 Darklands Charm_MS3
+	7 Deadwood Terror_MS3
+	6 Death's Sentry_MS3
+	6 Deep Temptation_MS3
+	7 Demolitionist Deviser_MS3
+	15 Descend into Insanity_MS3
+	6 Devour Memories_MS3
+	6 Diasune Immolator_MS3
+	6 Diffuse_MS3
+	6 Diligent Believer_MS3
+	6 Dimensional Isolation_MS3
+	15 Disciple of Faradia
+	4 Dragongate_MS3
+	7 Dragonwrought Engineer_MS3
+	15 Dreary Township
+	15 Drove of the Lost_MS3
+	6 Druid's Deliverance_MS3
+	6 Duelist's Wings_MS3
+	6 Duress_MS3
+	15 Duskwood Thicket_MS3
+	6 Dutiful Counselor_MS3
+	6 Eager Observer_MS3
+	6 Earnest Labourer_MS3
+	15 Eleventh Hour Breakthrough_MS3
+	15 Elixir of Immortality_MS3
+	7 Endless Assembly_MS3
+	15 Endless Expedition
+	6 Entangled Roots_MS3
+	15 Ephemeral Support_MS3
+	6 Ethereal Armor_MS3
+	7 Ethereal Spellmaster_MS3
+	15 Experimental Battle Armor_MS3
+	7 Face of All
+	7 Facsimile of Divinity_MS3
+	7 Fateful Journey_MS3
+	15 Fell the Beast_MS3
+	6 Felling Vines_MS3
+	6 Ficklewing Elemental_MS3
+	6 Filigree Drake_MS3
+	6 Flash of Blades_MS3
+	15 Flawless Counterfeit_MS3
+	6 Flourishing Dunes_MS3
+	6 Form of the Phoenix_MS3
+	6 Fox of the Sunset Legion_MS3
+	15 From Shengin's Heart
+	7 Fungal Whomper_MS3
+	6 Gateway Statues_MS3
+	15 Ghostly Flicker_MS3
+	6 Gift of the Phoenix_MS3
+	15 Gift to the Gloam_MS3
+	4 Gleaming Mirrorweaver_MS3
+	15 Glittering Grove
+	6 Goriana Naturalist_MS3
+	6 Grace of Timber_MS3
+	15 Grim Botanist
+	6 Groundswell_MS3
+	6 Guidestone_MS3
+	7 Hall of Random Access Memories_MS3
+	7 Hannah, Entelan Prodigy
+	6 Harbinger of Growth_MS3
+	15 Hazy Moorland_MS3
+	15 Heat of the Moment_MS3
+	6 Heavy Moneybag_MS3
+	15 Hellbent Speed_MS3
+	6 Hero's Downfall_MS3
+	6 Highland Dunes_MS3
+	6 Host of Nature_MS3
+	15 Hub of Innovation_MS3
+	7 Idyllic Tutor_MS3
+	15 Imaginative Dreamer
+	15 Imperial Brutality_MS3
+	15 Imperial Siege_MS3
+	4 Infuse the Apparatus_MS3
+	6 Inner Peace_MS3
+	7 Instant of Brilliance_MS3
+	15 Ishim's Meddling
+	15 Jade Vault Reclaimer_MS3
+	6 Jadycian Empath_MS3
+	6 Join the Colony_MS3
+	15 K-17 Drone_MS3
+	7 Kantra of Old Majik_MS3
+	7 Kantra of the Third Eye_MS3
+	7 Kevthra's Command_MS3
+	4 Kevthra's Will_MS3
+	15 King of Bones_MS3
+	7 Lackeybot
+	4 Lazaire's Conjuring_MS3
+	7 Lijing, the True Divinity_MS3
+	15 Lives Redeemed_MS3
+	7 Lord Asharo_MS3
+	7 Lord Shigure_MS3
+	15 Maelstrom Griffin_MS3
+	15 Maghbri Oracle_MS3
+	6 Maghbri Whisper_MS3
+	7 Marin Polgek, Academy Heiress_MS3
+	6 Marked Coin_MS3
+	7 Marshy Marauder
+	15 Mawdryk's Haven_MS3
+	6 Meteorain_MS3
+	15 Monsoon Lagoon
+	7 Mortal Whims Falter
+	6 Mortal Will_MS3
+	6 Multipurpose Mannequin_MS3
+	7 Natural Recycling_MS3
+	6 Nest Matriarch_MS3
+	6 Nidohagane Warfans_MS3
+	15 Nightmarish Fears_MS3
+	15 Nightrail Fence_MS3
+	7 Nightwatch Rallier_MS3
+	15 Nomadic Patriarch_MS3
+	6 Obliterating Blast_MS3
+	6 Ophorion Refugee_MS3
+	6 Opt_MS3
+	6 Oracle of Edicts_MS3
+	4 Palace of Heavenly Sovereigns_MS3
+	7 Paragon of Noon
+	6 Pious Flutist_MS3
+	15 Pitchpyre Curse
+	15 Primal Ruffian_MS3
+	15 Prismatic Cavern_MS3
+	7 Prismatic Champion_MS3
+	15 Propagation Blade_MS3
+	6 Purging Strike_MS3
+	15 Ready to Go_MS3
+	15 Reason Rots, Rage Remains_MS3
+	7 Renewal Grove_MS3
+	6 Rethia Cultivator_MS3
+	7 Ride the Storm_MS3
+	15 Rimebreath Tyrant_MS3
+	15 Rimecraft Owl_MS3
+	6 Rise from the Harbor_MS3
+	15 Risti Salvager_MS3
+	15 Ruffler of Feathers
+	15 Rugged Fields_MS3
+	15 Runic Pillars_MS3
+	6 Saturated Dunes_MS3
+	6 Scimitar Techniques_MS3
+	15 Scorch_MS3
+	6 Seedshrine_MS3
+	6 Self Replication_MS3
+	6 Sentient Contraption_MS3
+	7 Ser Wayver, the Broken Hour
+	6 Shaping Dragonsteel_MS3
+	7 Shatter Mortal Conveyances_MS3
+	7 Shattered Valkyrie_MS3
+	6 Shengin Renegade_MS3
+	6 Shifting Terrain_MS3
+	4 Shimmering Dragon_MS3
+	15 Shrine Razer
+	7 Sigiled Bulwark
+	15 Silkweaver Matron_MS3
+	6 Skittering Swarm_MS3
+	15 Skypath Pilgrimage
+	6 Slum Scrounger_MS3
+	6 Solemn Offering_MS3
+	15 Soul Gate_MS3
+	6 Soulsmoke Adept_MS3
+	15 Spark New Life_MS3
+	7 Speedreading_MS3
+	6 Spirit Keeper_MS3
+	6 Spore Vessel_MS3
+	7 Spur of the Moment_MS3
+	15 Sticky Fingers_MS3
+	15 Stonefall Golem_MS3
+	15 Stormwake_MS3
+	6 Strangulate_MS3
+	15 Street Performer_MS3
+	15 Strike from the Shadows_MS3
+	6 Stygian Dunes_MS3
+	7 Suburban Runebrawler
+	7 Sukhar, Consort to the Dark
+	15 Sungrace Meadows_MS3
+	6 Sunstage_MS3
+	15 Sunwright Scion_MS3
+	6 Surestrike Elite_MS3
+	7 Synchronous Hellkite_MS3
+	6 Take a Walk_MS3
+	6 Telarine Riftcrosser_MS3
+	7 Telvim Sculptor_MS3
+	15 Tend to the Grove
+	7 The Issbarrens_MS3
+	4 The Last Sacred Gate_MS3
+	4 The Sun Also Rises_MS3
+	4 Time After Time_MS3
+	6 Tombstone Looter_MS3
+	15 Towering Stag_MS3
+	7 Treasury Keyper_MS3
+	15 Tricked-Out Hoverboard
+	7 Turin's Study
+	7 Turned Watcher_MS3
+	6 Twisted Predator_MS3
+	15 Uncommon Grit_MS3
+	7 Undeath Comes_MS3
+	6 Undying Watcher_MS3
+	15 Unearthly Grace_MS3
+	6 Unleash the Dragon_MS3
+	15 Urban Wastelands
+	15 Veilborn Stalker_MS3
+	7 Verdant Expanse_MS3
+	6 Warband Commander_MS3
+	6 Warded Tome_MS3
+	6 Warpblade Warrior_MS3
+	6 Watch from Above_MS3
+	6 Weapon Smash_MS3
+	7 Weaver of Mists
+	7 Wild Lifescale
+	6 Winged Envoy_MS3
+	6 Winged Guardian_MS3
+	15 Wish to See
+	6 Worn Saddle_MS3
+	4 Wurmscape_MS3
+	7 Zarchepet, Master of Sands_MS3
+	15 Zhedina Envoys_MS3

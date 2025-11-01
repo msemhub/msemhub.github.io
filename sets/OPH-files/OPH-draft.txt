@@ -1,0 +1,2990 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Accelerate Fate",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Ada, the Free",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Legendary Creature — Reflection",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Ada's Mischief",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Aetherial Ascent",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Ahl's Study",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Ahl the Mirrorwalker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Planeswalker — Ahl",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Airam, Packleader",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Elf",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Aleena, Grace of the Lha",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Reflection",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Aleud Beastmaster",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Aleud Bladedancer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Aleud Blademaster",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Aleud Grace",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Aleud Pathfinder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Aleud Scorn",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Alyss, Lawweaver",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Reflection",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Anaz, Bloodmother",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Lizard Beast",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Ancient Gleam",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Annihilate Aggressor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Arisen Haploc",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Lizard Skeleton",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Arroyo, the Bound",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Arroyo's Servant",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Reflection Rogue",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Augment Authority",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Aurora, Soulweaver",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Reflection",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Avalanche Stinger",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Scorpion",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Better Half",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Reflection",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Blazebrew Bear",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Blazing Fox",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Fox",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Blighted Haploc",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Carrier Lizard",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Blood Bounty",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Bloodmad Refugee",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Bloodscale Serpent",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{G}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Bogclaw Sniper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Lizard Archer",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Bogclaw Swarm",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Bottled Fate",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Griffin",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Burned Bounty",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Bygone Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Carrier Pigeon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Carrier Bird",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Carrionpult",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Chainslinger",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Chew the Scenery",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Clipped Seer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Bird Mystic",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Coastal Watch",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Reflection Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Comfortable Commoner",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird Citizen",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Confront Death",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Contagious Host",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Carrier",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Contorted Reflection",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Reflection",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Converted Conqueror",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Reflection",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Crafted Behemoth",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Crafted Coast",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Crowned Outcast",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Bird Reflection",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Crusher Claw",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Lizard",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Crystallizer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Reflection",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Culling Claw",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Lizard",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Curator of Curios",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird Citizen",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Dawn Chord",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Reflection",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Deathlink",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Delirious Landscape",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Demand Reverence",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Deranged Razorclaw",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Lizard Horror",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Deranged Seeker",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Bird Beast",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Destiny Forgotten",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Dinah, Lifeweaver",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Reflection",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Dire Dive",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Disgrace of Kin",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Dispel Delusions",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Dylso Charmer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Reflection Wizard",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Earthen Armor",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Edge of the World",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Elusive Fatecrafter",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Reflection",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Elven War Paint",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Enduring Memory",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Enlightened Lizard",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Lizard Wizard",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Essence Inversion",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Exploring the Mirrorworlds",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Fading Prison",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Fallen Fateweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Wizard",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Fatefree Spirit",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Reflection",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Fateweaving",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Feral Lizardbeast",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Lizard Beast",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Ferrofy",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Firing Blind",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Flare Extensions",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Follower of Fortune",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Reflection Citizen",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Foreign Affliction",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Foreseen Denial",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Foreseen Failure",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Foretold Strength",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Forge Ahead",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Lessons",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Frenzied Fervor",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Gleamhorn Elk",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Elk",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Gleaming Mirrorweaver",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Glintwing Replica",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Glittering Seeker",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Bird Reflection",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Glow of Grandeur",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Guerrilla Strike",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Hall of Mirrors",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Halls of Renown",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Haploc Assembly",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Haploc Blooddrinker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Lizard Rogue",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Haploc Striker",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Haunted Estate",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Haunting Haploc",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Carrier Lizard",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Helm of the Infinite",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Hopeful Healer",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Reflection Citizen",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Hour of Honor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Ichor Fling",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Infectious Corpse",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Carrier",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Intents // Purposes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Intents // Purposes",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Kalak Bridge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Kalak Culler",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Troll Warrior",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Lavamind Elemental",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Lha Reckoner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Reflection",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Lifebreather",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Reflection Cleric",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Light Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Reflection Knight",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Lightbolt Archer",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Reflection Archer",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Lingering Reflection",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Creature — Reflection",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Live // Learn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Live // Learn",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Lunar Defractor",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Reflection",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Lush Outcrop",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Lusterform",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Lusterwing Owl",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Reflection",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Mantis Slasher",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Mark of Majesty",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Martyr's Bounty",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Memory Martyr",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Reflection Citizen",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Might of the Dylso",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Mirrorwalk",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Moonsight",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Moonwing Watcher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Mystic Parliament",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Nullify Naysayer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Omhok the Revealer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Bird Wizard",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Ophorion Refugee",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Pawnbroker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Poisoned Aleud",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Carrier Elf",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Pride // Prejudice",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Pride // Prejudice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Pristine Prison",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Proclaimed Cure",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Promised Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Mystic",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Promising Visage",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Reflection",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Prophecized Plating",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Prophetic Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Quadmired",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Rain of Ruin",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Recast Destiny",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Reckless Ride",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Reclaim Relics",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Reclaimed Kalak",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Troll Shaman",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Reflected Moment",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Refractors Gaze",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Reins of Influence",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Results Uncertain",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Reweave Reality",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Rite of Fangs",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Rite of Retribution",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Rooted Cavalier",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elf Elemental Knight",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Rooted Hooter",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Sacrificial Pit",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Scaled Devestator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Scaled Mindreaver",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Scaled Thundercaller",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Scattering Light",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Scrounging Claw",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Search // Seizure",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Search // Seizure",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Searing Insult",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Seek Prophecy",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Seeker's Garment",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Seeker's Guardian",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Sharpened Claw",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Shield of the Lha",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Show of Supremacy",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Simple Fatereader",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Reflection Wizard",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Singer of Songs",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Reflection Citizen",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Skulking Claw",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Lizard Rogue",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Sneak a Peek",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Snowy Misthorn",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Sodden Sorrow",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Solar Flair",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Reflection",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Spark Inspiration",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Spired Canopy",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Stalk the Dylso",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Starfall Dancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Reflection",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Stargaze Spirit",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Reflection Cleric",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Starwing Nebula",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Steward of Silence",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Reflection Citizen",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Stolen Strain",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Stormwing Raven",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Stray Thoughts",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Study Habitats",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Summoner's Call",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Supreme Stampede",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Sweltering Storm",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Sword of Memories",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Sylvan Crusher",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Tale of Two Sisters",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Tempt Fate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "The Blight Beyond",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Planeswalker — Blight Xaro",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "The Erased",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "The Sun's Last Setting",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Tormented Echo",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Reflection Rogue",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Trading Traitor",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Treasurer of Thought",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Reflection",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Triumphant Toady",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Reflection Citizen",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Twinned Attrition",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Twisted Elixir",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Venomous Haploc",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Lizard",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Vicar of Victory",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Reflection Cleric",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Vicious Slasher",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Vivid Afterimage",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Wait // See",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Wait // See",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Walk the Seas",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Warped Reader",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Bird Mystic",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Warrior's Cloak",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Weaver of Lore",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Reflection Wizard",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Wightlight",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Wild Haploc",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Wildfire Elemental",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{G}",
+			"type": "Creature — Elk Elemental",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Wings of the Moon",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Withering Pathways",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Writing Wonders",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Annihilate Aggressor_PRO_OPH",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Crystallizer_PRO_OPH",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Reflection",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Endless Reverie_PRO_OPH",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/OPH-files/img/225.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Ada, the Free
+	2 Ahl's Study
+	1 Ahl the Mirrorwalker
+	2 Airam, Packleader
+	2 Aleena, Grace of the Lha
+	2 Aleud Beastmaster
+	1 Alyss, Lawweaver
+	2 Anaz, Bloodmother
+	1 Arroyo, the Bound
+	2 Arroyo's Servant
+	1 Aurora, Soulweaver
+	2 Better Half
+	2 Blighted Haploc
+	2 Bogclaw Swarm
+	2 Chew the Scenery
+	2 Converted Conqueror
+	2 Demand Reverence
+	2 Deranged Razorclaw
+	1 Dinah, Lifeweaver
+	2 Disgrace of Kin
+	2 Edge of the World
+	2 Elusive Fatecrafter
+	2 Essence Inversion
+	2 Fateweaving
+	2 Follower of Fortune
+	1 Gleaming Mirrorweaver
+	2 Glittering Seeker
+	2 Guerrilla Strike
+	2 Hall of Mirrors
+	2 Halls of Renown
+	2 Haploc Assembly
+	2 Haploc Striker
+	1 Helm of the Infinite
+	2 Kalak Culler
+	2 Lavamind Elemental
+	2 Omhok the Revealer
+	2 Pristine Prison
+	2 Rain of Ruin
+	1 Reflected Moment
+	2 Refractors Gaze
+	2 Reweave Reality
+	2 Rite of Retribution
+	2 Shield of the Lha
+	2 Starwing Nebula
+	2 Study Habitats
+	2 Summoner's Call
+	2 Supreme Stampede
+	1 The Blight Beyond
+	1 The Erased
+	1 The Sun's Last Setting
+	2 Trading Traitor
+	2 Vicar of Victory
+	2 Vicious Slasher
+	2 Vivid Afterimage
+	2 Wildfire Elemental
+[uncommon(3)]
+	4 Aleud Blademaster
+	4 Aleud Pathfinder
+	4 Aleud Scorn
+	4 Annihilate Aggressor
+	4 Arisen Haploc
+	4 Avalanche Stinger
+	4 Blazing Fox
+	4 Blood Bounty
+	4 Bloodscale Serpent
+	4 Bogclaw Sniper
+	4 Burned Bounty
+	4 Bygone Blade
+	4 Carrier Pigeon
+	4 Carrionpult
+	4 Clipped Seer
+	4 Crafted Coast
+	4 Crowned Outcast
+	4 Crystallizer
+	4 Curator of Curios
+	4 Dawn Chord
+	4 Destiny Forgotten
+	4 Dire Dive
+	4 Dispel Delusions
+	4 Enduring Memory
+	4 Exploring the Mirrorworlds
+	4 Fallen Fateweaver
+	4 Firing Blind
+	4 Flare Extensions
+	4 Foreign Affliction
+	4 Foreseen Denial
+	4 Forgotten Lessons
+	4 Glintwing Replica
+	4 Haunted Estate
+	4 Haunting Haploc
+	4 Hour of Honor
+	4 Intents // Purposes
+	4 Intents // Purposes
+	4 Kalak Bridge
+	4 Lha Reckoner
+	4 Light Knight
+	4 Live // Learn
+	4 Live // Learn
+	4 Lush Outcrop
+	4 Memory Martyr
+	4 Moonwing Watcher
+	4 Mystic Parliament
+	4 Pawnbroker
+	4 Poisoned Aleud
+	4 Pride // Prejudice
+	4 Pride // Prejudice
+	4 Promised Seeker
+	4 Prophetic Blade
+	4 Quadmired
+	4 Rooted Hooter
+	4 Scaled Devestator
+	4 Search // Seizure
+	4 Search // Seizure
+	4 Seeker's Garment
+	4 Skulking Claw
+	4 Sodden Sorrow
+	4 Spark Inspiration
+	4 Spired Canopy
+	4 Starfall Dancer
+	4 Steward of Silence
+	4 Stray Thoughts
+	4 Sword of Memories
+	4 Tale of Two Sisters
+	4 Tempt Fate
+	4 Treasurer of Thought
+	4 Twinned Attrition
+	4 Venomous Haploc
+	4 Wait // See
+	4 Wait // See
+	4 Warrior's Cloak
+	4 Writing Wonders
+[common(7)]
+	8 Accelerate Fate
+	8 Ada's Mischief
+	8 Aetherial Ascent
+	8 Aleud Bladedancer
+	8 Aleud Grace
+	8 Ancient Gleam
+	8 Augment Authority
+	8 Blazebrew Bear
+	8 Bloodmad Refugee
+	8 Bottled Fate
+	8 Brilliant Griffin
+	8 Chainslinger
+	8 Coastal Watch
+	8 Comfortable Commoner
+	8 Confront Death
+	8 Contagious Host
+	8 Contorted Reflection
+	8 Crafted Behemoth
+	8 Crusher Claw
+	8 Culling Claw
+	8 Deathlink
+	8 Delirious Landscape
+	8 Deranged Seeker
+	8 Dylso Charmer
+	8 Earthen Armor
+	8 Elven War Paint
+	8 Enlightened Lizard
+	8 Fading Prison
+	8 Fatefree Spirit
+	8 Feral Lizardbeast
+	8 Ferrofy
+	8 Foreseen Failure
+	8 Foretold Strength
+	8 Forge Ahead
+	8 Frenzied Fervor
+	8 Gleamhorn Elk
+	8 Glow of Grandeur
+	8 Haploc Blooddrinker
+	8 Hopeful Healer
+	8 Ichor Fling
+	8 Infectious Corpse
+	8 Lifebreather
+	8 Lightbolt Archer
+	8 Lingering Reflection
+	8 Lunar Defractor
+	8 Lusterform
+	8 Lusterwing Owl
+	8 Mantis Slasher
+	8 Mark of Majesty
+	8 Martyr's Bounty
+	8 Might of the Dylso
+	8 Mirrorwalk
+	8 Moonsight
+	8 Nullify Naysayer
+	8 Ophorion Refugee
+	8 Proclaimed Cure
+	8 Promising Visage
+	8 Prophecized Plating
+	8 Recast Destiny
+	8 Reckless Ride
+	8 Reclaim Relics
+	8 Reclaimed Kalak
+	8 Reins of Influence
+	8 Results Uncertain
+	8 Rite of Fangs
+	8 Rooted Cavalier
+	8 Sacrificial Pit
+	8 Scaled Mindreaver
+	8 Scaled Thundercaller
+	8 Scattering Light
+	8 Scrounging Claw
+	8 Searing Insult
+	8 Seek Prophecy
+	8 Seeker's Guardian
+	8 Sharpened Claw
+	8 Show of Supremacy
+	8 Simple Fatereader
+	8 Singer of Songs
+	8 Sneak a Peek
+	8 Snowy Misthorn
+	8 Solar Flair
+	8 Stalk the Dylso
+	8 Stargaze Spirit
+	8 Stolen Strain
+	8 Stormwing Raven
+	8 Sweltering Storm
+	8 Sylvan Crusher
+	8 Tormented Echo
+	8 Triumphant Toady
+	8 Twisted Elixir
+	8 Walk the Seas
+	8 Warped Reader
+	8 Weaver of Lore
+	8 Wightlight
+	8 Wild Haploc
+	8 Wings of the Moon
+	8 Withering Pathways
+[foil(1)]
+	12 Accelerate Fate
+	1 Ada, the Free
+	12 Ada's Mischief
+	12 Aetherial Ascent
+	2 Ahl's Study
+	1 Ahl the Mirrorwalker
+	2 Airam, Packleader
+	2 Aleena, Grace of the Lha
+	2 Aleud Beastmaster
+	12 Aleud Bladedancer
+	6 Aleud Blademaster
+	12 Aleud Grace
+	6 Aleud Pathfinder
+	6 Aleud Scorn
+	1 Alyss, Lawweaver
+	2 Anaz, Bloodmother
+	12 Ancient Gleam
+	6 Annihilate Aggressor
+	6 Arisen Haploc
+	1 Arroyo, the Bound
+	2 Arroyo's Servant
+	12 Augment Authority
+	1 Aurora, Soulweaver
+	6 Avalanche Stinger
+	2 Better Half
+	12 Blazebrew Bear
+	6 Blazing Fox
+	2 Blighted Haploc
+	6 Blood Bounty
+	12 Bloodmad Refugee
+	6 Bloodscale Serpent
+	6 Bogclaw Sniper
+	2 Bogclaw Swarm
+	12 Bottled Fate
+	12 Brilliant Griffin
+	6 Burned Bounty
+	6 Bygone Blade
+	6 Carrier Pigeon
+	6 Carrionpult
+	12 Chainslinger
+	2 Chew the Scenery
+	6 Clipped Seer
+	12 Coastal Watch
+	12 Comfortable Commoner
+	12 Confront Death
+	12 Contagious Host
+	12 Contorted Reflection
+	2 Converted Conqueror
+	12 Crafted Behemoth
+	6 Crafted Coast
+	6 Crowned Outcast
+	12 Crusher Claw
+	6 Crystallizer
+	12 Culling Claw
+	6 Curator of Curios
+	6 Dawn Chord
+	12 Deathlink
+	12 Delirious Landscape
+	2 Demand Reverence
+	2 Deranged Razorclaw
+	12 Deranged Seeker
+	6 Destiny Forgotten
+	1 Dinah, Lifeweaver
+	6 Dire Dive
+	2 Disgrace of Kin
+	6 Dispel Delusions
+	12 Dylso Charmer
+	12 Earthen Armor
+	2 Edge of the World
+	2 Elusive Fatecrafter
+	12 Elven War Paint
+	6 Enduring Memory
+	12 Enlightened Lizard
+	2 Essence Inversion
+	6 Exploring the Mirrorworlds
+	12 Fading Prison
+	6 Fallen Fateweaver
+	12 Fatefree Spirit
+	2 Fateweaving
+	12 Feral Lizardbeast
+	12 Ferrofy
+	6 Firing Blind
+	6 Flare Extensions
+	2 Follower of Fortune
+	6 Foreign Affliction
+	6 Foreseen Denial
+	12 Foreseen Failure
+	12 Foretold Strength
+	12 Forge Ahead
+	6 Forgotten Lessons
+	12 Frenzied Fervor
+	12 Gleamhorn Elk
+	1 Gleaming Mirrorweaver
+	6 Glintwing Replica
+	2 Glittering Seeker
+	12 Glow of Grandeur
+	2 Guerrilla Strike
+	2 Hall of Mirrors
+	2 Halls of Renown
+	2 Haploc Assembly
+	12 Haploc Blooddrinker
+	2 Haploc Striker
+	6 Haunted Estate
+	6 Haunting Haploc
+	1 Helm of the Infinite
+	12 Hopeful Healer
+	6 Hour of Honor
+	12 Ichor Fling
+	12 Infectious Corpse
+	6 Intents // Purposes
+	6 Intents // Purposes
+	6 Kalak Bridge
+	2 Kalak Culler
+	2 Lavamind Elemental
+	6 Lha Reckoner
+	12 Lifebreather
+	6 Light Knight
+	12 Lightbolt Archer
+	12 Lingering Reflection
+	6 Live // Learn
+	6 Live // Learn
+	12 Lunar Defractor
+	6 Lush Outcrop
+	12 Lusterform
+	12 Lusterwing Owl
+	12 Mantis Slasher
+	12 Mark of Majesty
+	12 Martyr's Bounty
+	6 Memory Martyr
+	12 Might of the Dylso
+	12 Mirrorwalk
+	12 Moonsight
+	6 Moonwing Watcher
+	6 Mystic Parliament
+	12 Nullify Naysayer
+	2 Omhok the Revealer
+	12 Ophorion Refugee
+	6 Pawnbroker
+	6 Poisoned Aleud
+	6 Pride // Prejudice
+	6 Pride // Prejudice
+	2 Pristine Prison
+	12 Proclaimed Cure
+	6 Promised Seeker
+	12 Promising Visage
+	12 Prophecized Plating
+	6 Prophetic Blade
+	6 Quadmired
+	2 Rain of Ruin
+	12 Recast Destiny
+	12 Reckless Ride
+	12 Reclaim Relics
+	12 Reclaimed Kalak
+	1 Reflected Moment
+	2 Refractors Gaze
+	12 Reins of Influence
+	12 Results Uncertain
+	2 Reweave Reality
+	12 Rite of Fangs
+	2 Rite of Retribution
+	12 Rooted Cavalier
+	6 Rooted Hooter
+	12 Sacrificial Pit
+	6 Scaled Devestator
+	12 Scaled Mindreaver
+	12 Scaled Thundercaller
+	12 Scattering Light
+	12 Scrounging Claw
+	6 Search // Seizure
+	6 Search // Seizure
+	12 Searing Insult
+	12 Seek Prophecy
+	6 Seeker's Garment
+	12 Seeker's Guardian
+	12 Sharpened Claw
+	2 Shield of the Lha
+	12 Show of Supremacy
+	12 Simple Fatereader
+	12 Singer of Songs
+	6 Skulking Claw
+	12 Sneak a Peek
+	12 Snowy Misthorn
+	6 Sodden Sorrow
+	12 Solar Flair
+	6 Spark Inspiration
+	6 Spired Canopy
+	12 Stalk the Dylso
+	6 Starfall Dancer
+	12 Stargaze Spirit
+	2 Starwing Nebula
+	6 Steward of Silence
+	12 Stolen Strain
+	12 Stormwing Raven
+	6 Stray Thoughts
+	2 Study Habitats
+	2 Summoner's Call
+	2 Supreme Stampede
+	12 Sweltering Storm
+	6 Sword of Memories
+	12 Sylvan Crusher
+	6 Tale of Two Sisters
+	6 Tempt Fate
+	1 The Blight Beyond
+	1 The Erased
+	1 The Sun's Last Setting
+	12 Tormented Echo
+	2 Trading Traitor
+	6 Treasurer of Thought
+	12 Triumphant Toady
+	6 Twinned Attrition
+	12 Twisted Elixir
+	6 Venomous Haploc
+	2 Vicar of Victory
+	2 Vicious Slasher
+	2 Vivid Afterimage
+	6 Wait // See
+	6 Wait // See
+	12 Walk the Seas
+	12 Warped Reader
+	6 Warrior's Cloak
+	12 Weaver of Lore
+	12 Wightlight
+	12 Wild Haploc
+	2 Wildfire Elemental
+	12 Wings of the Moon
+	12 Withering Pathways
+	6 Writing Wonders
+[wildcard(1)]
+	6 Accelerate Fate
+	4 Ada, the Free
+	6 Ada's Mischief
+	6 Aetherial Ascent
+	7 Ahl's Study
+	4 Ahl the Mirrorwalker
+	7 Airam, Packleader
+	7 Aleena, Grace of the Lha
+	7 Aleud Beastmaster
+	6 Aleud Bladedancer
+	15 Aleud Blademaster
+	6 Aleud Grace
+	15 Aleud Pathfinder
+	15 Aleud Scorn
+	4 Alyss, Lawweaver
+	7 Anaz, Bloodmother
+	6 Ancient Gleam
+	15 Annihilate Aggressor
+	15 Arisen Haploc
+	4 Arroyo, the Bound
+	7 Arroyo's Servant
+	6 Augment Authority
+	4 Aurora, Soulweaver
+	15 Avalanche Stinger
+	7 Better Half
+	6 Blazebrew Bear
+	15 Blazing Fox
+	7 Blighted Haploc
+	15 Blood Bounty
+	6 Bloodmad Refugee
+	15 Bloodscale Serpent
+	15 Bogclaw Sniper
+	7 Bogclaw Swarm
+	6 Bottled Fate
+	6 Brilliant Griffin
+	15 Burned Bounty
+	15 Bygone Blade
+	15 Carrier Pigeon
+	15 Carrionpult
+	6 Chainslinger
+	7 Chew the Scenery
+	15 Clipped Seer
+	6 Coastal Watch
+	6 Comfortable Commoner
+	6 Confront Death
+	6 Contagious Host
+	6 Contorted Reflection
+	7 Converted Conqueror
+	6 Crafted Behemoth
+	15 Crafted Coast
+	15 Crowned Outcast
+	6 Crusher Claw
+	15 Crystallizer
+	6 Culling Claw
+	15 Curator of Curios
+	15 Dawn Chord
+	6 Deathlink
+	6 Delirious Landscape
+	7 Demand Reverence
+	7 Deranged Razorclaw
+	6 Deranged Seeker
+	15 Destiny Forgotten
+	4 Dinah, Lifeweaver
+	15 Dire Dive
+	7 Disgrace of Kin
+	15 Dispel Delusions
+	6 Dylso Charmer
+	6 Earthen Armor
+	7 Edge of the World
+	7 Elusive Fatecrafter
+	6 Elven War Paint
+	15 Enduring Memory
+	6 Enlightened Lizard
+	7 Essence Inversion
+	15 Exploring the Mirrorworlds
+	6 Fading Prison
+	15 Fallen Fateweaver
+	6 Fatefree Spirit
+	7 Fateweaving
+	6 Feral Lizardbeast
+	6 Ferrofy
+	15 Firing Blind
+	15 Flare Extensions
+	7 Follower of Fortune
+	15 Foreign Affliction
+	15 Foreseen Denial
+	6 Foreseen Failure
+	6 Foretold Strength
+	6 Forge Ahead
+	15 Forgotten Lessons
+	6 Frenzied Fervor
+	6 Gleamhorn Elk
+	4 Gleaming Mirrorweaver
+	15 Glintwing Replica
+	7 Glittering Seeker
+	6 Glow of Grandeur
+	7 Guerrilla Strike
+	7 Hall of Mirrors
+	7 Halls of Renown
+	7 Haploc Assembly
+	6 Haploc Blooddrinker
+	7 Haploc Striker
+	15 Haunted Estate
+	15 Haunting Haploc
+	4 Helm of the Infinite
+	6 Hopeful Healer
+	15 Hour of Honor
+	6 Ichor Fling
+	6 Infectious Corpse
+	15 Intents // Purposes
+	15 Intents // Purposes
+	15 Kalak Bridge
+	7 Kalak Culler
+	7 Lavamind Elemental
+	15 Lha Reckoner
+	6 Lifebreather
+	15 Light Knight
+	6 Lightbolt Archer
+	6 Lingering Reflection
+	15 Live // Learn
+	15 Live // Learn
+	6 Lunar Defractor
+	15 Lush Outcrop
+	6 Lusterform
+	6 Lusterwing Owl
+	6 Mantis Slasher
+	6 Mark of Majesty
+	6 Martyr's Bounty
+	15 Memory Martyr
+	6 Might of the Dylso
+	6 Mirrorwalk
+	6 Moonsight
+	15 Moonwing Watcher
+	15 Mystic Parliament
+	6 Nullify Naysayer
+	7 Omhok the Revealer
+	6 Ophorion Refugee
+	15 Pawnbroker
+	15 Poisoned Aleud
+	15 Pride // Prejudice
+	15 Pride // Prejudice
+	7 Pristine Prison
+	6 Proclaimed Cure
+	15 Promised Seeker
+	6 Promising Visage
+	6 Prophecized Plating
+	15 Prophetic Blade
+	15 Quadmired
+	7 Rain of Ruin
+	6 Recast Destiny
+	6 Reckless Ride
+	6 Reclaim Relics
+	6 Reclaimed Kalak
+	4 Reflected Moment
+	7 Refractors Gaze
+	6 Reins of Influence
+	6 Results Uncertain
+	7 Reweave Reality
+	6 Rite of Fangs
+	7 Rite of Retribution
+	6 Rooted Cavalier
+	15 Rooted Hooter
+	6 Sacrificial Pit
+	15 Scaled Devestator
+	6 Scaled Mindreaver
+	6 Scaled Thundercaller
+	6 Scattering Light
+	6 Scrounging Claw
+	15 Search // Seizure
+	15 Search // Seizure
+	6 Searing Insult
+	6 Seek Prophecy
+	15 Seeker's Garment
+	6 Seeker's Guardian
+	6 Sharpened Claw
+	7 Shield of the Lha
+	6 Show of Supremacy
+	6 Simple Fatereader
+	6 Singer of Songs
+	15 Skulking Claw
+	6 Sneak a Peek
+	6 Snowy Misthorn
+	15 Sodden Sorrow
+	6 Solar Flair
+	15 Spark Inspiration
+	15 Spired Canopy
+	6 Stalk the Dylso
+	15 Starfall Dancer
+	6 Stargaze Spirit
+	7 Starwing Nebula
+	15 Steward of Silence
+	6 Stolen Strain
+	6 Stormwing Raven
+	15 Stray Thoughts
+	7 Study Habitats
+	7 Summoner's Call
+	7 Supreme Stampede
+	6 Sweltering Storm
+	15 Sword of Memories
+	6 Sylvan Crusher
+	15 Tale of Two Sisters
+	15 Tempt Fate
+	4 The Blight Beyond
+	4 The Erased
+	4 The Sun's Last Setting
+	6 Tormented Echo
+	7 Trading Traitor
+	15 Treasurer of Thought
+	6 Triumphant Toady
+	15 Twinned Attrition
+	6 Twisted Elixir
+	15 Venomous Haploc
+	7 Vicar of Victory
+	7 Vicious Slasher
+	7 Vivid Afterimage
+	15 Wait // See
+	15 Wait // See
+	6 Walk the Seas
+	6 Warped Reader
+	15 Warrior's Cloak
+	6 Weaver of Lore
+	6 Wightlight
+	6 Wild Haploc
+	7 Wildfire Elemental
+	6 Wings of the Moon
+	6 Withering Pathways
+	15 Writing Wonders

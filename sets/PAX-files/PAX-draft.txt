@@ -1,0 +1,3844 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Accept Mortality",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Adaptive Stance",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/W}{R}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Aerie Bell-Warden",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Goat Monk",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Agent of Equilibrium",
+			"rarity": "common",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Ajani Enlightened",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G/U}{W}",
+			"type": "Legendary Planeswalker — Ajani",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Ancient of Lotus Lake",
+			"rarity": "common",
+			"mana_cost": "{5}{G/U}",
+			"type": "Creature — Fish Dragon",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Ancient of Reflections",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Apostle of the Spirit Moon",
+			"rarity": "common",
+			"mana_cost": "{3}{B/R}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Apothecary's Gift",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Ascend Inner Mountains",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Aspect of Divinity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/B}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Assessment of Virtue",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Audacious Ascent",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Augur of Bleak Horizons",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "August Sunbird",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Phoenix",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Auspicious Qilin",
+			"rarity": "common",
+			"mana_cost": "{4}{R/G}",
+			"type": "Creature — Kirin",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Awaken Ancestry",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Bai Long Ma, Fabled Innocence",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Dragon Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Balefire Harbinger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Wolf",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Barx, Aspiring Archvillain",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Planeswalker — Barx",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Battle of Principles",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Bleeding-Edge Garroter",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Crocodile Warlock",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Blossoming Hatchling",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Brewmaster Brothers",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Canopy's Claim",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Capricious Wind's Disciple",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird Monk",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Carrion Courier",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Bat Spirit",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Cascading Zhenzu",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/W}{U}",
+			"type": "Legendary Creature — Fish Dragon",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Celestial Banishment",
+			"rarity": "rare",
+			"mana_cost": "{G/U}{B}",
+			"type": "Instant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Celestial Deliverance",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Celestial Intervention",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Celestial Mandate",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Ceremonial Combat",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Chromatic Lantern_PAX",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Claimed by the Mists",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Combination Wontons",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Concordant Palace",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Conquer Psyche",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Costly Diversion",
+			"rarity": "uncommon",
+			"mana_cost": "{U/R}{B}",
+			"type": "Instant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Crackling Palm Ascetic",
+			"rarity": "common",
+			"mana_cost": "{1}{R/W}",
+			"type": "Creature — Mouse Monk",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Crane-Style Ascetic",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Crane Cliffside",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Crystalcatcher",
+			"rarity": "uncommon",
+			"mana_cost": "{W/U}",
+			"type": "Creature — Bird Monk",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Dai Gui, Pillar of Sea and Sky",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Turtle Monk",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Dai Gui's Command",
+			"rarity": "rare",
+			"mana_cost": "{X}{G/U}{G/U}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Dancing Lion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Daoshi Spiritdancer",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Dawning of the Celestials",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Dawnrise Attendants",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Denounce Hubris",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Devourer of Legacy",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Disciple of the Coil",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Divide and Slaughter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Divine Expulsion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Diviner of the Mists",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Dynasty Infantry",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Panda Soldier",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Eaten Alive",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Eidolic Palace",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Emblazoned Qilin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Kirin",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Eminent Palace",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Emissary of Dai Gui",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Turtle",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Enlightened Orator",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cat Monk",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Ephemeral Qilin",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Kirin Shapeshifter",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Equilibrium Wave",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Eternal Wanderings",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Expel Darkness",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Fabled Chishou",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Creature — Fish Dragon",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Fallen Dynasty Jailer",
+			"rarity": "uncommon",
+			"mana_cost": "{W/U}{B}",
+			"type": "Creature — Mouse Monk",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Feast Upon Maligned Souls",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Feng Bao, Storm's Center",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R/W}{U}",
+			"type": "Legendary Planeswalker — Bao",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Festive Firecrackers",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Fiendish Yaoguai",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cat Spirit",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Fiery Portent",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Filial Piety",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Firecracker Frenzy",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Fires of Renewal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Forbidden Palace",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Forbidden Wisdom",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B/R}{U}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Forebear of Hibernation",
+			"rarity": "rare",
+			"mana_cost": "{1}{W/U}{G}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Forest_PAX",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/292.jpg"
+			}
+		},
+		{
+			"name": "Form of the Sunbird // Cradle of the Sun",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "164",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/PAX-files/img/164a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/164a_front.jpg"
+			}
+		},
+		{
+			"name": "Form of the Sunbird // Cradle of the Sun",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "164",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/PAX-files/img/164a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/164a_front.jpg"
+			}
+		},
+		{
+			"name": "Forsaken Palace",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Forsaken Soulherd",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Spirit Cleric",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Free from the Coil",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Funerary Daoshi",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Gale Conjurant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Monk",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Gau Ding Soulhoard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Glorious Rebirth",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Gorilla Tactics",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Grizzled Den",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Guang Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Harmonic Confluence",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Harvest Reaper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Haze Qilin",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Kirin",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Heaven's End Chronicler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Heaven's Eyes",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Heaven's Fire Ascetic",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Cat Monk",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Heaven's Gale Harrier",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird Monk",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Herald of the Yaoguai",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fox Spirit",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Hermetic Meditation",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Hibiscus Snapdragon",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Plant Dragon",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Hook-Style Trainee",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Monk",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Hozen Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Hsu Fu, Architect of Sunrise",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Lizard Monk",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Huolin Ranger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Fox Archer",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Huolin Sanctifier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fox Monk",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Huolin Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Ideologize",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Illustrious Qilin",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Kirin",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Imperial Conquest",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Imperial Debthound",
+			"rarity": "rare",
+			"mana_cost": "{B/R}{W}",
+			"type": "Creature — Wolf Spirit",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Imperial Guardian",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Cat",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Inciter of Spirits Scorned",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/G}{B}",
+			"type": "Creature — Goat Shaman",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Indomitable Anchorite",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Elephant Monk",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Inner-Eye Obscurist",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Octopus Monk",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Innovator of Lanterns",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Mouse Scout",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Island_PAX",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/289.jpg"
+			}
+		},
+		{
+			"name": "Jade Counterweight",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Jade Empire Cartographer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Panda Bear Scout",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Jade Empire Outlaw",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Snake Warrior",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Jade Harvester",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Insect Rogue",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Jade Moon",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Jade Sentinel",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Spirit",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Jinyu Mirror-Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/R}{W}",
+			"type": "Creature — Lizard Monk",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Jutou, Coil of Longevity",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Legendary Creature — Insect Spirit",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Karmic Exorcism",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Karmic Reawakening",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Keeper of Pearls",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Turtle Monk",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Kinsang Butcher",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Insect",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Kinsang Duskblade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Assassin",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Kinsang Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Kinsang Spiritualist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect Monk",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Kui Mu Lang, Warden Below",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Wolf Monk",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Laiyru Huntsman",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Frog Archer",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Laiyru Lumberjacks",
+			"rarity": "common",
+			"mana_cost": "{B/G}",
+			"type": "Creature — Beaver Scout",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Laiyru River Guide",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Fish Scout",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Laiyru Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Lao Xiang, Apex of Austerity",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Elephant Monk",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Lao Xiang's Command",
+			"rarity": "rare",
+			"mana_cost": "{2}{W/U}{W/U}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Lay Bare Ambitions",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Lazhu, Whisperflame Seer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U/R}{G}",
+			"type": "Legendary Creature — Lizard Shaman",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Leafguard Larva",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Lei Gong, the Echoed Ideal",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/R}",
+			"type": "Legendary Creature — Monkey Monk",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Lian Taizi, Bountiful Earth",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Liar's Dice",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Lieshi Pariah",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bear Warrior",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Lieshi Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Lonely Aerie",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Lost to the Elements",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Lotus-Scarred Luocha",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Cat Demon Monk",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Lotus Barrens",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Lotus Mastery",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Lotus Wastes Merchant",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Raccoon Druid",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Lotus Wastes Survivalist",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Lizard Druid",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Lunar Deus Blackguard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Panda Bear Rogue",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Luocha Exorcist",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}",
+			"type": "Creature — Cat Demon Monk",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Luocha Mentor",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cat Demon Monk",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Lustrebloom Diviner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Bear Monk",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Macabre Blademaster",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird Monk",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Master Tzu, Martial Artisan",
+			"rarity": "rare",
+			"mana_cost": "{2}{R/W}",
+			"type": "Legendary Creature — Panda Bear Soldier",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Master of Moderation",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Mastery of Self",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Messenger of the Heavens",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird Monk",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Mianju, Taker of Names",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/G}{R}",
+			"type": "Legendary Creature — Wolf Spirit",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Mid-Autumn Celebrants",
+			"rarity": "common",
+			"mana_cost": "{3}{G/W}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Ming Fleet Privateer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Rat Rogue",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Monastery Scribe",
+			"rarity": "common",
+			"mana_cost": "{3}{U/R}",
+			"type": "Creature — Fox Monk",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Monk of Mid-Autumn",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Montane Palace",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Moon-Scarred Tuzi",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Rabbit Warrior",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Mortal Benediction",
+			"rarity": "uncommon",
+			"mana_cost": "{W/B}{G}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Mortal Frailty",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Mountain_PAX",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/291.jpg"
+			}
+		},
+		{
+			"name": "Mystic Duality",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U/R}",
+			"type": "Instant",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Nanzan Daio, Hidden Mist",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Bird Monk",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Naogui the Lotus-Charmed",
+			"rarity": "rare",
+			"mana_cost": "{3}{U/B}",
+			"type": "Legendary Creature — Cat Demon Warlock",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Niu Mo Wang, Ashen Absolution",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Ox Demon Monk",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Ominous Palace",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Oozing Yaoguai",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Frog Spirit",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Opalescent Heirloom",
+			"rarity": "uncommon",
+			"mana_cost": "{X}",
+			"type": "Artifact — Equipment",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Opalescent Palace",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Orphan-Ward Lei Yu",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/W}",
+			"type": "Legendary Creature — Cat Cleric Monk",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Overgrown Enclave",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Paint the Skies with Legend",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Pan Long, Remorseless Wind",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Paomar Greatheart",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Bear Warrior",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Paomar Primus",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Bear Shaman",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Paomar Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Petal Blade",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Pi and Jiu, Botanic Elixirists",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Panda Bear Monk",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Pilferret",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Ferret Rogue",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Pilgrim's Respite",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Pilgrim's Vantage",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Pilgrim of Many Provinces",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Fox Monk",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Pilgrim of Xifang's Climb",
+			"rarity": "common",
+			"mana_cost": "{1}{W/U}",
+			"type": "Creature — Cat Monk",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Pinnacle of Purity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Pivot-Fist Meditant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/W}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Plains_PAX",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/288.jpg"
+			}
+		},
+		{
+			"name": "Polarity Sage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/W}{G}",
+			"type": "Creature — Cat Monk",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Pride Ridge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Prophetic Prism_PAX",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Prototype Rice Thresher",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Provincial Herbalist",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Lizard Druid",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Qi-Long Gust",
+			"rarity": "uncommon",
+			"mana_cost": "{G/U}{R}",
+			"type": "Instant",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Qi-Long Rainbringer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Dragon Spirit",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Qi-Long Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Qi Block",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Qi Harvester",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Qi Shackle",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Qing Long, Capricious Wind",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Quan Li, Dusk Operative",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R/W}{B}",
+			"type": "Legendary Creature — Panda Bear Monk",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Radiant Palace",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Ram Wrangler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Panda Bear Shaman",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Ravenous Hollow",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Reclusive Copse",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Refulgent Flare",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Reminiscence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/U}",
+			"type": "Instant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Rice Cultivator",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Goat Druid",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Rising Sun Ascetic",
+			"rarity": "uncommon",
+			"mana_cost": "{W/U}{R}",
+			"type": "Creature — Rabbit Monk",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Roots from Ruin",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Roseblood Hart",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Royal Retriever",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Hound Soldier",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Sage of Circular Motion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ox Monk",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Sage of Staves",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Scrounging Dunes",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Seeker of Far-Off Lands",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}{G}",
+			"type": "Creature — Elk Monk",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Serene Palace",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Sha Long, Harmonious Wind",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Sha Wujing, Depth of Desire",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Octopus Spirit",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Shan Jun, Mortal Eclipse",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Bear Monk",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Shan Jun's Command",
+			"rarity": "rare",
+			"mana_cost": "{1}{W/B}{W/B}",
+			"type": "Instant",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Shi Hou, the Sun King // Sun King's Shadow",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Monkey Monk",
+			"collector_number": "179",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/PAX-files/img/179a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/179a_front.jpg"
+			}
+		},
+		{
+			"name": "Shi Hou, the Sun King // Sun King's Shadow",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Monkey Monk",
+			"collector_number": "179",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/PAX-files/img/179a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/179a_front.jpg"
+			}
+		},
+		{
+			"name": "Shi Hou's Command",
+			"rarity": "rare",
+			"mana_cost": "{B/R}{B/R}",
+			"type": "Instant",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Shi Hou's Reckoning",
+			"rarity": "uncommon",
+			"mana_cost": "{R/G}{W}",
+			"type": "Sorcery",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Shoupan Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Shu Qin, Imperial Storyteller",
+			"rarity": "uncommon",
+			"mana_cost": "{U/B}{W}",
+			"type": "Legendary Creature — Bird Wizard",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Siege of the Heavens",
+			"rarity": "rare",
+			"mana_cost": "{2}{U/B}{R}",
+			"type": "Sorcery",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Skittering Yaoguai",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/G}",
+			"type": "Creature — Spider Spirit",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Sleight of Eye",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Slippery Assassin",
+			"rarity": "rare",
+			"mana_cost": "{B/G}{U}",
+			"type": "Creature — Frog Assassin",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Spined Spire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Spirit-Lantern Incendiary",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Panda Bear Monk",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Spirit Blossom Shrine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Spirit Snare",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/B}{U}",
+			"type": "Instant",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Stalker in the Mist",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Creature — Monkey Spirit",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Stolen Stratagem",
+			"rarity": "uncommon",
+			"mana_cost": "{U/B}",
+			"type": "Sorcery",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Student of the Elixir",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Lizard Monk",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Sun King's Gambit",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}",
+			"type": "Sorcery",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Swamp_PAX",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/290.jpg"
+			}
+		},
+		{
+			"name": "Syndicate Dealings",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Syndicate Sycophant",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect Rogue",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Taifeng Cartographer",
+			"rarity": "uncommon",
+			"mana_cost": "{R/G}{U}",
+			"type": "Creature — Bird Scout",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Taifeng Flockherd",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird Soldier",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Taifeng Informant",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Monk",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Taifeng Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "Terracotta Horde",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Spirit",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Terracotta Idol",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Terracotta Sage",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Spirit Monk",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Terramorphic Cradle",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Thirst for Shinies",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Three Wisdoms",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Through the Divine Gate",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{W/B}",
+			"type": "Sorcery",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Thundering Wrath",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Treacherous Oasis",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Unbalancing Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Undying Remorse",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/G}{W}",
+			"type": "Instant",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Venerable Loremaster",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Turtle Monk",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Vulpine Bluffs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Wanderer of Many",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Raccoon Monk",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Warden of the Divine Court",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Bird Soldier",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Warren Wardens",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Rabbit Monk",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Water Sutra Daoshi",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cat Monk",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Waxing Celestial",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Dragon Spirit",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Wayfarer's Shrine_PAX",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/287.jpg"
+			}
+		},
+		{
+			"name": "Weeping Yaoguai",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Wolf Spirit",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Wei Ji, Dawn and Dusk",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G/W}{B}",
+			"type": "Legendary Planeswalker — Ji",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Whimwing",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird Cleric",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Wildershrine Elder",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Bear Monk",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Wildershrine Pilgrimage",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Wildershrine Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R/G}",
+			"type": "Creature — Bear Shaman",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Will of the Wilds",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Worldly Detachment",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Xifang Hu, Light Within",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Cat Monk",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Xijiang, the Fiend Judge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Crab Spirit",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Xiong Mao, the Enduring",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B/R}{G}",
+			"type": "Legendary Planeswalker — Xiong Mao",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Yangzhi Cloudpiercer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Crocodile Archer",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Ye Feng, Lotus Apothecary",
+			"rarity": "rare",
+			"mana_cost": "{B/G}",
+			"type": "Legendary Creature — Rat Druid",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Yi Cang, Thief of Blessings",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Legendary Creature — Shapeshifter Monk",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Zhizhu Jing, Duality of Fates",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Spider Spirit",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Zhu Bajie, Shepherd of Stone",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Boar Monk",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Zhu Bajie's Command",
+			"rarity": "rare",
+			"mana_cost": "{R/G}{R/G}",
+			"type": "Sorcery",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Zhu Long, Refulgent Wind",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PAX-files/img/125.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Adaptive Stance
+	1 Ajani Enlightened
+	1 Barx, Aspiring Archvillain
+	2 Celestial Banishment
+	2 Celestial Deliverance
+	2 Celestial Mandate
+	2 Chromatic Lantern_PAX
+	2 Crane Cliffside
+	1 Dai Gui, Pillar of Sea and Sky
+	2 Dai Gui's Command
+	2 Daoshi Spiritdancer
+	2 Denounce Hubris
+	2 Devourer of Legacy
+	2 Diviner of the Mists
+	2 Ephemeral Qilin
+	2 Equilibrium Wave
+	2 Feast Upon Maligned Souls
+	1 Feng Bao, Storm's Center
+	2 Forebear of Hibernation
+	1 Form of the Sunbird // Cradle of the Sun
+	1 Form of the Sunbird // Cradle of the Sun
+	2 Glorious Rebirth
+	2 Grizzled Den
+	2 Harmonic Confluence
+	2 Hsu Fu, Architect of Sunrise
+	2 Illustrious Qilin
+	2 Imperial Debthound
+	2 Imperial Guardian
+	2 Indomitable Anchorite
+	2 Innovator of Lanterns
+	2 Jade Harvester
+	2 Jade Moon
+	2 Karmic Reawakening
+	2 Kui Mu Lang, Warden Below
+	1 Lao Xiang, Apex of Austerity
+	2 Lao Xiang's Command
+	2 Lay Bare Ambitions
+	2 Lei Gong, the Echoed Ideal
+	1 Lian Taizi, Bountiful Earth
+	2 Lonely Aerie
+	2 Lotus Mastery
+	2 Master Tzu, Martial Artisan
+	2 Master of Moderation
+	2 Messenger of the Heavens
+	2 Monk of Mid-Autumn
+	2 Nanzan Daio, Hidden Mist
+	2 Naogui the Lotus-Charmed
+	2 Niu Mo Wang, Ashen Absolution
+	2 Oozing Yaoguai
+	2 Orphan-Ward Lei Yu
+	2 Overgrown Enclave
+	2 Paint the Skies with Legend
+	1 Pan Long, Remorseless Wind
+	2 Pi and Jiu, Botanic Elixirists
+	2 Pilferret
+	2 Pride Ridge
+	1 Qing Long, Capricious Wind
+	2 Ravenous Hollow
+	2 Reclusive Copse
+	2 Roots from Ruin
+	2 Scrounging Dunes
+	1 Sha Long, Harmonious Wind
+	1 Shan Jun, Mortal Eclipse
+	2 Shan Jun's Command
+	1 Shi Hou, the Sun King // Sun King's Shadow
+	1 Shi Hou, the Sun King // Sun King's Shadow
+	2 Shi Hou's Command
+	2 Siege of the Heavens
+	2 Slippery Assassin
+	2 Spined Spire
+	2 Spirit-Lantern Incendiary
+	2 Spirit Blossom Shrine
+	2 Syndicate Sycophant
+	2 Terracotta Sage
+	2 Terramorphic Cradle
+	2 Treacherous Oasis
+	2 Vulpine Bluffs
+	2 Water Sutra Daoshi
+	1 Wei Ji, Dawn and Dusk
+	2 Whimwing
+	2 Xifang Hu, Light Within
+	1 Xiong Mao, the Enduring
+	2 Ye Feng, Lotus Apothecary
+	2 Yi Cang, Thief of Blessings
+	1 Zhu Bajie, Shepherd of Stone
+	2 Zhu Bajie's Command
+	1 Zhu Long, Refulgent Wind
+[uncommon(3)]
+	4 Aspect of Divinity
+	4 Assessment of Virtue
+	4 August Sunbird
+	4 Awaken Ancestry
+	4 Bai Long Ma, Fabled Innocence
+	4 Balefire Harbinger
+	4 Battle of Principles
+	4 Capricious Wind's Disciple
+	4 Cascading Zhenzu
+	4 Concordant Palace
+	4 Costly Diversion
+	4 Crystalcatcher
+	4 Dancing Lion
+	4 Dawning of the Celestials
+	4 Dawnrise Attendants
+	4 Divide and Slaughter
+	4 Divine Expulsion
+	4 Eidolic Palace
+	4 Emblazoned Qilin
+	4 Eminent Palace
+	4 Emissary of Dai Gui
+	4 Fabled Chishou
+	4 Fallen Dynasty Jailer
+	4 Fires of Renewal
+	4 Forbidden Palace
+	4 Forbidden Wisdom
+	4 Forsaken Palace
+	4 Forsaken Soulherd
+	4 Gale Conjurant
+	4 Gau Ding Soulhoard
+	4 Gorilla Tactics
+	4 Harvest Reaper
+	4 Heaven's End Chronicler
+	4 Hook-Style Trainee
+	4 Ideologize
+	4 Imperial Conquest
+	4 Inciter of Spirits Scorned
+	4 Inner-Eye Obscurist
+	4 Jinyu Mirror-Blade
+	4 Jutou, Coil of Longevity
+	4 Kinsang Duskblade
+	4 Kinsang Spiritualist
+	4 Lazhu, Whisperflame Seer
+	4 Leafguard Larva
+	4 Lieshi Pariah
+	4 Lotus-Scarred Luocha
+	4 Lotus Barrens
+	4 Lotus Wastes Merchant
+	4 Lunar Deus Blackguard
+	4 Luocha Exorcist
+	4 Lustrebloom Diviner
+	4 Mastery of Self
+	4 Mianju, Taker of Names
+	4 Montane Palace
+	4 Mortal Benediction
+	4 Mystic Duality
+	4 Ominous Palace
+	4 Opalescent Heirloom
+	4 Opalescent Palace
+	4 Paomar Primus
+	4 Pinnacle of Purity
+	4 Pivot-Fist Meditant
+	4 Polarity Sage
+	4 Qi-Long Gust
+	4 Qi Block
+	4 Qi Harvester
+	4 Quan Li, Dusk Operative
+	4 Radiant Palace
+	4 Ram Wrangler
+	4 Reminiscence
+	4 Rising Sun Ascetic
+	4 Sage of Circular Motion
+	4 Seeker of Far-Off Lands
+	4 Serene Palace
+	4 Sha Wujing, Depth of Desire
+	4 Shi Hou's Reckoning
+	4 Shu Qin, Imperial Storyteller
+	4 Skittering Yaoguai
+	4 Spirit Snare
+	4 Stolen Stratagem
+	4 Sun King's Gambit
+	4 Taifeng Cartographer
+	4 Terracotta Idol
+	4 Three Wisdoms
+	4 Through the Divine Gate
+	4 Undying Remorse
+	4 Wanderer of Many
+	4 Warden of the Divine Court
+	4 Wildershrine Warden
+	4 Xijiang, the Fiend Judge
+	4 Zhizhu Jing, Duality of Fates
+[common(7)]
+	8 Accept Mortality
+	8 Aerie Bell-Warden
+	8 Agent of Equilibrium
+	8 Ancient of Lotus Lake
+	8 Ancient of Reflections
+	8 Apostle of the Spirit Moon
+	8 Apothecary's Gift
+	8 Ascend Inner Mountains
+	8 Audacious Ascent
+	8 Augur of Bleak Horizons
+	8 Auspicious Qilin
+	8 Bleeding-Edge Garroter
+	8 Blossoming Hatchling
+	8 Brewmaster Brothers
+	8 Canopy's Claim
+	8 Carrion Courier
+	8 Celestial Intervention
+	8 Ceremonial Combat
+	8 Claimed by the Mists
+	8 Combination Wontons
+	8 Conquer Psyche
+	8 Crackling Palm Ascetic
+	8 Crane-Style Ascetic
+	8 Disciple of the Coil
+	8 Dynasty Infantry
+	8 Eaten Alive
+	8 Enlightened Orator
+	8 Eternal Wanderings
+	8 Expel Darkness
+	8 Festive Firecrackers
+	8 Fiendish Yaoguai
+	8 Fiery Portent
+	8 Filial Piety
+	8 Firecracker Frenzy
+	8 Free from the Coil
+	8 Funerary Daoshi
+	8 Guang Shrine
+	8 Haze Qilin
+	8 Heaven's Eyes
+	8 Heaven's Fire Ascetic
+	8 Heaven's Gale Harrier
+	8 Herald of the Yaoguai
+	8 Hermetic Meditation
+	8 Hibiscus Snapdragon
+	8 Hozen Shrine
+	8 Huolin Ranger
+	8 Huolin Sanctifier
+	8 Huolin Shrine
+	8 Jade Counterweight
+	8 Jade Empire Cartographer
+	8 Jade Empire Outlaw
+	8 Jade Sentinel
+	8 Karmic Exorcism
+	8 Keeper of Pearls
+	8 Kinsang Butcher
+	8 Kinsang Shrine
+	8 Laiyru Huntsman
+	8 Laiyru Lumberjacks
+	8 Laiyru River Guide
+	8 Laiyru Shrine
+	8 Liar's Dice
+	8 Lieshi Shrine
+	8 Lost to the Elements
+	8 Lotus Wastes Survivalist
+	8 Luocha Mentor
+	8 Macabre Blademaster
+	8 Mid-Autumn Celebrants
+	8 Ming Fleet Privateer
+	8 Monastery Scribe
+	8 Moon-Scarred Tuzi
+	8 Mortal Frailty
+	8 Paomar Greatheart
+	8 Paomar Shrine
+	8 Petal Blade
+	8 Pilgrim's Respite
+	8 Pilgrim's Vantage
+	8 Pilgrim of Many Provinces
+	8 Pilgrim of Xifang's Climb
+	8 Prophetic Prism_PAX
+	8 Prototype Rice Thresher
+	8 Provincial Herbalist
+	8 Qi-Long Rainbringer
+	8 Qi-Long Shrine
+	8 Qi Shackle
+	8 Refulgent Flare
+	8 Rice Cultivator
+	8 Roseblood Hart
+	8 Royal Retriever
+	8 Sage of Staves
+	8 Shoupan Shrine
+	8 Sleight of Eye
+	8 Stalker in the Mist
+	8 Student of the Elixir
+	8 Syndicate Dealings
+	8 Taifeng Flockherd
+	8 Taifeng Informant
+	8 Taifeng Shrine
+	8 Terracotta Horde
+	8 Thirst for Shinies
+	8 Thundering Wrath
+	8 Unbalancing Strike
+	8 Venerable Loremaster
+	8 Warren Wardens
+	8 Waxing Celestial
+	8 Wayfarer's Shrine_PAX
+	8 Weeping Yaoguai
+	8 Wildershrine Elder
+	8 Wildershrine Pilgrimage
+	8 Will of the Wilds
+	8 Worldly Detachment
+	8 Yangzhi Cloudpiercer
+[foil(1)]
+	12 Accept Mortality
+	2 Adaptive Stance
+	12 Aerie Bell-Warden
+	12 Agent of Equilibrium
+	1 Ajani Enlightened
+	12 Ancient of Lotus Lake
+	12 Ancient of Reflections
+	12 Apostle of the Spirit Moon
+	12 Apothecary's Gift
+	12 Ascend Inner Mountains
+	6 Aspect of Divinity
+	6 Assessment of Virtue
+	12 Audacious Ascent
+	12 Augur of Bleak Horizons
+	6 August Sunbird
+	12 Auspicious Qilin
+	6 Awaken Ancestry
+	6 Bai Long Ma, Fabled Innocence
+	6 Balefire Harbinger
+	1 Barx, Aspiring Archvillain
+	6 Battle of Principles
+	12 Bleeding-Edge Garroter
+	12 Blossoming Hatchling
+	12 Brewmaster Brothers
+	12 Canopy's Claim
+	6 Capricious Wind's Disciple
+	12 Carrion Courier
+	6 Cascading Zhenzu
+	2 Celestial Banishment
+	2 Celestial Deliverance
+	12 Celestial Intervention
+	2 Celestial Mandate
+	12 Ceremonial Combat
+	2 Chromatic Lantern_PAX
+	12 Claimed by the Mists
+	12 Combination Wontons
+	6 Concordant Palace
+	12 Conquer Psyche
+	6 Costly Diversion
+	12 Crackling Palm Ascetic
+	12 Crane-Style Ascetic
+	2 Crane Cliffside
+	6 Crystalcatcher
+	1 Dai Gui, Pillar of Sea and Sky
+	2 Dai Gui's Command
+	6 Dancing Lion
+	2 Daoshi Spiritdancer
+	6 Dawning of the Celestials
+	6 Dawnrise Attendants
+	2 Denounce Hubris
+	2 Devourer of Legacy
+	12 Disciple of the Coil
+	6 Divide and Slaughter
+	6 Divine Expulsion
+	2 Diviner of the Mists
+	12 Dynasty Infantry
+	12 Eaten Alive
+	6 Eidolic Palace
+	6 Emblazoned Qilin
+	6 Eminent Palace
+	6 Emissary of Dai Gui
+	12 Enlightened Orator
+	2 Ephemeral Qilin
+	2 Equilibrium Wave
+	12 Eternal Wanderings
+	12 Expel Darkness
+	6 Fabled Chishou
+	6 Fallen Dynasty Jailer
+	2 Feast Upon Maligned Souls
+	1 Feng Bao, Storm's Center
+	12 Festive Firecrackers
+	12 Fiendish Yaoguai
+	12 Fiery Portent
+	12 Filial Piety
+	12 Firecracker Frenzy
+	6 Fires of Renewal
+	6 Forbidden Palace
+	6 Forbidden Wisdom
+	2 Forebear of Hibernation
+	1 Form of the Sunbird // Cradle of the Sun
+	1 Form of the Sunbird // Cradle of the Sun
+	6 Forsaken Palace
+	6 Forsaken Soulherd
+	12 Free from the Coil
+	12 Funerary Daoshi
+	6 Gale Conjurant
+	6 Gau Ding Soulhoard
+	2 Glorious Rebirth
+	6 Gorilla Tactics
+	2 Grizzled Den
+	12 Guang Shrine
+	2 Harmonic Confluence
+	6 Harvest Reaper
+	12 Haze Qilin
+	6 Heaven's End Chronicler
+	12 Heaven's Eyes
+	12 Heaven's Fire Ascetic
+	12 Heaven's Gale Harrier
+	12 Herald of the Yaoguai
+	12 Hermetic Meditation
+	12 Hibiscus Snapdragon
+	6 Hook-Style Trainee
+	12 Hozen Shrine
+	2 Hsu Fu, Architect of Sunrise
+	12 Huolin Ranger
+	12 Huolin Sanctifier
+	12 Huolin Shrine
+	6 Ideologize
+	2 Illustrious Qilin
+	6 Imperial Conquest
+	2 Imperial Debthound
+	2 Imperial Guardian
+	6 Inciter of Spirits Scorned
+	2 Indomitable Anchorite
+	6 Inner-Eye Obscurist
+	2 Innovator of Lanterns
+	12 Jade Counterweight
+	12 Jade Empire Cartographer
+	12 Jade Empire Outlaw
+	2 Jade Harvester
+	2 Jade Moon
+	12 Jade Sentinel
+	6 Jinyu Mirror-Blade
+	6 Jutou, Coil of Longevity
+	12 Karmic Exorcism
+	2 Karmic Reawakening
+	12 Keeper of Pearls
+	12 Kinsang Butcher
+	6 Kinsang Duskblade
+	12 Kinsang Shrine
+	6 Kinsang Spiritualist
+	2 Kui Mu Lang, Warden Below
+	12 Laiyru Huntsman
+	12 Laiyru Lumberjacks
+	12 Laiyru River Guide
+	12 Laiyru Shrine
+	1 Lao Xiang, Apex of Austerity
+	2 Lao Xiang's Command
+	2 Lay Bare Ambitions
+	6 Lazhu, Whisperflame Seer
+	6 Leafguard Larva
+	2 Lei Gong, the Echoed Ideal
+	1 Lian Taizi, Bountiful Earth
+	12 Liar's Dice
+	6 Lieshi Pariah
+	12 Lieshi Shrine
+	2 Lonely Aerie
+	12 Lost to the Elements
+	6 Lotus-Scarred Luocha
+	6 Lotus Barrens
+	2 Lotus Mastery
+	6 Lotus Wastes Merchant
+	12 Lotus Wastes Survivalist
+	6 Lunar Deus Blackguard
+	6 Luocha Exorcist
+	12 Luocha Mentor
+	6 Lustrebloom Diviner
+	12 Macabre Blademaster
+	2 Master Tzu, Martial Artisan
+	2 Master of Moderation
+	6 Mastery of Self
+	2 Messenger of the Heavens
+	6 Mianju, Taker of Names
+	12 Mid-Autumn Celebrants
+	12 Ming Fleet Privateer
+	12 Monastery Scribe
+	2 Monk of Mid-Autumn
+	6 Montane Palace
+	12 Moon-Scarred Tuzi
+	6 Mortal Benediction
+	12 Mortal Frailty
+	6 Mystic Duality
+	2 Nanzan Daio, Hidden Mist
+	2 Naogui the Lotus-Charmed
+	2 Niu Mo Wang, Ashen Absolution
+	6 Ominous Palace
+	2 Oozing Yaoguai
+	6 Opalescent Heirloom
+	6 Opalescent Palace
+	2 Orphan-Ward Lei Yu
+	2 Overgrown Enclave
+	2 Paint the Skies with Legend
+	1 Pan Long, Remorseless Wind
+	12 Paomar Greatheart
+	6 Paomar Primus
+	12 Paomar Shrine
+	12 Petal Blade
+	2 Pi and Jiu, Botanic Elixirists
+	2 Pilferret
+	12 Pilgrim's Respite
+	12 Pilgrim's Vantage
+	12 Pilgrim of Many Provinces
+	12 Pilgrim of Xifang's Climb
+	6 Pinnacle of Purity
+	6 Pivot-Fist Meditant
+	6 Polarity Sage
+	2 Pride Ridge
+	12 Prophetic Prism_PAX
+	12 Prototype Rice Thresher
+	12 Provincial Herbalist
+	6 Qi-Long Gust
+	12 Qi-Long Rainbringer
+	12 Qi-Long Shrine
+	6 Qi Block
+	6 Qi Harvester
+	12 Qi Shackle
+	1 Qing Long, Capricious Wind
+	6 Quan Li, Dusk Operative
+	6 Radiant Palace
+	6 Ram Wrangler
+	2 Ravenous Hollow
+	2 Reclusive Copse
+	12 Refulgent Flare
+	6 Reminiscence
+	12 Rice Cultivator
+	6 Rising Sun Ascetic
+	2 Roots from Ruin
+	12 Roseblood Hart
+	12 Royal Retriever
+	6 Sage of Circular Motion
+	12 Sage of Staves
+	2 Scrounging Dunes
+	6 Seeker of Far-Off Lands
+	6 Serene Palace
+	1 Sha Long, Harmonious Wind
+	6 Sha Wujing, Depth of Desire
+	1 Shan Jun, Mortal Eclipse
+	2 Shan Jun's Command
+	1 Shi Hou, the Sun King // Sun King's Shadow
+	1 Shi Hou, the Sun King // Sun King's Shadow
+	2 Shi Hou's Command
+	6 Shi Hou's Reckoning
+	12 Shoupan Shrine
+	6 Shu Qin, Imperial Storyteller
+	2 Siege of the Heavens
+	6 Skittering Yaoguai
+	12 Sleight of Eye
+	2 Slippery Assassin
+	2 Spined Spire
+	2 Spirit-Lantern Incendiary
+	2 Spirit Blossom Shrine
+	6 Spirit Snare
+	12 Stalker in the Mist
+	6 Stolen Stratagem
+	12 Student of the Elixir
+	6 Sun King's Gambit
+	12 Syndicate Dealings
+	2 Syndicate Sycophant
+	6 Taifeng Cartographer
+	12 Taifeng Flockherd
+	12 Taifeng Informant
+	12 Taifeng Shrine
+	12 Terracotta Horde
+	6 Terracotta Idol
+	2 Terracotta Sage
+	2 Terramorphic Cradle
+	12 Thirst for Shinies
+	6 Three Wisdoms
+	6 Through the Divine Gate
+	12 Thundering Wrath
+	2 Treacherous Oasis
+	12 Unbalancing Strike
+	6 Undying Remorse
+	12 Venerable Loremaster
+	2 Vulpine Bluffs
+	6 Wanderer of Many
+	6 Warden of the Divine Court
+	12 Warren Wardens
+	2 Water Sutra Daoshi
+	12 Waxing Celestial
+	12 Wayfarer's Shrine_PAX
+	12 Weeping Yaoguai
+	1 Wei Ji, Dawn and Dusk
+	2 Whimwing
+	12 Wildershrine Elder
+	12 Wildershrine Pilgrimage
+	6 Wildershrine Warden
+	12 Will of the Wilds
+	12 Worldly Detachment
+	2 Xifang Hu, Light Within
+	6 Xijiang, the Fiend Judge
+	1 Xiong Mao, the Enduring
+	12 Yangzhi Cloudpiercer
+	2 Ye Feng, Lotus Apothecary
+	2 Yi Cang, Thief of Blessings
+	6 Zhizhu Jing, Duality of Fates
+	1 Zhu Bajie, Shepherd of Stone
+	2 Zhu Bajie's Command
+	1 Zhu Long, Refulgent Wind
+[wildcard(1)]
+	6 Accept Mortality
+	7 Adaptive Stance
+	6 Aerie Bell-Warden
+	6 Agent of Equilibrium
+	4 Ajani Enlightened
+	6 Ancient of Lotus Lake
+	6 Ancient of Reflections
+	6 Apostle of the Spirit Moon
+	6 Apothecary's Gift
+	6 Ascend Inner Mountains
+	15 Aspect of Divinity
+	15 Assessment of Virtue
+	6 Audacious Ascent
+	6 Augur of Bleak Horizons
+	15 August Sunbird
+	6 Auspicious Qilin
+	15 Awaken Ancestry
+	15 Bai Long Ma, Fabled Innocence
+	15 Balefire Harbinger
+	4 Barx, Aspiring Archvillain
+	15 Battle of Principles
+	6 Bleeding-Edge Garroter
+	6 Blossoming Hatchling
+	6 Brewmaster Brothers
+	6 Canopy's Claim
+	15 Capricious Wind's Disciple
+	6 Carrion Courier
+	15 Cascading Zhenzu
+	7 Celestial Banishment
+	7 Celestial Deliverance
+	6 Celestial Intervention
+	7 Celestial Mandate
+	6 Ceremonial Combat
+	7 Chromatic Lantern_PAX
+	6 Claimed by the Mists
+	6 Combination Wontons
+	15 Concordant Palace
+	6 Conquer Psyche
+	15 Costly Diversion
+	6 Crackling Palm Ascetic
+	6 Crane-Style Ascetic
+	7 Crane Cliffside
+	15 Crystalcatcher
+	4 Dai Gui, Pillar of Sea and Sky
+	7 Dai Gui's Command
+	15 Dancing Lion
+	7 Daoshi Spiritdancer
+	15 Dawning of the Celestials
+	15 Dawnrise Attendants
+	7 Denounce Hubris
+	7 Devourer of Legacy
+	6 Disciple of the Coil
+	15 Divide and Slaughter
+	15 Divine Expulsion
+	7 Diviner of the Mists
+	6 Dynasty Infantry
+	6 Eaten Alive
+	15 Eidolic Palace
+	15 Emblazoned Qilin
+	15 Eminent Palace
+	15 Emissary of Dai Gui
+	6 Enlightened Orator
+	7 Ephemeral Qilin
+	7 Equilibrium Wave
+	6 Eternal Wanderings
+	6 Expel Darkness
+	15 Fabled Chishou
+	15 Fallen Dynasty Jailer
+	7 Feast Upon Maligned Souls
+	4 Feng Bao, Storm's Center
+	6 Festive Firecrackers
+	6 Fiendish Yaoguai
+	6 Fiery Portent
+	6 Filial Piety
+	6 Firecracker Frenzy
+	15 Fires of Renewal
+	15 Forbidden Palace
+	15 Forbidden Wisdom
+	7 Forebear of Hibernation
+	4 Form of the Sunbird // Cradle of the Sun
+	4 Form of the Sunbird // Cradle of the Sun
+	15 Forsaken Palace
+	15 Forsaken Soulherd
+	6 Free from the Coil
+	6 Funerary Daoshi
+	15 Gale Conjurant
+	15 Gau Ding Soulhoard
+	7 Glorious Rebirth
+	15 Gorilla Tactics
+	7 Grizzled Den
+	6 Guang Shrine
+	7 Harmonic Confluence
+	15 Harvest Reaper
+	6 Haze Qilin
+	15 Heaven's End Chronicler
+	6 Heaven's Eyes
+	6 Heaven's Fire Ascetic
+	6 Heaven's Gale Harrier
+	6 Herald of the Yaoguai
+	6 Hermetic Meditation
+	6 Hibiscus Snapdragon
+	15 Hook-Style Trainee
+	6 Hozen Shrine
+	7 Hsu Fu, Architect of Sunrise
+	6 Huolin Ranger
+	6 Huolin Sanctifier
+	6 Huolin Shrine
+	15 Ideologize
+	7 Illustrious Qilin
+	15 Imperial Conquest
+	7 Imperial Debthound
+	7 Imperial Guardian
+	15 Inciter of Spirits Scorned
+	7 Indomitable Anchorite
+	15 Inner-Eye Obscurist
+	7 Innovator of Lanterns
+	6 Jade Counterweight
+	6 Jade Empire Cartographer
+	6 Jade Empire Outlaw
+	7 Jade Harvester
+	7 Jade Moon
+	6 Jade Sentinel
+	15 Jinyu Mirror-Blade
+	15 Jutou, Coil of Longevity
+	6 Karmic Exorcism
+	7 Karmic Reawakening
+	6 Keeper of Pearls
+	6 Kinsang Butcher
+	15 Kinsang Duskblade
+	6 Kinsang Shrine
+	15 Kinsang Spiritualist
+	7 Kui Mu Lang, Warden Below
+	6 Laiyru Huntsman
+	6 Laiyru Lumberjacks
+	6 Laiyru River Guide
+	6 Laiyru Shrine
+	4 Lao Xiang, Apex of Austerity
+	7 Lao Xiang's Command
+	7 Lay Bare Ambitions
+	15 Lazhu, Whisperflame Seer
+	15 Leafguard Larva
+	7 Lei Gong, the Echoed Ideal
+	4 Lian Taizi, Bountiful Earth
+	6 Liar's Dice
+	15 Lieshi Pariah
+	6 Lieshi Shrine
+	7 Lonely Aerie
+	6 Lost to the Elements
+	15 Lotus-Scarred Luocha
+	15 Lotus Barrens
+	7 Lotus Mastery
+	15 Lotus Wastes Merchant
+	6 Lotus Wastes Survivalist
+	15 Lunar Deus Blackguard
+	15 Luocha Exorcist
+	6 Luocha Mentor
+	15 Lustrebloom Diviner
+	6 Macabre Blademaster
+	7 Master Tzu, Martial Artisan
+	7 Master of Moderation
+	15 Mastery of Self
+	7 Messenger of the Heavens
+	15 Mianju, Taker of Names
+	6 Mid-Autumn Celebrants
+	6 Ming Fleet Privateer
+	6 Monastery Scribe
+	7 Monk of Mid-Autumn
+	15 Montane Palace
+	6 Moon-Scarred Tuzi
+	15 Mortal Benediction
+	6 Mortal Frailty
+	15 Mystic Duality
+	7 Nanzan Daio, Hidden Mist
+	7 Naogui the Lotus-Charmed
+	7 Niu Mo Wang, Ashen Absolution
+	15 Ominous Palace
+	7 Oozing Yaoguai
+	15 Opalescent Heirloom
+	15 Opalescent Palace
+	7 Orphan-Ward Lei Yu
+	7 Overgrown Enclave
+	7 Paint the Skies with Legend
+	4 Pan Long, Remorseless Wind
+	6 Paomar Greatheart
+	15 Paomar Primus
+	6 Paomar Shrine
+	6 Petal Blade
+	7 Pi and Jiu, Botanic Elixirists
+	7 Pilferret
+	6 Pilgrim's Respite
+	6 Pilgrim's Vantage
+	6 Pilgrim of Many Provinces
+	6 Pilgrim of Xifang's Climb
+	15 Pinnacle of Purity
+	15 Pivot-Fist Meditant
+	15 Polarity Sage
+	7 Pride Ridge
+	6 Prophetic Prism_PAX
+	6 Prototype Rice Thresher
+	6 Provincial Herbalist
+	15 Qi-Long Gust
+	6 Qi-Long Rainbringer
+	6 Qi-Long Shrine
+	15 Qi Block
+	15 Qi Harvester
+	6 Qi Shackle
+	4 Qing Long, Capricious Wind
+	15 Quan Li, Dusk Operative
+	15 Radiant Palace
+	15 Ram Wrangler
+	7 Ravenous Hollow
+	7 Reclusive Copse
+	6 Refulgent Flare
+	15 Reminiscence
+	6 Rice Cultivator
+	15 Rising Sun Ascetic
+	7 Roots from Ruin
+	6 Roseblood Hart
+	6 Royal Retriever
+	15 Sage of Circular Motion
+	6 Sage of Staves
+	7 Scrounging Dunes
+	15 Seeker of Far-Off Lands
+	15 Serene Palace
+	4 Sha Long, Harmonious Wind
+	15 Sha Wujing, Depth of Desire
+	4 Shan Jun, Mortal Eclipse
+	7 Shan Jun's Command
+	4 Shi Hou, the Sun King // Sun King's Shadow
+	4 Shi Hou, the Sun King // Sun King's Shadow
+	7 Shi Hou's Command
+	15 Shi Hou's Reckoning
+	6 Shoupan Shrine
+	15 Shu Qin, Imperial Storyteller
+	7 Siege of the Heavens
+	15 Skittering Yaoguai
+	6 Sleight of Eye
+	7 Slippery Assassin
+	7 Spined Spire
+	7 Spirit-Lantern Incendiary
+	7 Spirit Blossom Shrine
+	15 Spirit Snare
+	6 Stalker in the Mist
+	15 Stolen Stratagem
+	6 Student of the Elixir
+	15 Sun King's Gambit
+	6 Syndicate Dealings
+	7 Syndicate Sycophant
+	15 Taifeng Cartographer
+	6 Taifeng Flockherd
+	6 Taifeng Informant
+	6 Taifeng Shrine
+	6 Terracotta Horde
+	15 Terracotta Idol
+	7 Terracotta Sage
+	7 Terramorphic Cradle
+	6 Thirst for Shinies
+	15 Three Wisdoms
+	15 Through the Divine Gate
+	6 Thundering Wrath
+	7 Treacherous Oasis
+	6 Unbalancing Strike
+	15 Undying Remorse
+	6 Venerable Loremaster
+	7 Vulpine Bluffs
+	15 Wanderer of Many
+	15 Warden of the Divine Court
+	6 Warren Wardens
+	7 Water Sutra Daoshi
+	6 Waxing Celestial
+	6 Wayfarer's Shrine_PAX
+	6 Weeping Yaoguai
+	4 Wei Ji, Dawn and Dusk
+	7 Whimwing
+	6 Wildershrine Elder
+	6 Wildershrine Pilgrimage
+	15 Wildershrine Warden
+	6 Will of the Wilds
+	6 Worldly Detachment
+	7 Xifang Hu, Light Within
+	15 Xijiang, the Fiend Judge
+	4 Xiong Mao, the Enduring
+	6 Yangzhi Cloudpiercer
+	7 Ye Feng, Lotus Apothecary
+	7 Yi Cang, Thief of Blessings
+	15 Zhizhu Jing, Duality of Fates
+	4 Zhu Bajie, Shepherd of Stone
+	7 Zhu Bajie's Command
+	4 Zhu Long, Refulgent Wind

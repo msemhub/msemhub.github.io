@@ -1,0 +1,1397 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Academy Wastes_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Adaptive Terrains_L3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Aerie's Pillar_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Animus",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Ahl's Study_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Amber Hills_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Ancient Ossuary_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Angeltouched Cavern_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Angeltouched Crag_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Angeltouched Garden_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Angeltouched Marsh_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Angeltouched Saltflat_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Arctic Mine_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Barren Desolation_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Bustling Docks_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Bygone Guardian_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Animus",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Chamber of Splendor_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Channeling Stone_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Choked Estuary_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Citadel of Denial_L3",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Clutch of the Coil_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Collapsing Ground_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Command Tower_L3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Cradle of Corruption_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Swamp",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Crumbling Precipice_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Crumbling Vestige_L3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Crystal Cavern_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Deathwind Expanse_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Derelict Amphitheatre_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Derelict Town_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Desert Temple_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Desert",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Deserted Trail_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Dragonfly Shrine_L3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Edge of the World_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Elrayin, the Manaroot_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Forest",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Flooded Morass_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Floodwater Depths_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Flourishing Crevasse_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Flourishing Waterways_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Foreboding Ruins_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Haunt_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Pit_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Animus",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Steppe_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Fortified Village_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Frostfire Geysers_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Fungal Mire_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Game Trail_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Gloomcover Steppe_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Grim Bastion_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Grove of Reversal_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Gryla Canyon_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Halls of Renown_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Heart of the Glade_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Heavenly Temple_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Hill of Souls_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Horizon of Origins_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Imperial Barracks_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Interlocked Waterways_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Isolated Cloister_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Jade Temple_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Kellythross' Workshop_L3",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Lavatorn Fields_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Legacy Foundations_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Lumbering Hillock_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Animus",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Lush Oasis_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Magmatic Torrent_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Memorial of the Fallen_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Midnight Keep_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Moonshadow Abyss_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Mosecf, the Sunseeker's Path_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Plains",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Murmuring Falls_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Mysterious Cataract_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Nomad's Township_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Ocean Monastery_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Palace of Reflections_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Perilous Passage_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Planar Alignment_L3",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Pool of Light_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Port Town_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Priest's Altar_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Quintok Station_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Ralora, Unforgiving Depths_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Mountain",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Rampant Summit_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Resplendent Substratum_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Ripping Wilds_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Rousing Rubble_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Animus",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Sea Of Skies Beyond_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Island",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Sedate Tundra_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Shadowed Slums_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Shardstone Rift_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Shengin Heartland_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Shifting Glade_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Shikai's Redoubt_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Shrine of the Six Pillars_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Shrouded Sanctuary_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Spiraling Canyon_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Spires of Telenia_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Stormcaster's Tower_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Sunlit Highland_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Sunrise Orchard_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Temple of Brilliance_L3",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "The High Prairies_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Timber Range_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Tirenan Market_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Wastes_L3",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Wayfarer's Shrine_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Whiterun Gates_L3",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Whiterun Harbor_L3",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L3-files/img/94.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Academy Wastes_L3
+	2 Aerie's Pillar_L3
+	2 Ahl's Study_L3
+	2 Amber Hills_L3
+	2 Ancient Ossuary_L3
+	2 Angeltouched Cavern_L3
+	2 Angeltouched Crag_L3
+	2 Angeltouched Garden_L3
+	2 Angeltouched Marsh_L3
+	2 Angeltouched Saltflat_L3
+	2 Arctic Mine_L3
+	2 Barren Desolation_L3
+	2 Bygone Guardian_L3
+	2 Chamber of Splendor_L3
+	2 Channeling Stone_L3
+	2 Choked Estuary_L3
+	1 Citadel of Denial_L3
+	2 Clutch of the Coil_L3
+	2 Cradle of Corruption_L3
+	2 Crumbling Precipice_L3
+	2 Crystal Cavern_L3
+	2 Deathwind Expanse_L3
+	2 Derelict Town_L3
+	2 Desert Temple_L3
+	2 Deserted Trail_L3
+	2 Edge of the World_L3
+	2 Elrayin, the Manaroot_L3
+	2 Flooded Morass_L3
+	2 Floodwater Depths_L3
+	2 Flourishing Crevasse_L3
+	2 Flourishing Waterways_L3
+	2 Foreboding Ruins_L3
+	2 Forgotten Pit_L3
+	2 Forgotten Steppe_L3
+	2 Fortified Village_L3
+	2 Frostfire Geysers_L3
+	2 Fungal Mire_L3
+	2 Game Trail_L3
+	2 Gloomcover Steppe_L3
+	2 Grim Bastion_L3
+	2 Grove of Reversal_L3
+	2 Gryla Canyon_L3
+	2 Halls of Renown_L3
+	2 Heart of the Glade_L3
+	2 Horizon of Origins_L3
+	2 Imperial Barracks_L3
+	1 Kellythross' Workshop_L3
+	2 Lavatorn Fields_L3
+	2 Legacy Foundations_L3
+	2 Lumbering Hillock_L3
+	2 Lush Oasis_L3
+	2 Magmatic Torrent_L3
+	2 Memorial of the Fallen_L3
+	2 Midnight Keep_L3
+	2 Moonshadow Abyss_L3
+	2 Mosecf, the Sunseeker's Path_L3
+	2 Murmuring Falls_L3
+	2 Mysterious Cataract_L3
+	2 Nomad's Township_L3
+	2 Ocean Monastery_L3
+	2 Palace of Reflections_L3
+	1 Planar Alignment_L3
+	2 Pool of Light_L3
+	2 Port Town_L3
+	2 Priest's Altar_L3
+	2 Quintok Station_L3
+	2 Ralora, Unforgiving Depths_L3
+	2 Rampant Summit_L3
+	2 Resplendent Substratum_L3
+	2 Rousing Rubble_L3
+	2 Sea Of Skies Beyond_L3
+	2 Sedate Tundra_L3
+	2 Shardstone Rift_L3
+	2 Shifting Glade_L3
+	2 Shrouded Sanctuary_L3
+	2 Spiraling Canyon_L3
+	2 Spires of Telenia_L3
+	2 Stormcaster's Tower_L3
+	2 Sunlit Highland_L3
+	2 Sunrise Orchard_L3
+	2 The High Prairies_L3
+	2 Timber Range_L3
+	2 Tirenan Market_L3
+	2 Wayfarer's Shrine_L3
+	1 Whiterun Gates_L3
+	2 Whiterun Harbor_L3
+[uncommon(3)]
+	4 Bustling Docks_L3
+	4 Collapsing Ground_L3
+	4 Derelict Amphitheatre_L3
+	4 Forgotten Haunt_L3
+	4 Heavenly Temple_L3
+	4 Hill of Souls_L3
+	4 Interlocked Waterways_L3
+	4 Isolated Cloister_L3
+	4 Jade Temple_L3
+	4 Perilous Passage_L3
+	4 Ripping Wilds_L3
+	4 Shadowed Slums_L3
+	4 Shengin Heartland_L3
+	4 Shikai's Redoubt_L3
+	4 Shrine of the Six Pillars_L3
+	4 Temple of Brilliance_L3
+[common(7)]
+	8 Adaptive Terrains_L3
+	8 Command Tower_L3
+	8 Crumbling Vestige_L3
+	8 Dragonfly Shrine_L3
+[foil(1)]
+	2 Academy Wastes_L3
+	12 Adaptive Terrains_L3
+	2 Aerie's Pillar_L3
+	2 Ahl's Study_L3
+	2 Amber Hills_L3
+	2 Ancient Ossuary_L3
+	2 Angeltouched Cavern_L3
+	2 Angeltouched Crag_L3
+	2 Angeltouched Garden_L3
+	2 Angeltouched Marsh_L3
+	2 Angeltouched Saltflat_L3
+	2 Arctic Mine_L3
+	2 Barren Desolation_L3
+	6 Bustling Docks_L3
+	2 Bygone Guardian_L3
+	2 Chamber of Splendor_L3
+	2 Channeling Stone_L3
+	2 Choked Estuary_L3
+	1 Citadel of Denial_L3
+	2 Clutch of the Coil_L3
+	6 Collapsing Ground_L3
+	12 Command Tower_L3
+	2 Cradle of Corruption_L3
+	2 Crumbling Precipice_L3
+	12 Crumbling Vestige_L3
+	2 Crystal Cavern_L3
+	2 Deathwind Expanse_L3
+	6 Derelict Amphitheatre_L3
+	2 Derelict Town_L3
+	2 Desert Temple_L3
+	2 Deserted Trail_L3
+	12 Dragonfly Shrine_L3
+	2 Edge of the World_L3
+	2 Elrayin, the Manaroot_L3
+	2 Flooded Morass_L3
+	2 Floodwater Depths_L3
+	2 Flourishing Crevasse_L3
+	2 Flourishing Waterways_L3
+	2 Foreboding Ruins_L3
+	6 Forgotten Haunt_L3
+	2 Forgotten Pit_L3
+	2 Forgotten Steppe_L3
+	2 Fortified Village_L3
+	2 Frostfire Geysers_L3
+	2 Fungal Mire_L3
+	2 Game Trail_L3
+	2 Gloomcover Steppe_L3
+	2 Grim Bastion_L3
+	2 Grove of Reversal_L3
+	2 Gryla Canyon_L3
+	2 Halls of Renown_L3
+	2 Heart of the Glade_L3
+	6 Heavenly Temple_L3
+	6 Hill of Souls_L3
+	2 Horizon of Origins_L3
+	2 Imperial Barracks_L3
+	6 Interlocked Waterways_L3
+	6 Isolated Cloister_L3
+	6 Jade Temple_L3
+	1 Kellythross' Workshop_L3
+	2 Lavatorn Fields_L3
+	2 Legacy Foundations_L3
+	2 Lumbering Hillock_L3
+	2 Lush Oasis_L3
+	2 Magmatic Torrent_L3
+	2 Memorial of the Fallen_L3
+	2 Midnight Keep_L3
+	2 Moonshadow Abyss_L3
+	2 Mosecf, the Sunseeker's Path_L3
+	2 Murmuring Falls_L3
+	2 Mysterious Cataract_L3
+	2 Nomad's Township_L3
+	2 Ocean Monastery_L3
+	2 Palace of Reflections_L3
+	6 Perilous Passage_L3
+	1 Planar Alignment_L3
+	2 Pool of Light_L3
+	2 Port Town_L3
+	2 Priest's Altar_L3
+	2 Quintok Station_L3
+	2 Ralora, Unforgiving Depths_L3
+	2 Rampant Summit_L3
+	2 Resplendent Substratum_L3
+	6 Ripping Wilds_L3
+	2 Rousing Rubble_L3
+	2 Sea Of Skies Beyond_L3
+	2 Sedate Tundra_L3
+	6 Shadowed Slums_L3
+	2 Shardstone Rift_L3
+	6 Shengin Heartland_L3
+	2 Shifting Glade_L3
+	6 Shikai's Redoubt_L3
+	6 Shrine of the Six Pillars_L3
+	2 Shrouded Sanctuary_L3
+	2 Spiraling Canyon_L3
+	2 Spires of Telenia_L3
+	2 Stormcaster's Tower_L3
+	2 Sunlit Highland_L3
+	2 Sunrise Orchard_L3
+	6 Temple of Brilliance_L3
+	2 The High Prairies_L3
+	2 Timber Range_L3
+	2 Tirenan Market_L3
+	2 Wayfarer's Shrine_L3
+	1 Whiterun Gates_L3
+	2 Whiterun Harbor_L3
+[wildcard(1)]
+	7 Academy Wastes_L3
+	6 Adaptive Terrains_L3
+	7 Aerie's Pillar_L3
+	7 Ahl's Study_L3
+	7 Amber Hills_L3
+	7 Ancient Ossuary_L3
+	7 Angeltouched Cavern_L3
+	7 Angeltouched Crag_L3
+	7 Angeltouched Garden_L3
+	7 Angeltouched Marsh_L3
+	7 Angeltouched Saltflat_L3
+	7 Arctic Mine_L3
+	7 Barren Desolation_L3
+	15 Bustling Docks_L3
+	7 Bygone Guardian_L3
+	7 Chamber of Splendor_L3
+	7 Channeling Stone_L3
+	7 Choked Estuary_L3
+	4 Citadel of Denial_L3
+	7 Clutch of the Coil_L3
+	15 Collapsing Ground_L3
+	6 Command Tower_L3
+	7 Cradle of Corruption_L3
+	7 Crumbling Precipice_L3
+	6 Crumbling Vestige_L3
+	7 Crystal Cavern_L3
+	7 Deathwind Expanse_L3
+	15 Derelict Amphitheatre_L3
+	7 Derelict Town_L3
+	7 Desert Temple_L3
+	7 Deserted Trail_L3
+	6 Dragonfly Shrine_L3
+	7 Edge of the World_L3
+	7 Elrayin, the Manaroot_L3
+	7 Flooded Morass_L3
+	7 Floodwater Depths_L3
+	7 Flourishing Crevasse_L3
+	7 Flourishing Waterways_L3
+	7 Foreboding Ruins_L3
+	15 Forgotten Haunt_L3
+	7 Forgotten Pit_L3
+	7 Forgotten Steppe_L3
+	7 Fortified Village_L3
+	7 Frostfire Geysers_L3
+	7 Fungal Mire_L3
+	7 Game Trail_L3
+	7 Gloomcover Steppe_L3
+	7 Grim Bastion_L3
+	7 Grove of Reversal_L3
+	7 Gryla Canyon_L3
+	7 Halls of Renown_L3
+	7 Heart of the Glade_L3
+	15 Heavenly Temple_L3
+	15 Hill of Souls_L3
+	7 Horizon of Origins_L3
+	7 Imperial Barracks_L3
+	15 Interlocked Waterways_L3
+	15 Isolated Cloister_L3
+	15 Jade Temple_L3
+	4 Kellythross' Workshop_L3
+	7 Lavatorn Fields_L3
+	7 Legacy Foundations_L3
+	7 Lumbering Hillock_L3
+	7 Lush Oasis_L3
+	7 Magmatic Torrent_L3
+	7 Memorial of the Fallen_L3
+	7 Midnight Keep_L3
+	7 Moonshadow Abyss_L3
+	7 Mosecf, the Sunseeker's Path_L3
+	7 Murmuring Falls_L3
+	7 Mysterious Cataract_L3
+	7 Nomad's Township_L3
+	7 Ocean Monastery_L3
+	7 Palace of Reflections_L3
+	15 Perilous Passage_L3
+	4 Planar Alignment_L3
+	7 Pool of Light_L3
+	7 Port Town_L3
+	7 Priest's Altar_L3
+	7 Quintok Station_L3
+	7 Ralora, Unforgiving Depths_L3
+	7 Rampant Summit_L3
+	7 Resplendent Substratum_L3
+	15 Ripping Wilds_L3
+	7 Rousing Rubble_L3
+	7 Sea Of Skies Beyond_L3
+	7 Sedate Tundra_L3
+	15 Shadowed Slums_L3
+	7 Shardstone Rift_L3
+	15 Shengin Heartland_L3
+	7 Shifting Glade_L3
+	15 Shikai's Redoubt_L3
+	15 Shrine of the Six Pillars_L3
+	7 Shrouded Sanctuary_L3
+	7 Spiraling Canyon_L3
+	7 Spires of Telenia_L3
+	7 Stormcaster's Tower_L3
+	7 Sunlit Highland_L3
+	7 Sunrise Orchard_L3
+	15 Temple of Brilliance_L3
+	7 The High Prairies_L3
+	7 Timber Range_L3
+	7 Tirenan Market_L3
+	7 Wayfarer's Shrine_L3
+	4 Whiterun Gates_L3
+	7 Whiterun Harbor_L3

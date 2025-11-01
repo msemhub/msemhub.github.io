@@ -140,7 +140,7 @@ set_order = []
 #F: iterate over set codes again
 for code in set_codes:
 	set_order.append(code)
-	image_flip.flipImages(code)
+	# image_flip.flipImages(code)
 	set_dir = code + '-files'
 	with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as f:
 		raw = json.load(f)
@@ -152,75 +152,75 @@ for code in set_codes:
 			print('Unable to generate draft file for {0}: {1}'.format(code, e))
 
 	#CE: this code is all for version history
-	if 'version' not in raw:
-		versions = glob.glob(os.path.join('sets', 'versions', '*_' + code + '*'))
-		if len(versions) == 0:
-			shutil.copyfile(os.path.join('sets', code + '-files', code + '.json'), os.path.join('sets', 'versions', '1_' + code + '.json'))
-			prettifyJSON(os.path.join('sets', 'versions', '1_' + code + '.json'))
-			raw['version'] = 1
-			with open(os.path.join('sets', 'versions', 'changelogs', 'chl_' + code + '.txt'), 'w', encoding='utf-8-sig') as f:
-				f.write('VERSION 1 CHANGELOG\n====================\n\nFirst version published.')
-		else:
-			regex = r'[/\\]([0-9]+)_'
-			match = re.search(regex, versions[0])
-			old_version = int(match.group(1))
-			new_version = int(match.group(1)) + 1
-			changed = False
-			chl_string = 'VERSION ' + str(new_version) + ' CHANGELOG\n====================\n'
-			added_string = ''
-			removed_string = ''
-			changed_string = ''
-			with open(versions[0], encoding='utf-8-sig') as f:
-				previous_data = json.load(f)
-			# put the names into an array to reduce runtime
-			prev_card_names = []
-			for card in previous_data['cards']:
-				if 'token' in card['type'] or 'Basic' in card['type']:
-					prev_card_names.append('')
-				else:
-					prev_card_names.append(card['card_name'])
-			for card in raw['cards']:
-				# skip tokens and basics
-				if 'token' in card['type'] or 'Basic' in card['type']:
-					continue
-				if card['card_name'] not in prev_card_names:
-					changed = True
-					added_string += card['card_name'] + ' added.\n'
-				else:
-					prev_card = previous_data['cards'][prev_card_names.index(card['card_name'])]
-					prev_card_names[prev_card_names.index(card['card_name'])] = ''
+	# if 'version' not in raw:
+	# 	versions = glob.glob(os.path.join('sets', 'versions', '*_' + code + '*'))
+	# 	if len(versions) == 0:
+	# 		shutil.copyfile(os.path.join('sets', code + '-files', code + '.json'), os.path.join('sets', 'versions', '1_' + code + '.json'))
+	# 		prettifyJSON(os.path.join('sets', 'versions', '1_' + code + '.json'))
+	# 		raw['version'] = 1
+	# 		with open(os.path.join('sets', 'versions', 'changelogs', 'chl_' + code + '.txt'), 'w', encoding='utf-8-sig') as f:
+	# 			f.write('VERSION 1 CHANGELOG\n====================\n\nFirst version published.')
+	# 	else:
+	# 		regex = r'[/\\]([0-9]+)_'
+	# 		match = re.search(regex, versions[0])
+	# 		old_version = int(match.group(1))
+	# 		new_version = int(match.group(1)) + 1
+	# 		changed = False
+	# 		chl_string = 'VERSION ' + str(new_version) + ' CHANGELOG\n====================\n'
+	# 		added_string = ''
+	# 		removed_string = ''
+	# 		changed_string = ''
+	# 		with open(versions[0], encoding='utf-8-sig') as f:
+	# 			previous_data = json.load(f)
+	# 		# put the names into an array to reduce runtime
+	# 		prev_card_names = []
+	# 		for card in previous_data['cards']:
+	# 			if 'token' in card['type'] or 'Basic' in card['type']:
+	# 				prev_card_names.append('')
+	# 			else:
+	# 				prev_card_names.append(card['card_name'])
+	# 		for card in raw['cards']:
+	# 			# skip tokens and basics
+	# 			if 'token' in card['type'] or 'Basic' in card['type']:
+	# 				continue
+	# 			if card['card_name'] not in prev_card_names:
+	# 				changed = True
+	# 				added_string += card['card_name'] + ' added.\n'
+	# 			else:
+	# 				prev_card = previous_data['cards'][prev_card_names.index(card['card_name'])]
+	# 				prev_card_names[prev_card_names.index(card['card_name'])] = ''
 
-					# ignore card number, since that often changes for reasons unrelated to the card itself
-					card_copy = card.copy()
-					prev_card_copy = prev_card.copy()
-					card_copy.pop("number", None)
-					prev_card_copy.pop("number", None)
+	# 				# ignore card number, since that often changes for reasons unrelated to the card itself
+	# 				card_copy = card.copy()
+	# 				prev_card_copy = prev_card.copy()
+	# 				card_copy.pop("number", None)
+	# 				prev_card_copy.pop("number", None)
 
-					if card_copy != prev_card_copy:
-						changed = True
-						changed_string += card['card_name'] + '\n'
-						for key in [ 'type', 'cost', 'rules_text', 'pt', 'special_text', 'loyalty' ]:
-							if card[key] != prev_card[key]:
-								changed_string += key + ': ' + prev_card[key] + ' => ' + card[key] + '\n'
-						changed_string += '\n'
-			for name in prev_card_names:
-				if name != '':
-					changed = True
-					removed_string += name + ' removed.\n'
+	# 				if card_copy != prev_card_copy:
+	# 					changed = True
+	# 					changed_string += card['card_name'] + '\n'
+	# 					for key in [ 'type', 'cost', 'rules_text', 'pt', 'special_text', 'loyalty' ]:
+	# 						if card[key] != prev_card[key]:
+	# 							changed_string += key + ': ' + prev_card[key] + ' => ' + card[key] + '\n'
+	# 					changed_string += '\n'
+	# 		for name in prev_card_names:
+	# 			if name != '':
+	# 				changed = True
+	# 				removed_string += name + ' removed.\n'
 
-			with open(os.path.join('sets', 'versions', 'changelogs', 'chl_' + code + '.txt'), 'r+', encoding='utf-8-sig') as f:
-				file_content = f.read()
-				f.seek(0, 0)
-				if not changed:
-					to_write = '\n'.join( [ chl_string, 'No changes.\n' ] )
-				else:
-					to_write = '\n'.join([ chl_string, added_string, removed_string, changed_string ])
-				f.write(to_write + '\n' + file_content)
+	# 		with open(os.path.join('sets', 'versions', 'changelogs', 'chl_' + code + '.txt'), 'r+', encoding='utf-8-sig') as f:
+	# 			file_content = f.read()
+	# 			f.seek(0, 0)
+	# 			if not changed:
+	# 				to_write = '\n'.join( [ chl_string, 'No changes.\n' ] )
+	# 			else:
+	# 				to_write = '\n'.join([ chl_string, added_string, removed_string, changed_string ])
+	# 			f.write(to_write + '\n' + file_content)
 			
-			shutil.copyfile(os.path.join('sets', code + '-files', code + '.json'), os.path.join('sets', 'versions', str(new_version) + '_' + code + '.json'))
-			prettifyJSON(os.path.join('sets', 'versions', str(new_version) + '_' + code + '.json'))
-			os.remove(os.path.join('sets', 'versions', str(old_version) + '_' + code + '.json'))
-			raw['version'] = new_version
+	# 		shutil.copyfile(os.path.join('sets', code + '-files', code + '.json'), os.path.join('sets', 'versions', str(new_version) + '_' + code + '.json'))
+	# 		prettifyJSON(os.path.join('sets', 'versions', str(new_version) + '_' + code + '.json'))
+	# 		os.remove(os.path.join('sets', 'versions', str(old_version) + '_' + code + '.json'))
+	# 		raw['version'] = new_version
 
 	#CE: trims border radius of images
 	if raw['trimmed'] == 'n':
@@ -249,8 +249,8 @@ if not os.path.exists(custom_order):
 for code in set_codes:
 	#F: more important functions
 	#CE: moving this down after we create the 'set-order.json' file
-	if not os.path.exists(os.path.join('sets', code + '-files', 'ignore.txt')):
-		print_html_for_preview.generateHTML(code)
+	# if not os.path.exists(os.path.join('sets', code + '-files', 'ignore.txt')):
+	# 	print_html_for_preview.generateHTML(code)
 	print_html_for_set.generateHTML(code)
 
 print_html_for_sets_page.generateHTML()

@@ -1,0 +1,3296 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abhorrent Exhumer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Abolishers of Sin",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Accursed Existence",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Accursed Phantasm",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Allagras, Tidal Master",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Planeswalker — Allagras",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Allagras' Vanguard",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Merfolk",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Arcane Dexterity",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Arcane Rebound",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Arcanist's Dispersal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Assault on Prosania",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Atemporal Blade",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Bane of Sanity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Barbarian Hoarders",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Barbaric Dexterity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Barge Engulfer",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Batrest, Fellor Leader",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{W}",
+			"type": "Legendary Creature — Human Barbarian Warrior",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Batrest's Forgemaster",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Beragnian Blizzard",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Beragnian Brawlmaster",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Beragnian Intimidator",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Beragnian Savage",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Blade of Reolem",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Blood Servant",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Bloodchill Risen",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Zombie",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Bloodrite Fiend",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Bloodthirsty Berserkers",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Bolstered Stockpiles",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Bone Saw",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Budding Echomage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Builder's Blessing",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Burn with Rage",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Cannon Fodder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Cease Conflict",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Chillwhisper Witch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Chronomancer's Bauble",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Chronomancer Adept",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Chronowing Phoenix",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Clanleader of Beragnos",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Goblin",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Clashborn Stormling",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Close Escape",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Collapsing Ground",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Continental Collapse",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Corpse Exploiter",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Counteroffense",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Cranial Archive",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Crazed Wildlings",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Curse of the Deadlands",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Curse of the Drow",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Danuri Banisher",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Danuri Custodian",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Dashing Rager",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Deadland Mongrel",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Deadland Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Deadland Summoner",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Devout Wallkeepers",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Diligent Protector",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Distort Reality",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Doomed Fate",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Drow Bloodmage",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Drow Ritualist",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Dulling Necromancer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Duskwood Marshal",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Duskwood Vanguard",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Duskwood Wildcaller",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Ebbing Savage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Echoing Knowledge",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Elemental Clash",
+			"rarity": "mythic",
+			"mana_cost": "{6}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Elusive Sniper",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Soldier Archer",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Embodiment of Abundance",
+			"rarity": "mythic",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Endrison Familiar",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Endrison Harvester",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Endrison Nourisher",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Erratic Arcanomancer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Ethereal Spellmaster",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Expand Your Options",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Explore",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Fadefeather Griffin",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Faithtorn Danuri",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Fellor Armorsmith",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Fellor Elite",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Fellor Ironborn",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Feral Cleaver",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Feralborn Druid",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Fervent Arcanomancer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Fickleflame Summon",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Ficklewing Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Final Revelation",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Flamewaker's Staff",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Fleshgraft Aberration",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Zombie Horror",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Fogborn Mauler",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Forgeborn Barbarian",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Forgemaster's Gift",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Formidable Bulkvine",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elemental Giant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Fortress Sentinel",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Furious Betrayal",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Gallord's Ascension",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Gallord's Intervention",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Garrison Mobilizer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Gendran Hostess",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Goblin Twinblades",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Grace of Gendra",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Graveborn Usurper",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Zombie Shapeshifter",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Griptide",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Groundswell",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Guilty Execution",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Hapless Chronomancer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Haunter of the Deadlands",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Warrior",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Hordedriver Enthusiast",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Humanity's Hope",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Ill-Fated Profit",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Imminent Collision",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Imposing Bastion",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Wall",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Infuse Vitality",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Instinctual Savagery",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Into Strange Territories",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Irisglow Dryad",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Khaliz-Dorahn Restored",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Khalizors' Last Stand",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Koth, One True Hero",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — Koth",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Koth's Retaliation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Lafterii Augur",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Lafterii Ingenuity",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Landbound Connoisseur",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Landbound Ritualist",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Landbound Sage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Last of the Poisonblades",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Lavacore Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Legion of Wights",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie Soldier",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Lodestone Colossus",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Magus of Memories",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Majestic Garrison",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Wall",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Massive Waraxe",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Master Echomage",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Master of Steel",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Mawdryk, Endrison Warden",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Elf Soldier",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Mawdryk's Accusation",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Mawdryk's Elite",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Mawdryk's Haven",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Memories of the Past",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Mental Supremacist",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Merciless Brute",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Merfolk Looter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Merfolk Visionary",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Merfolk",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Merkurio's Insight",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Merkurio's Rebuttal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Meteor Volley",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Mulchborn Behemoth",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Creature — Elemental Giant",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Necrobite",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Offer to Nature",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "One with Nature",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Pandora's Antagonism",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Pandora's Eviction",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Prepare for Confrontation",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Priest of Forbiddance",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Prosanian Shieldmaster",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Prosanian Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Punishing Catastrophe",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Purgeward Adept",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Purging Reolem",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Purifying Light",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Pyromancer's Fury",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Rallios' Demise",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Rallios' Return",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Rallios Reincarnated",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Zombie Warrior",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Rallying Banner",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Ready for the Odyssey",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Reality Check",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Ripping Wilds",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Rise from Death",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Risen Looter",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Zombie",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Road to Endris-Dorahn",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Roggar's Frenzy",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Roggar's Gambit",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Ruin Salvager",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Sanctuary",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Incarnation",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Savrios' Cohort",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Savrios' Masterpiece",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Savrios' Timeshifter",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Scourge of the Deadlands",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Sentinel's Longbow",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Shape the Tides",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Shrapnelcrafter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Sigil of Destruction",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Sigil of Duty",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Sigil of Savagery",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Sinful Past",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Soothevine Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Soulstone Commander",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Soulstone Redeemer",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Soulstone Servant",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Soulstone Shard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Stay on Edge",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Steelborn Apprentice",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Stonework Vigilante",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Strength of the Phalanx",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Stronghold Recruit",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Subturgian Bloodhunter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Subturgian Legionnaire",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Subturgian Proliferator",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Summon to the Cause",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Surge of Depravity",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Survive the Wreckage",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Swallowed by the Earth",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Swiftstep Cliffdweller",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Temporal Resuscitation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Temporary Treason",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Tharanos' Legion",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Tharanos' Sentinel",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Tharanos' Stratagem",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Tharyen, Lord of Subturgia",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Vampire Warrior",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Tharyen's Machinations",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Tharyen's Sadism",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Tharyen's Vanguard",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "The High Prairies",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "The Tideshift",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Threats from the Outskirts",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Tideshift Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Time to Depart",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Timecrafter Lafterii",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Tinkerer's Tools",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Tizzanier Tidehunter",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Traversing Bulkvine",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental Plant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Treetop Defense",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Undying Terror",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Undying Welcome",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Unhallowed Legion",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Unstable Footing",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Unstable Magmaling",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Until the Last Breath",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Vampiric Appetite",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Vaporizing Blast",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Vestige of Evil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Voice of Khaliz",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Voice of the Sisterhood",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Voice of the Wild",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Wailing Spirit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Wanderer's Talisman",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Waning Behemoth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elemental Giant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Warmonger Contraption",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Watcher of the Wall",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Weaponize",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Weather the Storm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Whimsical Elemental",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Winds of Toxicity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Wings of the Arcanomancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Winterborn Savage",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Barbarian Warrior",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Withering Bulkvine",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Wolfbriar Sapling",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Wurmscape",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AFM-files/img/199.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Accursed Existence
+	1 Allagras, Tidal Master
+	2 Arcane Rebound
+	1 Batrest, Fellor Leader
+	2 Batrest's Forgemaster
+	2 Beragnian Brawlmaster
+	2 Bolstered Stockpiles
+	2 Chronomancer Adept
+	2 Chronowing Phoenix
+	2 Corpse Exploiter
+	2 Danuri Banisher
+	2 Danuri Custodian
+	2 Dashing Rager
+	2 Deadland Summoner
+	2 Doomed Fate
+	1 Elemental Clash
+	1 Embodiment of Abundance
+	2 Endrison Nourisher
+	1 Ethereal Spellmaster
+	2 Feralborn Druid
+	2 Forgeborn Barbarian
+	2 Formidable Bulkvine
+	2 Gallord's Ascension
+	2 Graveborn Usurper
+	1 Humanity's Hope
+	2 Ill-Fated Profit
+	2 Into Strange Territories
+	2 Khaliz-Dorahn Restored
+	1 Khalizors' Last Stand
+	1 Koth, One True Hero
+	2 Lafterii Ingenuity
+	2 Landbound Connoisseur
+	2 Master Echomage
+	2 Master of Steel
+	2 Mawdryk, Endrison Warden
+	2 Mawdryk's Elite
+	2 Mental Supremacist
+	2 Merkurio's Insight
+	2 Meteor Volley
+	1 Mulchborn Behemoth
+	1 Priest of Forbiddance
+	2 Prosanian Shieldmaster
+	2 Punishing Catastrophe
+	2 Pyromancer's Fury
+	2 Rallios' Return
+	2 Rallios Reincarnated
+	2 Rallying Banner
+	1 Rise from Death
+	2 Roggar's Frenzy
+	1 Sanctuary
+	1 Savrios' Masterpiece
+	2 Savrios' Timeshifter
+	2 Soulstone Commander
+	2 Soulstone Redeemer
+	2 Subturgian Proliferator
+	2 Summon to the Cause
+	2 Temporary Treason
+	2 Tharanos' Legion
+	1 Tharyen, Lord of Subturgia
+	2 Tharyen's Machinations
+	2 Tharyen's Sadism
+	2 The High Prairies
+	2 The Tideshift
+	2 Tinkerer's Tools
+	2 Traversing Bulkvine
+	2 Unstable Magmaling
+	2 Weaponize
+	1 Wurmscape
+[uncommon(3)]
+	4 Abolishers of Sin
+	4 Accursed Phantasm
+	4 Allagras' Vanguard
+	4 Arcanist's Dispersal
+	4 Assault on Prosania
+	4 Bane of Sanity
+	4 Barbaric Dexterity
+	4 Bloodthirsty Berserkers
+	4 Budding Echomage
+	4 Builder's Blessing
+	4 Cannon Fodder
+	4 Chillwhisper Witch
+	4 Chronomancer's Bauble
+	4 Clanleader of Beragnos
+	4 Collapsing Ground
+	4 Cranial Archive
+	4 Crazed Wildlings
+	4 Curse of the Deadlands
+	4 Deadland Scavenger
+	4 Drow Bloodmage
+	4 Dulling Necromancer
+	4 Duskwood Wildcaller
+	4 Endrison Familiar
+	4 Expand Your Options
+	4 Fadefeather Griffin
+	4 Fellor Armorsmith
+	4 Fellor Ironborn
+	4 Feral Cleaver
+	4 Fervent Arcanomancer
+	4 Ficklewing Elemental
+	4 Garrison Mobilizer
+	4 Grace of Gendra
+	4 Haunter of the Deadlands
+	4 Hordedriver Enthusiast
+	4 Infuse Vitality
+	4 Koth's Retaliation
+	4 Landbound Sage
+	4 Lavacore Elemental
+	4 Magus of Memories
+	4 Majestic Garrison
+	4 Massive Waraxe
+	4 Mawdryk's Accusation
+	4 Mawdryk's Haven
+	4 Memories of the Past
+	4 Merfolk Visionary
+	4 Merkurio's Rebuttal
+	4 One with Nature
+	4 Pandora's Eviction
+	4 Prosanian Warden
+	4 Purging Reolem
+	4 Ready for the Odyssey
+	4 Reality Check
+	4 Ripping Wilds
+	4 Road to Endris-Dorahn
+	4 Roggar's Gambit
+	4 Ruin Salvager
+	4 Savrios' Cohort
+	4 Scourge of the Deadlands
+	4 Shape the Tides
+	4 Shrapnelcrafter
+	4 Soothevine Elemental
+	4 Soulstone Shard
+	4 Subturgian Legionnaire
+	4 Temporal Resuscitation
+	4 Tharanos' Stratagem
+	4 Tharyen's Vanguard
+	4 Threats from the Outskirts
+	4 Tideshift Elemental
+	4 Undying Terror
+	4 Unhallowed Legion
+	4 Vaporizing Blast
+	4 Vestige of Evil
+	4 Voice of Khaliz
+	4 Voice of the Sisterhood
+	4 Waning Behemoth
+	4 Warmonger Contraption
+	4 Watcher of the Wall
+	4 Weather the Storm
+	4 Winds of Toxicity
+	4 Wings of the Arcanomancer
+[common(7)]
+	8 Abhorrent Exhumer
+	8 Arcane Dexterity
+	8 Atemporal Blade
+	8 Barbarian Hoarders
+	8 Barge Engulfer
+	8 Beragnian Blizzard
+	8 Beragnian Intimidator
+	8 Beragnian Savage
+	8 Blade of Reolem
+	8 Blood Servant
+	8 Bloodchill Risen
+	8 Bloodrite Fiend
+	8 Bone Saw
+	8 Burn with Rage
+	8 Cease Conflict
+	8 Clashborn Stormling
+	8 Close Escape
+	8 Continental Collapse
+	8 Counteroffense
+	8 Curse of the Drow
+	8 Deadland Mongrel
+	8 Devout Wallkeepers
+	8 Diligent Protector
+	8 Distort Reality
+	8 Drow Ritualist
+	8 Duskwood Marshal
+	8 Duskwood Vanguard
+	8 Ebbing Savage
+	8 Echoing Knowledge
+	8 Elusive Sniper
+	8 Endrison Harvester
+	8 Erratic Arcanomancer
+	8 Explore
+	8 Faithtorn Danuri
+	8 Fellor Elite
+	8 Fickleflame Summon
+	8 Final Revelation
+	8 Flamewaker's Staff
+	8 Fleshgraft Aberration
+	8 Fogborn Mauler
+	8 Forgemaster's Gift
+	8 Fortress Sentinel
+	8 Furious Betrayal
+	8 Gallord's Intervention
+	8 Gendran Hostess
+	8 Goblin Twinblades
+	8 Griptide
+	8 Groundswell
+	8 Guilty Execution
+	8 Hapless Chronomancer
+	8 Imminent Collision
+	8 Imposing Bastion
+	8 Instinctual Savagery
+	8 Irisglow Dryad
+	8 Lafterii Augur
+	8 Landbound Ritualist
+	8 Last of the Poisonblades
+	8 Legion of Wights
+	8 Lodestone Colossus
+	8 Merciless Brute
+	8 Merfolk Looter
+	8 Necrobite
+	8 Offer to Nature
+	8 Pandora's Antagonism
+	8 Prepare for Confrontation
+	8 Purgeward Adept
+	8 Purifying Light
+	8 Rallios' Demise
+	8 Risen Looter
+	8 Sentinel's Longbow
+	8 Sigil of Destruction
+	8 Sigil of Duty
+	8 Sigil of Savagery
+	8 Sinful Past
+	8 Soulstone Servant
+	8 Stay on Edge
+	8 Steelborn Apprentice
+	8 Stonework Vigilante
+	8 Strength of the Phalanx
+	8 Stronghold Recruit
+	8 Subturgian Bloodhunter
+	8 Surge of Depravity
+	8 Survive the Wreckage
+	8 Swallowed by the Earth
+	8 Swiftstep Cliffdweller
+	8 Tharanos' Sentinel
+	8 Time to Depart
+	8 Timecrafter Lafterii
+	8 Tizzanier Tidehunter
+	8 Treetop Defense
+	8 Undying Welcome
+	8 Unstable Footing
+	8 Until the Last Breath
+	8 Vampiric Appetite
+	8 Voice of the Wild
+	8 Wailing Spirit
+	8 Wanderer's Talisman
+	8 Whimsical Elemental
+	8 Winterborn Savage
+	8 Withering Bulkvine
+	8 Wolfbriar Sapling
+[foil(1)]
+	12 Abhorrent Exhumer
+	6 Abolishers of Sin
+	2 Accursed Existence
+	6 Accursed Phantasm
+	1 Allagras, Tidal Master
+	6 Allagras' Vanguard
+	12 Arcane Dexterity
+	2 Arcane Rebound
+	6 Arcanist's Dispersal
+	6 Assault on Prosania
+	12 Atemporal Blade
+	6 Bane of Sanity
+	12 Barbarian Hoarders
+	6 Barbaric Dexterity
+	12 Barge Engulfer
+	1 Batrest, Fellor Leader
+	2 Batrest's Forgemaster
+	12 Beragnian Blizzard
+	2 Beragnian Brawlmaster
+	12 Beragnian Intimidator
+	12 Beragnian Savage
+	12 Blade of Reolem
+	12 Blood Servant
+	12 Bloodchill Risen
+	12 Bloodrite Fiend
+	6 Bloodthirsty Berserkers
+	2 Bolstered Stockpiles
+	12 Bone Saw
+	6 Budding Echomage
+	6 Builder's Blessing
+	12 Burn with Rage
+	6 Cannon Fodder
+	12 Cease Conflict
+	6 Chillwhisper Witch
+	6 Chronomancer's Bauble
+	2 Chronomancer Adept
+	2 Chronowing Phoenix
+	6 Clanleader of Beragnos
+	12 Clashborn Stormling
+	12 Close Escape
+	6 Collapsing Ground
+	12 Continental Collapse
+	2 Corpse Exploiter
+	12 Counteroffense
+	6 Cranial Archive
+	6 Crazed Wildlings
+	6 Curse of the Deadlands
+	12 Curse of the Drow
+	2 Danuri Banisher
+	2 Danuri Custodian
+	2 Dashing Rager
+	12 Deadland Mongrel
+	6 Deadland Scavenger
+	2 Deadland Summoner
+	12 Devout Wallkeepers
+	12 Diligent Protector
+	12 Distort Reality
+	2 Doomed Fate
+	6 Drow Bloodmage
+	12 Drow Ritualist
+	6 Dulling Necromancer
+	12 Duskwood Marshal
+	12 Duskwood Vanguard
+	6 Duskwood Wildcaller
+	12 Ebbing Savage
+	12 Echoing Knowledge
+	1 Elemental Clash
+	12 Elusive Sniper
+	1 Embodiment of Abundance
+	6 Endrison Familiar
+	12 Endrison Harvester
+	2 Endrison Nourisher
+	12 Erratic Arcanomancer
+	1 Ethereal Spellmaster
+	6 Expand Your Options
+	12 Explore
+	6 Fadefeather Griffin
+	12 Faithtorn Danuri
+	6 Fellor Armorsmith
+	12 Fellor Elite
+	6 Fellor Ironborn
+	6 Feral Cleaver
+	2 Feralborn Druid
+	6 Fervent Arcanomancer
+	12 Fickleflame Summon
+	6 Ficklewing Elemental
+	12 Final Revelation
+	12 Flamewaker's Staff
+	12 Fleshgraft Aberration
+	12 Fogborn Mauler
+	2 Forgeborn Barbarian
+	12 Forgemaster's Gift
+	2 Formidable Bulkvine
+	12 Fortress Sentinel
+	12 Furious Betrayal
+	2 Gallord's Ascension
+	12 Gallord's Intervention
+	6 Garrison Mobilizer
+	12 Gendran Hostess
+	12 Goblin Twinblades
+	6 Grace of Gendra
+	2 Graveborn Usurper
+	12 Griptide
+	12 Groundswell
+	12 Guilty Execution
+	12 Hapless Chronomancer
+	6 Haunter of the Deadlands
+	6 Hordedriver Enthusiast
+	1 Humanity's Hope
+	2 Ill-Fated Profit
+	12 Imminent Collision
+	12 Imposing Bastion
+	6 Infuse Vitality
+	12 Instinctual Savagery
+	2 Into Strange Territories
+	12 Irisglow Dryad
+	2 Khaliz-Dorahn Restored
+	1 Khalizors' Last Stand
+	1 Koth, One True Hero
+	6 Koth's Retaliation
+	12 Lafterii Augur
+	2 Lafterii Ingenuity
+	2 Landbound Connoisseur
+	12 Landbound Ritualist
+	6 Landbound Sage
+	12 Last of the Poisonblades
+	6 Lavacore Elemental
+	12 Legion of Wights
+	12 Lodestone Colossus
+	6 Magus of Memories
+	6 Majestic Garrison
+	6 Massive Waraxe
+	2 Master Echomage
+	2 Master of Steel
+	2 Mawdryk, Endrison Warden
+	6 Mawdryk's Accusation
+	2 Mawdryk's Elite
+	6 Mawdryk's Haven
+	6 Memories of the Past
+	2 Mental Supremacist
+	12 Merciless Brute
+	12 Merfolk Looter
+	6 Merfolk Visionary
+	2 Merkurio's Insight
+	6 Merkurio's Rebuttal
+	2 Meteor Volley
+	1 Mulchborn Behemoth
+	12 Necrobite
+	12 Offer to Nature
+	6 One with Nature
+	12 Pandora's Antagonism
+	6 Pandora's Eviction
+	12 Prepare for Confrontation
+	1 Priest of Forbiddance
+	2 Prosanian Shieldmaster
+	6 Prosanian Warden
+	2 Punishing Catastrophe
+	12 Purgeward Adept
+	6 Purging Reolem
+	12 Purifying Light
+	2 Pyromancer's Fury
+	12 Rallios' Demise
+	2 Rallios' Return
+	2 Rallios Reincarnated
+	2 Rallying Banner
+	6 Ready for the Odyssey
+	6 Reality Check
+	6 Ripping Wilds
+	1 Rise from Death
+	12 Risen Looter
+	6 Road to Endris-Dorahn
+	2 Roggar's Frenzy
+	6 Roggar's Gambit
+	6 Ruin Salvager
+	1 Sanctuary
+	6 Savrios' Cohort
+	1 Savrios' Masterpiece
+	2 Savrios' Timeshifter
+	6 Scourge of the Deadlands
+	12 Sentinel's Longbow
+	6 Shape the Tides
+	6 Shrapnelcrafter
+	12 Sigil of Destruction
+	12 Sigil of Duty
+	12 Sigil of Savagery
+	12 Sinful Past
+	6 Soothevine Elemental
+	2 Soulstone Commander
+	2 Soulstone Redeemer
+	12 Soulstone Servant
+	6 Soulstone Shard
+	12 Stay on Edge
+	12 Steelborn Apprentice
+	12 Stonework Vigilante
+	12 Strength of the Phalanx
+	12 Stronghold Recruit
+	12 Subturgian Bloodhunter
+	6 Subturgian Legionnaire
+	2 Subturgian Proliferator
+	2 Summon to the Cause
+	12 Surge of Depravity
+	12 Survive the Wreckage
+	12 Swallowed by the Earth
+	12 Swiftstep Cliffdweller
+	6 Temporal Resuscitation
+	2 Temporary Treason
+	2 Tharanos' Legion
+	12 Tharanos' Sentinel
+	6 Tharanos' Stratagem
+	1 Tharyen, Lord of Subturgia
+	2 Tharyen's Machinations
+	2 Tharyen's Sadism
+	6 Tharyen's Vanguard
+	2 The High Prairies
+	2 The Tideshift
+	6 Threats from the Outskirts
+	6 Tideshift Elemental
+	12 Time to Depart
+	12 Timecrafter Lafterii
+	2 Tinkerer's Tools
+	12 Tizzanier Tidehunter
+	2 Traversing Bulkvine
+	12 Treetop Defense
+	6 Undying Terror
+	12 Undying Welcome
+	6 Unhallowed Legion
+	12 Unstable Footing
+	2 Unstable Magmaling
+	12 Until the Last Breath
+	12 Vampiric Appetite
+	6 Vaporizing Blast
+	6 Vestige of Evil
+	6 Voice of Khaliz
+	6 Voice of the Sisterhood
+	12 Voice of the Wild
+	12 Wailing Spirit
+	12 Wanderer's Talisman
+	6 Waning Behemoth
+	6 Warmonger Contraption
+	6 Watcher of the Wall
+	2 Weaponize
+	6 Weather the Storm
+	12 Whimsical Elemental
+	6 Winds of Toxicity
+	6 Wings of the Arcanomancer
+	12 Winterborn Savage
+	12 Withering Bulkvine
+	12 Wolfbriar Sapling
+	1 Wurmscape
+[wildcard(1)]
+	6 Abhorrent Exhumer
+	15 Abolishers of Sin
+	7 Accursed Existence
+	15 Accursed Phantasm
+	4 Allagras, Tidal Master
+	15 Allagras' Vanguard
+	6 Arcane Dexterity
+	7 Arcane Rebound
+	15 Arcanist's Dispersal
+	15 Assault on Prosania
+	6 Atemporal Blade
+	15 Bane of Sanity
+	6 Barbarian Hoarders
+	15 Barbaric Dexterity
+	6 Barge Engulfer
+	4 Batrest, Fellor Leader
+	7 Batrest's Forgemaster
+	6 Beragnian Blizzard
+	7 Beragnian Brawlmaster
+	6 Beragnian Intimidator
+	6 Beragnian Savage
+	6 Blade of Reolem
+	6 Blood Servant
+	6 Bloodchill Risen
+	6 Bloodrite Fiend
+	15 Bloodthirsty Berserkers
+	7 Bolstered Stockpiles
+	6 Bone Saw
+	15 Budding Echomage
+	15 Builder's Blessing
+	6 Burn with Rage
+	15 Cannon Fodder
+	6 Cease Conflict
+	15 Chillwhisper Witch
+	15 Chronomancer's Bauble
+	7 Chronomancer Adept
+	7 Chronowing Phoenix
+	15 Clanleader of Beragnos
+	6 Clashborn Stormling
+	6 Close Escape
+	15 Collapsing Ground
+	6 Continental Collapse
+	7 Corpse Exploiter
+	6 Counteroffense
+	15 Cranial Archive
+	15 Crazed Wildlings
+	15 Curse of the Deadlands
+	6 Curse of the Drow
+	7 Danuri Banisher
+	7 Danuri Custodian
+	7 Dashing Rager
+	6 Deadland Mongrel
+	15 Deadland Scavenger
+	7 Deadland Summoner
+	6 Devout Wallkeepers
+	6 Diligent Protector
+	6 Distort Reality
+	7 Doomed Fate
+	15 Drow Bloodmage
+	6 Drow Ritualist
+	15 Dulling Necromancer
+	6 Duskwood Marshal
+	6 Duskwood Vanguard
+	15 Duskwood Wildcaller
+	6 Ebbing Savage
+	6 Echoing Knowledge
+	4 Elemental Clash
+	6 Elusive Sniper
+	4 Embodiment of Abundance
+	15 Endrison Familiar
+	6 Endrison Harvester
+	7 Endrison Nourisher
+	6 Erratic Arcanomancer
+	4 Ethereal Spellmaster
+	15 Expand Your Options
+	6 Explore
+	15 Fadefeather Griffin
+	6 Faithtorn Danuri
+	15 Fellor Armorsmith
+	6 Fellor Elite
+	15 Fellor Ironborn
+	15 Feral Cleaver
+	7 Feralborn Druid
+	15 Fervent Arcanomancer
+	6 Fickleflame Summon
+	15 Ficklewing Elemental
+	6 Final Revelation
+	6 Flamewaker's Staff
+	6 Fleshgraft Aberration
+	6 Fogborn Mauler
+	7 Forgeborn Barbarian
+	6 Forgemaster's Gift
+	7 Formidable Bulkvine
+	6 Fortress Sentinel
+	6 Furious Betrayal
+	7 Gallord's Ascension
+	6 Gallord's Intervention
+	15 Garrison Mobilizer
+	6 Gendran Hostess
+	6 Goblin Twinblades
+	15 Grace of Gendra
+	7 Graveborn Usurper
+	6 Griptide
+	6 Groundswell
+	6 Guilty Execution
+	6 Hapless Chronomancer
+	15 Haunter of the Deadlands
+	15 Hordedriver Enthusiast
+	4 Humanity's Hope
+	7 Ill-Fated Profit
+	6 Imminent Collision
+	6 Imposing Bastion
+	15 Infuse Vitality
+	6 Instinctual Savagery
+	7 Into Strange Territories
+	6 Irisglow Dryad
+	7 Khaliz-Dorahn Restored
+	4 Khalizors' Last Stand
+	4 Koth, One True Hero
+	15 Koth's Retaliation
+	6 Lafterii Augur
+	7 Lafterii Ingenuity
+	7 Landbound Connoisseur
+	6 Landbound Ritualist
+	15 Landbound Sage
+	6 Last of the Poisonblades
+	15 Lavacore Elemental
+	6 Legion of Wights
+	6 Lodestone Colossus
+	15 Magus of Memories
+	15 Majestic Garrison
+	15 Massive Waraxe
+	7 Master Echomage
+	7 Master of Steel
+	7 Mawdryk, Endrison Warden
+	15 Mawdryk's Accusation
+	7 Mawdryk's Elite
+	15 Mawdryk's Haven
+	15 Memories of the Past
+	7 Mental Supremacist
+	6 Merciless Brute
+	6 Merfolk Looter
+	15 Merfolk Visionary
+	7 Merkurio's Insight
+	15 Merkurio's Rebuttal
+	7 Meteor Volley
+	4 Mulchborn Behemoth
+	6 Necrobite
+	6 Offer to Nature
+	15 One with Nature
+	6 Pandora's Antagonism
+	15 Pandora's Eviction
+	6 Prepare for Confrontation
+	4 Priest of Forbiddance
+	7 Prosanian Shieldmaster
+	15 Prosanian Warden
+	7 Punishing Catastrophe
+	6 Purgeward Adept
+	15 Purging Reolem
+	6 Purifying Light
+	7 Pyromancer's Fury
+	6 Rallios' Demise
+	7 Rallios' Return
+	7 Rallios Reincarnated
+	7 Rallying Banner
+	15 Ready for the Odyssey
+	15 Reality Check
+	15 Ripping Wilds
+	4 Rise from Death
+	6 Risen Looter
+	15 Road to Endris-Dorahn
+	7 Roggar's Frenzy
+	15 Roggar's Gambit
+	15 Ruin Salvager
+	4 Sanctuary
+	15 Savrios' Cohort
+	4 Savrios' Masterpiece
+	7 Savrios' Timeshifter
+	15 Scourge of the Deadlands
+	6 Sentinel's Longbow
+	15 Shape the Tides
+	15 Shrapnelcrafter
+	6 Sigil of Destruction
+	6 Sigil of Duty
+	6 Sigil of Savagery
+	6 Sinful Past
+	15 Soothevine Elemental
+	7 Soulstone Commander
+	7 Soulstone Redeemer
+	6 Soulstone Servant
+	15 Soulstone Shard
+	6 Stay on Edge
+	6 Steelborn Apprentice
+	6 Stonework Vigilante
+	6 Strength of the Phalanx
+	6 Stronghold Recruit
+	6 Subturgian Bloodhunter
+	15 Subturgian Legionnaire
+	7 Subturgian Proliferator
+	7 Summon to the Cause
+	6 Surge of Depravity
+	6 Survive the Wreckage
+	6 Swallowed by the Earth
+	6 Swiftstep Cliffdweller
+	15 Temporal Resuscitation
+	7 Temporary Treason
+	7 Tharanos' Legion
+	6 Tharanos' Sentinel
+	15 Tharanos' Stratagem
+	4 Tharyen, Lord of Subturgia
+	7 Tharyen's Machinations
+	7 Tharyen's Sadism
+	15 Tharyen's Vanguard
+	7 The High Prairies
+	7 The Tideshift
+	15 Threats from the Outskirts
+	15 Tideshift Elemental
+	6 Time to Depart
+	6 Timecrafter Lafterii
+	7 Tinkerer's Tools
+	6 Tizzanier Tidehunter
+	7 Traversing Bulkvine
+	6 Treetop Defense
+	15 Undying Terror
+	6 Undying Welcome
+	15 Unhallowed Legion
+	6 Unstable Footing
+	7 Unstable Magmaling
+	6 Until the Last Breath
+	6 Vampiric Appetite
+	15 Vaporizing Blast
+	15 Vestige of Evil
+	15 Voice of Khaliz
+	15 Voice of the Sisterhood
+	6 Voice of the Wild
+	6 Wailing Spirit
+	6 Wanderer's Talisman
+	15 Waning Behemoth
+	15 Warmonger Contraption
+	15 Watcher of the Wall
+	7 Weaponize
+	15 Weather the Storm
+	6 Whimsical Elemental
+	15 Winds of Toxicity
+	15 Wings of the Arcanomancer
+	6 Winterborn Savage
+	6 Withering Bulkvine
+	6 Wolfbriar Sapling
+	4 Wurmscape

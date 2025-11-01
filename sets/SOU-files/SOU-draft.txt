@@ -1,0 +1,3535 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Act of Treason",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Adorned Naga",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Snake Soldier",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Agriculture",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Anatomy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Anku the Primordial",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Legendary Creature — Elemental God",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Ankulim Spawning",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Ankulith Shard",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Ankulithic Armaments",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Aridland Camaar",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Antelope Camel",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Ashen Persecutor",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Aspect of Darutu",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Ox Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Aven Merchant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird Advisor",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Aven Supervisor",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Artificer",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Azutah's Abundance",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Azutahn Hydromancer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Snake Wizard",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Battlescarred Predator",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cat",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Behead",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Blazing Offerings",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Bloodsoaked Blades",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Bloodstained Ziggurat",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Bone Mesa Marauder",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Orc Nomad",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Bordermakers",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Borsuppa Drover",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Borsuppa Outrider",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Borsuppa Scavenger",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Hyena",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Bounty of the Gardens",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Breaker of Cities",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Burning Sulfur",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Calming Dromoryx",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Antelope Camel",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Caprin Outlander",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Goat Nomad",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Cartography",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Center of Culture",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Chittering Swarm",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Choking Dunes",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Churning Sandwurms",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Wurm",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Collapse the Pillars",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Conscription",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Consult the Scriptures",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Corpse Herder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Court Sponsor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Cradle of Civilization",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Crescent of Possibilities",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Crooked Merchant",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Crushclaw Pulverizer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Scorpion Nomad",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Currency",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Cycle of Creation",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Day of Rest",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Death Pits Hawker",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Orc Rogue",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Death Pits Trophy",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Dehmi, Origin Seeker",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Dehmi's Servitor",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Dehydrate",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Delugic Surger",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Deserted Trail_SOU",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Despoiler of Civilization",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Orc Nomad",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Devoted Nomad",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Divine Chariot",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Divine Verdict_SOU",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Dominate the Desert",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Donkey Jawbone",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Dryscale Dissidents",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Snake Nomad",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Dune Tromper",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Edge of the Empires",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Edifice Overseer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Lammasu",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Ekebram's Archive",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Ekebram's Scribe",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Ekebram the Scholar // Ekebram, Chronicler of Ages",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "53",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/SOU-files/img/53a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/53a_front.jpg"
+			}
+		},
+		{
+			"name": "Ekebram the Scholar // Ekebram, Chronicler of Ages",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "53",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/SOU-files/img/53a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/53a_front.jpg"
+			}
+		},
+		{
+			"name": "Eli's Defiance",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Eli's Grit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Eli Windsors, Lone Gun",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Planeswalker — Eli",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Embers of Prophecy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Emerabi's Disciple",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Emerabi and Sunnula // The Divine Lovers",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Nomad",
+			"collector_number": "139",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/SOU-files/img/139a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/139a_front.jpg"
+			}
+		},
+		{
+			"name": "Emerabi and Sunnula // The Divine Lovers",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Nomad",
+			"collector_number": "139",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/SOU-files/img/139a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/139a_front.jpg"
+			}
+		},
+		{
+			"name": "Emerging Ankulim",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Emissary of Dark Tides",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Merfolk Horror",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Endak City Slavedriver",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Rhino Soldier",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Endak Death Pits",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Endak Savagery",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Epic of Anku",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Epic of Ekebram",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Epic of Hannaru",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Epic of Inishtu",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Epic of Jobiah",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Epic of the Lovers",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Evolving Wilds_SOU",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Fall in Line",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Enchantment",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Flourishing Waterways_SOU",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Forest_SOU",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Founding Hero",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Funerary Barge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Funerary Servant",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Gilded Authority",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Gilded Blade",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Gilded Idol",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Glimpse of Fate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Godchosen Valor",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Golden Age",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Grapple with the Past",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Halls of Worship",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Hannaru's Courage",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Hannaru's Spear",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Harbinger of Locusts",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Horror",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Hard-Working Oxen",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Ox",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Harrow",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Harshapal Banner",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Hauling Hippopotamus",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Hippo",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Heartland's Protection",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Hefty Tablet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Herald of Ankulim",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Hila Emergence",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Hilaback Outriders",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Hirsute Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Horizon of Origins_SOU",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Humble Shepherd",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Husbandry",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Immortalize",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Imperator Namuzzar",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{U}{U}",
+			"type": "Legendary Creature — Lammasu Noble",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Imperial Achievement",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Imperial Barracks_SOU",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Imperial Brutality",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Imperial Claim",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Imperial Confidant",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Imperial Defenses",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Imperial Prosperity",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Inishtu, Desert Healer // Inishtu, Herald of the Dead",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Orc Cleric",
+			"collector_number": "105",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/SOU-files/img/105a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/105a_front.jpg"
+			}
+		},
+		{
+			"name": "Inishtu, Desert Healer // Inishtu, Herald of the Dead",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Orc Cleric",
+			"collector_number": "105",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/SOU-files/img/105a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/105a_front.jpg"
+			}
+		},
+		{
+			"name": "Inspired Charge",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Into the Lion's Den",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Invoke the Ankuliths",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Irrigation Channels",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Island_SOU",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Jobiah, Devoted Farmer // Jobiah the World-Shepherd",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Goat Druid",
+			"collector_number": "181",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/SOU-files/img/181a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/181a_front.jpg"
+			}
+		},
+		{
+			"name": "Jobiah, Devoted Farmer // Jobiah the World-Shepherd",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Goat Druid",
+			"collector_number": "181",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/SOU-files/img/181a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/181a_front.jpg"
+			}
+		},
+		{
+			"name": "Kanaan Wardriver",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Keeper of Codices",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Lammasu Roost",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Legacy Foundations_SOU",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Legacy Warmask",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Lhosei of the Ghost Peak",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Planeswalker — Lhosei",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Life's Worth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Lisseria, General of Kanaa",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Lisseria's Outfitter",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Goat Soldier",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Long Journey",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Look to the Future",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Lush Delta",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Manalith",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Mangrove Fisher",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Many-Voiced Tower",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Marauding Goliath",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Marble Row Healer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Marrow Cruncher",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Hyena",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Master of Marble Row",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Medicine",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Merchant of Flesh",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Snake Advisor",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Metallurgy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Monstrous Hila",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Mountain_SOU",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Multiculturalism",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Mustering Grounds",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Mythology",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Naga Cultivator",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Snake Druid",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Nameless Throng",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Namuzzar's Disciple",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Namuzzar's Iterator",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Lammasu",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Nibinem's Hand",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Oasis Claimer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Obviate",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Oppress the Weak",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Opulent Ankulim",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Paid in Blood",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Palace Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Parted Waters",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Pierce the Sky",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Piercing Blow",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Plains_SOU",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Pound by Pound",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Primordial Manifestation",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Primordial Progenitor",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Protect the Farm",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Queen Hannaru // Hannaru the Conqueror",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Noble Soldier",
+			"collector_number": "28",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/SOU-files/img/28a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/28a_front.jpg"
+			}
+		},
+		{
+			"name": "Queen Hannaru // Hannaru the Conqueror",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Noble Soldier",
+			"collector_number": "28",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/SOU-files/img/28a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/28a_front.jpg"
+			}
+		},
+		{
+			"name": "Rabudan Chiseler",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Rhudai Fieldtiller",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Goat Druid",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Rhudai Overseer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Snake Advisor",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Rhudai Pathfinder",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Goat Scout",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Rhudai Swathcutter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Snake Scout",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Rod of Marble Row",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Rottenfruit Coiler",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Snake",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Ruler of Cities",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Rupture Spire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Ruthless Advancement",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Sacrificial Bull",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Ox",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Sandburst",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Sannurian Sentinel",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Sannurian Storyteller",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Sarrutu Flamebinder",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Elemental Wizard",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Sarrutu Worldbinder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Savage Takedown",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Scavenger's Wagon",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Scavenging Hilakites",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Scion of Sannuria",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Lammasu",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Scorpid Sniper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Scorpion Archer",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Secrets of Creation",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Seeker Amalgam",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Elemental Wizard",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Selezzar, Tyrant of Endak",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Snake Noble",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Serpent Staff",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Serve the Empire",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Shala Na, Urshadi Apostate",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — Shala",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Shatter_SOU",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Shemesh, Nomad Chieftain",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Human Nomad",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Shepherd's Companion",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dog",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Shock",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Sire of Empires",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Lammasu",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Skittering Solifuge",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Insect Spider",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Slaughtered Steps Taskmaster",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Orc Soldier",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Sling of the Meek",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Soaring Roc",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Solemn Judgment",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Solemn Offering_SOU",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Sorrowful Memories",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Spawn of the Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Spell Pierce",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Spirit of the Harvest",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Splinter of Anku",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Splinter of Creation",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Stingbrood Assailant",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Scorpion Warrior",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Stingbrood Warlord",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Scorpion Warrior",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Stolen Innovations",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Stonecut Lammasu",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Lammasu",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Strongarm",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Subjugator of Empires",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Orc Soldier",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Suffocating Sands",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Sumun, Azutah's Heart",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Legendary Creature — Goat Druid",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Sunblessed Orator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Sunnula's Firebird",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Sure Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Sustaining Crops",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Swamp_SOU",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Tempered Ankulim",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Test of Strength",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Theocracy",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Tiller's Adze",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Tithe Official",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Torrent of Ankuliths",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Towering Hydraffe",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Creature — Giraffe Hydra",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Trace the Oasis",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Tradition",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Trenchcutter Beetle",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Trusty Camaar",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Antelope Camel",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Turn to Salt",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Tyranny",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Unbound Annihilus",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Under the Gun",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Urn of Heroes",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Urud Stingswoop",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Manticore",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Urudi Warlord",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Orc Nomad",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Voyager's Ark",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Wandering Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Rhino Nomad",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Warden of Harshapal Tower",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird Soldier",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Water into Wine",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Wealthy Merchants",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Wondrous Bazaar",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "World Tender",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Wretched Lammasu",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie Lammasu",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Writing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/SOU-files/img/82.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Anku the Primordial
+	2 Ashen Persecutor
+	2 Aspect of Darutu
+	2 Bordermakers
+	2 Breaker of Cities
+	2 Calming Dromoryx
+	2 Cartography
+	2 Center of Culture
+	2 Choking Dunes
+	2 Currency
+	1 Cycle of Creation
+	1 Dehmi, Origin Seeker
+	2 Ekebram's Archive
+	1 Ekebram the Scholar // Ekebram, Chronicler of Ages
+	1 Ekebram the Scholar // Ekebram, Chronicler of Ages
+	2 Eli's Defiance
+	1 Eli Windsors, Lone Gun
+	1 Emerabi and Sunnula // The Divine Lovers
+	1 Emerabi and Sunnula // The Divine Lovers
+	2 Emerging Ankulim
+	2 Emissary of Dark Tides
+	2 Epic of Anku
+	2 Epic of Ekebram
+	2 Epic of Hannaru
+	2 Epic of Inishtu
+	2 Epic of Jobiah
+	2 Epic of the Lovers
+	2 Founding Hero
+	2 Golden Age
+	2 Hannaru's Spear
+	2 Harbinger of Locusts
+	2 Hila Emergence
+	2 Husbandry
+	2 Imperator Namuzzar
+	2 Imperial Claim
+	2 Imperial Confidant
+	2 Imperial Defenses
+	1 Inishtu, Desert Healer // Inishtu, Herald of the Dead
+	1 Inishtu, Desert Healer // Inishtu, Herald of the Dead
+	2 Invoke the Ankuliths
+	1 Jobiah, Devoted Farmer // Jobiah the World-Shepherd
+	1 Jobiah, Devoted Farmer // Jobiah the World-Shepherd
+	1 Lhosei of the Ghost Peak
+	2 Lisseria, General of Kanaa
+	1 Look to the Future
+	2 Many-Voiced Tower
+	2 Marrow Cruncher
+	1 Master of Marble Row
+	2 Multiculturalism
+	1 Mythology
+	2 Namuzzar's Disciple
+	2 Oasis Claimer
+	2 Primordial Manifestation
+	1 Queen Hannaru // Hannaru the Conqueror
+	1 Queen Hannaru // Hannaru the Conqueror
+	2 Rhudai Fieldtiller
+	2 Ruler of Cities
+	2 Sacrificial Bull
+	2 Sarrutu Flamebinder
+	2 Scavenger's Wagon
+	2 Scavenging Hilakites
+	2 Selezzar, Tyrant of Endak
+	2 Serpent Staff
+	1 Shala Na, Urshadi Apostate
+	2 Shemesh, Nomad Chieftain
+	2 Sire of Empires
+	2 Solemn Judgment
+	2 Splinter of Creation
+	2 Stolen Innovations
+	1 Subjugator of Empires
+	2 Sumun, Azutah's Heart
+	2 Sunnula's Firebird
+	2 Tempered Ankulim
+	2 Theocracy
+	2 Towering Hydraffe
+	2 Tradition
+	2 Unbound Annihilus
+	2 Under the Gun
+	2 Urn of Heroes
+	1 Voyager's Ark
+[uncommon(3)]
+	4 Agriculture
+	4 Anatomy
+	4 Ankulithic Armaments
+	4 Aven Merchant
+	4 Azutah's Abundance
+	4 Blazing Offerings
+	4 Borsuppa Drover
+	4 Bounty of the Gardens
+	4 Burning Sulfur
+	4 Churning Sandwurms
+	4 Conscription
+	4 Corpse Herder
+	4 Court Sponsor
+	4 Crushclaw Pulverizer
+	4 Death Pits Hawker
+	4 Deserted Trail_SOU
+	4 Despoiler of Civilization
+	4 Dominate the Desert
+	4 Donkey Jawbone
+	4 Dryscale Dissidents
+	4 Edifice Overseer
+	4 Eli's Grit
+	4 Embers of Prophecy
+	4 Emerabi's Disciple
+	4 Endak Death Pits
+	4 Fall in Line
+	4 Flourishing Waterways_SOU
+	4 Funerary Barge
+	4 Gilded Authority
+	4 Glimpse of Fate
+	4 Halls of Worship
+	4 Harrow
+	4 Heartland's Protection
+	4 Hefty Tablet
+	4 Herald of Ankulim
+	4 Hirsute Champion
+	4 Horizon of Origins_SOU
+	4 Humble Shepherd
+	4 Immortalize
+	4 Imperial Achievement
+	4 Imperial Barracks_SOU
+	4 Imperial Brutality
+	4 Kanaan Wardriver
+	4 Keeper of Codices
+	4 Legacy Foundations_SOU
+	4 Legacy Warmask
+	4 Life's Worth
+	4 Lush Delta
+	4 Medicine
+	4 Merchant of Flesh
+	4 Metallurgy
+	4 Monstrous Hila
+	4 Mustering Grounds
+	4 Nameless Throng
+	4 Oppress the Weak
+	4 Opulent Ankulim
+	4 Palace Enforcer
+	4 Parted Waters
+	4 Protect the Farm
+	4 Rhudai Overseer
+	4 Rhudai Swathcutter
+	4 Sarrutu Worldbinder
+	4 Seeker Amalgam
+	4 Serve the Empire
+	4 Sling of the Meek
+	4 Spirit of the Harvest
+	4 Stingbrood Warlord
+	4 Stonecut Lammasu
+	4 Strongarm
+	4 Sunblessed Orator
+	4 Tithe Official
+	4 Trace the Oasis
+	4 Tyranny
+	4 Urud Stingswoop
+	4 Wandering Warden
+	4 Warden of Harshapal Tower
+	4 Water into Wine
+	4 Wondrous Bazaar
+	4 World Tender
+	4 Wretched Lammasu
+	4 Writing
+[common(7)]
+	8 Act of Treason
+	8 Adorned Naga
+	8 Ankulim Spawning
+	8 Ankulith Shard
+	8 Aridland Camaar
+	8 Aven Supervisor
+	8 Azutahn Hydromancer
+	8 Battlescarred Predator
+	8 Behead
+	8 Bloodsoaked Blades
+	8 Bloodstained Ziggurat
+	8 Bone Mesa Marauder
+	8 Borsuppa Outrider
+	8 Borsuppa Scavenger
+	8 Caprin Outlander
+	8 Chittering Swarm
+	8 Collapse the Pillars
+	8 Consult the Scriptures
+	8 Cradle of Civilization
+	8 Crescent of Possibilities
+	8 Crooked Merchant
+	8 Day of Rest
+	8 Death Pits Trophy
+	8 Dehmi's Servitor
+	8 Dehydrate
+	8 Delugic Surger
+	8 Devoted Nomad
+	8 Divine Chariot
+	8 Divine Verdict_SOU
+	8 Dune Tromper
+	8 Edge of the Empires
+	8 Ekebram's Scribe
+	8 Endak City Slavedriver
+	8 Endak Savagery
+	8 Evolving Wilds_SOU
+	8 Funerary Servant
+	8 Gilded Blade
+	8 Gilded Idol
+	8 Godchosen Valor
+	8 Grapple with the Past
+	8 Hannaru's Courage
+	8 Hard-Working Oxen
+	8 Harshapal Banner
+	8 Hauling Hippopotamus
+	8 Hilaback Outriders
+	8 Imperial Prosperity
+	8 Inspired Charge
+	8 Into the Lion's Den
+	8 Irrigation Channels
+	8 Lammasu Roost
+	8 Lisseria's Outfitter
+	8 Long Journey
+	8 Manalith
+	8 Mangrove Fisher
+	8 Marauding Goliath
+	8 Marble Row Healer
+	8 Naga Cultivator
+	8 Namuzzar's Iterator
+	8 Nibinem's Hand
+	8 Obviate
+	8 Paid in Blood
+	8 Pierce the Sky
+	8 Piercing Blow
+	8 Pound by Pound
+	8 Primordial Progenitor
+	8 Rabudan Chiseler
+	8 Rhudai Pathfinder
+	8 Rod of Marble Row
+	8 Rottenfruit Coiler
+	8 Rupture Spire
+	8 Ruthless Advancement
+	8 Sandburst
+	8 Sannurian Sentinel
+	8 Sannurian Storyteller
+	8 Savage Takedown
+	8 Scion of Sannuria
+	8 Scorpid Sniper
+	8 Secrets of Creation
+	8 Shatter_SOU
+	8 Shepherd's Companion
+	8 Shock
+	8 Skittering Solifuge
+	8 Slaughtered Steps Taskmaster
+	8 Soaring Roc
+	8 Solemn Offering_SOU
+	8 Sorrowful Memories
+	8 Spawn of the Guardian
+	8 Spell Pierce
+	8 Splinter of Anku
+	8 Stingbrood Assailant
+	8 Suffocating Sands
+	8 Sure Strike
+	8 Sustaining Crops
+	8 Test of Strength
+	8 Tiller's Adze
+	8 Torrent of Ankuliths
+	8 Trenchcutter Beetle
+	8 Trusty Camaar
+	8 Turn to Salt
+	8 Urudi Warlord
+	8 Wealthy Merchants
+[foil(1)]
+	12 Act of Treason
+	12 Adorned Naga
+	6 Agriculture
+	6 Anatomy
+	1 Anku the Primordial
+	12 Ankulim Spawning
+	12 Ankulith Shard
+	6 Ankulithic Armaments
+	12 Aridland Camaar
+	2 Ashen Persecutor
+	2 Aspect of Darutu
+	6 Aven Merchant
+	12 Aven Supervisor
+	6 Azutah's Abundance
+	12 Azutahn Hydromancer
+	12 Battlescarred Predator
+	12 Behead
+	6 Blazing Offerings
+	12 Bloodsoaked Blades
+	12 Bloodstained Ziggurat
+	12 Bone Mesa Marauder
+	2 Bordermakers
+	6 Borsuppa Drover
+	12 Borsuppa Outrider
+	12 Borsuppa Scavenger
+	6 Bounty of the Gardens
+	2 Breaker of Cities
+	6 Burning Sulfur
+	2 Calming Dromoryx
+	12 Caprin Outlander
+	2 Cartography
+	2 Center of Culture
+	12 Chittering Swarm
+	2 Choking Dunes
+	6 Churning Sandwurms
+	12 Collapse the Pillars
+	6 Conscription
+	12 Consult the Scriptures
+	6 Corpse Herder
+	6 Court Sponsor
+	12 Cradle of Civilization
+	12 Crescent of Possibilities
+	12 Crooked Merchant
+	6 Crushclaw Pulverizer
+	2 Currency
+	1 Cycle of Creation
+	12 Day of Rest
+	6 Death Pits Hawker
+	12 Death Pits Trophy
+	1 Dehmi, Origin Seeker
+	12 Dehmi's Servitor
+	12 Dehydrate
+	12 Delugic Surger
+	6 Deserted Trail_SOU
+	6 Despoiler of Civilization
+	12 Devoted Nomad
+	12 Divine Chariot
+	12 Divine Verdict_SOU
+	6 Dominate the Desert
+	6 Donkey Jawbone
+	6 Dryscale Dissidents
+	12 Dune Tromper
+	12 Edge of the Empires
+	6 Edifice Overseer
+	2 Ekebram's Archive
+	12 Ekebram's Scribe
+	1 Ekebram the Scholar // Ekebram, Chronicler of Ages
+	1 Ekebram the Scholar // Ekebram, Chronicler of Ages
+	2 Eli's Defiance
+	6 Eli's Grit
+	1 Eli Windsors, Lone Gun
+	6 Embers of Prophecy
+	6 Emerabi's Disciple
+	1 Emerabi and Sunnula // The Divine Lovers
+	1 Emerabi and Sunnula // The Divine Lovers
+	2 Emerging Ankulim
+	2 Emissary of Dark Tides
+	12 Endak City Slavedriver
+	6 Endak Death Pits
+	12 Endak Savagery
+	2 Epic of Anku
+	2 Epic of Ekebram
+	2 Epic of Hannaru
+	2 Epic of Inishtu
+	2 Epic of Jobiah
+	2 Epic of the Lovers
+	12 Evolving Wilds_SOU
+	6 Fall in Line
+	6 Flourishing Waterways_SOU
+	2 Founding Hero
+	6 Funerary Barge
+	12 Funerary Servant
+	6 Gilded Authority
+	12 Gilded Blade
+	12 Gilded Idol
+	6 Glimpse of Fate
+	12 Godchosen Valor
+	2 Golden Age
+	12 Grapple with the Past
+	6 Halls of Worship
+	12 Hannaru's Courage
+	2 Hannaru's Spear
+	2 Harbinger of Locusts
+	12 Hard-Working Oxen
+	6 Harrow
+	12 Harshapal Banner
+	12 Hauling Hippopotamus
+	6 Heartland's Protection
+	6 Hefty Tablet
+	6 Herald of Ankulim
+	2 Hila Emergence
+	12 Hilaback Outriders
+	6 Hirsute Champion
+	6 Horizon of Origins_SOU
+	6 Humble Shepherd
+	2 Husbandry
+	6 Immortalize
+	2 Imperator Namuzzar
+	6 Imperial Achievement
+	6 Imperial Barracks_SOU
+	6 Imperial Brutality
+	2 Imperial Claim
+	2 Imperial Confidant
+	2 Imperial Defenses
+	12 Imperial Prosperity
+	1 Inishtu, Desert Healer // Inishtu, Herald of the Dead
+	1 Inishtu, Desert Healer // Inishtu, Herald of the Dead
+	12 Inspired Charge
+	12 Into the Lion's Den
+	2 Invoke the Ankuliths
+	12 Irrigation Channels
+	1 Jobiah, Devoted Farmer // Jobiah the World-Shepherd
+	1 Jobiah, Devoted Farmer // Jobiah the World-Shepherd
+	6 Kanaan Wardriver
+	6 Keeper of Codices
+	12 Lammasu Roost
+	6 Legacy Foundations_SOU
+	6 Legacy Warmask
+	1 Lhosei of the Ghost Peak
+	6 Life's Worth
+	2 Lisseria, General of Kanaa
+	12 Lisseria's Outfitter
+	12 Long Journey
+	1 Look to the Future
+	6 Lush Delta
+	12 Manalith
+	12 Mangrove Fisher
+	2 Many-Voiced Tower
+	12 Marauding Goliath
+	12 Marble Row Healer
+	2 Marrow Cruncher
+	1 Master of Marble Row
+	6 Medicine
+	6 Merchant of Flesh
+	6 Metallurgy
+	6 Monstrous Hila
+	2 Multiculturalism
+	6 Mustering Grounds
+	1 Mythology
+	12 Naga Cultivator
+	6 Nameless Throng
+	2 Namuzzar's Disciple
+	12 Namuzzar's Iterator
+	12 Nibinem's Hand
+	2 Oasis Claimer
+	12 Obviate
+	6 Oppress the Weak
+	6 Opulent Ankulim
+	12 Paid in Blood
+	6 Palace Enforcer
+	6 Parted Waters
+	12 Pierce the Sky
+	12 Piercing Blow
+	12 Pound by Pound
+	2 Primordial Manifestation
+	12 Primordial Progenitor
+	6 Protect the Farm
+	1 Queen Hannaru // Hannaru the Conqueror
+	1 Queen Hannaru // Hannaru the Conqueror
+	12 Rabudan Chiseler
+	2 Rhudai Fieldtiller
+	6 Rhudai Overseer
+	12 Rhudai Pathfinder
+	6 Rhudai Swathcutter
+	12 Rod of Marble Row
+	12 Rottenfruit Coiler
+	2 Ruler of Cities
+	12 Rupture Spire
+	12 Ruthless Advancement
+	2 Sacrificial Bull
+	12 Sandburst
+	12 Sannurian Sentinel
+	12 Sannurian Storyteller
+	2 Sarrutu Flamebinder
+	6 Sarrutu Worldbinder
+	12 Savage Takedown
+	2 Scavenger's Wagon
+	2 Scavenging Hilakites
+	12 Scion of Sannuria
+	12 Scorpid Sniper
+	12 Secrets of Creation
+	6 Seeker Amalgam
+	2 Selezzar, Tyrant of Endak
+	2 Serpent Staff
+	6 Serve the Empire
+	1 Shala Na, Urshadi Apostate
+	12 Shatter_SOU
+	2 Shemesh, Nomad Chieftain
+	12 Shepherd's Companion
+	12 Shock
+	2 Sire of Empires
+	12 Skittering Solifuge
+	12 Slaughtered Steps Taskmaster
+	6 Sling of the Meek
+	12 Soaring Roc
+	2 Solemn Judgment
+	12 Solemn Offering_SOU
+	12 Sorrowful Memories
+	12 Spawn of the Guardian
+	12 Spell Pierce
+	6 Spirit of the Harvest
+	12 Splinter of Anku
+	2 Splinter of Creation
+	12 Stingbrood Assailant
+	6 Stingbrood Warlord
+	2 Stolen Innovations
+	6 Stonecut Lammasu
+	6 Strongarm
+	1 Subjugator of Empires
+	12 Suffocating Sands
+	2 Sumun, Azutah's Heart
+	6 Sunblessed Orator
+	2 Sunnula's Firebird
+	12 Sure Strike
+	12 Sustaining Crops
+	2 Tempered Ankulim
+	12 Test of Strength
+	2 Theocracy
+	12 Tiller's Adze
+	6 Tithe Official
+	12 Torrent of Ankuliths
+	2 Towering Hydraffe
+	6 Trace the Oasis
+	2 Tradition
+	12 Trenchcutter Beetle
+	12 Trusty Camaar
+	12 Turn to Salt
+	6 Tyranny
+	2 Unbound Annihilus
+	2 Under the Gun
+	2 Urn of Heroes
+	6 Urud Stingswoop
+	12 Urudi Warlord
+	1 Voyager's Ark
+	6 Wandering Warden
+	6 Warden of Harshapal Tower
+	6 Water into Wine
+	12 Wealthy Merchants
+	6 Wondrous Bazaar
+	6 World Tender
+	6 Wretched Lammasu
+	6 Writing
+[wildcard(1)]
+	6 Act of Treason
+	6 Adorned Naga
+	15 Agriculture
+	15 Anatomy
+	4 Anku the Primordial
+	6 Ankulim Spawning
+	6 Ankulith Shard
+	15 Ankulithic Armaments
+	6 Aridland Camaar
+	7 Ashen Persecutor
+	7 Aspect of Darutu
+	15 Aven Merchant
+	6 Aven Supervisor
+	15 Azutah's Abundance
+	6 Azutahn Hydromancer
+	6 Battlescarred Predator
+	6 Behead
+	15 Blazing Offerings
+	6 Bloodsoaked Blades
+	6 Bloodstained Ziggurat
+	6 Bone Mesa Marauder
+	7 Bordermakers
+	15 Borsuppa Drover
+	6 Borsuppa Outrider
+	6 Borsuppa Scavenger
+	15 Bounty of the Gardens
+	7 Breaker of Cities
+	15 Burning Sulfur
+	7 Calming Dromoryx
+	6 Caprin Outlander
+	7 Cartography
+	7 Center of Culture
+	6 Chittering Swarm
+	7 Choking Dunes
+	15 Churning Sandwurms
+	6 Collapse the Pillars
+	15 Conscription
+	6 Consult the Scriptures
+	15 Corpse Herder
+	15 Court Sponsor
+	6 Cradle of Civilization
+	6 Crescent of Possibilities
+	6 Crooked Merchant
+	15 Crushclaw Pulverizer
+	7 Currency
+	4 Cycle of Creation
+	6 Day of Rest
+	15 Death Pits Hawker
+	6 Death Pits Trophy
+	4 Dehmi, Origin Seeker
+	6 Dehmi's Servitor
+	6 Dehydrate
+	6 Delugic Surger
+	15 Deserted Trail_SOU
+	15 Despoiler of Civilization
+	6 Devoted Nomad
+	6 Divine Chariot
+	6 Divine Verdict_SOU
+	15 Dominate the Desert
+	15 Donkey Jawbone
+	15 Dryscale Dissidents
+	6 Dune Tromper
+	6 Edge of the Empires
+	15 Edifice Overseer
+	7 Ekebram's Archive
+	6 Ekebram's Scribe
+	4 Ekebram the Scholar // Ekebram, Chronicler of Ages
+	4 Ekebram the Scholar // Ekebram, Chronicler of Ages
+	7 Eli's Defiance
+	15 Eli's Grit
+	4 Eli Windsors, Lone Gun
+	15 Embers of Prophecy
+	15 Emerabi's Disciple
+	4 Emerabi and Sunnula // The Divine Lovers
+	4 Emerabi and Sunnula // The Divine Lovers
+	7 Emerging Ankulim
+	7 Emissary of Dark Tides
+	6 Endak City Slavedriver
+	15 Endak Death Pits
+	6 Endak Savagery
+	7 Epic of Anku
+	7 Epic of Ekebram
+	7 Epic of Hannaru
+	7 Epic of Inishtu
+	7 Epic of Jobiah
+	7 Epic of the Lovers
+	6 Evolving Wilds_SOU
+	15 Fall in Line
+	15 Flourishing Waterways_SOU
+	7 Founding Hero
+	15 Funerary Barge
+	6 Funerary Servant
+	15 Gilded Authority
+	6 Gilded Blade
+	6 Gilded Idol
+	15 Glimpse of Fate
+	6 Godchosen Valor
+	7 Golden Age
+	6 Grapple with the Past
+	15 Halls of Worship
+	6 Hannaru's Courage
+	7 Hannaru's Spear
+	7 Harbinger of Locusts
+	6 Hard-Working Oxen
+	15 Harrow
+	6 Harshapal Banner
+	6 Hauling Hippopotamus
+	15 Heartland's Protection
+	15 Hefty Tablet
+	15 Herald of Ankulim
+	7 Hila Emergence
+	6 Hilaback Outriders
+	15 Hirsute Champion
+	15 Horizon of Origins_SOU
+	15 Humble Shepherd
+	7 Husbandry
+	15 Immortalize
+	7 Imperator Namuzzar
+	15 Imperial Achievement
+	15 Imperial Barracks_SOU
+	15 Imperial Brutality
+	7 Imperial Claim
+	7 Imperial Confidant
+	7 Imperial Defenses
+	6 Imperial Prosperity
+	4 Inishtu, Desert Healer // Inishtu, Herald of the Dead
+	4 Inishtu, Desert Healer // Inishtu, Herald of the Dead
+	6 Inspired Charge
+	6 Into the Lion's Den
+	7 Invoke the Ankuliths
+	6 Irrigation Channels
+	4 Jobiah, Devoted Farmer // Jobiah the World-Shepherd
+	4 Jobiah, Devoted Farmer // Jobiah the World-Shepherd
+	15 Kanaan Wardriver
+	15 Keeper of Codices
+	6 Lammasu Roost
+	15 Legacy Foundations_SOU
+	15 Legacy Warmask
+	4 Lhosei of the Ghost Peak
+	15 Life's Worth
+	7 Lisseria, General of Kanaa
+	6 Lisseria's Outfitter
+	6 Long Journey
+	4 Look to the Future
+	15 Lush Delta
+	6 Manalith
+	6 Mangrove Fisher
+	7 Many-Voiced Tower
+	6 Marauding Goliath
+	6 Marble Row Healer
+	7 Marrow Cruncher
+	4 Master of Marble Row
+	15 Medicine
+	15 Merchant of Flesh
+	15 Metallurgy
+	15 Monstrous Hila
+	7 Multiculturalism
+	15 Mustering Grounds
+	4 Mythology
+	6 Naga Cultivator
+	15 Nameless Throng
+	7 Namuzzar's Disciple
+	6 Namuzzar's Iterator
+	6 Nibinem's Hand
+	7 Oasis Claimer
+	6 Obviate
+	15 Oppress the Weak
+	15 Opulent Ankulim
+	6 Paid in Blood
+	15 Palace Enforcer
+	15 Parted Waters
+	6 Pierce the Sky
+	6 Piercing Blow
+	6 Pound by Pound
+	7 Primordial Manifestation
+	6 Primordial Progenitor
+	15 Protect the Farm
+	4 Queen Hannaru // Hannaru the Conqueror
+	4 Queen Hannaru // Hannaru the Conqueror
+	6 Rabudan Chiseler
+	7 Rhudai Fieldtiller
+	15 Rhudai Overseer
+	6 Rhudai Pathfinder
+	15 Rhudai Swathcutter
+	6 Rod of Marble Row
+	6 Rottenfruit Coiler
+	7 Ruler of Cities
+	6 Rupture Spire
+	6 Ruthless Advancement
+	7 Sacrificial Bull
+	6 Sandburst
+	6 Sannurian Sentinel
+	6 Sannurian Storyteller
+	7 Sarrutu Flamebinder
+	15 Sarrutu Worldbinder
+	6 Savage Takedown
+	7 Scavenger's Wagon
+	7 Scavenging Hilakites
+	6 Scion of Sannuria
+	6 Scorpid Sniper
+	6 Secrets of Creation
+	15 Seeker Amalgam
+	7 Selezzar, Tyrant of Endak
+	7 Serpent Staff
+	15 Serve the Empire
+	4 Shala Na, Urshadi Apostate
+	6 Shatter_SOU
+	7 Shemesh, Nomad Chieftain
+	6 Shepherd's Companion
+	6 Shock
+	7 Sire of Empires
+	6 Skittering Solifuge
+	6 Slaughtered Steps Taskmaster
+	15 Sling of the Meek
+	6 Soaring Roc
+	7 Solemn Judgment
+	6 Solemn Offering_SOU
+	6 Sorrowful Memories
+	6 Spawn of the Guardian
+	6 Spell Pierce
+	15 Spirit of the Harvest
+	6 Splinter of Anku
+	7 Splinter of Creation
+	6 Stingbrood Assailant
+	15 Stingbrood Warlord
+	7 Stolen Innovations
+	15 Stonecut Lammasu
+	15 Strongarm
+	4 Subjugator of Empires
+	6 Suffocating Sands
+	7 Sumun, Azutah's Heart
+	15 Sunblessed Orator
+	7 Sunnula's Firebird
+	6 Sure Strike
+	6 Sustaining Crops
+	7 Tempered Ankulim
+	6 Test of Strength
+	7 Theocracy
+	6 Tiller's Adze
+	15 Tithe Official
+	6 Torrent of Ankuliths
+	7 Towering Hydraffe
+	15 Trace the Oasis
+	7 Tradition
+	6 Trenchcutter Beetle
+	6 Trusty Camaar
+	6 Turn to Salt
+	15 Tyranny
+	7 Unbound Annihilus
+	7 Under the Gun
+	7 Urn of Heroes
+	15 Urud Stingswoop
+	6 Urudi Warlord
+	4 Voyager's Ark
+	15 Wandering Warden
+	15 Warden of Harshapal Tower
+	15 Water into Wine
+	6 Wealthy Merchants
+	15 Wondrous Bazaar
+	15 World Tender
+	15 Wretched Lammasu
+	15 Writing

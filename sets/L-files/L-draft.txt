@@ -1,0 +1,1046 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abandoned Battlefield",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Abandoned Cairn",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Abandoned Meadow",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Abandoned Skyroad",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Abandoned Wilderness",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Academy Wastes",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Alpine Meadow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Arcane Signet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Barren Desolation",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Basin Fortress",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Boneyard Pass",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Calmed Battleground",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Charbroiled Core",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Chiseled Cliffside",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Cleared Vault",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Cliffside Entrance",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Command Tower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Dawnlit Battlefield",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Deadwood Grove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Deeplife Cavern",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Descended Countryside",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Descended Fissure",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Descended Glacier",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Descended Gorge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Descended Hollow",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Deserted Steppe",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Deserted Trail",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Desolate Barrens",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Exotic Xenoreef",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Fiery Chasm",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Flourishing Waterways",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Cryovault",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Shrine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Frigid Highlands",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Frontier Base",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Frostpoint Caldera",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Gleaming Hot Springs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Gnarled Henge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Grim Slums",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Grove of Reversal",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Haughty Chateau",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Haunted Woodlock",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Highland Vale",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Horizon of Origins",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Imperial Barracks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Jagged Crag",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Legacy Foundations",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Lush Outskirts",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Mossy Shrine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Mysterious Cataract",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Ocean Monastery",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Ominous Lair",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Ornamented Evergreen",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Overgrown Refuge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Quintok Station",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Rainforest Spring",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Roaring Cascade",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Secluded Cascade",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Shardstone Rift",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Shrouded Rooftops",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Sigil of Creation",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Sigil of Martyrdom",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Sky-High Spires",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Sodden Cavern",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Somber Marsh",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Spinerock Canyon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Spires of Telenia",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Stormcharged Pyre",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Strange Harbor",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Sunlit Ruins",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Thawing Valley",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Timber Range",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Tirenan Market",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Torrid Geysers",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Toxic Jungle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Tranquil Stream",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Unlit Alley",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Weathered Fortress",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Wildrune Thicket",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/L-files/img/59.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Abandoned Battlefield
+	2 Abandoned Cairn
+	2 Abandoned Meadow
+	2 Abandoned Skyroad
+	2 Abandoned Wilderness
+	2 Academy Wastes
+	2 Barren Desolation
+	2 Basin Fortress
+	2 Boneyard Pass
+	2 Calmed Battleground
+	2 Charbroiled Core
+	2 Chiseled Cliffside
+	2 Cleared Vault
+	2 Cliffside Entrance
+	2 Dawnlit Battlefield
+	2 Deadwood Grove
+	2 Deeplife Cavern
+	2 Deserted Steppe
+	2 Deserted Trail
+	2 Exotic Xenoreef
+	2 Flourishing Waterways
+	2 Forgotten Cryovault
+	2 Forgotten Shrine
+	2 Frigid Highlands
+	2 Frontier Base
+	2 Frostpoint Caldera
+	2 Gleaming Hot Springs
+	2 Gnarled Henge
+	2 Grim Slums
+	2 Grove of Reversal
+	2 Haughty Chateau
+	2 Haunted Woodlock
+	2 Horizon of Origins
+	2 Imperial Barracks
+	2 Legacy Foundations
+	2 Lush Outskirts
+	2 Mossy Shrine
+	2 Mysterious Cataract
+	2 Ocean Monastery
+	2 Ominous Lair
+	2 Ornamented Evergreen
+	2 Overgrown Refuge
+	2 Quintok Station
+	2 Secluded Cascade
+	2 Shardstone Rift
+	2 Shrouded Rooftops
+	2 Sky-High Spires
+	2 Spinerock Canyon
+	2 Spires of Telenia
+	2 Stormcharged Pyre
+	2 Strange Harbor
+	2 Sunlit Ruins
+	2 Thawing Valley
+	2 Timber Range
+	2 Tirenan Market
+	2 Torrid Geysers
+	2 Toxic Jungle
+	2 Unlit Alley
+	2 Weathered Fortress
+	2 Wildrune Thicket
+[uncommon(3)]
+	4 Descended Countryside
+	4 Descended Fissure
+	4 Descended Glacier
+	4 Descended Gorge
+	4 Descended Hollow
+[common(7)]
+	8 Alpine Meadow
+	8 Arcane Signet
+	8 Command Tower
+	8 Desolate Barrens
+	8 Fiery Chasm
+	8 Highland Vale
+	8 Jagged Crag
+	8 Rainforest Spring
+	8 Roaring Cascade
+	8 Sigil of Creation
+	8 Sigil of Martyrdom
+	8 Sodden Cavern
+	8 Somber Marsh
+	8 Tranquil Stream
+[foil(1)]
+	2 Abandoned Battlefield
+	2 Abandoned Cairn
+	2 Abandoned Meadow
+	2 Abandoned Skyroad
+	2 Abandoned Wilderness
+	2 Academy Wastes
+	12 Alpine Meadow
+	12 Arcane Signet
+	2 Barren Desolation
+	2 Basin Fortress
+	2 Boneyard Pass
+	2 Calmed Battleground
+	2 Charbroiled Core
+	2 Chiseled Cliffside
+	2 Cleared Vault
+	2 Cliffside Entrance
+	12 Command Tower
+	2 Dawnlit Battlefield
+	2 Deadwood Grove
+	2 Deeplife Cavern
+	6 Descended Countryside
+	6 Descended Fissure
+	6 Descended Glacier
+	6 Descended Gorge
+	6 Descended Hollow
+	2 Deserted Steppe
+	2 Deserted Trail
+	12 Desolate Barrens
+	2 Exotic Xenoreef
+	12 Fiery Chasm
+	2 Flourishing Waterways
+	2 Forgotten Cryovault
+	2 Forgotten Shrine
+	2 Frigid Highlands
+	2 Frontier Base
+	2 Frostpoint Caldera
+	2 Gleaming Hot Springs
+	2 Gnarled Henge
+	2 Grim Slums
+	2 Grove of Reversal
+	2 Haughty Chateau
+	2 Haunted Woodlock
+	12 Highland Vale
+	2 Horizon of Origins
+	2 Imperial Barracks
+	12 Jagged Crag
+	2 Legacy Foundations
+	2 Lush Outskirts
+	2 Mossy Shrine
+	2 Mysterious Cataract
+	2 Ocean Monastery
+	2 Ominous Lair
+	2 Ornamented Evergreen
+	2 Overgrown Refuge
+	2 Quintok Station
+	12 Rainforest Spring
+	12 Roaring Cascade
+	2 Secluded Cascade
+	2 Shardstone Rift
+	2 Shrouded Rooftops
+	12 Sigil of Creation
+	12 Sigil of Martyrdom
+	2 Sky-High Spires
+	12 Sodden Cavern
+	12 Somber Marsh
+	2 Spinerock Canyon
+	2 Spires of Telenia
+	2 Stormcharged Pyre
+	2 Strange Harbor
+	2 Sunlit Ruins
+	2 Thawing Valley
+	2 Timber Range
+	2 Tirenan Market
+	2 Torrid Geysers
+	2 Toxic Jungle
+	12 Tranquil Stream
+	2 Unlit Alley
+	2 Weathered Fortress
+	2 Wildrune Thicket
+[wildcard(1)]
+	7 Abandoned Battlefield
+	7 Abandoned Cairn
+	7 Abandoned Meadow
+	7 Abandoned Skyroad
+	7 Abandoned Wilderness
+	7 Academy Wastes
+	6 Alpine Meadow
+	6 Arcane Signet
+	7 Barren Desolation
+	7 Basin Fortress
+	7 Boneyard Pass
+	7 Calmed Battleground
+	7 Charbroiled Core
+	7 Chiseled Cliffside
+	7 Cleared Vault
+	7 Cliffside Entrance
+	6 Command Tower
+	7 Dawnlit Battlefield
+	7 Deadwood Grove
+	7 Deeplife Cavern
+	15 Descended Countryside
+	15 Descended Fissure
+	15 Descended Glacier
+	15 Descended Gorge
+	15 Descended Hollow
+	7 Deserted Steppe
+	7 Deserted Trail
+	6 Desolate Barrens
+	7 Exotic Xenoreef
+	6 Fiery Chasm
+	7 Flourishing Waterways
+	7 Forgotten Cryovault
+	7 Forgotten Shrine
+	7 Frigid Highlands
+	7 Frontier Base
+	7 Frostpoint Caldera
+	7 Gleaming Hot Springs
+	7 Gnarled Henge
+	7 Grim Slums
+	7 Grove of Reversal
+	7 Haughty Chateau
+	7 Haunted Woodlock
+	6 Highland Vale
+	7 Horizon of Origins
+	7 Imperial Barracks
+	6 Jagged Crag
+	7 Legacy Foundations
+	7 Lush Outskirts
+	7 Mossy Shrine
+	7 Mysterious Cataract
+	7 Ocean Monastery
+	7 Ominous Lair
+	7 Ornamented Evergreen
+	7 Overgrown Refuge
+	7 Quintok Station
+	6 Rainforest Spring
+	6 Roaring Cascade
+	7 Secluded Cascade
+	7 Shardstone Rift
+	7 Shrouded Rooftops
+	6 Sigil of Creation
+	6 Sigil of Martyrdom
+	7 Sky-High Spires
+	6 Sodden Cavern
+	6 Somber Marsh
+	7 Spinerock Canyon
+	7 Spires of Telenia
+	7 Stormcharged Pyre
+	7 Strange Harbor
+	7 Sunlit Ruins
+	7 Thawing Valley
+	7 Timber Range
+	7 Tirenan Market
+	7 Torrid Geysers
+	7 Toxic Jungle
+	6 Tranquil Stream
+	7 Unlit Alley
+	7 Weathered Fortress
+	7 Wildrune Thicket

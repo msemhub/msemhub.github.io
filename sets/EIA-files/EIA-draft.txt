@@ -1,0 +1,3556 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abalone Abomination",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Shrimp Horror",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Abyss Moray",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Enchantment Creature — Serpent",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Abyssal Oracle",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Merfolk Spellshaper",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Advent from Above",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Anemone Cluster",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Anemothrys, Reefcrown",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Plant Dragon",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Aquatic Might",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Awakening of Evil",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Bank Skimmer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Merfolk Aurashaper Warrior",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Barnacled Blade",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Battle Station",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Ship",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Bigger Fish",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Blood in the Water",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Bloodhollow Bruiser",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Bloodthirsty Jaws",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Bloodwater Scourge",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment Creature — Shark",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Bonetooth Darter",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Runepearl",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Enchantment Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Brine Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Merfolk Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Brinechum_EIA",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Fish Elemental",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Bubbledome Captain",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Merfolk Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Bubbledome Chorister",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Merfolk Aurashaper Druid",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Bubbledome Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Bubbledome Waveblade",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Soldier",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Bubblespout Sentry",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Soldier",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Buried at Sea",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Bygone Wreck",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Calamari Dragon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Squid Dragon",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Cannoncoil Hermit",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}",
+			"type": "Artifact Creature — Crab",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Cast Out",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Cave Diving_EIA",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Chitinborn Sentry",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Crab Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Circling Predators",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Collect Rotting Remains",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Conchhorn Shinygrabber",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Turtle Knight",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Conchspear Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Coral Bruiser",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Enchantment Creature — Crab Beast",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Coral Guidance",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Coral Serpent",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment Creature — Serpent",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Coralblade Cohort",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Merfolk Knight",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Coralcrown's Banishment",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Coralight Castle",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Coralight Champion",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Merfolk Aurashaper Knight",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Coralight Choir",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Merfolk Cleric",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Coralight Communer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Merfolk Druid",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Coralight Lifebloom",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Merfolk Aurashaper Druid",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Coralight Mystic",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Merfolk Aurashaper Cleric",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Coralight Paladin",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Merfolk Knight",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Coralight Sentinel",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Merfolk Aurashaper Wizard",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Crack Open",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Crush the Hull",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Crushing Grip",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Curious Adventure",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Curious Disturbances",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Current Surfer",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Cuxuri's Corruption",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Cuxuri Beckoner",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Cuxuri Harbinger",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Fish Horror",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Cuxuri Rift",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Danithra Caller",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Horror Druid",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Danithra Champion",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Danithra Inquisitor",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Merfolk Wizard",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Danithra Muckbruiser",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Danithra Oracle",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Darting Guppy",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment Creature — Fish",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Dawson's Bouncer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Dawson's Collector",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Merfolk Horror",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Dawson's Enforcer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Dawson's Jetslicer",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Shark Construct",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Dawson's Loot",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Dawson's Marauder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Merfolk Soldier",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Dawson's Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Death Sentence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Deep-Sea Terror",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Depthcalling",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Depthlight Beacon",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Ship",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Depthlight Brute",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Depthlight Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Artifact Creature — Construct Scout",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Depthlight Frontliner",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Depthlight Salvager",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Construct Scout",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Dolphin Rider",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Merfolk Knight",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Doom and Gloom",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Drag Beneath",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Drawn to the Light",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Dredgeline Colossus",
+			"rarity": "mythic",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Driftwood Throne's Rule",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Dualglaive Acolyte",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Merfolk Aurashaper Warrior",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Duchess Odelia VII",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Seahorse Noble",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Duke Atrios XXIV",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Merfolk Noble",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Dukedom Outcast",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Dukedom Turncoat",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Edina, Coralight Soothsayer",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Merfolk Wizard",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Edina's Soulsinger",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Elmare's Grandeur",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Emerge from the Reeds",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Encapsulate",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Enchanting Palace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Entrancing Light",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Evolving Wilds_EIA",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Eye of the Beholder",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Fabulous Find",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Face of the Abyss",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Feel the Flow",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Final Struggle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Finish Off",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Foregone Ancestries",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Forest_EIA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Fortune and Glory",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Freewheeling Orcas",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment Creature — Whale",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Frontline Descender",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Full Salvo",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Gaze Deeper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Gilded Merrow",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Glittering Narwhal",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment Creature — Whale",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Gloomtide Whelk",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Shrimp Horror",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Glowfrill Eel",
+			"rarity": "common",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Enchantment Creature — Fish",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Glowskate Channeler",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Merfolk Aurashaper Druid",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Glum Oarfish",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Fish",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Gobble Up",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Goldtooth Slasher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Merfolk Assassin",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Greenscale Bully",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Grim, Dawson's Vassal",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Merfolk Assassin",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Grim's Warchest",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Grisly Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Guppyfin Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Merfolk Aurashaper Warrior",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Happy Manta",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Fish",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Harmonic Attunement",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Harried Submersible",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Herald from Below",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Highbeam Hulk",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Hila Okunos",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Merfolk Aurashaper",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Hit the Bottom",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Hopesinker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Leech Horror",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Horrors' Reach",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Idyllic Odyssey",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Ink Seer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Merfolk Shaman",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Into Cuxuri Trench",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Into Waiting Jaws",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Into the Abyss",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Island_EIA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Jetskate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Creature — Fish",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Joyous Whaleshark",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment Creature — Whale Shark",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Jumbo Shrimp",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Shrimp Kraken",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Keep in Line",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Kelp Garden_EIA",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Krill-Clan Guardian",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Whale Warrior",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Leave the World Behind",
+			"rarity": "mythic",
+			"mana_cost": "{6}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Lie in Wait",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Lightning-Fast Lionfish",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment Creature — Fish",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Lilyreed Triton",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Merfolk Aurashaper Knight",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Lionfrill Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Fish Beast",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Live in Harmony",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Lord Rickard Dawson",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Planeswalker — Dawson",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Lord of the Bubbledome",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Merfolk Noble",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Lost Empire's Legacy",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Lurking Angler",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Fish",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Majestic Hippocamp",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Fish Horse",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Majestic Nauticorn",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment Creature — Fish Unicorn",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Mandibled Mass",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Jellyfish Horror",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Master of the Abyss",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Megalocanth",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Enchantment Creature — Leviathan",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Megalodon Rush",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Merrow Legendmaker",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Merfolk Cleric",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Mettalia, Light from Above",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Mettalia's Forward",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Militant's Standard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Mina, Jeweled Minnow",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Legendary Enchantment Creature — Fish",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Minefield Bomber",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Ship",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Molten Basin",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Mountain_EIA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Myrmidon, Coralight Exile",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Myrmidon",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Myrmidon's Warhead",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Mysterious Lights",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Mystic Mackerel",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment Creature — Fish",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Narwhalrus",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Seal Whale",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Nightmares Unseen",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Noble Barracuda",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Creature — Fish",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Noble Birthright",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Oceanographer",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Construct Scout",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Odelia's Attendant",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Oil Driller",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Ominous Helmet",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Ominous Seas",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Oryxyth, Doom of Elmare",
+			"rarity": "mythic",
+			"mana_cost": "{6}{U}{B}",
+			"type": "Legendary Creature — Leviathan Horror",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Oryxyth's Brood",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Ostentatious Octopus",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Creature — Octopus",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Overpower_EIA",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Pacifism_EIA",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Palace Servant",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Merfolk Soldier",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Paradise Reef",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Patrol Ship",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Ship",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Pay Up",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Peer Into the Depths",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Pensive Muse",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Merfolk Aurashaper Wizard",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Plains_EIA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Plasma Blader",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment Creature — Trilobite Knight",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Prismscale Piranhas",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment Creature — Fish",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Raise the Dreadreef",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Rappel Liner",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Redeye Commando",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Redgill Corsair",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Merfolk Pirate",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Reefcrown Egg",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Regal Coralhorn",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Seahorse Beast",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Regal Seasnake",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment Creature — Serpent",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Restless Predation",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Riptide Mystic",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Roving Dreadnought",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Ruin Dive",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Ruin Shark",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Shark",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Rustshell Crustacean",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Crab",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Salvage Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Schoolmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Merfolk",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Seabed Delver",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Seadrake Rider",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Merfolk Knight",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Seafloor Cache",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Seafloor Casket",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Seafloor Shrine",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Seafloor Tomb",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Seafloor Wreckage",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Seafoam Slasher",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Searchlight Drones",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Shambling Dreadreef",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant Crab Horror",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Shanty Town",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Shark Slayer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Shine a Light",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Shoalshine",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment Creature — Fish",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Sigiled Starfish",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Starfish",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Silent Doom",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Silt Lurker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Merfolk Horror Scout",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Silt Miner",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Fish",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Sledgesuit Prospector",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Smell Blood",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Snuff Out the Light",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Spare Supplies",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Speaker of Open Waters",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Merfolk Aurashaper Cleric",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Specimen Collector",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Stinging Swordfish",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Enchantment Creature — Fish",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Storm the Seafloor",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Sturdyshell Hammerclaw",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment Creature — Crab",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Subnautical Legionnaire",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Merfolk Soldier",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Sunken-Eye Angler",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Merfolk Horror Shaman",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Swamp_EIA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Tectonic Chateau",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Tentacle Lash",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Thrill of Possibility",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Tide Crasher",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Merfolk",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Tideflow Wardings",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Torpedo Jetter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Tragic Arrogance",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Treasure Haulers",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Construct Scout",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Treasury Master",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Merfolk",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Trenchbottom Mariners",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Trident of Benediction",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Triplicate Monstrosity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Snake Horror",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Truth Beyond Belief",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Turi's Masterstroke",
+			"rarity": "mythic",
+			"mana_cost": "{7}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Turi of Hollow Depths",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{G}{U}",
+			"type": "Legendary Planeswalker — Turi",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Twenty Thousand Leagues",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Twisted Cultist",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Merfolk Snake Shaman",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Typhoon Caverns",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Typhoon Cruiser",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Ship",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Uncovered Secrets",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Under the Sea",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Undercutter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Unsuspecting Victim",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Vibrant Sandbar",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Volcanic Catastrophe",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Volcanic Hollow",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Vyzer, the Fallen Despot",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Wave Spinner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Way of the Danithra",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Weight of Oceans",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Wilt",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Youthful Tortoise",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Turtle",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EIA-files/img/205.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Abyssal Oracle
+	2 Advent from Above
+	1 Anemothrys, Reefcrown
+	2 Bank Skimmer
+	2 Bigger Fish
+	2 Brilliant Runepearl
+	2 Bubbledome Chorister
+	2 Buried at Sea
+	2 Bygone Wreck
+	2 Calamari Dragon
+	2 Cannoncoil Hermit
+	2 Circling Predators
+	2 Collect Rotting Remains
+	2 Conchhorn Shinygrabber
+	2 Coralblade Cohort
+	2 Coralight Champion
+	2 Current Surfer
+	2 Cuxuri Rift
+	1 Danithra Champion
+	2 Danithra Inquisitor
+	2 Danithra Muckbruiser
+	2 Dawson's Collector
+	2 Dawson's Jetslicer
+	2 Doom and Gloom
+	1 Dredgeline Colossus
+	2 Duchess Odelia VII
+	1 Duke Atrios XXIV
+	1 Edina, Coralight Soothsayer
+	2 Encapsulate
+	2 Enchanting Palace
+	2 Entrancing Light
+	2 Eye of the Beholder
+	2 Fabulous Find
+	2 Feel the Flow
+	2 Foregone Ancestries
+	2 Full Salvo
+	2 Glittering Narwhal
+	2 Gloomtide Whelk
+	2 Grim, Dawson's Vassal
+	2 Happy Manta
+	1 Hila Okunos
+	1 Into the Abyss
+	2 Jumbo Shrimp
+	2 Krill-Clan Guardian
+	1 Leave the World Behind
+	1 Lord Rickard Dawson
+	2 Lord of the Bubbledome
+	2 Lost Empire's Legacy
+	2 Master of the Abyss
+	2 Megalocanth
+	2 Megalodon Rush
+	2 Merrow Legendmaker
+	1 Mettalia, Light from Above
+	1 Mina, Jeweled Minnow
+	1 Myrmidon, Coralight Exile
+	2 Myrmidon's Warhead
+	2 Nightmares Unseen
+	2 Noble Birthright
+	2 Odelia's Attendant
+	2 Oil Driller
+	1 Oryxyth, Doom of Elmare
+	2 Ostentatious Octopus
+	2 Plasma Blader
+	2 Prismscale Piranhas
+	2 Rappel Liner
+	2 Redeye Commando
+	2 Reefcrown Egg
+	2 Regal Coralhorn
+	2 Rustshell Crustacean
+	2 Seabed Delver
+	2 Seadrake Rider
+	2 Shambling Dreadreef
+	2 Snuff Out the Light
+	2 Stinging Swordfish
+	2 Storm the Seafloor
+	2 Subnautical Legionnaire
+	2 Tideflow Wardings
+	2 Tragic Arrogance
+	2 Trenchbottom Mariners
+	2 Trident of Benediction
+	1 Truth Beyond Belief
+	1 Turi's Masterstroke
+	1 Turi of Hollow Depths
+	1 Twenty Thousand Leagues
+	2 Uncovered Secrets
+	1 Under the Sea
+	2 Volcanic Catastrophe
+	1 Vyzer, the Fallen Despot
+[uncommon(3)]
+	4 Anemone Cluster
+	4 Awakening of Evil
+	4 Bloodhollow Bruiser
+	4 Bonetooth Darter
+	4 Brine Duelist
+	4 Bubbledome Keeper
+	4 Cast Out
+	4 Chitinborn Sentry
+	4 Conchspear Hunter
+	4 Coral Bruiser
+	4 Coralight Castle
+	4 Coralight Lifebloom
+	4 Coralight Paladin
+	4 Curious Disturbances
+	4 Cuxuri Beckoner
+	4 Dawson's Marauder
+	4 Dawson's Warden
+	4 Death Sentence
+	4 Depthcalling
+	4 Depthlight Captain
+	4 Depthlight Frontliner
+	4 Drawn to the Light
+	4 Elmare's Grandeur
+	4 Final Struggle
+	4 Fortune and Glory
+	4 Gaze Deeper
+	4 Glum Oarfish
+	4 Goldtooth Slasher
+	4 Grim's Warchest
+	4 Grisly Ruins
+	4 Guppyfin Duelist
+	4 Harried Submersible
+	4 Hopesinker
+	4 Idyllic Odyssey
+	4 Jetskate
+	4 Keep in Line
+	4 Lie in Wait
+	4 Lightning-Fast Lionfish
+	4 Lilyreed Triton
+	4 Lionfrill Hunter
+	4 Mettalia's Forward
+	4 Militant's Standard
+	4 Molten Basin
+	4 Oceanographer
+	4 Ominous Seas
+	4 Oryxyth's Brood
+	4 Overpower_EIA
+	4 Paradise Reef
+	4 Pay Up
+	4 Pensive Muse
+	4 Regal Seasnake
+	4 Roving Dreadnought
+	4 Salvage Titan
+	4 Schoolmaster
+	4 Searchlight Drones
+	4 Shanty Town
+	4 Shark Slayer
+	4 Shine a Light
+	4 Shoalshine
+	4 Sigiled Starfish
+	4 Silent Doom
+	4 Silt Lurker
+	4 Sledgesuit Prospector
+	4 Speaker of Open Waters
+	4 Sturdyshell Hammerclaw
+	4 Sunken-Eye Angler
+	4 Tectonic Chateau
+	4 Torpedo Jetter
+	4 Triplicate Monstrosity
+	4 Typhoon Caverns
+	4 Vibrant Sandbar
+	4 Volcanic Hollow
+	4 Wave Spinner
+	4 Weight of Oceans
+	4 Wilt
+[common(7)]
+	8 Abalone Abomination
+	8 Abyss Moray
+	8 Aquatic Might
+	8 Barnacled Blade
+	8 Battle Station
+	8 Blood in the Water
+	8 Bloodthirsty Jaws
+	8 Bloodwater Scourge
+	8 Brinechum_EIA
+	8 Bubbledome Captain
+	8 Bubbledome Waveblade
+	8 Bubblespout Sentry
+	8 Cave Diving_EIA
+	8 Coral Guidance
+	8 Coral Serpent
+	8 Coralcrown's Banishment
+	8 Coralight Choir
+	8 Coralight Communer
+	8 Coralight Mystic
+	8 Coralight Sentinel
+	8 Crack Open
+	8 Crush the Hull
+	8 Crushing Grip
+	8 Curious Adventure
+	8 Cuxuri's Corruption
+	8 Cuxuri Harbinger
+	8 Danithra Caller
+	8 Danithra Oracle
+	8 Darting Guppy
+	8 Dawson's Bouncer
+	8 Dawson's Enforcer
+	8 Dawson's Loot
+	8 Deep-Sea Terror
+	8 Depthlight Beacon
+	8 Depthlight Brute
+	8 Depthlight Salvager
+	8 Dolphin Rider
+	8 Drag Beneath
+	8 Driftwood Throne's Rule
+	8 Dualglaive Acolyte
+	8 Dukedom Outcast
+	8 Dukedom Turncoat
+	8 Edina's Soulsinger
+	8 Emerge from the Reeds
+	8 Evolving Wilds_EIA
+	8 Face of the Abyss
+	8 Finish Off
+	8 Freewheeling Orcas
+	8 Frontline Descender
+	8 Gilded Merrow
+	8 Glowfrill Eel
+	8 Glowskate Channeler
+	8 Gobble Up
+	8 Greenscale Bully
+	8 Harmonic Attunement
+	8 Herald from Below
+	8 Highbeam Hulk
+	8 Hit the Bottom
+	8 Horrors' Reach
+	8 Ink Seer
+	8 Into Cuxuri Trench
+	8 Into Waiting Jaws
+	8 Joyous Whaleshark
+	8 Kelp Garden_EIA
+	8 Live in Harmony
+	8 Lurking Angler
+	8 Majestic Hippocamp
+	8 Majestic Nauticorn
+	8 Mandibled Mass
+	8 Minefield Bomber
+	8 Mysterious Lights
+	8 Mystic Mackerel
+	8 Narwhalrus
+	8 Noble Barracuda
+	8 Ominous Helmet
+	8 Pacifism_EIA
+	8 Palace Servant
+	8 Patrol Ship
+	8 Peer Into the Depths
+	8 Raise the Dreadreef
+	8 Redgill Corsair
+	8 Restless Predation
+	8 Riptide Mystic
+	8 Ruin Dive
+	8 Ruin Shark
+	8 Seafloor Cache
+	8 Seafloor Casket
+	8 Seafloor Shrine
+	8 Seafloor Tomb
+	8 Seafloor Wreckage
+	8 Seafoam Slasher
+	8 Silt Miner
+	8 Smell Blood
+	8 Spare Supplies
+	8 Specimen Collector
+	8 Tentacle Lash
+	8 Thrill of Possibility
+	8 Tide Crasher
+	8 Treasure Haulers
+	8 Treasury Master
+	8 Twisted Cultist
+	8 Typhoon Cruiser
+	8 Undercutter
+	8 Unsuspecting Victim
+	8 Way of the Danithra
+	8 Youthful Tortoise
+[foil(1)]
+	12 Abalone Abomination
+	12 Abyss Moray
+	2 Abyssal Oracle
+	2 Advent from Above
+	6 Anemone Cluster
+	1 Anemothrys, Reefcrown
+	12 Aquatic Might
+	6 Awakening of Evil
+	2 Bank Skimmer
+	12 Barnacled Blade
+	12 Battle Station
+	2 Bigger Fish
+	12 Blood in the Water
+	6 Bloodhollow Bruiser
+	12 Bloodthirsty Jaws
+	12 Bloodwater Scourge
+	6 Bonetooth Darter
+	2 Brilliant Runepearl
+	6 Brine Duelist
+	12 Brinechum_EIA
+	12 Bubbledome Captain
+	2 Bubbledome Chorister
+	6 Bubbledome Keeper
+	12 Bubbledome Waveblade
+	12 Bubblespout Sentry
+	2 Buried at Sea
+	2 Bygone Wreck
+	2 Calamari Dragon
+	2 Cannoncoil Hermit
+	6 Cast Out
+	12 Cave Diving_EIA
+	6 Chitinborn Sentry
+	2 Circling Predators
+	2 Collect Rotting Remains
+	2 Conchhorn Shinygrabber
+	6 Conchspear Hunter
+	6 Coral Bruiser
+	12 Coral Guidance
+	12 Coral Serpent
+	2 Coralblade Cohort
+	12 Coralcrown's Banishment
+	6 Coralight Castle
+	2 Coralight Champion
+	12 Coralight Choir
+	12 Coralight Communer
+	6 Coralight Lifebloom
+	12 Coralight Mystic
+	6 Coralight Paladin
+	12 Coralight Sentinel
+	12 Crack Open
+	12 Crush the Hull
+	12 Crushing Grip
+	12 Curious Adventure
+	6 Curious Disturbances
+	2 Current Surfer
+	12 Cuxuri's Corruption
+	6 Cuxuri Beckoner
+	12 Cuxuri Harbinger
+	2 Cuxuri Rift
+	12 Danithra Caller
+	1 Danithra Champion
+	2 Danithra Inquisitor
+	2 Danithra Muckbruiser
+	12 Danithra Oracle
+	12 Darting Guppy
+	12 Dawson's Bouncer
+	2 Dawson's Collector
+	12 Dawson's Enforcer
+	2 Dawson's Jetslicer
+	12 Dawson's Loot
+	6 Dawson's Marauder
+	6 Dawson's Warden
+	6 Death Sentence
+	12 Deep-Sea Terror
+	6 Depthcalling
+	12 Depthlight Beacon
+	12 Depthlight Brute
+	6 Depthlight Captain
+	6 Depthlight Frontliner
+	12 Depthlight Salvager
+	12 Dolphin Rider
+	2 Doom and Gloom
+	12 Drag Beneath
+	6 Drawn to the Light
+	1 Dredgeline Colossus
+	12 Driftwood Throne's Rule
+	12 Dualglaive Acolyte
+	2 Duchess Odelia VII
+	1 Duke Atrios XXIV
+	12 Dukedom Outcast
+	12 Dukedom Turncoat
+	1 Edina, Coralight Soothsayer
+	12 Edina's Soulsinger
+	6 Elmare's Grandeur
+	12 Emerge from the Reeds
+	2 Encapsulate
+	2 Enchanting Palace
+	2 Entrancing Light
+	12 Evolving Wilds_EIA
+	2 Eye of the Beholder
+	2 Fabulous Find
+	12 Face of the Abyss
+	2 Feel the Flow
+	6 Final Struggle
+	12 Finish Off
+	2 Foregone Ancestries
+	6 Fortune and Glory
+	12 Freewheeling Orcas
+	12 Frontline Descender
+	2 Full Salvo
+	6 Gaze Deeper
+	12 Gilded Merrow
+	2 Glittering Narwhal
+	2 Gloomtide Whelk
+	12 Glowfrill Eel
+	12 Glowskate Channeler
+	6 Glum Oarfish
+	12 Gobble Up
+	6 Goldtooth Slasher
+	12 Greenscale Bully
+	2 Grim, Dawson's Vassal
+	6 Grim's Warchest
+	6 Grisly Ruins
+	6 Guppyfin Duelist
+	2 Happy Manta
+	12 Harmonic Attunement
+	6 Harried Submersible
+	12 Herald from Below
+	12 Highbeam Hulk
+	1 Hila Okunos
+	12 Hit the Bottom
+	6 Hopesinker
+	12 Horrors' Reach
+	6 Idyllic Odyssey
+	12 Ink Seer
+	12 Into Cuxuri Trench
+	12 Into Waiting Jaws
+	1 Into the Abyss
+	6 Jetskate
+	12 Joyous Whaleshark
+	2 Jumbo Shrimp
+	6 Keep in Line
+	12 Kelp Garden_EIA
+	2 Krill-Clan Guardian
+	1 Leave the World Behind
+	6 Lie in Wait
+	6 Lightning-Fast Lionfish
+	6 Lilyreed Triton
+	6 Lionfrill Hunter
+	12 Live in Harmony
+	1 Lord Rickard Dawson
+	2 Lord of the Bubbledome
+	2 Lost Empire's Legacy
+	12 Lurking Angler
+	12 Majestic Hippocamp
+	12 Majestic Nauticorn
+	12 Mandibled Mass
+	2 Master of the Abyss
+	2 Megalocanth
+	2 Megalodon Rush
+	2 Merrow Legendmaker
+	1 Mettalia, Light from Above
+	6 Mettalia's Forward
+	6 Militant's Standard
+	1 Mina, Jeweled Minnow
+	12 Minefield Bomber
+	6 Molten Basin
+	1 Myrmidon, Coralight Exile
+	2 Myrmidon's Warhead
+	12 Mysterious Lights
+	12 Mystic Mackerel
+	12 Narwhalrus
+	2 Nightmares Unseen
+	12 Noble Barracuda
+	2 Noble Birthright
+	6 Oceanographer
+	2 Odelia's Attendant
+	2 Oil Driller
+	12 Ominous Helmet
+	6 Ominous Seas
+	1 Oryxyth, Doom of Elmare
+	6 Oryxyth's Brood
+	2 Ostentatious Octopus
+	6 Overpower_EIA
+	12 Pacifism_EIA
+	12 Palace Servant
+	6 Paradise Reef
+	12 Patrol Ship
+	6 Pay Up
+	12 Peer Into the Depths
+	6 Pensive Muse
+	2 Plasma Blader
+	2 Prismscale Piranhas
+	12 Raise the Dreadreef
+	2 Rappel Liner
+	2 Redeye Commando
+	12 Redgill Corsair
+	2 Reefcrown Egg
+	2 Regal Coralhorn
+	6 Regal Seasnake
+	12 Restless Predation
+	12 Riptide Mystic
+	6 Roving Dreadnought
+	12 Ruin Dive
+	12 Ruin Shark
+	2 Rustshell Crustacean
+	6 Salvage Titan
+	6 Schoolmaster
+	2 Seabed Delver
+	2 Seadrake Rider
+	12 Seafloor Cache
+	12 Seafloor Casket
+	12 Seafloor Shrine
+	12 Seafloor Tomb
+	12 Seafloor Wreckage
+	12 Seafoam Slasher
+	6 Searchlight Drones
+	2 Shambling Dreadreef
+	6 Shanty Town
+	6 Shark Slayer
+	6 Shine a Light
+	6 Shoalshine
+	6 Sigiled Starfish
+	6 Silent Doom
+	6 Silt Lurker
+	12 Silt Miner
+	6 Sledgesuit Prospector
+	12 Smell Blood
+	2 Snuff Out the Light
+	12 Spare Supplies
+	6 Speaker of Open Waters
+	12 Specimen Collector
+	2 Stinging Swordfish
+	2 Storm the Seafloor
+	6 Sturdyshell Hammerclaw
+	2 Subnautical Legionnaire
+	6 Sunken-Eye Angler
+	6 Tectonic Chateau
+	12 Tentacle Lash
+	12 Thrill of Possibility
+	12 Tide Crasher
+	2 Tideflow Wardings
+	6 Torpedo Jetter
+	2 Tragic Arrogance
+	12 Treasure Haulers
+	12 Treasury Master
+	2 Trenchbottom Mariners
+	2 Trident of Benediction
+	6 Triplicate Monstrosity
+	1 Truth Beyond Belief
+	1 Turi's Masterstroke
+	1 Turi of Hollow Depths
+	1 Twenty Thousand Leagues
+	12 Twisted Cultist
+	6 Typhoon Caverns
+	12 Typhoon Cruiser
+	2 Uncovered Secrets
+	1 Under the Sea
+	12 Undercutter
+	12 Unsuspecting Victim
+	6 Vibrant Sandbar
+	2 Volcanic Catastrophe
+	6 Volcanic Hollow
+	1 Vyzer, the Fallen Despot
+	6 Wave Spinner
+	12 Way of the Danithra
+	6 Weight of Oceans
+	6 Wilt
+	12 Youthful Tortoise
+[wildcard(1)]
+	6 Abalone Abomination
+	6 Abyss Moray
+	7 Abyssal Oracle
+	7 Advent from Above
+	15 Anemone Cluster
+	4 Anemothrys, Reefcrown
+	6 Aquatic Might
+	15 Awakening of Evil
+	7 Bank Skimmer
+	6 Barnacled Blade
+	6 Battle Station
+	7 Bigger Fish
+	6 Blood in the Water
+	15 Bloodhollow Bruiser
+	6 Bloodthirsty Jaws
+	6 Bloodwater Scourge
+	15 Bonetooth Darter
+	7 Brilliant Runepearl
+	15 Brine Duelist
+	6 Brinechum_EIA
+	6 Bubbledome Captain
+	7 Bubbledome Chorister
+	15 Bubbledome Keeper
+	6 Bubbledome Waveblade
+	6 Bubblespout Sentry
+	7 Buried at Sea
+	7 Bygone Wreck
+	7 Calamari Dragon
+	7 Cannoncoil Hermit
+	15 Cast Out
+	6 Cave Diving_EIA
+	15 Chitinborn Sentry
+	7 Circling Predators
+	7 Collect Rotting Remains
+	7 Conchhorn Shinygrabber
+	15 Conchspear Hunter
+	15 Coral Bruiser
+	6 Coral Guidance
+	6 Coral Serpent
+	7 Coralblade Cohort
+	6 Coralcrown's Banishment
+	15 Coralight Castle
+	7 Coralight Champion
+	6 Coralight Choir
+	6 Coralight Communer
+	15 Coralight Lifebloom
+	6 Coralight Mystic
+	15 Coralight Paladin
+	6 Coralight Sentinel
+	6 Crack Open
+	6 Crush the Hull
+	6 Crushing Grip
+	6 Curious Adventure
+	15 Curious Disturbances
+	7 Current Surfer
+	6 Cuxuri's Corruption
+	15 Cuxuri Beckoner
+	6 Cuxuri Harbinger
+	7 Cuxuri Rift
+	6 Danithra Caller
+	4 Danithra Champion
+	7 Danithra Inquisitor
+	7 Danithra Muckbruiser
+	6 Danithra Oracle
+	6 Darting Guppy
+	6 Dawson's Bouncer
+	7 Dawson's Collector
+	6 Dawson's Enforcer
+	7 Dawson's Jetslicer
+	6 Dawson's Loot
+	15 Dawson's Marauder
+	15 Dawson's Warden
+	15 Death Sentence
+	6 Deep-Sea Terror
+	15 Depthcalling
+	6 Depthlight Beacon
+	6 Depthlight Brute
+	15 Depthlight Captain
+	15 Depthlight Frontliner
+	6 Depthlight Salvager
+	6 Dolphin Rider
+	7 Doom and Gloom
+	6 Drag Beneath
+	15 Drawn to the Light
+	4 Dredgeline Colossus
+	6 Driftwood Throne's Rule
+	6 Dualglaive Acolyte
+	7 Duchess Odelia VII
+	4 Duke Atrios XXIV
+	6 Dukedom Outcast
+	6 Dukedom Turncoat
+	4 Edina, Coralight Soothsayer
+	6 Edina's Soulsinger
+	15 Elmare's Grandeur
+	6 Emerge from the Reeds
+	7 Encapsulate
+	7 Enchanting Palace
+	7 Entrancing Light
+	6 Evolving Wilds_EIA
+	7 Eye of the Beholder
+	7 Fabulous Find
+	6 Face of the Abyss
+	7 Feel the Flow
+	15 Final Struggle
+	6 Finish Off
+	7 Foregone Ancestries
+	15 Fortune and Glory
+	6 Freewheeling Orcas
+	6 Frontline Descender
+	7 Full Salvo
+	15 Gaze Deeper
+	6 Gilded Merrow
+	7 Glittering Narwhal
+	7 Gloomtide Whelk
+	6 Glowfrill Eel
+	6 Glowskate Channeler
+	15 Glum Oarfish
+	6 Gobble Up
+	15 Goldtooth Slasher
+	6 Greenscale Bully
+	7 Grim, Dawson's Vassal
+	15 Grim's Warchest
+	15 Grisly Ruins
+	15 Guppyfin Duelist
+	7 Happy Manta
+	6 Harmonic Attunement
+	15 Harried Submersible
+	6 Herald from Below
+	6 Highbeam Hulk
+	4 Hila Okunos
+	6 Hit the Bottom
+	15 Hopesinker
+	6 Horrors' Reach
+	15 Idyllic Odyssey
+	6 Ink Seer
+	6 Into Cuxuri Trench
+	6 Into Waiting Jaws
+	4 Into the Abyss
+	15 Jetskate
+	6 Joyous Whaleshark
+	7 Jumbo Shrimp
+	15 Keep in Line
+	6 Kelp Garden_EIA
+	7 Krill-Clan Guardian
+	4 Leave the World Behind
+	15 Lie in Wait
+	15 Lightning-Fast Lionfish
+	15 Lilyreed Triton
+	15 Lionfrill Hunter
+	6 Live in Harmony
+	4 Lord Rickard Dawson
+	7 Lord of the Bubbledome
+	7 Lost Empire's Legacy
+	6 Lurking Angler
+	6 Majestic Hippocamp
+	6 Majestic Nauticorn
+	6 Mandibled Mass
+	7 Master of the Abyss
+	7 Megalocanth
+	7 Megalodon Rush
+	7 Merrow Legendmaker
+	4 Mettalia, Light from Above
+	15 Mettalia's Forward
+	15 Militant's Standard
+	4 Mina, Jeweled Minnow
+	6 Minefield Bomber
+	15 Molten Basin
+	4 Myrmidon, Coralight Exile
+	7 Myrmidon's Warhead
+	6 Mysterious Lights
+	6 Mystic Mackerel
+	6 Narwhalrus
+	7 Nightmares Unseen
+	6 Noble Barracuda
+	7 Noble Birthright
+	15 Oceanographer
+	7 Odelia's Attendant
+	7 Oil Driller
+	6 Ominous Helmet
+	15 Ominous Seas
+	4 Oryxyth, Doom of Elmare
+	15 Oryxyth's Brood
+	7 Ostentatious Octopus
+	15 Overpower_EIA
+	6 Pacifism_EIA
+	6 Palace Servant
+	15 Paradise Reef
+	6 Patrol Ship
+	15 Pay Up
+	6 Peer Into the Depths
+	15 Pensive Muse
+	7 Plasma Blader
+	7 Prismscale Piranhas
+	6 Raise the Dreadreef
+	7 Rappel Liner
+	7 Redeye Commando
+	6 Redgill Corsair
+	7 Reefcrown Egg
+	7 Regal Coralhorn
+	15 Regal Seasnake
+	6 Restless Predation
+	6 Riptide Mystic
+	15 Roving Dreadnought
+	6 Ruin Dive
+	6 Ruin Shark
+	7 Rustshell Crustacean
+	15 Salvage Titan
+	15 Schoolmaster
+	7 Seabed Delver
+	7 Seadrake Rider
+	6 Seafloor Cache
+	6 Seafloor Casket
+	6 Seafloor Shrine
+	6 Seafloor Tomb
+	6 Seafloor Wreckage
+	6 Seafoam Slasher
+	15 Searchlight Drones
+	7 Shambling Dreadreef
+	15 Shanty Town
+	15 Shark Slayer
+	15 Shine a Light
+	15 Shoalshine
+	15 Sigiled Starfish
+	15 Silent Doom
+	15 Silt Lurker
+	6 Silt Miner
+	15 Sledgesuit Prospector
+	6 Smell Blood
+	7 Snuff Out the Light
+	6 Spare Supplies
+	15 Speaker of Open Waters
+	6 Specimen Collector
+	7 Stinging Swordfish
+	7 Storm the Seafloor
+	15 Sturdyshell Hammerclaw
+	7 Subnautical Legionnaire
+	15 Sunken-Eye Angler
+	15 Tectonic Chateau
+	6 Tentacle Lash
+	6 Thrill of Possibility
+	6 Tide Crasher
+	7 Tideflow Wardings
+	15 Torpedo Jetter
+	7 Tragic Arrogance
+	6 Treasure Haulers
+	6 Treasury Master
+	7 Trenchbottom Mariners
+	7 Trident of Benediction
+	15 Triplicate Monstrosity
+	4 Truth Beyond Belief
+	4 Turi's Masterstroke
+	4 Turi of Hollow Depths
+	4 Twenty Thousand Leagues
+	6 Twisted Cultist
+	15 Typhoon Caverns
+	6 Typhoon Cruiser
+	7 Uncovered Secrets
+	4 Under the Sea
+	6 Undercutter
+	6 Unsuspecting Victim
+	15 Vibrant Sandbar
+	7 Volcanic Catastrophe
+	15 Volcanic Hollow
+	4 Vyzer, the Fallen Despot
+	15 Wave Spinner
+	6 Way of the Danithra
+	15 Weight of Oceans
+	15 Wilt
+	6 Youthful Tortoise

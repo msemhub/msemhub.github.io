@@ -1,0 +1,77 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Performer of Desire_FLP // Pyrus, the Undying Flame_FLP",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Actor",
+			"collector_number": "2",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/FLP-files/img/2a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/FLP-files/img/2a_front.jpg"
+			}
+		},
+		{
+			"name": "Performer of Desire_FLP // Pyrus, the Undying Flame_FLP",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Actor",
+			"collector_number": "2",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/FLP-files/img/2a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/FLP-files/img/2a_front.jpg"
+			}
+		},
+		{
+			"name": "Arina, Volarian Explorer_PRO_FLP // Arina, Cryoshaper_PRO_FLP",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "1",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/FLP-files/img/1a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/FLP-files/img/1a_front.jpg"
+			}
+		},
+		{
+			"name": "Arina, Volarian Explorer_PRO_FLP // Arina, Cryoshaper_PRO_FLP",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "1",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/FLP-files/img/1a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/FLP-files/img/1a_front.jpg"
+			}
+		},
+	]
+
+[rare(1)]
+[uncommon(3)]
+[common(7)]
+[foil(1)]
+[wildcard(1)]

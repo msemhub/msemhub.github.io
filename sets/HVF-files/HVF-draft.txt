@@ -1,0 +1,2139 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "A Whisper's Touch",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Advocate of the Hunt",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Aelinn, Serpent's Voice",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Ainok Alpha",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Hound Warrior",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Ainok Brushwacker",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Hound Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Ainok Caretaker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Hound Citizen",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Ainok Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Hound Scout",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Ainok Lout",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Hound Warrior",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Ainok Pack",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Hound Scout",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Ainok Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Hound Scout",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Amateur Pilfering",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Ancestral Zweihander_HVF",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Autumn Moon",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Autumn Song",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Autumnal Astrologer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Autumnal Watch",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Bauble Collector",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Beguiling Witch",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Bellani Mystic",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Benign Whisper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Zombie",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Birth of Whispers",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Blood Harvest",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Blundering Clocktower",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Borderland Garrison",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Hound Soldier",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Bout of Boredom",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Braenid Nomad",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Merfolk",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Buoyant Thoughts",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Burnished Plate",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Cackling Jack",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Scarecrow",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Canyon Creek",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Charitable Wisdom",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Charm Canary",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Chef's Apprentice",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Clever Rejoinder",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Climber's Gear",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Cloud Rock",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Clouded Mind",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Concord of Ravens",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Conjuring Minstrel",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Cornucopia Crescendo",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Crinster Blacksmith",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Crinster Falconer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Crinster Innocents",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Crinster Ranger",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Crinster Sheepdog",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Hound",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Crinster Stitcher",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Crinster Tattooist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Crop Warden",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Scarecrow",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Crystal Grotto",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Cumulus Horizon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Cybele, Mertle's Apprentice",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Dance of Fire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Depths Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Merfolk",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Desraen, Serpent's Will",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Driven to Distraction",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Edge of Adventure",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Edith Waunt",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Legendary Planeswalker — Edith",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Elder Roc",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Embergourd Scarecrow",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Scarecrow",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Exhausted Farmhand",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Expedition Map",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Eyes of the Maghbri",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Familial Matriarch",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Fate of the Brave",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura Persona",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Fate of the Devout",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura Persona",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Fate of the Generous",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura Persona",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Fate of the Wayward",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura Persona",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Fate of the Weary",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura Persona",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Feed the Eager",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Fertile Fields",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Fey Grove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Foraging Gear",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Forced Offering",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Forest_HVF",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Frailty",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Frigid Thicket",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Furtive Witch",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Gallant Chevalier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Horse Knight",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Glacial Buttress",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Gorgon's Gaze",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Grayce Blaen",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Grinning Fox",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Fox",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Haunted Boughs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Herald of the Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Herd of Sheep",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Sheep",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Hint of Exuberance",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Homestead Watcher",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Gorgon",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Honey Wagon",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Humored Outlaw",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Hunting Hound",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Hound",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Incarcerate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Inspiring Journey",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Intoxicate",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Inviting Feast",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Island_HVF",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Keeper of the Whispers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Zombie",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Lady's Master-of-Arms",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Lady Heiffyd",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Planeswalker — Heiffyd",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Latent Potential",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Legend of the Brave",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Enchantment — Aura Persona",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Legend of the Devout",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Enchantment — Aura Persona",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Legend of the Generous",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Enchantment — Aura Persona",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Legend of the Wayward",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Enchantment — Aura Persona",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Legend of the Weary",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Enchantment — Aura Persona",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Legendweaving",
+			"rarity": "mythic",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Lessons Learned",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Lord's Handmaiden",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Loyal Watchdog",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Hound",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Lumber Camp",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Maghbri Hunter",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Archer",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Maghbri Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Maghbri Whisper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Marked Coin",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Midnight Stalking",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Moon of the Encroaching Night",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Moon of the Final Dawn",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Moon of the Frozen Dusk",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Moon of the Lingering Day",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Moon of the Promised Day",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Moonlit Hunter",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Archer",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Mountain_HVF",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Nomadic Patriarch",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Elf Citizen",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Peel from Reality_HVF",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Plains_HVF",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Playful Child",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Radiant Bonds",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Reflect on Serenity",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Reminiscing Youth",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Roads Untraveled",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Rolling Homestead",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Rotwood Whisper",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Ruined Precipice",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Rush of Wonder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Scion of the Wild",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Scrollsnatcher",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Seasoned Packfather",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Hound Scout",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Selma Lappowen",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Siesa Tremund",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Gorgon Archer",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Small Luxuries",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Soaring Canyon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Song of the Harvest",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Spirit of Autumn",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Steady Reminiscence",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Stormchaser Mage",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Swamp_HVF",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "The Last Hunt",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "The Witch Queens",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Planeswalker — Cerie Kailla",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Thunder Shrike",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Tinkering Swarm",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Rat Construct",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Touch of Witchcraft",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Trae, Serpent's Grasp",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Traveling Thespians",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Trinkets and Charms",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Twinfire Dragon",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Verdant Bluff",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Vestiges of Autumn",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Vibrant Balloon",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Whisper Witch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Zombie Shaman",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Winter's Whelp",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Witch's Abode",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Witch's Apprentice",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Witch of Spring's Promise",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Wooden Toys",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Yuren Lappowen",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HVF-files/img/42.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 A Whisper's Touch
+	2 Advocate of the Hunt
+	2 Aelinn, Serpent's Voice
+	1 Birth of Whispers
+	1 Blood Harvest
+	1 Blundering Clocktower
+	2 Buoyant Thoughts
+	2 Canyon Creek
+	1 Charitable Wisdom
+	2 Clever Rejoinder
+	2 Cloud Rock
+	2 Concord of Ravens
+	2 Cornucopia Crescendo
+	2 Crystal Grotto
+	2 Cumulus Horizon
+	2 Cybele, Mertle's Apprentice
+	2 Desraen, Serpent's Will
+	1 Edith Waunt
+	2 Exhausted Farmhand
+	2 Fey Grove
+	2 Frigid Thicket
+	2 Furtive Witch
+	2 Grayce Blaen
+	2 Haunted Boughs
+	2 Herd of Sheep
+	1 Lady Heiffyd
+	2 Latent Potential
+	2 Legend of the Brave
+	2 Legend of the Devout
+	2 Legend of the Generous
+	2 Legend of the Wayward
+	2 Legend of the Weary
+	1 Legendweaving
+	1 Moonlit Hunter
+	2 Reflect on Serenity
+	2 Ruined Precipice
+	2 Seasoned Packfather
+	2 Selma Lappowen
+	2 Siesa Tremund
+	2 Small Luxuries
+	2 Soaring Canyon
+	2 Spirit of Autumn
+	2 The Last Hunt
+	1 The Witch Queens
+	1 Tinkering Swarm
+	2 Trae, Serpent's Grasp
+	2 Twinfire Dragon
+	2 Verdant Bluff
+	2 Witch of Spring's Promise
+	2 Yuren Lappowen
+[uncommon(3)]
+	4 Ainok Alpha
+	4 Ainok Caretaker
+	4 Ainok Hunter
+	4 Ainok Scout
+	4 Autumn Moon
+	4 Autumnal Astrologer
+	4 Autumnal Watch
+	4 Benign Whisper
+	4 Charm Canary
+	4 Clouded Mind
+	4 Crinster Tattooist
+	4 Dance of Fire
+	4 Depths Stalker
+	4 Driven to Distraction
+	4 Edge of Adventure
+	4 Embergourd Scarecrow
+	4 Expedition Map
+	4 Forced Offering
+	4 Frailty
+	4 Gallant Chevalier
+	4 Herald of the Hunt
+	4 Incarcerate
+	4 Keeper of the Whispers
+	4 Lady's Master-of-Arms
+	4 Lessons Learned
+	4 Lord's Handmaiden
+	4 Loyal Watchdog
+	4 Lumber Camp
+	4 Maghbri Oracle
+	4 Moon of the Encroaching Night
+	4 Moon of the Final Dawn
+	4 Moon of the Frozen Dusk
+	4 Moon of the Lingering Day
+	4 Moon of the Promised Day
+	4 Nomadic Patriarch
+	4 Radiant Bonds
+	4 Roads Untraveled
+	4 Rolling Homestead
+	4 Rotwood Whisper
+	4 Rush of Wonder
+	4 Scion of the Wild
+	4 Scrollsnatcher
+	4 Song of the Harvest
+	4 Stormchaser Mage
+	4 Thunder Shrike
+	4 Touch of Witchcraft
+	4 Traveling Thespians
+	4 Vestiges of Autumn
+	4 Whisper Witch
+	4 Wooden Toys
+[common(7)]
+	8 Ainok Brushwacker
+	8 Ainok Lout
+	8 Ainok Pack
+	8 Amateur Pilfering
+	8 Ancestral Zweihander_HVF
+	8 Autumn Song
+	8 Bauble Collector
+	8 Beguiling Witch
+	8 Bellani Mystic
+	8 Borderland Garrison
+	8 Bout of Boredom
+	8 Braenid Nomad
+	8 Burnished Plate
+	8 Cackling Jack
+	8 Chef's Apprentice
+	8 Climber's Gear
+	8 Conjuring Minstrel
+	8 Crinster Blacksmith
+	8 Crinster Falconer
+	8 Crinster Innocents
+	8 Crinster Ranger
+	8 Crinster Sheepdog
+	8 Crinster Stitcher
+	8 Crop Warden
+	8 Elder Roc
+	8 Evolving Wilds
+	8 Eyes of the Maghbri
+	8 Familial Matriarch
+	8 Fate of the Brave
+	8 Fate of the Devout
+	8 Fate of the Generous
+	8 Fate of the Wayward
+	8 Fate of the Weary
+	8 Feed the Eager
+	8 Fertile Fields
+	8 Foraging Gear
+	8 Glacial Buttress
+	8 Gorgon's Gaze
+	8 Grinning Fox
+	8 Hint of Exuberance
+	8 Homestead Watcher
+	8 Honey Wagon
+	8 Humored Outlaw
+	8 Hunting Hound
+	8 Inspiring Journey
+	8 Intoxicate
+	8 Inviting Feast
+	8 Maghbri Hunter
+	8 Maghbri Whisper
+	8 Marked Coin
+	8 Midnight Stalking
+	8 Peel from Reality_HVF
+	8 Playful Child
+	8 Reminiscing Youth
+	8 Steady Reminiscence
+	8 Trinkets and Charms
+	8 Vibrant Balloon
+	8 Winter's Whelp
+	8 Witch's Abode
+	8 Witch's Apprentice
+[foil(1)]
+	2 A Whisper's Touch
+	2 Advocate of the Hunt
+	2 Aelinn, Serpent's Voice
+	6 Ainok Alpha
+	12 Ainok Brushwacker
+	6 Ainok Caretaker
+	6 Ainok Hunter
+	12 Ainok Lout
+	12 Ainok Pack
+	6 Ainok Scout
+	12 Amateur Pilfering
+	12 Ancestral Zweihander_HVF
+	6 Autumn Moon
+	12 Autumn Song
+	6 Autumnal Astrologer
+	6 Autumnal Watch
+	12 Bauble Collector
+	12 Beguiling Witch
+	12 Bellani Mystic
+	6 Benign Whisper
+	1 Birth of Whispers
+	1 Blood Harvest
+	1 Blundering Clocktower
+	12 Borderland Garrison
+	12 Bout of Boredom
+	12 Braenid Nomad
+	2 Buoyant Thoughts
+	12 Burnished Plate
+	12 Cackling Jack
+	2 Canyon Creek
+	1 Charitable Wisdom
+	6 Charm Canary
+	12 Chef's Apprentice
+	2 Clever Rejoinder
+	12 Climber's Gear
+	2 Cloud Rock
+	6 Clouded Mind
+	2 Concord of Ravens
+	12 Conjuring Minstrel
+	2 Cornucopia Crescendo
+	12 Crinster Blacksmith
+	12 Crinster Falconer
+	12 Crinster Innocents
+	12 Crinster Ranger
+	12 Crinster Sheepdog
+	12 Crinster Stitcher
+	6 Crinster Tattooist
+	12 Crop Warden
+	2 Crystal Grotto
+	2 Cumulus Horizon
+	2 Cybele, Mertle's Apprentice
+	6 Dance of Fire
+	6 Depths Stalker
+	2 Desraen, Serpent's Will
+	6 Driven to Distraction
+	6 Edge of Adventure
+	1 Edith Waunt
+	12 Elder Roc
+	6 Embergourd Scarecrow
+	12 Evolving Wilds
+	2 Exhausted Farmhand
+	6 Expedition Map
+	12 Eyes of the Maghbri
+	12 Familial Matriarch
+	12 Fate of the Brave
+	12 Fate of the Devout
+	12 Fate of the Generous
+	12 Fate of the Wayward
+	12 Fate of the Weary
+	12 Feed the Eager
+	12 Fertile Fields
+	2 Fey Grove
+	12 Foraging Gear
+	6 Forced Offering
+	6 Frailty
+	2 Frigid Thicket
+	2 Furtive Witch
+	6 Gallant Chevalier
+	12 Glacial Buttress
+	12 Gorgon's Gaze
+	2 Grayce Blaen
+	12 Grinning Fox
+	2 Haunted Boughs
+	6 Herald of the Hunt
+	2 Herd of Sheep
+	12 Hint of Exuberance
+	12 Homestead Watcher
+	12 Honey Wagon
+	12 Humored Outlaw
+	12 Hunting Hound
+	6 Incarcerate
+	12 Inspiring Journey
+	12 Intoxicate
+	12 Inviting Feast
+	6 Keeper of the Whispers
+	6 Lady's Master-of-Arms
+	1 Lady Heiffyd
+	2 Latent Potential
+	2 Legend of the Brave
+	2 Legend of the Devout
+	2 Legend of the Generous
+	2 Legend of the Wayward
+	2 Legend of the Weary
+	1 Legendweaving
+	6 Lessons Learned
+	6 Lord's Handmaiden
+	6 Loyal Watchdog
+	6 Lumber Camp
+	12 Maghbri Hunter
+	6 Maghbri Oracle
+	12 Maghbri Whisper
+	12 Marked Coin
+	12 Midnight Stalking
+	6 Moon of the Encroaching Night
+	6 Moon of the Final Dawn
+	6 Moon of the Frozen Dusk
+	6 Moon of the Lingering Day
+	6 Moon of the Promised Day
+	1 Moonlit Hunter
+	6 Nomadic Patriarch
+	12 Peel from Reality_HVF
+	12 Playful Child
+	6 Radiant Bonds
+	2 Reflect on Serenity
+	12 Reminiscing Youth
+	6 Roads Untraveled
+	6 Rolling Homestead
+	6 Rotwood Whisper
+	2 Ruined Precipice
+	6 Rush of Wonder
+	6 Scion of the Wild
+	6 Scrollsnatcher
+	2 Seasoned Packfather
+	2 Selma Lappowen
+	2 Siesa Tremund
+	2 Small Luxuries
+	2 Soaring Canyon
+	6 Song of the Harvest
+	2 Spirit of Autumn
+	12 Steady Reminiscence
+	6 Stormchaser Mage
+	2 The Last Hunt
+	1 The Witch Queens
+	6 Thunder Shrike
+	1 Tinkering Swarm
+	6 Touch of Witchcraft
+	2 Trae, Serpent's Grasp
+	6 Traveling Thespians
+	12 Trinkets and Charms
+	2 Twinfire Dragon
+	2 Verdant Bluff
+	6 Vestiges of Autumn
+	12 Vibrant Balloon
+	6 Whisper Witch
+	12 Winter's Whelp
+	12 Witch's Abode
+	12 Witch's Apprentice
+	2 Witch of Spring's Promise
+	6 Wooden Toys
+	2 Yuren Lappowen
+[wildcard(1)]
+	7 A Whisper's Touch
+	7 Advocate of the Hunt
+	7 Aelinn, Serpent's Voice
+	15 Ainok Alpha
+	6 Ainok Brushwacker
+	15 Ainok Caretaker
+	15 Ainok Hunter
+	6 Ainok Lout
+	6 Ainok Pack
+	15 Ainok Scout
+	6 Amateur Pilfering
+	6 Ancestral Zweihander_HVF
+	15 Autumn Moon
+	6 Autumn Song
+	15 Autumnal Astrologer
+	15 Autumnal Watch
+	6 Bauble Collector
+	6 Beguiling Witch
+	6 Bellani Mystic
+	15 Benign Whisper
+	4 Birth of Whispers
+	4 Blood Harvest
+	4 Blundering Clocktower
+	6 Borderland Garrison
+	6 Bout of Boredom
+	6 Braenid Nomad
+	7 Buoyant Thoughts
+	6 Burnished Plate
+	6 Cackling Jack
+	7 Canyon Creek
+	4 Charitable Wisdom
+	15 Charm Canary
+	6 Chef's Apprentice
+	7 Clever Rejoinder
+	6 Climber's Gear
+	7 Cloud Rock
+	15 Clouded Mind
+	7 Concord of Ravens
+	6 Conjuring Minstrel
+	7 Cornucopia Crescendo
+	6 Crinster Blacksmith
+	6 Crinster Falconer
+	6 Crinster Innocents
+	6 Crinster Ranger
+	6 Crinster Sheepdog
+	6 Crinster Stitcher
+	15 Crinster Tattooist
+	6 Crop Warden
+	7 Crystal Grotto
+	7 Cumulus Horizon
+	7 Cybele, Mertle's Apprentice
+	15 Dance of Fire
+	15 Depths Stalker
+	7 Desraen, Serpent's Will
+	15 Driven to Distraction
+	15 Edge of Adventure
+	4 Edith Waunt
+	6 Elder Roc
+	15 Embergourd Scarecrow
+	6 Evolving Wilds
+	7 Exhausted Farmhand
+	15 Expedition Map
+	6 Eyes of the Maghbri
+	6 Familial Matriarch
+	6 Fate of the Brave
+	6 Fate of the Devout
+	6 Fate of the Generous
+	6 Fate of the Wayward
+	6 Fate of the Weary
+	6 Feed the Eager
+	6 Fertile Fields
+	7 Fey Grove
+	6 Foraging Gear
+	15 Forced Offering
+	15 Frailty
+	7 Frigid Thicket
+	7 Furtive Witch
+	15 Gallant Chevalier
+	6 Glacial Buttress
+	6 Gorgon's Gaze
+	7 Grayce Blaen
+	6 Grinning Fox
+	7 Haunted Boughs
+	15 Herald of the Hunt
+	7 Herd of Sheep
+	6 Hint of Exuberance
+	6 Homestead Watcher
+	6 Honey Wagon
+	6 Humored Outlaw
+	6 Hunting Hound
+	15 Incarcerate
+	6 Inspiring Journey
+	6 Intoxicate
+	6 Inviting Feast
+	15 Keeper of the Whispers
+	15 Lady's Master-of-Arms
+	4 Lady Heiffyd
+	7 Latent Potential
+	7 Legend of the Brave
+	7 Legend of the Devout
+	7 Legend of the Generous
+	7 Legend of the Wayward
+	7 Legend of the Weary
+	4 Legendweaving
+	15 Lessons Learned
+	15 Lord's Handmaiden
+	15 Loyal Watchdog
+	15 Lumber Camp
+	6 Maghbri Hunter
+	15 Maghbri Oracle
+	6 Maghbri Whisper
+	6 Marked Coin
+	6 Midnight Stalking
+	15 Moon of the Encroaching Night
+	15 Moon of the Final Dawn
+	15 Moon of the Frozen Dusk
+	15 Moon of the Lingering Day
+	15 Moon of the Promised Day
+	4 Moonlit Hunter
+	15 Nomadic Patriarch
+	6 Peel from Reality_HVF
+	6 Playful Child
+	15 Radiant Bonds
+	7 Reflect on Serenity
+	6 Reminiscing Youth
+	15 Roads Untraveled
+	15 Rolling Homestead
+	15 Rotwood Whisper
+	7 Ruined Precipice
+	15 Rush of Wonder
+	15 Scion of the Wild
+	15 Scrollsnatcher
+	7 Seasoned Packfather
+	7 Selma Lappowen
+	7 Siesa Tremund
+	7 Small Luxuries
+	7 Soaring Canyon
+	15 Song of the Harvest
+	7 Spirit of Autumn
+	6 Steady Reminiscence
+	15 Stormchaser Mage
+	7 The Last Hunt
+	4 The Witch Queens
+	15 Thunder Shrike
+	4 Tinkering Swarm
+	15 Touch of Witchcraft
+	7 Trae, Serpent's Grasp
+	15 Traveling Thespians
+	6 Trinkets and Charms
+	7 Twinfire Dragon
+	7 Verdant Bluff
+	15 Vestiges of Autumn
+	6 Vibrant Balloon
+	15 Whisper Witch
+	6 Winter's Whelp
+	6 Witch's Abode
+	6 Witch's Apprentice
+	7 Witch of Spring's Promise
+	15 Wooden Toys
+	7 Yuren Lappowen

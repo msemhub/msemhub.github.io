@@ -1,0 +1,3727 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Ageless Ascetic",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Alpha Trial",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Anran, Root Steward",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Enchantment Creature — Dragon",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Anran's Radical",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Artifact Creature — Human Berserker",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Anran's Realm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Archived Intelligence",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Droid",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Ascended Chronicler",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Ashthread Alley",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Assimilated Runner",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment Creature — Demon",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Attack Vector",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Automated Overwatch_BTB",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Artificer",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Bastion, Node of the Free",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Bastion Chaplain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Avatar Knight",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Bastion Patrol",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Bastion Valkyrie",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment Creature — Avatar Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Bastion Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Bio-Sequencer",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Blacksite Moderator",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Blacksite Profiteer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Blackwall's Edge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Blackwall Ramparts",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Blind Observer",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment Creature — Eye",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Bound Watcher",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment Creature — Angel",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Branch",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Branch Breaker",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Brawlhost Escapee",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Buffer Overflow",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Butterfly Rebellion",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Byte Blitz",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Byte Bug",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Insect",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "C22 Stalker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Captured Mind",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Human",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Cascading Disobedience",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Ceaseless Research",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Chaos Module",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment — Module",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Clean Boot",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Instant",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Combat Shard",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Consume Creation",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Core Collusion",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Core Ignition",
+			"rarity": "common",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Core Paradigm",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Core Purification",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Corrupt Warden",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment Creature — Demon",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Council of Shards",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Artifact Creature — Droid Cleric",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Countersurge",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Cracked Cipher",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Creation Module",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment — Module",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Cryptosphinx",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Cut Off",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "CySec Blacksuit",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "CySec Disruptor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "CySec Infiltrator",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "CySec Moderation Council",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Droid Artificer",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "CySec Nexus",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "CySec Operator",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "CySec Overwatch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Rogue",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "CySec Spectre",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "CySec Stalker",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Cybernetics Engineer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Cyclesmith Oracle",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment Creature — Giant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Cyclic Dream",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Daemon Prince",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment Creature — Demon",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Daemonspawn",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Creature — Demon",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Data-Point",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Data Addict",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Vampire",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Data Recovery",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Data Smuggler",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Dataform",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Datalith",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Deactivate",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Deliverance Branch",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Digital Divinity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Digital Dominion",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Divine Shell",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Avatar",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Divinity Redesigned",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Dropped Dreams",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Duskwatcher",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Embercore Grazer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment Creature — Antelope",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Emulate",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Evermind's Watch",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Evolution's End",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Experimental Evolution",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Firefall Praetorians",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Fleeting Figment",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment Creature — Incarnation",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Fury Module",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment — Module",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Gemini Cast",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "GenTech Apex",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Mutant Berserker",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "GenTech Architect",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "GenTech Assistants",
+			"rarity": "common",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "GenTech Executive",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "GenTech Labs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Generated Genius",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Generation Sequence",
+			"rarity": "mythic",
+			"mana_cost": "{8}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Generative Edge",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Genesplice",
+			"rarity": "common",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Genetic Breakthrough",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Genetic Overdrive",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Genome Mapper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Growth Paradigm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Gutter Run",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "H13 Wasp",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Hardlight Visionary",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Herald of the New Divinity",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Demigod",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "High Street Shadow",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Ninja",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Honey Pot",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "ICE Breaker",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Identity Held Ransom",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Identity Module",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Module",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Imagination Module",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment — Module",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Initiate Existence",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Intercept Package",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Into Memory",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Iteration Devourer",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Enchantment Creature — Hydra",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Iterative Transcendence",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "K37 Sprinter",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Kernel Barrage",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Kernel Flare",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Kernel Knot",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Kernel Quarantine",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Kernel Rest",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Kernel Upgrade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Key Catcher",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Kym, New Hope",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — Kym",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "L.O.T.U.S.",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Leechbyte",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Insect",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Lightweight Rollout",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Limited Mortality",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Loaded Gift",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Log Dredging",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Logic Module",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Module",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Mayar, Nullcrowned",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Mayar's Marauder",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Memory Corruption",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Memory Figment",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Miasma Shoal",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Miasma Trail",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Middleware",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "MiliCore Barracks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Mirror Paradigm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Molecular Mimicry",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Morality Module",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment — Module",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Nanite Infusion",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Nanowrought Progenitor",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact Enchantment Creature — Construct",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Nanowrought Vanguard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Enchantment Creature — Construct",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Neo-Soul Attendant",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Neo-Soul Envoy",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Neo-Soul Naturalist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Neo-Soul Nihilist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Neo-Soul Prophet",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Neon Claw Assassin",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Neon Claw Enforcer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Neon Claw Knight",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Droid Knight",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Netcrawler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment Creature — Spider",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Netsight Trickster",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Neural Dreams",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Neural Hijack",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Next Gen Reality",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Nilchain Altar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Nox, Bound No More",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Enchantment Planeswalker — Nox",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Noxan Acolyte",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Noxan Altar",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Noxan Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Noxan Zealot",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Artificer Cleric",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Nucleus Algorithm",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Null Bit",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Null Paradigm",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "OTA Infusion",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Old-Oath Conviction",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "One of Purpose",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Open Source",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Orchid Suit",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Droid Rebel",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Order Module",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Module",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "P05 Suppressor",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "P12 Tracker",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "P22 Glasseye",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Pair Program",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Paradise Procurement",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Paradise Windows",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Patrol Droid",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Droid",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Perfect Shell",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Human Mutant Artificer",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Petal of a Heart",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Artifact Creature — Droid Rebel",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Pointer Churn",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Power Control",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Power Module",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Module",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Pre-Crime Handler",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Enchantment Creature — Wizard",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Precog's Ban",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Precognition Module",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment — Module",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Primal Echo",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Creature — Elk",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Priority Paradigm",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Probe Beyond",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Probing Pentests",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Procedural Paradise",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Process Termination",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Pyp, the Indexer",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Quantum Bit",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Quantum Stream",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Race Condition",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Radiant Vistas",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Rapid Recursion",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Raving Intellects",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Reaper Squad",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Droid Soldier",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Rebirth Module",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment — Module",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Recompile",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Recursion Runner",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Refactor",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Reject Revision",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Relive Reality",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Replication Module",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Enchantment — Module",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Repository Warden",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Soldier",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Repurposed Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Resleeve",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Resonance Ripple",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Rhythm Module",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Enchantment — Module",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Ripplecore Trails",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Rippling Core",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Rising Faith",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Root Corruption",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Root Duplication",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Root Module",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Module",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Rosebud Prodigy",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Rosebud Runner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Runner's Harness",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Runner's Release",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Ruthless Researcher",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Sallmar, Freed Father",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Salvage Subject",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Scarlands Singularity",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment Creature — Demigod",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Scouring Daemon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment Creature — Demon",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Scramble",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Script Jockey",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Seed of Chaos",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment Creature — Demon",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Shadow Module",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Module",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Shara, Prime Geneticist",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{U}{U}",
+			"type": "Legendary Planeswalker — Shara",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Shardsong Seedling",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Enchantment Creature — Demigod",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Shea, KopSh Sprinter",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Shell Merc",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Droid Mercenary",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Shell Phantom",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Signal Boost",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Signal Corruption",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Slipstream Corruption",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Slipstream Horizon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "Slipstream Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Slipstream Silencer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact Creature — Droid Assassin",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Smoldersoul Seer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Mutant Rogue",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Sorrowful Seeker",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Soul-Synthesizer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Spirituality",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Splinter Entanglement",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Sprawl Architect",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Stack Soarer",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Enchantment Creature — Whale",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Static Feedback",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Stem Print",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Stillsong Enforcer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Stillsong Exploiter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Stillsong Inheritor",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Demigod",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Substack Exploit",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Substack Ports",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Substack Runner",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Substack Smuggler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer Rogue",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Substack Sniper",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Substack Tap",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Superset",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Sweeper Drone",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Synthetic Seedling",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Tanya, Paragon Runner",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Tapped Connection",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Tempered Core",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Test Run",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Thirst for Progress",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Thought Paradigm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Threadripper Savant",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Total Process Failure",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Total Surveillance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Training Sim",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Transcended Explorer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Unlicensed Replication",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Vat Awakening",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Vilted Crown",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Virtual Access Point",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment Creature — Wall",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Visage of Hope",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Visionary Developer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Voice of New Divinity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment Creature — Avatar Cleric",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Wayward Wanderers",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Wetware Deprecation",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Wingline Virus",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Yanaël, Bastion Elder",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BTB-files/img/260.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Anran, Root Steward
+	2 Anran's Realm
+	2 Automated Overwatch_BTB
+	2 Bastion Valkyrie
+	2 Branch Breaker
+	2 Buffer Overflow
+	2 Butterfly Rebellion
+	2 Core Collusion
+	1 Core Paradigm
+	2 Council of Shards
+	1 Cryptosphinx
+	2 CySec Blacksuit
+	2 CySec Nexus
+	2 Deliverance Branch
+	2 Digital Dominion
+	2 Divinity Redesigned
+	1 Evermind's Watch
+	2 Fleeting Figment
+	2 Gemini Cast
+	2 GenTech Labs
+	2 Generated Genius
+	1 Generation Sequence
+	2 Genetic Breakthrough
+	2 ICE Breaker
+	2 Identity Held Ransom
+	2 Identity Module
+	1 Iterative Transcendence
+	2 Kernel Knot
+	2 Kernel Quarantine
+	1 Kym, New Hope
+	1 L.O.T.U.S.
+	2 Leechbyte
+	2 Log Dredging
+	2 Logic Module
+	1 Mayar, Nullcrowned
+	2 Mayar's Marauder
+	2 Memory Corruption
+	2 Miasma Trail
+	2 MiliCore Barracks
+	1 Nanowrought Progenitor
+	2 Neon Claw Knight
+	2 Neural Dreams
+	1 Neural Hijack
+	1 Nox, Bound No More
+	2 Noxan Altar
+	2 Open Source
+	2 Order Module
+	2 P12 Tracker
+	2 Paradise Procurement
+	2 Petal of a Heart
+	2 Pointer Churn
+	1 Power Control
+	2 Power Module
+	2 Precog's Ban
+	2 Probing Pentests
+	1 Pyp, the Indexer
+	1 Quantum Bit
+	2 Quantum Stream
+	2 Recompile
+	2 Recursion Runner
+	2 Repository Warden
+	2 Resonance Ripple
+	2 Rising Faith
+	1 Root Duplication
+	2 Root Module
+	2 Runner's Harness
+	1 Sallmar, Freed Father
+	1 Shara, Prime Geneticist
+	2 Shea, KopSh Sprinter
+	2 Signal Boost
+	2 Signal Corruption
+	1 Spirituality
+	1 Splinter Entanglement
+	2 Sprawl Architect
+	2 Stack Soarer
+	2 Stillsong Inheritor
+	2 Superset
+	1 Tanya, Paragon Runner
+	2 Tempered Core
+	2 Training Sim
+	2 Unlicensed Replication
+	2 Vat Awakening
+	1 Wayward Wanderers
+	1 Yanaël, Bastion Elder
+[uncommon(3)]
+	4 Anran's Radical
+	4 Bastion, Node of the Free
+	4 Bastion Chaplain
+	4 Bastion Patrol
+	4 Bastion Warden
+	4 Bio-Sequencer
+	4 Blacksite Profiteer
+	4 Blackwall's Edge
+	4 Blackwall Ramparts
+	4 Blind Observer
+	4 Branch
+	4 Brawlhost Escapee
+	4 Ceaseless Research
+	4 Chaos Module
+	4 Clean Boot
+	4 Creation Module
+	4 CySec Disruptor
+	4 CySec Moderation Council
+	4 CySec Overwatch
+	4 Daemon Prince
+	4 Data Recovery
+	4 Digital Divinity
+	4 Dropped Dreams
+	4 Embercore Grazer
+	4 Emulate
+	4 Evolution's End
+	4 Firefall Praetorians
+	4 Fury Module
+	4 GenTech Apex
+	4 GenTech Executive
+	4 Genetic Overdrive
+	4 Genome Mapper
+	4 Growth Paradigm
+	4 Gutter Run
+	4 H13 Wasp
+	4 Hardlight Visionary
+	4 Honey Pot
+	4 Imagination Module
+	4 Intercept Package
+	4 Iteration Devourer
+	4 Kernel Barrage
+	4 Kernel Upgrade
+	4 Loaded Gift
+	4 Middleware
+	4 Mirror Paradigm
+	4 Molecular Mimicry
+	4 Morality Module
+	4 Nanowrought Vanguard
+	4 Neo-Soul Naturalist
+	4 Neo-Soul Nihilist
+	4 Neo-Soul Prophet
+	4 Netcrawler
+	4 Noxan Zealot
+	4 Nucleus Algorithm
+	4 Null Paradigm
+	4 One of Purpose
+	4 Orchid Suit
+	4 P22 Glasseye
+	4 Pair Program
+	4 Perfect Shell
+	4 Precognition Module
+	4 Priority Paradigm
+	4 Procedural Paradise
+	4 Process Termination
+	4 Race Condition
+	4 Rebirth Module
+	4 Relive Reality
+	4 Replication Module
+	4 Resleeve
+	4 Rhythm Module
+	4 Rosebud Runner
+	4 Salvage Subject
+	4 Scarlands Singularity
+	4 Scouring Daemon
+	4 Scramble
+	4 Shadow Module
+	4 Shardsong Seedling
+	4 Shell Phantom
+	4 Slipstream Oracle
+	4 Slipstream Silencer
+	4 Smoldersoul Seer
+	4 Soul-Synthesizer
+	4 Substack Smuggler
+	4 Substack Sniper
+	4 Test Run
+	4 Thirst for Progress
+	4 Thought Paradigm
+	4 Total Surveillance
+	4 Transcended Explorer
+	4 Visionary Developer
+	4 Voice of New Divinity
+[common(7)]
+	8 Ageless Ascetic
+	8 Alpha Trial
+	8 Archived Intelligence
+	8 Ascended Chronicler
+	8 Ashthread Alley
+	8 Assimilated Runner
+	8 Attack Vector
+	8 Blacksite Moderator
+	8 Bound Watcher
+	8 Byte Blitz
+	8 Byte Bug
+	8 C22 Stalker
+	8 Captured Mind
+	8 Cascading Disobedience
+	8 Combat Shard
+	8 Consume Creation
+	8 Core Ignition
+	8 Core Purification
+	8 Corrupt Warden
+	8 Countersurge
+	8 Cracked Cipher
+	8 Cut Off
+	8 CySec Infiltrator
+	8 CySec Operator
+	8 CySec Spectre
+	8 CySec Stalker
+	8 Cybernetics Engineer
+	8 Cyclesmith Oracle
+	8 Cyclic Dream
+	8 Daemonspawn
+	8 Data-Point
+	8 Data Addict
+	8 Data Smuggler
+	8 Dataform
+	8 Datalith
+	8 Deactivate
+	8 Divine Shell
+	8 Duskwatcher
+	8 Experimental Evolution
+	8 GenTech Architect
+	8 GenTech Assistants
+	8 Generative Edge
+	8 Genesplice
+	8 Herald of the New Divinity
+	8 High Street Shadow
+	8 Initiate Existence
+	8 Into Memory
+	8 K37 Sprinter
+	8 Kernel Flare
+	8 Kernel Rest
+	8 Key Catcher
+	8 Lightweight Rollout
+	8 Limited Mortality
+	8 Memory Figment
+	8 Miasma Shoal
+	8 Nanite Infusion
+	8 Neo-Soul Attendant
+	8 Neo-Soul Envoy
+	8 Neon Claw Assassin
+	8 Neon Claw Enforcer
+	8 Netsight Trickster
+	8 Next Gen Reality
+	8 Nilchain Altar
+	8 Noxan Acolyte
+	8 Noxan Pilgrim
+	8 Null Bit
+	8 OTA Infusion
+	8 Old-Oath Conviction
+	8 P05 Suppressor
+	8 Paradise Windows
+	8 Patrol Droid
+	8 Pre-Crime Handler
+	8 Primal Echo
+	8 Probe Beyond
+	8 Radiant Vistas
+	8 Rapid Recursion
+	8 Raving Intellects
+	8 Reaper Squad
+	8 Refactor
+	8 Reject Revision
+	8 Repurposed Construct
+	8 Ripplecore Trails
+	8 Rippling Core
+	8 Root Corruption
+	8 Rosebud Prodigy
+	8 Runner's Release
+	8 Ruthless Researcher
+	8 Script Jockey
+	8 Seed of Chaos
+	8 Shell Merc
+	8 Slipstream Corruption
+	8 Slipstream Horizon
+	8 Sorrowful Seeker
+	8 Static Feedback
+	8 Stem Print
+	8 Stillsong Enforcer
+	8 Stillsong Exploiter
+	8 Substack Exploit
+	8 Substack Ports
+	8 Substack Runner
+	8 Substack Tap
+	8 Sweeper Drone
+	8 Synthetic Seedling
+	8 Tapped Connection
+	8 Threadripper Savant
+	8 Total Process Failure
+	8 Vilted Crown
+	8 Virtual Access Point
+	8 Visage of Hope
+	8 Wetware Deprecation
+	8 Wingline Virus
+[foil(1)]
+	12 Ageless Ascetic
+	12 Alpha Trial
+	2 Anran, Root Steward
+	6 Anran's Radical
+	2 Anran's Realm
+	12 Archived Intelligence
+	12 Ascended Chronicler
+	12 Ashthread Alley
+	12 Assimilated Runner
+	12 Attack Vector
+	2 Automated Overwatch_BTB
+	6 Bastion, Node of the Free
+	6 Bastion Chaplain
+	6 Bastion Patrol
+	2 Bastion Valkyrie
+	6 Bastion Warden
+	6 Bio-Sequencer
+	12 Blacksite Moderator
+	6 Blacksite Profiteer
+	6 Blackwall's Edge
+	6 Blackwall Ramparts
+	6 Blind Observer
+	12 Bound Watcher
+	6 Branch
+	2 Branch Breaker
+	6 Brawlhost Escapee
+	2 Buffer Overflow
+	2 Butterfly Rebellion
+	12 Byte Blitz
+	12 Byte Bug
+	12 C22 Stalker
+	12 Captured Mind
+	12 Cascading Disobedience
+	6 Ceaseless Research
+	6 Chaos Module
+	6 Clean Boot
+	12 Combat Shard
+	12 Consume Creation
+	2 Core Collusion
+	12 Core Ignition
+	1 Core Paradigm
+	12 Core Purification
+	12 Corrupt Warden
+	2 Council of Shards
+	12 Countersurge
+	12 Cracked Cipher
+	6 Creation Module
+	1 Cryptosphinx
+	12 Cut Off
+	2 CySec Blacksuit
+	6 CySec Disruptor
+	12 CySec Infiltrator
+	6 CySec Moderation Council
+	2 CySec Nexus
+	12 CySec Operator
+	6 CySec Overwatch
+	12 CySec Spectre
+	12 CySec Stalker
+	12 Cybernetics Engineer
+	12 Cyclesmith Oracle
+	12 Cyclic Dream
+	6 Daemon Prince
+	12 Daemonspawn
+	12 Data-Point
+	12 Data Addict
+	6 Data Recovery
+	12 Data Smuggler
+	12 Dataform
+	12 Datalith
+	12 Deactivate
+	2 Deliverance Branch
+	6 Digital Divinity
+	2 Digital Dominion
+	12 Divine Shell
+	2 Divinity Redesigned
+	6 Dropped Dreams
+	12 Duskwatcher
+	6 Embercore Grazer
+	6 Emulate
+	1 Evermind's Watch
+	6 Evolution's End
+	12 Experimental Evolution
+	6 Firefall Praetorians
+	2 Fleeting Figment
+	6 Fury Module
+	2 Gemini Cast
+	6 GenTech Apex
+	12 GenTech Architect
+	12 GenTech Assistants
+	6 GenTech Executive
+	2 GenTech Labs
+	2 Generated Genius
+	1 Generation Sequence
+	12 Generative Edge
+	12 Genesplice
+	2 Genetic Breakthrough
+	6 Genetic Overdrive
+	6 Genome Mapper
+	6 Growth Paradigm
+	6 Gutter Run
+	6 H13 Wasp
+	6 Hardlight Visionary
+	12 Herald of the New Divinity
+	12 High Street Shadow
+	6 Honey Pot
+	2 ICE Breaker
+	2 Identity Held Ransom
+	2 Identity Module
+	6 Imagination Module
+	12 Initiate Existence
+	6 Intercept Package
+	12 Into Memory
+	6 Iteration Devourer
+	1 Iterative Transcendence
+	12 K37 Sprinter
+	6 Kernel Barrage
+	12 Kernel Flare
+	2 Kernel Knot
+	2 Kernel Quarantine
+	12 Kernel Rest
+	6 Kernel Upgrade
+	12 Key Catcher
+	1 Kym, New Hope
+	1 L.O.T.U.S.
+	2 Leechbyte
+	12 Lightweight Rollout
+	12 Limited Mortality
+	6 Loaded Gift
+	2 Log Dredging
+	2 Logic Module
+	1 Mayar, Nullcrowned
+	2 Mayar's Marauder
+	2 Memory Corruption
+	12 Memory Figment
+	12 Miasma Shoal
+	2 Miasma Trail
+	6 Middleware
+	2 MiliCore Barracks
+	6 Mirror Paradigm
+	6 Molecular Mimicry
+	6 Morality Module
+	12 Nanite Infusion
+	1 Nanowrought Progenitor
+	6 Nanowrought Vanguard
+	12 Neo-Soul Attendant
+	12 Neo-Soul Envoy
+	6 Neo-Soul Naturalist
+	6 Neo-Soul Nihilist
+	6 Neo-Soul Prophet
+	12 Neon Claw Assassin
+	12 Neon Claw Enforcer
+	2 Neon Claw Knight
+	6 Netcrawler
+	12 Netsight Trickster
+	2 Neural Dreams
+	1 Neural Hijack
+	12 Next Gen Reality
+	12 Nilchain Altar
+	1 Nox, Bound No More
+	12 Noxan Acolyte
+	2 Noxan Altar
+	12 Noxan Pilgrim
+	6 Noxan Zealot
+	6 Nucleus Algorithm
+	12 Null Bit
+	6 Null Paradigm
+	12 OTA Infusion
+	12 Old-Oath Conviction
+	6 One of Purpose
+	2 Open Source
+	6 Orchid Suit
+	2 Order Module
+	12 P05 Suppressor
+	2 P12 Tracker
+	6 P22 Glasseye
+	6 Pair Program
+	2 Paradise Procurement
+	12 Paradise Windows
+	12 Patrol Droid
+	6 Perfect Shell
+	2 Petal of a Heart
+	2 Pointer Churn
+	1 Power Control
+	2 Power Module
+	12 Pre-Crime Handler
+	2 Precog's Ban
+	6 Precognition Module
+	12 Primal Echo
+	6 Priority Paradigm
+	12 Probe Beyond
+	2 Probing Pentests
+	6 Procedural Paradise
+	6 Process Termination
+	1 Pyp, the Indexer
+	1 Quantum Bit
+	2 Quantum Stream
+	6 Race Condition
+	12 Radiant Vistas
+	12 Rapid Recursion
+	12 Raving Intellects
+	12 Reaper Squad
+	6 Rebirth Module
+	2 Recompile
+	2 Recursion Runner
+	12 Refactor
+	12 Reject Revision
+	6 Relive Reality
+	6 Replication Module
+	2 Repository Warden
+	12 Repurposed Construct
+	6 Resleeve
+	2 Resonance Ripple
+	6 Rhythm Module
+	12 Ripplecore Trails
+	12 Rippling Core
+	2 Rising Faith
+	12 Root Corruption
+	1 Root Duplication
+	2 Root Module
+	12 Rosebud Prodigy
+	6 Rosebud Runner
+	2 Runner's Harness
+	12 Runner's Release
+	12 Ruthless Researcher
+	1 Sallmar, Freed Father
+	6 Salvage Subject
+	6 Scarlands Singularity
+	6 Scouring Daemon
+	6 Scramble
+	12 Script Jockey
+	12 Seed of Chaos
+	6 Shadow Module
+	1 Shara, Prime Geneticist
+	6 Shardsong Seedling
+	2 Shea, KopSh Sprinter
+	12 Shell Merc
+	6 Shell Phantom
+	2 Signal Boost
+	2 Signal Corruption
+	12 Slipstream Corruption
+	12 Slipstream Horizon
+	6 Slipstream Oracle
+	6 Slipstream Silencer
+	6 Smoldersoul Seer
+	12 Sorrowful Seeker
+	6 Soul-Synthesizer
+	1 Spirituality
+	1 Splinter Entanglement
+	2 Sprawl Architect
+	2 Stack Soarer
+	12 Static Feedback
+	12 Stem Print
+	12 Stillsong Enforcer
+	12 Stillsong Exploiter
+	2 Stillsong Inheritor
+	12 Substack Exploit
+	12 Substack Ports
+	12 Substack Runner
+	6 Substack Smuggler
+	6 Substack Sniper
+	12 Substack Tap
+	2 Superset
+	12 Sweeper Drone
+	12 Synthetic Seedling
+	1 Tanya, Paragon Runner
+	12 Tapped Connection
+	2 Tempered Core
+	6 Test Run
+	6 Thirst for Progress
+	6 Thought Paradigm
+	12 Threadripper Savant
+	12 Total Process Failure
+	6 Total Surveillance
+	2 Training Sim
+	6 Transcended Explorer
+	2 Unlicensed Replication
+	2 Vat Awakening
+	12 Vilted Crown
+	12 Virtual Access Point
+	12 Visage of Hope
+	6 Visionary Developer
+	6 Voice of New Divinity
+	1 Wayward Wanderers
+	12 Wetware Deprecation
+	12 Wingline Virus
+	1 Yanaël, Bastion Elder
+[wildcard(1)]
+	6 Ageless Ascetic
+	6 Alpha Trial
+	7 Anran, Root Steward
+	15 Anran's Radical
+	7 Anran's Realm
+	6 Archived Intelligence
+	6 Ascended Chronicler
+	6 Ashthread Alley
+	6 Assimilated Runner
+	6 Attack Vector
+	7 Automated Overwatch_BTB
+	15 Bastion, Node of the Free
+	15 Bastion Chaplain
+	15 Bastion Patrol
+	7 Bastion Valkyrie
+	15 Bastion Warden
+	15 Bio-Sequencer
+	6 Blacksite Moderator
+	15 Blacksite Profiteer
+	15 Blackwall's Edge
+	15 Blackwall Ramparts
+	15 Blind Observer
+	6 Bound Watcher
+	15 Branch
+	7 Branch Breaker
+	15 Brawlhost Escapee
+	7 Buffer Overflow
+	7 Butterfly Rebellion
+	6 Byte Blitz
+	6 Byte Bug
+	6 C22 Stalker
+	6 Captured Mind
+	6 Cascading Disobedience
+	15 Ceaseless Research
+	15 Chaos Module
+	15 Clean Boot
+	6 Combat Shard
+	6 Consume Creation
+	7 Core Collusion
+	6 Core Ignition
+	4 Core Paradigm
+	6 Core Purification
+	6 Corrupt Warden
+	7 Council of Shards
+	6 Countersurge
+	6 Cracked Cipher
+	15 Creation Module
+	4 Cryptosphinx
+	6 Cut Off
+	7 CySec Blacksuit
+	15 CySec Disruptor
+	6 CySec Infiltrator
+	15 CySec Moderation Council
+	7 CySec Nexus
+	6 CySec Operator
+	15 CySec Overwatch
+	6 CySec Spectre
+	6 CySec Stalker
+	6 Cybernetics Engineer
+	6 Cyclesmith Oracle
+	6 Cyclic Dream
+	15 Daemon Prince
+	6 Daemonspawn
+	6 Data-Point
+	6 Data Addict
+	15 Data Recovery
+	6 Data Smuggler
+	6 Dataform
+	6 Datalith
+	6 Deactivate
+	7 Deliverance Branch
+	15 Digital Divinity
+	7 Digital Dominion
+	6 Divine Shell
+	7 Divinity Redesigned
+	15 Dropped Dreams
+	6 Duskwatcher
+	15 Embercore Grazer
+	15 Emulate
+	4 Evermind's Watch
+	15 Evolution's End
+	6 Experimental Evolution
+	15 Firefall Praetorians
+	7 Fleeting Figment
+	15 Fury Module
+	7 Gemini Cast
+	15 GenTech Apex
+	6 GenTech Architect
+	6 GenTech Assistants
+	15 GenTech Executive
+	7 GenTech Labs
+	7 Generated Genius
+	4 Generation Sequence
+	6 Generative Edge
+	6 Genesplice
+	7 Genetic Breakthrough
+	15 Genetic Overdrive
+	15 Genome Mapper
+	15 Growth Paradigm
+	15 Gutter Run
+	15 H13 Wasp
+	15 Hardlight Visionary
+	6 Herald of the New Divinity
+	6 High Street Shadow
+	15 Honey Pot
+	7 ICE Breaker
+	7 Identity Held Ransom
+	7 Identity Module
+	15 Imagination Module
+	6 Initiate Existence
+	15 Intercept Package
+	6 Into Memory
+	15 Iteration Devourer
+	4 Iterative Transcendence
+	6 K37 Sprinter
+	15 Kernel Barrage
+	6 Kernel Flare
+	7 Kernel Knot
+	7 Kernel Quarantine
+	6 Kernel Rest
+	15 Kernel Upgrade
+	6 Key Catcher
+	4 Kym, New Hope
+	4 L.O.T.U.S.
+	7 Leechbyte
+	6 Lightweight Rollout
+	6 Limited Mortality
+	15 Loaded Gift
+	7 Log Dredging
+	7 Logic Module
+	4 Mayar, Nullcrowned
+	7 Mayar's Marauder
+	7 Memory Corruption
+	6 Memory Figment
+	6 Miasma Shoal
+	7 Miasma Trail
+	15 Middleware
+	7 MiliCore Barracks
+	15 Mirror Paradigm
+	15 Molecular Mimicry
+	15 Morality Module
+	6 Nanite Infusion
+	4 Nanowrought Progenitor
+	15 Nanowrought Vanguard
+	6 Neo-Soul Attendant
+	6 Neo-Soul Envoy
+	15 Neo-Soul Naturalist
+	15 Neo-Soul Nihilist
+	15 Neo-Soul Prophet
+	6 Neon Claw Assassin
+	6 Neon Claw Enforcer
+	7 Neon Claw Knight
+	15 Netcrawler
+	6 Netsight Trickster
+	7 Neural Dreams
+	4 Neural Hijack
+	6 Next Gen Reality
+	6 Nilchain Altar
+	4 Nox, Bound No More
+	6 Noxan Acolyte
+	7 Noxan Altar
+	6 Noxan Pilgrim
+	15 Noxan Zealot
+	15 Nucleus Algorithm
+	6 Null Bit
+	15 Null Paradigm
+	6 OTA Infusion
+	6 Old-Oath Conviction
+	15 One of Purpose
+	7 Open Source
+	15 Orchid Suit
+	7 Order Module
+	6 P05 Suppressor
+	7 P12 Tracker
+	15 P22 Glasseye
+	15 Pair Program
+	7 Paradise Procurement
+	6 Paradise Windows
+	6 Patrol Droid
+	15 Perfect Shell
+	7 Petal of a Heart
+	7 Pointer Churn
+	4 Power Control
+	7 Power Module
+	6 Pre-Crime Handler
+	7 Precog's Ban
+	15 Precognition Module
+	6 Primal Echo
+	15 Priority Paradigm
+	6 Probe Beyond
+	7 Probing Pentests
+	15 Procedural Paradise
+	15 Process Termination
+	4 Pyp, the Indexer
+	4 Quantum Bit
+	7 Quantum Stream
+	15 Race Condition
+	6 Radiant Vistas
+	6 Rapid Recursion
+	6 Raving Intellects
+	6 Reaper Squad
+	15 Rebirth Module
+	7 Recompile
+	7 Recursion Runner
+	6 Refactor
+	6 Reject Revision
+	15 Relive Reality
+	15 Replication Module
+	7 Repository Warden
+	6 Repurposed Construct
+	15 Resleeve
+	7 Resonance Ripple
+	15 Rhythm Module
+	6 Ripplecore Trails
+	6 Rippling Core
+	7 Rising Faith
+	6 Root Corruption
+	4 Root Duplication
+	7 Root Module
+	6 Rosebud Prodigy
+	15 Rosebud Runner
+	7 Runner's Harness
+	6 Runner's Release
+	6 Ruthless Researcher
+	4 Sallmar, Freed Father
+	15 Salvage Subject
+	15 Scarlands Singularity
+	15 Scouring Daemon
+	15 Scramble
+	6 Script Jockey
+	6 Seed of Chaos
+	15 Shadow Module
+	4 Shara, Prime Geneticist
+	15 Shardsong Seedling
+	7 Shea, KopSh Sprinter
+	6 Shell Merc
+	15 Shell Phantom
+	7 Signal Boost
+	7 Signal Corruption
+	6 Slipstream Corruption
+	6 Slipstream Horizon
+	15 Slipstream Oracle
+	15 Slipstream Silencer
+	15 Smoldersoul Seer
+	6 Sorrowful Seeker
+	15 Soul-Synthesizer
+	4 Spirituality
+	4 Splinter Entanglement
+	7 Sprawl Architect
+	7 Stack Soarer
+	6 Static Feedback
+	6 Stem Print
+	6 Stillsong Enforcer
+	6 Stillsong Exploiter
+	7 Stillsong Inheritor
+	6 Substack Exploit
+	6 Substack Ports
+	6 Substack Runner
+	15 Substack Smuggler
+	15 Substack Sniper
+	6 Substack Tap
+	7 Superset
+	6 Sweeper Drone
+	6 Synthetic Seedling
+	4 Tanya, Paragon Runner
+	6 Tapped Connection
+	7 Tempered Core
+	15 Test Run
+	15 Thirst for Progress
+	15 Thought Paradigm
+	6 Threadripper Savant
+	6 Total Process Failure
+	15 Total Surveillance
+	7 Training Sim
+	15 Transcended Explorer
+	7 Unlicensed Replication
+	7 Vat Awakening
+	6 Vilted Crown
+	6 Virtual Access Point
+	6 Visage of Hope
+	15 Visionary Developer
+	15 Voice of New Divinity
+	4 Wayward Wanderers
+	6 Wetware Deprecation
+	6 Wingline Virus
+	4 Yanaël, Bastion Elder

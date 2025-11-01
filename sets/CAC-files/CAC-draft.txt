@@ -1,0 +1,1149 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Aerie's Pillar",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Animus",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Aether Ascendant",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Almgrove Champion",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Almgrove Librarian",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Almgrove Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Archive Guardian",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Ardy, Youthful Geomancer",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Planeswalker — Ardy",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Ardy's Invocation",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Ardy's Study",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Enchantment — Study",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Arpechian Tiger",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Cat",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Arpechian Yatte",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Artisan of Marrow",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Gorgon Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Autumn Fae",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Faerie",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Blessing of Valor",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Bloated Keystone",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Breaker of Secrets",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Bygone Guardian",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Animus",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Cadre Hawk",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Cavorting Beauty",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Ceaseless Stalker",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Ceaseless Valiant",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Channeling Stone",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Chart the Vast",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Clockwork Spellwork",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Compulsion's Voice",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Confirm Hypothesis",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Conjuring of Locusts",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Corrosive Pact",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Crystal Conjuration",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Disruptive Echoes",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Entrancing Virtuoso",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Essence of Constellations",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Exhaustive Research",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Exhilarating Prescience",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Face the Dawn",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "False Vitality",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Forest_CAC",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Pit",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Animus",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Giltwork Legacy",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Gruff Smith",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dwarf Citizen",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Headwind Glider",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Ignition Ritual",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Ironwood Elemental",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Island_CAC",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Jara Incarnation",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Jara Jadefist",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Keystone Conjurer",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Lodestone Convergence",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Lumbering Hillock",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Animus",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Lunar Arbiter",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Mechanized Ideal",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Misleading Tactics",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Mountain_CAC",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Paternal Pride",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Plains_CAC",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Possibility Matrix",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Leyline",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Rahit, Immaculate Architect",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Planeswalker — Rahit",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Rahit's Prodigy",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Rahit's Study",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Study",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Reckless Festivities",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Rousing Rubble",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Animus",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Runic Depths",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Salva Tore",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Planeswalker — Salva",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Salva Tore's Study",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Study",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Salva Tore's Vexation",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Scaletongue Mistress",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Shatter Facade",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Sigil of Radiance",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Spellslinger's Gauntlet",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Spellsword Elite",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Spellwork Bulwark",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Sprout Thought",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Stall Fate",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Stormsurge",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Submergence",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Surge of the Leylines",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Swamp_CAC",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Thought Blossom",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Thunderous Charge",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Visceral Offering",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Vitality Maestro",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Warded Tome",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Whistling Blades",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Young Necromancer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Forest_PRO_CAC",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Island_PRO_CAC",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Mountain_PRO_CAC",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Plains_PRO_CAC",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Swamp_PRO_CAC",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/CAC-files/img/90.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Aerie's Pillar
+	2 Aether Ascendant
+	2 Almgrove Champion
+	2 Almgrove Librarian
+	2 Almgrove Sentinel
+	2 Archive Guardian
+	1 Ardy, Youthful Geomancer
+	2 Ardy's Invocation
+	2 Ardy's Study
+	2 Arpechian Tiger
+	2 Arpechian Yatte
+	2 Artisan of Marrow
+	2 Autumn Fae
+	2 Blessing of Valor
+	2 Bloated Keystone
+	2 Breaker of Secrets
+	2 Bygone Guardian
+	2 Cadre Hawk
+	2 Cavorting Beauty
+	2 Ceaseless Stalker
+	2 Ceaseless Valiant
+	2 Channeling Stone
+	2 Chart the Vast
+	2 Clockwork Spellwork
+	2 Compulsion's Voice
+	2 Confirm Hypothesis
+	2 Conjuring of Locusts
+	2 Corrosive Pact
+	2 Crystal Conjuration
+	2 Disruptive Echoes
+	2 Entrancing Virtuoso
+	2 Essence of Constellations
+	2 Exhaustive Research
+	2 Exhilarating Prescience
+	2 Face the Dawn
+	2 False Vitality
+	2 Forgotten Pit
+	2 Giltwork Legacy
+	2 Gruff Smith
+	2 Headwind Glider
+	2 Ignition Ritual
+	2 Ironwood Elemental
+	2 Jara Incarnation
+	2 Jara Jadefist
+	2 Keystone Conjurer
+	2 Lodestone Convergence
+	2 Lumbering Hillock
+	2 Lunar Arbiter
+	2 Mechanized Ideal
+	2 Misleading Tactics
+	2 Paternal Pride
+	2 Possibility Matrix
+	2 Prismatic Leyline
+	1 Rahit, Immaculate Architect
+	2 Rahit's Prodigy
+	2 Rahit's Study
+	2 Reckless Festivities
+	2 Rousing Rubble
+	2 Runic Depths
+	1 Salva Tore
+	2 Salva Tore's Study
+	2 Salva Tore's Vexation
+	2 Scaletongue Mistress
+	2 Shatter Facade
+	2 Sigil of Radiance
+	2 Spellslinger's Gauntlet
+	2 Spellsword Elite
+	2 Spellwork Bulwark
+	2 Sprout Thought
+	2 Stall Fate
+	2 Stormsurge
+	2 Submergence
+	2 Surge of the Leylines
+	2 Thought Blossom
+	2 Thunderous Charge
+	2 Visceral Offering
+	2 Vitality Maestro
+	2 Warded Tome
+	2 Whistling Blades
+	2 Young Necromancer
+[uncommon(3)]
+[common(7)]
+[foil(1)]
+	2 Aerie's Pillar
+	2 Aether Ascendant
+	2 Almgrove Champion
+	2 Almgrove Librarian
+	2 Almgrove Sentinel
+	2 Archive Guardian
+	1 Ardy, Youthful Geomancer
+	2 Ardy's Invocation
+	2 Ardy's Study
+	2 Arpechian Tiger
+	2 Arpechian Yatte
+	2 Artisan of Marrow
+	2 Autumn Fae
+	2 Blessing of Valor
+	2 Bloated Keystone
+	2 Breaker of Secrets
+	2 Bygone Guardian
+	2 Cadre Hawk
+	2 Cavorting Beauty
+	2 Ceaseless Stalker
+	2 Ceaseless Valiant
+	2 Channeling Stone
+	2 Chart the Vast
+	2 Clockwork Spellwork
+	2 Compulsion's Voice
+	2 Confirm Hypothesis
+	2 Conjuring of Locusts
+	2 Corrosive Pact
+	2 Crystal Conjuration
+	2 Disruptive Echoes
+	2 Entrancing Virtuoso
+	2 Essence of Constellations
+	2 Exhaustive Research
+	2 Exhilarating Prescience
+	2 Face the Dawn
+	2 False Vitality
+	2 Forgotten Pit
+	2 Giltwork Legacy
+	2 Gruff Smith
+	2 Headwind Glider
+	2 Ignition Ritual
+	2 Ironwood Elemental
+	2 Jara Incarnation
+	2 Jara Jadefist
+	2 Keystone Conjurer
+	2 Lodestone Convergence
+	2 Lumbering Hillock
+	2 Lunar Arbiter
+	2 Mechanized Ideal
+	2 Misleading Tactics
+	2 Paternal Pride
+	2 Possibility Matrix
+	2 Prismatic Leyline
+	1 Rahit, Immaculate Architect
+	2 Rahit's Prodigy
+	2 Rahit's Study
+	2 Reckless Festivities
+	2 Rousing Rubble
+	2 Runic Depths
+	1 Salva Tore
+	2 Salva Tore's Study
+	2 Salva Tore's Vexation
+	2 Scaletongue Mistress
+	2 Shatter Facade
+	2 Sigil of Radiance
+	2 Spellslinger's Gauntlet
+	2 Spellsword Elite
+	2 Spellwork Bulwark
+	2 Sprout Thought
+	2 Stall Fate
+	2 Stormsurge
+	2 Submergence
+	2 Surge of the Leylines
+	2 Thought Blossom
+	2 Thunderous Charge
+	2 Visceral Offering
+	2 Vitality Maestro
+	2 Warded Tome
+	2 Whistling Blades
+	2 Young Necromancer
+[wildcard(1)]
+	7 Aerie's Pillar
+	7 Aether Ascendant
+	7 Almgrove Champion
+	7 Almgrove Librarian
+	7 Almgrove Sentinel
+	7 Archive Guardian
+	4 Ardy, Youthful Geomancer
+	7 Ardy's Invocation
+	7 Ardy's Study
+	7 Arpechian Tiger
+	7 Arpechian Yatte
+	7 Artisan of Marrow
+	7 Autumn Fae
+	7 Blessing of Valor
+	7 Bloated Keystone
+	7 Breaker of Secrets
+	7 Bygone Guardian
+	7 Cadre Hawk
+	7 Cavorting Beauty
+	7 Ceaseless Stalker
+	7 Ceaseless Valiant
+	7 Channeling Stone
+	7 Chart the Vast
+	7 Clockwork Spellwork
+	7 Compulsion's Voice
+	7 Confirm Hypothesis
+	7 Conjuring of Locusts
+	7 Corrosive Pact
+	7 Crystal Conjuration
+	7 Disruptive Echoes
+	7 Entrancing Virtuoso
+	7 Essence of Constellations
+	7 Exhaustive Research
+	7 Exhilarating Prescience
+	7 Face the Dawn
+	7 False Vitality
+	7 Forgotten Pit
+	7 Giltwork Legacy
+	7 Gruff Smith
+	7 Headwind Glider
+	7 Ignition Ritual
+	7 Ironwood Elemental
+	7 Jara Incarnation
+	7 Jara Jadefist
+	7 Keystone Conjurer
+	7 Lodestone Convergence
+	7 Lumbering Hillock
+	7 Lunar Arbiter
+	7 Mechanized Ideal
+	7 Misleading Tactics
+	7 Paternal Pride
+	7 Possibility Matrix
+	7 Prismatic Leyline
+	4 Rahit, Immaculate Architect
+	7 Rahit's Prodigy
+	7 Rahit's Study
+	7 Reckless Festivities
+	7 Rousing Rubble
+	7 Runic Depths
+	4 Salva Tore
+	7 Salva Tore's Study
+	7 Salva Tore's Vexation
+	7 Scaletongue Mistress
+	7 Shatter Facade
+	7 Sigil of Radiance
+	7 Spellslinger's Gauntlet
+	7 Spellsword Elite
+	7 Spellwork Bulwark
+	7 Sprout Thought
+	7 Stall Fate
+	7 Stormsurge
+	7 Submergence
+	7 Surge of the Leylines
+	7 Thought Blossom
+	7 Thunderous Charge
+	7 Visceral Offering
+	7 Vitality Maestro
+	7 Warded Tome
+	7 Whistling Blades
+	7 Young Necromancer

@@ -1,0 +1,1322 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Academic's Claymore",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Academy Renegade",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Afterlife Heist",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Against the Waves",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Antimagic Formula",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Apex's Oath",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Apotheosis",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Aquilifer Axelius",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Arbiter of the Scales",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Arpechian Champion",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Autumn's Farewell",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Azamir, Wayward Titan",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Legendary Planeswalker — Azamir",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Backwood Rangers",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Scout Ranger",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Berbarus Unsealed",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Brave the Issbarrens",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Bretala of Redsky",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Calamitous Crash",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Caller of Hunger",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Captain Mattias Ochre",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Charting the Cosmos",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Chratteri Restoration",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Chratteri Valiant",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast Warrior",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Chronofracture",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Crystal Garden",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Curse-Blood Morrigan",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Daisy, the Heart of Chasmek",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Daring Skythief",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Dragoncalling",
+			"rarity": "rare",
+			"mana_cost": "{8}{R}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Edge of the Water",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Elder's Wisdom",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Embrace Madness",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Emperor Tzhai",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}{G}{W}",
+			"type": "Legendary Planeswalker — Tzhai",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Epic Score",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Final Reckoning",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Finale of Cinders",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Fish Out of Water",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Glorysinger",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue Bard",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Glymna Blackrune",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Golden Company Tactics",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Golden Company Valiant",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Gorbes Index",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Great and Small",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Greenwood Outrider",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Happy Together",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Herald of Heroes",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Hunter's Hideout",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "In Memoriam",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Jak, Daring Vanguard",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Jara Champion",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Just Business",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Lady Ashtongue",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Legacy's Malediction",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Leyline Alignment Field",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Lost to the Ages",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Magdel, Caller of Souls",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Meadow's Melody",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Meadow Songstress",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elemental Bard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Memento Mori",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Meteor Fall",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Mirrorgate",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Mossy Companion",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Ol' Sycamore",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Plant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Oscanthor, Trader's Ruin",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Legendary Creature — Leviathan",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Outsmart",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Overclock",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Overloaded Aethergate",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Overwhelming Armies",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Puppeteering",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Regal Ignition",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Remnant of the Wild",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Avatar",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Rend the Mind",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Right to Rule",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Rujan, the Great Pumpkin",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Legendary Creature — Plant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Seventh Circle Cultist",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Sinister Heir",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Spring Renewal",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Start Anew",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Storytime",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Takeda Taro",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Tempus Fugit",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Terror of Palta Gorge",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "The Aether Lens",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "The Knowledge Hub",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "The Lord of All Beyond",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}{B}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "The Start of Something",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Tianyuren Skycharter",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Tidal Spite",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Titan's Palace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Titan's Will",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Turela, Defiant Angel",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Ultim Nox",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Unbound Academic",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Unceasing Flames",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Vengeful Messenger",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Villainy",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Voidlife Orbs",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Wandering Souls",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Warden of the Dead",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Warrior's Request",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Welcome Return",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Words of Eternity",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/101-files/img/55.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Academic's Claymore
+	2 Academy Renegade
+	2 Afterlife Heist
+	2 Against the Waves
+	2 Antimagic Formula
+	2 Apex's Oath
+	2 Apotheosis
+	2 Aquilifer Axelius
+	2 Arbiter of the Scales
+	2 Arpechian Champion
+	2 Autumn's Farewell
+	1 Azamir, Wayward Titan
+	2 Backwood Rangers
+	2 Berbarus Unsealed
+	2 Brave the Issbarrens
+	2 Bretala of Redsky
+	2 Calamitous Crash
+	2 Caller of Hunger
+	2 Captain Mattias Ochre
+	2 Charting the Cosmos
+	2 Chratteri Restoration
+	2 Chratteri Valiant
+	2 Chronofracture
+	2 Crystal Garden
+	2 Curse-Blood Morrigan
+	2 Daisy, the Heart of Chasmek
+	2 Daring Skythief
+	2 Dragoncalling
+	2 Edge of the Water
+	2 Elder's Wisdom
+	2 Embrace Madness
+	1 Emperor Tzhai
+	2 Epic Score
+	2 Final Reckoning
+	2 Finale of Cinders
+	2 Fish Out of Water
+	2 Glorysinger
+	2 Glymna Blackrune
+	2 Golden Company Tactics
+	2 Golden Company Valiant
+	2 Gorbes Index
+	2 Great and Small
+	2 Greenwood Outrider
+	1 Happy Together
+	2 Herald of Heroes
+	2 Hunter's Hideout
+	2 In Memoriam
+	2 Jak, Daring Vanguard
+	2 Jara Champion
+	2 Just Business
+	2 Lady Ashtongue
+	2 Legacy's Malediction
+	2 Leyline Alignment Field
+	2 Lost to the Ages
+	2 Magdel, Caller of Souls
+	2 Meadow's Melody
+	2 Meadow Songstress
+	2 Memento Mori
+	2 Meteor Fall
+	2 Mirrorgate
+	2 Mossy Companion
+	2 Ol' Sycamore
+	2 Oscanthor, Trader's Ruin
+	2 Outsmart
+	2 Overclock
+	2 Overloaded Aethergate
+	2 Overwhelming Armies
+	2 Puppeteering
+	2 Regal Ignition
+	2 Remnant of the Wild
+	2 Rend the Mind
+	2 Right to Rule
+	2 Rujan, the Great Pumpkin
+	2 Seventh Circle Cultist
+	2 Sinister Heir
+	2 Spring Renewal
+	2 Start Anew
+	1 Storytime
+	2 Takeda Taro
+	2 Tempus Fugit
+	2 Terror of Palta Gorge
+	2 The Aether Lens
+	2 The Knowledge Hub
+	2 The Lord of All Beyond
+	2 The Start of Something
+	2 Tianyuren Skycharter
+	2 Tidal Spite
+	2 Titan's Palace
+	2 Titan's Will
+	2 Turela, Defiant Angel
+	2 Ultim Nox
+	2 Unbound Academic
+	2 Unceasing Flames
+	2 Vengeful Messenger
+	2 Villainy
+	2 Voidlife Orbs
+	2 Wandering Souls
+	2 Warden of the Dead
+	2 Warrior's Request
+	2 Welcome Return
+	2 Words of Eternity
+[uncommon(3)]
+[common(7)]
+[foil(1)]
+	2 Academic's Claymore
+	2 Academy Renegade
+	2 Afterlife Heist
+	2 Against the Waves
+	2 Antimagic Formula
+	2 Apex's Oath
+	2 Apotheosis
+	2 Aquilifer Axelius
+	2 Arbiter of the Scales
+	2 Arpechian Champion
+	2 Autumn's Farewell
+	1 Azamir, Wayward Titan
+	2 Backwood Rangers
+	2 Berbarus Unsealed
+	2 Brave the Issbarrens
+	2 Bretala of Redsky
+	2 Calamitous Crash
+	2 Caller of Hunger
+	2 Captain Mattias Ochre
+	2 Charting the Cosmos
+	2 Chratteri Restoration
+	2 Chratteri Valiant
+	2 Chronofracture
+	2 Crystal Garden
+	2 Curse-Blood Morrigan
+	2 Daisy, the Heart of Chasmek
+	2 Daring Skythief
+	2 Dragoncalling
+	2 Edge of the Water
+	2 Elder's Wisdom
+	2 Embrace Madness
+	1 Emperor Tzhai
+	2 Epic Score
+	2 Final Reckoning
+	2 Finale of Cinders
+	2 Fish Out of Water
+	2 Glorysinger
+	2 Glymna Blackrune
+	2 Golden Company Tactics
+	2 Golden Company Valiant
+	2 Gorbes Index
+	2 Great and Small
+	2 Greenwood Outrider
+	1 Happy Together
+	2 Herald of Heroes
+	2 Hunter's Hideout
+	2 In Memoriam
+	2 Jak, Daring Vanguard
+	2 Jara Champion
+	2 Just Business
+	2 Lady Ashtongue
+	2 Legacy's Malediction
+	2 Leyline Alignment Field
+	2 Lost to the Ages
+	2 Magdel, Caller of Souls
+	2 Meadow's Melody
+	2 Meadow Songstress
+	2 Memento Mori
+	2 Meteor Fall
+	2 Mirrorgate
+	2 Mossy Companion
+	2 Ol' Sycamore
+	2 Oscanthor, Trader's Ruin
+	2 Outsmart
+	2 Overclock
+	2 Overloaded Aethergate
+	2 Overwhelming Armies
+	2 Puppeteering
+	2 Regal Ignition
+	2 Remnant of the Wild
+	2 Rend the Mind
+	2 Right to Rule
+	2 Rujan, the Great Pumpkin
+	2 Seventh Circle Cultist
+	2 Sinister Heir
+	2 Spring Renewal
+	2 Start Anew
+	1 Storytime
+	2 Takeda Taro
+	2 Tempus Fugit
+	2 Terror of Palta Gorge
+	2 The Aether Lens
+	2 The Knowledge Hub
+	2 The Lord of All Beyond
+	2 The Start of Something
+	2 Tianyuren Skycharter
+	2 Tidal Spite
+	2 Titan's Palace
+	2 Titan's Will
+	2 Turela, Defiant Angel
+	2 Ultim Nox
+	2 Unbound Academic
+	2 Unceasing Flames
+	2 Vengeful Messenger
+	2 Villainy
+	2 Voidlife Orbs
+	2 Wandering Souls
+	2 Warden of the Dead
+	2 Warrior's Request
+	2 Welcome Return
+	2 Words of Eternity
+[wildcard(1)]
+	7 Academic's Claymore
+	7 Academy Renegade
+	7 Afterlife Heist
+	7 Against the Waves
+	7 Antimagic Formula
+	7 Apex's Oath
+	7 Apotheosis
+	7 Aquilifer Axelius
+	7 Arbiter of the Scales
+	7 Arpechian Champion
+	7 Autumn's Farewell
+	4 Azamir, Wayward Titan
+	7 Backwood Rangers
+	7 Berbarus Unsealed
+	7 Brave the Issbarrens
+	7 Bretala of Redsky
+	7 Calamitous Crash
+	7 Caller of Hunger
+	7 Captain Mattias Ochre
+	7 Charting the Cosmos
+	7 Chratteri Restoration
+	7 Chratteri Valiant
+	7 Chronofracture
+	7 Crystal Garden
+	7 Curse-Blood Morrigan
+	7 Daisy, the Heart of Chasmek
+	7 Daring Skythief
+	7 Dragoncalling
+	7 Edge of the Water
+	7 Elder's Wisdom
+	7 Embrace Madness
+	4 Emperor Tzhai
+	7 Epic Score
+	7 Final Reckoning
+	7 Finale of Cinders
+	7 Fish Out of Water
+	7 Glorysinger
+	7 Glymna Blackrune
+	7 Golden Company Tactics
+	7 Golden Company Valiant
+	7 Gorbes Index
+	7 Great and Small
+	7 Greenwood Outrider
+	4 Happy Together
+	7 Herald of Heroes
+	7 Hunter's Hideout
+	7 In Memoriam
+	7 Jak, Daring Vanguard
+	7 Jara Champion
+	7 Just Business
+	7 Lady Ashtongue
+	7 Legacy's Malediction
+	7 Leyline Alignment Field
+	7 Lost to the Ages
+	7 Magdel, Caller of Souls
+	7 Meadow's Melody
+	7 Meadow Songstress
+	7 Memento Mori
+	7 Meteor Fall
+	7 Mirrorgate
+	7 Mossy Companion
+	7 Ol' Sycamore
+	7 Oscanthor, Trader's Ruin
+	7 Outsmart
+	7 Overclock
+	7 Overloaded Aethergate
+	7 Overwhelming Armies
+	7 Puppeteering
+	7 Regal Ignition
+	7 Remnant of the Wild
+	7 Rend the Mind
+	7 Right to Rule
+	7 Rujan, the Great Pumpkin
+	7 Seventh Circle Cultist
+	7 Sinister Heir
+	7 Spring Renewal
+	7 Start Anew
+	4 Storytime
+	7 Takeda Taro
+	7 Tempus Fugit
+	7 Terror of Palta Gorge
+	7 The Aether Lens
+	7 The Knowledge Hub
+	7 The Lord of All Beyond
+	7 The Start of Something
+	7 Tianyuren Skycharter
+	7 Tidal Spite
+	7 Titan's Palace
+	7 Titan's Will
+	7 Turela, Defiant Angel
+	7 Ultim Nox
+	7 Unbound Academic
+	7 Unceasing Flames
+	7 Vengeful Messenger
+	7 Villainy
+	7 Voidlife Orbs
+	7 Wandering Souls
+	7 Warden of the Dead
+	7 Warrior's Request
+	7 Welcome Return
+	7 Words of Eternity

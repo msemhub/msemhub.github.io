@@ -1,0 +1,3296 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abandon Ship",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Abyss Surger",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Leviathan",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Adept Fisherman",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Pirate Scout",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Admirable Admiral",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Adoroth, the Baneful",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Aerie Watch",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Afflicted Legion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Skeleton Army",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "All That Glitters",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "All for One",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Alvarez of the Huntsman",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Another Day in Paradise",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Arbiter of the Demeter",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Armada Envoy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Armored Valiant",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Autointerment",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Battle Rallier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Black Spot",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Blacksteel Loadout",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Blighted Branch-Beast",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Treefolk Beast",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Blood for Bones",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Boarding Party",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Bramble Armor",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Breakneck Barque",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Bridled Narwhal",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Whale",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Brig of the Damned",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Broadside Raider",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Brume Leviathan",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Bushwhack",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Calamitous Wave",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Cannonblast",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Canopy Stomper",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Captain's Companion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Bird",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Captain's Orders",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Captain Darlene Filham",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Cascade Drake",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Chartered Fleet",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Children of Gos",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Civil Discourse",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Claustrophobia",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Cleansing Cleric",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dwarf Cleric",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Coasting Shaledrake",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Coralhide Wurm",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Wurm",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Crackling Agama",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Lizard Beast",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Crain's Crew",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Warrior",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Crain's Crony",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Skeleton Pirate",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Crazed Swashbuckler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Crewmaster Gillo",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Monkey Pirate",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Crosswind Cutter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Crown of the Speaker",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Cruising Schooner",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Crypt Strider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Skeleton Warrior",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Cryptozoologist",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Pirate Scout",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Culling Blade",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Dapper Ragamuffin",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Daybreak Wayfarers",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Human Pirate Scout",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Deathless Conscription",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Deluge Gorger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Leviathan",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Depth Lurker",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Leviathan",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Dissolve_DSS",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Down with the Ship",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Dragonlord's Shrine",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Dreadbearer",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Creature — Leviathan",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Dusk Lieutenant",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Skeleton Pirate",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Dwarven War Hatchet",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Eager Voyager",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Pirate Scout",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "East Ward Champion",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "East Ward Forgetender",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "East Ward Halberdier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Elaborate Firecannon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Elder Prophesier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Pirate Warlock",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Empyrean Griffin",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Essence Scatter_DSS",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Exotic Discovery",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Expunge the Terrors",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Fair Trial",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Faithless Deserter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Fated Mariner",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Fen Glutton",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit Beast",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Fiery Cannonade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Fiery Temper",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Fight Song",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Find Greater Purpose",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "First General of the Wards",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Flaming Point Technique",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Flintlock Pistol",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Fog at Sea",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Forest_DSS",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Forged Alliance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Forsaken Shores",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Gale Mediator",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Garth of the Chimera",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Gaze of the Grave",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Ghastly Scorpion",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit Scorpion",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Ghost Sloop",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Giradrus, Ashen Master",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Glisterhorn",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Elk",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Good Night's Sleep",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Gos, Knotweald Elder",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Treefolk",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Grasp of Hollows",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Grave Wrangler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Skeleton Warlock",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Greedy Rapscallions",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Grievous Buccaneer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Griffling",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Grisly Reaper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Warrior",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Grizzled Cutthroat",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "H.S.S. Demeter",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Harbinger of Giradrus",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Skeleton Pirate",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Harriet of the Pioneer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Heinous Smuggler",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Helicos Aberration",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Hound Beast",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Helicos Gargantua",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Spirit Beast",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Helicos Octopus",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Octopus",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Helmsman's Chart",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "High Sovereign Thura",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Dwarf Cleric",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Holcomb of the Peregrine",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Hugo of the Shadowstaff",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Idyllic Pegasus",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Pegasus",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Imperious Wurm",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Inexorable Epidemic",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Infernal Fury",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Inspired Charge_DSS",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Intrepid Captain",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Ironclad Infantry",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Island_DSS",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Isles Uncharted",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Keelhaul",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Keen Seafarer",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Pirate Warrior",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Kelp Garden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Knotweald Ambassador",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Knotweald Luminary",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Knotweald Ranger",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Treefolk",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Knotweald Sapling",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Knotweald Vanguard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Treefolk",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Land Ho!",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Last Passage",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Lava Scutterer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Lizard Beast",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Law Enforcement",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Legion of Giradrus",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton Army",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Light the Fuse",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Ligneous Enormity",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Lofty Dreamship",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Long Forgotten",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Lord Ellison Crain",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}{R}",
+			"type": "Legendary Planeswalker — Crain",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Lost Knowledge",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Mable of the Sea's Whimsy",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Malignant Rise",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Marisa of the Gravehowl",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Maritime Thug",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Mark of Dark Opulence",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Mark of Mutiny_DSS",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Maroon",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Master Negotiator",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Mephitic Fumes",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Merchant Galleon",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Merciless Bandit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Mountain_DSS",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Murder_DSS",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Nimble Caravel",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "North Ward Settler",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Oaken Sentry",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Old Salt",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Opaline Drake",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Orodu, the Onyx Wave",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Leviathan",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Osseous Augur",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Skeleton Warlock",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Pale Courier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Pathless Shallows",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Pay the Right Price",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Pelagic Hydra",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Creature — Serpent Hydra",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Perennial Unrest",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Perilous Treaty",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Petty Dispute",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Pick Up the Pieces",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Pilfer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Pirate's Cutlass",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Pirate's Hideout",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Plains_DSS",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Plucky Pickpocket",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Plummet",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Prowling Agamid",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Lizard Beast",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Pyre Apostle",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Radiant Elegance",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Rattled Bones",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Skeleton Warrior",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Raving Brigand",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Recruits of the Demeter",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Revivification",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Revoke Privileges",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Rising Terrain",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Roll the Dice",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Rootshaper",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Ruinous Proselyte",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Skeleton Warrior",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Rum Guzzler",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Run Through",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Sail the Open Sea",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Salty Swab",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Salvage Wyvern",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Sanitarium Skeleton_DSS",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Scalawag Swagger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Searle of the Tempest",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Seasoned Lookout",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Pirate Scout",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Seawise Swain",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Seto San, the Dragonblade",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Seto",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Shipwrecked",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Shoal Raker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Shrieking Nightwing",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bat",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Shrill Griffin",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Shrouded Spoils",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Silent Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Sink",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Siren's Song",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Skerry Serpent",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Serpent",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Skulduggery",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Skysail Rigger",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Skyward Gaveller",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Skywise Emissary",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Slaughterkeg",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Sleepless Vigil",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Smoldering Husk",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Skeleton Warrior",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Solemn Cleaver",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Song of the Sea",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Staunch Constrictor",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Strange Tides",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Stygian Leviathan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Leviathan",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Sudden Storm",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Suitor of the Sea",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Sun-Crowned Flagship",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Swamp_DSS",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Swift Corsair",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Swooping Razorbeak",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Tabia of the Lionheart",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Tamiyo, Lunar Arcanist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Planeswalker — Tamiyo",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Tankard of Grog",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Tender Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Thalassophobia",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "The Winged Steed",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Thicket Mimicry",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Three Seas Cartographer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Pirate Scout",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Three Seas Squire",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Trawl the Wreckage",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Treasure Hauler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Twilight Privateer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Two-Faced Marauder",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Skeleton Pirate",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Ulcerous Hellion",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Hellion Beast",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Umbral Wolf",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Spirit Wolf",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Unknown Shores_DSS",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Unruly Cannoneer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Up in Arms",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Vagabones",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Skeleton Warrior",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Valencia of the Concordant",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Verdurous Herald",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Visions of Oblivion",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Vivid Griffin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Wakeborne Kraken",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Kraken",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Watchful Navigator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Pirate Scout",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "West Ward Purifier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dwarf Cleric",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DSS-files/img/41.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Adoroth, the Baneful
+	2 Alvarez of the Huntsman
+	2 Another Day in Paradise
+	2 Blacksteel Loadout
+	1 Blighted Branch-Beast
+	2 Brig of the Damned
+	1 Captain Darlene Filham
+	2 Children of Gos
+	1 Crain's Crony
+	1 Crewmaster Gillo
+	2 Crown of the Speaker
+	2 Cryptozoologist
+	2 Culling Blade
+	2 Dragonlord's Shrine
+	2 Dreadbearer
+	2 Dusk Lieutenant
+	2 Dwarven War Hatchet
+	2 East Ward Champion
+	2 Empyrean Griffin
+	2 Exotic Discovery
+	2 Fair Trial
+	1 First General of the Wards
+	2 Gale Mediator
+	2 Garth of the Chimera
+	1 Giradrus, Ashen Master
+	1 Gos, Knotweald Elder
+	2 Grasp of Hollows
+	1 H.S.S. Demeter
+	2 Harbinger of Giradrus
+	2 Harriet of the Pioneer
+	2 Heinous Smuggler
+	2 Helicos Gargantua
+	2 High Sovereign Thura
+	2 Holcomb of the Peregrine
+	2 Hugo of the Shadowstaff
+	1 Inexorable Epidemic
+	2 Intrepid Captain
+	1 Isles Uncharted
+	2 Knotweald Ambassador
+	2 Last Passage
+	2 Light the Fuse
+	1 Lord Ellison Crain
+	2 Mable of the Sea's Whimsy
+	2 Marisa of the Gravehowl
+	2 Mark of Dark Opulence
+	2 Master Negotiator
+	2 Opaline Drake
+	2 Orodu, the Onyx Wave
+	2 Pay the Right Price
+	2 Pelagic Hydra
+	2 Pick Up the Pieces
+	2 Pirate's Hideout
+	2 Roll the Dice
+	2 Ruinous Proselyte
+	2 Salty Swab
+	2 Searle of the Tempest
+	1 Seto San, the Dragonblade
+	2 Slaughterkeg
+	2 Sleepless Vigil
+	2 Sun-Crowned Flagship
+	2 Tabia of the Lionheart
+	1 Tamiyo, Lunar Arcanist
+	2 The Winged Steed
+	2 Trawl the Wreckage
+	1 Two-Faced Marauder
+	2 Valencia of the Concordant
+	2 Visions of Oblivion
+	1 Wakeborne Kraken
+[uncommon(3)]
+	4 Abyss Surger
+	4 Admirable Admiral
+	4 Afflicted Legion
+	4 All That Glitters
+	4 Armada Envoy
+	4 Autointerment
+	4 Battle Rallier
+	4 Blood for Bones
+	4 Breakneck Barque
+	4 Calamitous Wave
+	4 Captain's Companion
+	4 Captain's Orders
+	4 Civil Discourse
+	4 Crackling Agama
+	4 Crazed Swashbuckler
+	4 Crosswind Cutter
+	4 Crypt Strider
+	4 Daybreak Wayfarers
+	4 Deathless Conscription
+	4 Deluge Gorger
+	4 Dissolve_DSS
+	4 East Ward Halberdier
+	4 Elaborate Firecannon
+	4 Elder Prophesier
+	4 Expunge the Terrors
+	4 Faithless Deserter
+	4 Fated Mariner
+	4 Fen Glutton
+	4 Fiery Cannonade
+	4 Fight Song
+	4 Find Greater Purpose
+	4 Flintlock Pistol
+	4 Forged Alliance
+	4 Gaze of the Grave
+	4 Ghost Sloop
+	4 Good Night's Sleep
+	4 Grave Wrangler
+	4 Idyllic Pegasus
+	4 Ironclad Infantry
+	4 Keelhaul
+	4 Keen Seafarer
+	4 Kelp Garden
+	4 Knotweald Luminary
+	4 Knotweald Vanguard
+	4 Lava Scutterer
+	4 Legion of Giradrus
+	4 Ligneous Enormity
+	4 Long Forgotten
+	4 Malignant Rise
+	4 Mephitic Fumes
+	4 Merciless Bandit
+	4 Pale Courier
+	4 Pathless Shallows
+	4 Perennial Unrest
+	4 Pyre Apostle
+	4 Raving Brigand
+	4 Revivification
+	4 Rootshaper
+	4 Salvage Wyvern
+	4 Scalawag Swagger
+	4 Shoal Raker
+	4 Silent Hunt
+	4 Skerry Serpent
+	4 Skywise Emissary
+	4 Smoldering Husk
+	4 Song of the Sea
+	4 Stygian Leviathan
+	4 Suitor of the Sea
+	4 Swift Corsair
+	4 Tankard of Grog
+	4 Tender Warden
+	4 Thalassophobia
+	4 Thicket Mimicry
+	4 Three Seas Cartographer
+	4 Treasure Hauler
+	4 Twilight Privateer
+	4 Unruly Cannoneer
+	4 Verdurous Herald
+	4 Vivid Griffin
+	4 Watchful Navigator
+[common(7)]
+	8 Abandon Ship
+	8 Adept Fisherman
+	8 Aerie Watch
+	8 All for One
+	8 Arbiter of the Demeter
+	8 Armored Valiant
+	8 Black Spot
+	8 Boarding Party
+	8 Bramble Armor
+	8 Bridled Narwhal
+	8 Broadside Raider
+	8 Brume Leviathan
+	8 Bushwhack
+	8 Cannonblast
+	8 Canopy Stomper
+	8 Cascade Drake
+	8 Chartered Fleet
+	8 Claustrophobia
+	8 Cleansing Cleric
+	8 Coasting Shaledrake
+	8 Coralhide Wurm
+	8 Crain's Crew
+	8 Cruising Schooner
+	8 Dapper Ragamuffin
+	8 Depth Lurker
+	8 Down with the Ship
+	8 Eager Voyager
+	8 East Ward Forgetender
+	8 Essence Scatter_DSS
+	8 Fiery Temper
+	8 Flaming Point Technique
+	8 Fog at Sea
+	8 Forsaken Shores
+	8 Ghastly Scorpion
+	8 Glisterhorn
+	8 Greedy Rapscallions
+	8 Grievous Buccaneer
+	8 Griffling
+	8 Grisly Reaper
+	8 Grizzled Cutthroat
+	8 Helicos Aberration
+	8 Helicos Octopus
+	8 Helmsman's Chart
+	8 Imperious Wurm
+	8 Infernal Fury
+	8 Inspired Charge_DSS
+	8 Knotweald Ranger
+	8 Knotweald Sapling
+	8 Land Ho!
+	8 Law Enforcement
+	8 Lofty Dreamship
+	8 Lost Knowledge
+	8 Maritime Thug
+	8 Mark of Mutiny_DSS
+	8 Maroon
+	8 Merchant Galleon
+	8 Murder_DSS
+	8 Nimble Caravel
+	8 North Ward Settler
+	8 Oaken Sentry
+	8 Old Salt
+	8 Osseous Augur
+	8 Perilous Treaty
+	8 Petty Dispute
+	8 Pilfer
+	8 Pirate's Cutlass
+	8 Plucky Pickpocket
+	8 Plummet
+	8 Prowling Agamid
+	8 Radiant Elegance
+	8 Rattled Bones
+	8 Recruits of the Demeter
+	8 Revoke Privileges
+	8 Rising Terrain
+	8 Rum Guzzler
+	8 Run Through
+	8 Sail the Open Sea
+	8 Sanitarium Skeleton_DSS
+	8 Seasoned Lookout
+	8 Seawise Swain
+	8 Shipwrecked
+	8 Shrieking Nightwing
+	8 Shrill Griffin
+	8 Shrouded Spoils
+	8 Sink
+	8 Siren's Song
+	8 Skulduggery
+	8 Skysail Rigger
+	8 Skyward Gaveller
+	8 Solemn Cleaver
+	8 Staunch Constrictor
+	8 Strange Tides
+	8 Sudden Storm
+	8 Swooping Razorbeak
+	8 Three Seas Squire
+	8 Ulcerous Hellion
+	8 Umbral Wolf
+	8 Unknown Shores_DSS
+	8 Up in Arms
+	8 Vagabones
+	8 West Ward Purifier
+[foil(1)]
+	12 Abandon Ship
+	6 Abyss Surger
+	12 Adept Fisherman
+	6 Admirable Admiral
+	2 Adoroth, the Baneful
+	12 Aerie Watch
+	6 Afflicted Legion
+	6 All That Glitters
+	12 All for One
+	2 Alvarez of the Huntsman
+	2 Another Day in Paradise
+	12 Arbiter of the Demeter
+	6 Armada Envoy
+	12 Armored Valiant
+	6 Autointerment
+	6 Battle Rallier
+	12 Black Spot
+	2 Blacksteel Loadout
+	1 Blighted Branch-Beast
+	6 Blood for Bones
+	12 Boarding Party
+	12 Bramble Armor
+	6 Breakneck Barque
+	12 Bridled Narwhal
+	2 Brig of the Damned
+	12 Broadside Raider
+	12 Brume Leviathan
+	12 Bushwhack
+	6 Calamitous Wave
+	12 Cannonblast
+	12 Canopy Stomper
+	6 Captain's Companion
+	6 Captain's Orders
+	1 Captain Darlene Filham
+	12 Cascade Drake
+	12 Chartered Fleet
+	2 Children of Gos
+	6 Civil Discourse
+	12 Claustrophobia
+	12 Cleansing Cleric
+	12 Coasting Shaledrake
+	12 Coralhide Wurm
+	6 Crackling Agama
+	12 Crain's Crew
+	1 Crain's Crony
+	6 Crazed Swashbuckler
+	1 Crewmaster Gillo
+	6 Crosswind Cutter
+	2 Crown of the Speaker
+	12 Cruising Schooner
+	6 Crypt Strider
+	2 Cryptozoologist
+	2 Culling Blade
+	12 Dapper Ragamuffin
+	6 Daybreak Wayfarers
+	6 Deathless Conscription
+	6 Deluge Gorger
+	12 Depth Lurker
+	6 Dissolve_DSS
+	12 Down with the Ship
+	2 Dragonlord's Shrine
+	2 Dreadbearer
+	2 Dusk Lieutenant
+	2 Dwarven War Hatchet
+	12 Eager Voyager
+	2 East Ward Champion
+	12 East Ward Forgetender
+	6 East Ward Halberdier
+	6 Elaborate Firecannon
+	6 Elder Prophesier
+	2 Empyrean Griffin
+	12 Essence Scatter_DSS
+	2 Exotic Discovery
+	6 Expunge the Terrors
+	2 Fair Trial
+	6 Faithless Deserter
+	6 Fated Mariner
+	6 Fen Glutton
+	6 Fiery Cannonade
+	12 Fiery Temper
+	6 Fight Song
+	6 Find Greater Purpose
+	1 First General of the Wards
+	12 Flaming Point Technique
+	6 Flintlock Pistol
+	12 Fog at Sea
+	6 Forged Alliance
+	12 Forsaken Shores
+	2 Gale Mediator
+	2 Garth of the Chimera
+	6 Gaze of the Grave
+	12 Ghastly Scorpion
+	6 Ghost Sloop
+	1 Giradrus, Ashen Master
+	12 Glisterhorn
+	6 Good Night's Sleep
+	1 Gos, Knotweald Elder
+	2 Grasp of Hollows
+	6 Grave Wrangler
+	12 Greedy Rapscallions
+	12 Grievous Buccaneer
+	12 Griffling
+	12 Grisly Reaper
+	12 Grizzled Cutthroat
+	1 H.S.S. Demeter
+	2 Harbinger of Giradrus
+	2 Harriet of the Pioneer
+	2 Heinous Smuggler
+	12 Helicos Aberration
+	2 Helicos Gargantua
+	12 Helicos Octopus
+	12 Helmsman's Chart
+	2 High Sovereign Thura
+	2 Holcomb of the Peregrine
+	2 Hugo of the Shadowstaff
+	6 Idyllic Pegasus
+	12 Imperious Wurm
+	1 Inexorable Epidemic
+	12 Infernal Fury
+	12 Inspired Charge_DSS
+	2 Intrepid Captain
+	6 Ironclad Infantry
+	1 Isles Uncharted
+	6 Keelhaul
+	6 Keen Seafarer
+	6 Kelp Garden
+	2 Knotweald Ambassador
+	6 Knotweald Luminary
+	12 Knotweald Ranger
+	12 Knotweald Sapling
+	6 Knotweald Vanguard
+	12 Land Ho!
+	2 Last Passage
+	6 Lava Scutterer
+	12 Law Enforcement
+	6 Legion of Giradrus
+	2 Light the Fuse
+	6 Ligneous Enormity
+	12 Lofty Dreamship
+	6 Long Forgotten
+	1 Lord Ellison Crain
+	12 Lost Knowledge
+	2 Mable of the Sea's Whimsy
+	6 Malignant Rise
+	2 Marisa of the Gravehowl
+	12 Maritime Thug
+	2 Mark of Dark Opulence
+	12 Mark of Mutiny_DSS
+	12 Maroon
+	2 Master Negotiator
+	6 Mephitic Fumes
+	12 Merchant Galleon
+	6 Merciless Bandit
+	12 Murder_DSS
+	12 Nimble Caravel
+	12 North Ward Settler
+	12 Oaken Sentry
+	12 Old Salt
+	2 Opaline Drake
+	2 Orodu, the Onyx Wave
+	12 Osseous Augur
+	6 Pale Courier
+	6 Pathless Shallows
+	2 Pay the Right Price
+	2 Pelagic Hydra
+	6 Perennial Unrest
+	12 Perilous Treaty
+	12 Petty Dispute
+	2 Pick Up the Pieces
+	12 Pilfer
+	12 Pirate's Cutlass
+	2 Pirate's Hideout
+	12 Plucky Pickpocket
+	12 Plummet
+	12 Prowling Agamid
+	6 Pyre Apostle
+	12 Radiant Elegance
+	12 Rattled Bones
+	6 Raving Brigand
+	12 Recruits of the Demeter
+	6 Revivification
+	12 Revoke Privileges
+	12 Rising Terrain
+	2 Roll the Dice
+	6 Rootshaper
+	2 Ruinous Proselyte
+	12 Rum Guzzler
+	12 Run Through
+	12 Sail the Open Sea
+	2 Salty Swab
+	6 Salvage Wyvern
+	12 Sanitarium Skeleton_DSS
+	6 Scalawag Swagger
+	2 Searle of the Tempest
+	12 Seasoned Lookout
+	12 Seawise Swain
+	1 Seto San, the Dragonblade
+	12 Shipwrecked
+	6 Shoal Raker
+	12 Shrieking Nightwing
+	12 Shrill Griffin
+	12 Shrouded Spoils
+	6 Silent Hunt
+	12 Sink
+	12 Siren's Song
+	6 Skerry Serpent
+	12 Skulduggery
+	12 Skysail Rigger
+	12 Skyward Gaveller
+	6 Skywise Emissary
+	2 Slaughterkeg
+	2 Sleepless Vigil
+	6 Smoldering Husk
+	12 Solemn Cleaver
+	6 Song of the Sea
+	12 Staunch Constrictor
+	12 Strange Tides
+	6 Stygian Leviathan
+	12 Sudden Storm
+	6 Suitor of the Sea
+	2 Sun-Crowned Flagship
+	6 Swift Corsair
+	12 Swooping Razorbeak
+	2 Tabia of the Lionheart
+	1 Tamiyo, Lunar Arcanist
+	6 Tankard of Grog
+	6 Tender Warden
+	6 Thalassophobia
+	2 The Winged Steed
+	6 Thicket Mimicry
+	6 Three Seas Cartographer
+	12 Three Seas Squire
+	2 Trawl the Wreckage
+	6 Treasure Hauler
+	6 Twilight Privateer
+	1 Two-Faced Marauder
+	12 Ulcerous Hellion
+	12 Umbral Wolf
+	12 Unknown Shores_DSS
+	6 Unruly Cannoneer
+	12 Up in Arms
+	12 Vagabones
+	2 Valencia of the Concordant
+	6 Verdurous Herald
+	2 Visions of Oblivion
+	6 Vivid Griffin
+	1 Wakeborne Kraken
+	6 Watchful Navigator
+	12 West Ward Purifier
+[wildcard(1)]
+	6 Abandon Ship
+	15 Abyss Surger
+	6 Adept Fisherman
+	15 Admirable Admiral
+	7 Adoroth, the Baneful
+	6 Aerie Watch
+	15 Afflicted Legion
+	15 All That Glitters
+	6 All for One
+	7 Alvarez of the Huntsman
+	7 Another Day in Paradise
+	6 Arbiter of the Demeter
+	15 Armada Envoy
+	6 Armored Valiant
+	15 Autointerment
+	15 Battle Rallier
+	6 Black Spot
+	7 Blacksteel Loadout
+	4 Blighted Branch-Beast
+	15 Blood for Bones
+	6 Boarding Party
+	6 Bramble Armor
+	15 Breakneck Barque
+	6 Bridled Narwhal
+	7 Brig of the Damned
+	6 Broadside Raider
+	6 Brume Leviathan
+	6 Bushwhack
+	15 Calamitous Wave
+	6 Cannonblast
+	6 Canopy Stomper
+	15 Captain's Companion
+	15 Captain's Orders
+	4 Captain Darlene Filham
+	6 Cascade Drake
+	6 Chartered Fleet
+	7 Children of Gos
+	15 Civil Discourse
+	6 Claustrophobia
+	6 Cleansing Cleric
+	6 Coasting Shaledrake
+	6 Coralhide Wurm
+	15 Crackling Agama
+	6 Crain's Crew
+	4 Crain's Crony
+	15 Crazed Swashbuckler
+	4 Crewmaster Gillo
+	15 Crosswind Cutter
+	7 Crown of the Speaker
+	6 Cruising Schooner
+	15 Crypt Strider
+	7 Cryptozoologist
+	7 Culling Blade
+	6 Dapper Ragamuffin
+	15 Daybreak Wayfarers
+	15 Deathless Conscription
+	15 Deluge Gorger
+	6 Depth Lurker
+	15 Dissolve_DSS
+	6 Down with the Ship
+	7 Dragonlord's Shrine
+	7 Dreadbearer
+	7 Dusk Lieutenant
+	7 Dwarven War Hatchet
+	6 Eager Voyager
+	7 East Ward Champion
+	6 East Ward Forgetender
+	15 East Ward Halberdier
+	15 Elaborate Firecannon
+	15 Elder Prophesier
+	7 Empyrean Griffin
+	6 Essence Scatter_DSS
+	7 Exotic Discovery
+	15 Expunge the Terrors
+	7 Fair Trial
+	15 Faithless Deserter
+	15 Fated Mariner
+	15 Fen Glutton
+	15 Fiery Cannonade
+	6 Fiery Temper
+	15 Fight Song
+	15 Find Greater Purpose
+	4 First General of the Wards
+	6 Flaming Point Technique
+	15 Flintlock Pistol
+	6 Fog at Sea
+	15 Forged Alliance
+	6 Forsaken Shores
+	7 Gale Mediator
+	7 Garth of the Chimera
+	15 Gaze of the Grave
+	6 Ghastly Scorpion
+	15 Ghost Sloop
+	4 Giradrus, Ashen Master
+	6 Glisterhorn
+	15 Good Night's Sleep
+	4 Gos, Knotweald Elder
+	7 Grasp of Hollows
+	15 Grave Wrangler
+	6 Greedy Rapscallions
+	6 Grievous Buccaneer
+	6 Griffling
+	6 Grisly Reaper
+	6 Grizzled Cutthroat
+	4 H.S.S. Demeter
+	7 Harbinger of Giradrus
+	7 Harriet of the Pioneer
+	7 Heinous Smuggler
+	6 Helicos Aberration
+	7 Helicos Gargantua
+	6 Helicos Octopus
+	6 Helmsman's Chart
+	7 High Sovereign Thura
+	7 Holcomb of the Peregrine
+	7 Hugo of the Shadowstaff
+	15 Idyllic Pegasus
+	6 Imperious Wurm
+	4 Inexorable Epidemic
+	6 Infernal Fury
+	6 Inspired Charge_DSS
+	7 Intrepid Captain
+	15 Ironclad Infantry
+	4 Isles Uncharted
+	15 Keelhaul
+	15 Keen Seafarer
+	15 Kelp Garden
+	7 Knotweald Ambassador
+	15 Knotweald Luminary
+	6 Knotweald Ranger
+	6 Knotweald Sapling
+	15 Knotweald Vanguard
+	6 Land Ho!
+	7 Last Passage
+	15 Lava Scutterer
+	6 Law Enforcement
+	15 Legion of Giradrus
+	7 Light the Fuse
+	15 Ligneous Enormity
+	6 Lofty Dreamship
+	15 Long Forgotten
+	4 Lord Ellison Crain
+	6 Lost Knowledge
+	7 Mable of the Sea's Whimsy
+	15 Malignant Rise
+	7 Marisa of the Gravehowl
+	6 Maritime Thug
+	7 Mark of Dark Opulence
+	6 Mark of Mutiny_DSS
+	6 Maroon
+	7 Master Negotiator
+	15 Mephitic Fumes
+	6 Merchant Galleon
+	15 Merciless Bandit
+	6 Murder_DSS
+	6 Nimble Caravel
+	6 North Ward Settler
+	6 Oaken Sentry
+	6 Old Salt
+	7 Opaline Drake
+	7 Orodu, the Onyx Wave
+	6 Osseous Augur
+	15 Pale Courier
+	15 Pathless Shallows
+	7 Pay the Right Price
+	7 Pelagic Hydra
+	15 Perennial Unrest
+	6 Perilous Treaty
+	6 Petty Dispute
+	7 Pick Up the Pieces
+	6 Pilfer
+	6 Pirate's Cutlass
+	7 Pirate's Hideout
+	6 Plucky Pickpocket
+	6 Plummet
+	6 Prowling Agamid
+	15 Pyre Apostle
+	6 Radiant Elegance
+	6 Rattled Bones
+	15 Raving Brigand
+	6 Recruits of the Demeter
+	15 Revivification
+	6 Revoke Privileges
+	6 Rising Terrain
+	7 Roll the Dice
+	15 Rootshaper
+	7 Ruinous Proselyte
+	6 Rum Guzzler
+	6 Run Through
+	6 Sail the Open Sea
+	7 Salty Swab
+	15 Salvage Wyvern
+	6 Sanitarium Skeleton_DSS
+	15 Scalawag Swagger
+	7 Searle of the Tempest
+	6 Seasoned Lookout
+	6 Seawise Swain
+	4 Seto San, the Dragonblade
+	6 Shipwrecked
+	15 Shoal Raker
+	6 Shrieking Nightwing
+	6 Shrill Griffin
+	6 Shrouded Spoils
+	15 Silent Hunt
+	6 Sink
+	6 Siren's Song
+	15 Skerry Serpent
+	6 Skulduggery
+	6 Skysail Rigger
+	6 Skyward Gaveller
+	15 Skywise Emissary
+	7 Slaughterkeg
+	7 Sleepless Vigil
+	15 Smoldering Husk
+	6 Solemn Cleaver
+	15 Song of the Sea
+	6 Staunch Constrictor
+	6 Strange Tides
+	15 Stygian Leviathan
+	6 Sudden Storm
+	15 Suitor of the Sea
+	7 Sun-Crowned Flagship
+	15 Swift Corsair
+	6 Swooping Razorbeak
+	7 Tabia of the Lionheart
+	4 Tamiyo, Lunar Arcanist
+	15 Tankard of Grog
+	15 Tender Warden
+	15 Thalassophobia
+	7 The Winged Steed
+	15 Thicket Mimicry
+	15 Three Seas Cartographer
+	6 Three Seas Squire
+	7 Trawl the Wreckage
+	15 Treasure Hauler
+	15 Twilight Privateer
+	4 Two-Faced Marauder
+	6 Ulcerous Hellion
+	6 Umbral Wolf
+	6 Unknown Shores_DSS
+	15 Unruly Cannoneer
+	6 Up in Arms
+	6 Vagabones
+	7 Valencia of the Concordant
+	15 Verdurous Herald
+	7 Visions of Oblivion
+	15 Vivid Griffin
+	4 Wakeborne Kraken
+	15 Watchful Navigator
+	6 West Ward Purifier

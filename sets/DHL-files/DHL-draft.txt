@@ -1,0 +1,1790 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Aelani, Mother of All",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Aid of the Ancients",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Alpine Meadow_DHL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Amelie Mayn",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — Mayn",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Ancient Counsel",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Ancient Gift",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Angelfire",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Arcanist's Spellsurge",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Armadillo Cloak",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Aryam the Dreamer",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Aurora's Whisper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Battle-Blind Leonin",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Cat Berserker",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Beckon the Shadows",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Binding Stones",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Bittersweet Reunion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Blinded Avenger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Angel Berserker",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Breach the Mind",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Brutal Champion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Cat Berserker",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Carven Guardian",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Children of the Clouds",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Cloud Sovereign",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Conjured Shade",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Demon",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Consuming Knowledge",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Crimson Sunrise",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Dark Huntress",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Desiccate",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Diabolic Designs",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Divine in Blood",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Dryad Outrider",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dryad Scout",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Dryad of the Grove",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Dust Barrens",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Elvish Songseeker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Elvish Verseblade",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Emissary of Smoke",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Exultation of Might",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Beast Spirit",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Fade Into Mists",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Ferocity of the Redeemed",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Fidelity of the Pure",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Fiery Chasm_DHL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Frilled Hydra",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Gift to the Gloam",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Gloaming Smokeweaver",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Glorybound Chorister",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{G}",
+			"type": "Creature — Elf Warrior Bard",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Golden Glade",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Granite Watchers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Great Sable Stag",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Grieving Revenant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Angel Berserker",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Grove's Respite",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Hallowed Executioner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Angel Berserker",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Hallowed Fragment",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Heart's Desire",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Heartless Pact",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Hesediel, the Reborn",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Elk Spirit",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Hexfang Ascetic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Highland Elk",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Highland Vale_DHL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Hushwing Sentinel",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Hymn of Fury",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Indomitable Bear",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bear",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Invoking the Name",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Jejun, Dark Hunter",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Joyous Chromatelk_DHL",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Elk",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Lavamancer Adept",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Leija, the Bloodied Queen",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Elf Warrior",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Leija's Greenblade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Ligos, Shadow's Source",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Long-Finned Skywhale",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Magmatic Cache",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Meteoric Smith",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Cat Berserker",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Migration Range",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Mind-Mute",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Moonlit Pursuit",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Oaken Spearman",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Warrior",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Onyx Ritualist",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Persistent Fiend",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Pyresong Aspirant",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Pyresong Ranger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Scout Ranger",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Rain Zai, Spiritscale_DHL",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Legendary Planeswalker — Rain",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Read the Clouds",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Reaping Mask",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Rebellious Streak",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Reckless Rage",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Remembrance of Light",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Remnants of Divinity",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Rend",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Resolution of Stone",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Rimebreath Tyrant",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Rite of the Dark Harvest",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Ritual of Coalescence",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Rius, Temple of the Grandfather",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Sage of the Aurora",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Cat Spirit",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Scion of Fecundity",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Selene the Cruel",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Shattered Valkyrie",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Angel Berserker",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Silent Griffin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Griffin",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Silent Musing",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Singers' Grove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Sleeping Dryads",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Smoke's Whispers",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Smokeweaver Initiate",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Snowline Ascetic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Sodden Cavern_DHL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Soulcarver",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Spotless Mind",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Stag of the Moon",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elk",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Stalker in the Underbrush",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Demon",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Streamlash",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Strength of the Patient",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Surestrike Elite",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Tea of Augury",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "The Aurora's Heart",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "The Court of Angels",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "The Tree of Wisdom",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Legendary Creature — Plant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Toros the Warchief",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Cat Berserker",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Tranquil Moment",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Tranquil Stream_DHL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Twilight Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Twisted Archangel",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}{R}",
+			"type": "Creature — Angel Berserker",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Unbowed Hart",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Unproven Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Upon the Altar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Vanquisher's Banner",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Verdant Cloak",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Verse of Fire",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Vindictive Regent",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Vitality of Blossoms",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Volcanic Pounce",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Waking Mists",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Warband Commander",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cat Berserker",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Warband Lieutenant",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Cat Berserker",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Wastewolf",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Wealth of the Underbrush",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Wild Skycub",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Cat Spirit",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Windwise Courier",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Rabbit Griffin",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Windwise Mentor",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cat Spirit",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Written in the Stars",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Young Hieromancer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DHL-files/img/19.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Aelani, Mother of All
+	2 Aid of the Ancients
+	1 Amelie Mayn
+	1 Aryam the Dreamer
+	2 Children of the Clouds
+	2 Cloud Sovereign
+	1 Crimson Sunrise
+	2 Desiccate
+	2 Glorybound Chorister
+	2 Great Sable Stag
+	2 Heart's Desire
+	1 Hesediel, the Reborn
+	1 Invoking the Name
+	2 Jejun, Dark Hunter
+	2 Joyous Chromatelk_DHL
+	2 Leija, the Bloodied Queen
+	2 Ligos, Shadow's Source
+	2 Mind-Mute
+	2 Onyx Ritualist
+	1 Rain Zai, Spiritscale_DHL
+	2 Rius, Temple of the Grandfather
+	2 Scion of Fecundity
+	2 Selene the Cruel
+	2 Singers' Grove
+	1 Smoke's Whispers
+	2 Soulcarver
+	2 Spotless Mind
+	2 Stag of the Moon
+	2 Tea of Augury
+	2 The Aurora's Heart
+	2 The Court of Angels
+	1 The Tree of Wisdom
+	2 Toros the Warchief
+	2 Tranquil Moment
+	2 Twisted Archangel
+	2 Unbowed Hart
+	2 Vanquisher's Banner
+[uncommon(3)]
+	4 Angelfire
+	4 Arcanist's Spellsurge
+	4 Armadillo Cloak
+	4 Aurora's Whisper
+	4 Bittersweet Reunion
+	4 Blinded Avenger
+	4 Breach the Mind
+	4 Divine in Blood
+	4 Dust Barrens
+	4 Ferocity of the Redeemed
+	4 Frilled Hydra
+	4 Gift to the Gloam
+	4 Golden Glade
+	4 Granite Watchers
+	4 Grieving Revenant
+	4 Hallowed Executioner
+	4 Hexfang Ascetic
+	4 Hymn of Fury
+	4 Indomitable Bear
+	4 Lavamancer Adept
+	4 Leija's Greenblade
+	4 Long-Finned Skywhale
+	4 Migration Range
+	4 Pyresong Aspirant
+	4 Reckless Rage
+	4 Remembrance of Light
+	4 Rend
+	4 Rimebreath Tyrant
+	4 Ritual of Coalescence
+	4 Shattered Valkyrie
+	4 Silent Griffin
+	4 Silent Musing
+	4 Snowline Ascetic
+	4 Twilight Blade
+	4 Unproven Champion
+	4 Upon the Altar
+	4 Verdant Cloak
+	4 Vindictive Regent
+	4 Vitality of Blossoms
+	4 Wealth of the Underbrush
+	4 Written in the Stars
+[common(7)]
+	8 Alpine Meadow_DHL
+	8 Ancient Counsel
+	8 Ancient Gift
+	8 Battle-Blind Leonin
+	8 Beckon the Shadows
+	8 Binding Stones
+	8 Brutal Champion
+	8 Carven Guardian
+	8 Conjured Shade
+	8 Consuming Knowledge
+	8 Dark Huntress
+	8 Diabolic Designs
+	8 Dryad Outrider
+	8 Dryad of the Grove
+	8 Elvish Songseeker
+	8 Elvish Verseblade
+	8 Emissary of Smoke
+	8 Exultation of Might
+	8 Fade Into Mists
+	8 Fidelity of the Pure
+	8 Fiery Chasm_DHL
+	8 Gloaming Smokeweaver
+	8 Grove's Respite
+	8 Hallowed Fragment
+	8 Heartless Pact
+	8 Highland Elk
+	8 Highland Vale_DHL
+	8 Hushwing Sentinel
+	8 Magmatic Cache
+	8 Meteoric Smith
+	8 Moonlit Pursuit
+	8 Oaken Spearman
+	8 Persistent Fiend
+	8 Pyresong Ranger
+	8 Read the Clouds
+	8 Reaping Mask
+	8 Rebellious Streak
+	8 Remnants of Divinity
+	8 Resolution of Stone
+	8 Rite of the Dark Harvest
+	8 Sage of the Aurora
+	8 Sleeping Dryads
+	8 Smokeweaver Initiate
+	8 Sodden Cavern_DHL
+	8 Stalker in the Underbrush
+	8 Streamlash
+	8 Strength of the Patient
+	8 Surestrike Elite
+	8 Tranquil Stream_DHL
+	8 Verse of Fire
+	8 Volcanic Pounce
+	8 Waking Mists
+	8 Warband Commander
+	8 Warband Lieutenant
+	8 Wastewolf
+	8 Wild Skycub
+	8 Windwise Courier
+	8 Windwise Mentor
+	8 Young Hieromancer
+[foil(1)]
+	1 Aelani, Mother of All
+	2 Aid of the Ancients
+	12 Alpine Meadow_DHL
+	1 Amelie Mayn
+	12 Ancient Counsel
+	12 Ancient Gift
+	6 Angelfire
+	6 Arcanist's Spellsurge
+	6 Armadillo Cloak
+	1 Aryam the Dreamer
+	6 Aurora's Whisper
+	12 Battle-Blind Leonin
+	12 Beckon the Shadows
+	12 Binding Stones
+	6 Bittersweet Reunion
+	6 Blinded Avenger
+	6 Breach the Mind
+	12 Brutal Champion
+	12 Carven Guardian
+	2 Children of the Clouds
+	2 Cloud Sovereign
+	12 Conjured Shade
+	12 Consuming Knowledge
+	1 Crimson Sunrise
+	12 Dark Huntress
+	2 Desiccate
+	12 Diabolic Designs
+	6 Divine in Blood
+	12 Dryad Outrider
+	12 Dryad of the Grove
+	6 Dust Barrens
+	12 Elvish Songseeker
+	12 Elvish Verseblade
+	12 Emissary of Smoke
+	12 Exultation of Might
+	12 Fade Into Mists
+	6 Ferocity of the Redeemed
+	12 Fidelity of the Pure
+	12 Fiery Chasm_DHL
+	6 Frilled Hydra
+	6 Gift to the Gloam
+	12 Gloaming Smokeweaver
+	2 Glorybound Chorister
+	6 Golden Glade
+	6 Granite Watchers
+	2 Great Sable Stag
+	6 Grieving Revenant
+	12 Grove's Respite
+	6 Hallowed Executioner
+	12 Hallowed Fragment
+	2 Heart's Desire
+	12 Heartless Pact
+	1 Hesediel, the Reborn
+	6 Hexfang Ascetic
+	12 Highland Elk
+	12 Highland Vale_DHL
+	12 Hushwing Sentinel
+	6 Hymn of Fury
+	6 Indomitable Bear
+	1 Invoking the Name
+	2 Jejun, Dark Hunter
+	2 Joyous Chromatelk_DHL
+	6 Lavamancer Adept
+	2 Leija, the Bloodied Queen
+	6 Leija's Greenblade
+	2 Ligos, Shadow's Source
+	6 Long-Finned Skywhale
+	12 Magmatic Cache
+	12 Meteoric Smith
+	6 Migration Range
+	2 Mind-Mute
+	12 Moonlit Pursuit
+	12 Oaken Spearman
+	2 Onyx Ritualist
+	12 Persistent Fiend
+	6 Pyresong Aspirant
+	12 Pyresong Ranger
+	1 Rain Zai, Spiritscale_DHL
+	12 Read the Clouds
+	12 Reaping Mask
+	12 Rebellious Streak
+	6 Reckless Rage
+	6 Remembrance of Light
+	12 Remnants of Divinity
+	6 Rend
+	12 Resolution of Stone
+	6 Rimebreath Tyrant
+	12 Rite of the Dark Harvest
+	6 Ritual of Coalescence
+	2 Rius, Temple of the Grandfather
+	12 Sage of the Aurora
+	2 Scion of Fecundity
+	2 Selene the Cruel
+	6 Shattered Valkyrie
+	6 Silent Griffin
+	6 Silent Musing
+	2 Singers' Grove
+	12 Sleeping Dryads
+	1 Smoke's Whispers
+	12 Smokeweaver Initiate
+	6 Snowline Ascetic
+	12 Sodden Cavern_DHL
+	2 Soulcarver
+	2 Spotless Mind
+	2 Stag of the Moon
+	12 Stalker in the Underbrush
+	12 Streamlash
+	12 Strength of the Patient
+	12 Surestrike Elite
+	2 Tea of Augury
+	2 The Aurora's Heart
+	2 The Court of Angels
+	1 The Tree of Wisdom
+	2 Toros the Warchief
+	2 Tranquil Moment
+	12 Tranquil Stream_DHL
+	6 Twilight Blade
+	2 Twisted Archangel
+	2 Unbowed Hart
+	6 Unproven Champion
+	6 Upon the Altar
+	2 Vanquisher's Banner
+	6 Verdant Cloak
+	12 Verse of Fire
+	6 Vindictive Regent
+	6 Vitality of Blossoms
+	12 Volcanic Pounce
+	12 Waking Mists
+	12 Warband Commander
+	12 Warband Lieutenant
+	12 Wastewolf
+	6 Wealth of the Underbrush
+	12 Wild Skycub
+	12 Windwise Courier
+	12 Windwise Mentor
+	6 Written in the Stars
+	12 Young Hieromancer
+[wildcard(1)]
+	4 Aelani, Mother of All
+	7 Aid of the Ancients
+	6 Alpine Meadow_DHL
+	4 Amelie Mayn
+	6 Ancient Counsel
+	6 Ancient Gift
+	15 Angelfire
+	15 Arcanist's Spellsurge
+	15 Armadillo Cloak
+	4 Aryam the Dreamer
+	15 Aurora's Whisper
+	6 Battle-Blind Leonin
+	6 Beckon the Shadows
+	6 Binding Stones
+	15 Bittersweet Reunion
+	15 Blinded Avenger
+	15 Breach the Mind
+	6 Brutal Champion
+	6 Carven Guardian
+	7 Children of the Clouds
+	7 Cloud Sovereign
+	6 Conjured Shade
+	6 Consuming Knowledge
+	4 Crimson Sunrise
+	6 Dark Huntress
+	7 Desiccate
+	6 Diabolic Designs
+	15 Divine in Blood
+	6 Dryad Outrider
+	6 Dryad of the Grove
+	15 Dust Barrens
+	6 Elvish Songseeker
+	6 Elvish Verseblade
+	6 Emissary of Smoke
+	6 Exultation of Might
+	6 Fade Into Mists
+	15 Ferocity of the Redeemed
+	6 Fidelity of the Pure
+	6 Fiery Chasm_DHL
+	15 Frilled Hydra
+	15 Gift to the Gloam
+	6 Gloaming Smokeweaver
+	7 Glorybound Chorister
+	15 Golden Glade
+	15 Granite Watchers
+	7 Great Sable Stag
+	15 Grieving Revenant
+	6 Grove's Respite
+	15 Hallowed Executioner
+	6 Hallowed Fragment
+	7 Heart's Desire
+	6 Heartless Pact
+	4 Hesediel, the Reborn
+	15 Hexfang Ascetic
+	6 Highland Elk
+	6 Highland Vale_DHL
+	6 Hushwing Sentinel
+	15 Hymn of Fury
+	15 Indomitable Bear
+	4 Invoking the Name
+	7 Jejun, Dark Hunter
+	7 Joyous Chromatelk_DHL
+	15 Lavamancer Adept
+	7 Leija, the Bloodied Queen
+	15 Leija's Greenblade
+	7 Ligos, Shadow's Source
+	15 Long-Finned Skywhale
+	6 Magmatic Cache
+	6 Meteoric Smith
+	15 Migration Range
+	7 Mind-Mute
+	6 Moonlit Pursuit
+	6 Oaken Spearman
+	7 Onyx Ritualist
+	6 Persistent Fiend
+	15 Pyresong Aspirant
+	6 Pyresong Ranger
+	4 Rain Zai, Spiritscale_DHL
+	6 Read the Clouds
+	6 Reaping Mask
+	6 Rebellious Streak
+	15 Reckless Rage
+	15 Remembrance of Light
+	6 Remnants of Divinity
+	15 Rend
+	6 Resolution of Stone
+	15 Rimebreath Tyrant
+	6 Rite of the Dark Harvest
+	15 Ritual of Coalescence
+	7 Rius, Temple of the Grandfather
+	6 Sage of the Aurora
+	7 Scion of Fecundity
+	7 Selene the Cruel
+	15 Shattered Valkyrie
+	15 Silent Griffin
+	15 Silent Musing
+	7 Singers' Grove
+	6 Sleeping Dryads
+	4 Smoke's Whispers
+	6 Smokeweaver Initiate
+	15 Snowline Ascetic
+	6 Sodden Cavern_DHL
+	7 Soulcarver
+	7 Spotless Mind
+	7 Stag of the Moon
+	6 Stalker in the Underbrush
+	6 Streamlash
+	6 Strength of the Patient
+	6 Surestrike Elite
+	7 Tea of Augury
+	7 The Aurora's Heart
+	7 The Court of Angels
+	4 The Tree of Wisdom
+	7 Toros the Warchief
+	7 Tranquil Moment
+	6 Tranquil Stream_DHL
+	15 Twilight Blade
+	7 Twisted Archangel
+	7 Unbowed Hart
+	15 Unproven Champion
+	15 Upon the Altar
+	7 Vanquisher's Banner
+	15 Verdant Cloak
+	6 Verse of Fire
+	15 Vindictive Regent
+	15 Vitality of Blossoms
+	6 Volcanic Pounce
+	6 Waking Mists
+	6 Warband Commander
+	6 Warband Lieutenant
+	6 Wastewolf
+	15 Wealth of the Underbrush
+	6 Wild Skycub
+	6 Windwise Courier
+	6 Windwise Mentor
+	15 Written in the Stars
+	6 Young Hieromancer

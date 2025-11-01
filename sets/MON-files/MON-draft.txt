@@ -1,0 +1,3871 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "A Journey Begins",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Ace Trainer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Acro Bat",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bat",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Adrenaline",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Aeroblast",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Aggressive Instinct",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Amulet Coin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Aspiring Trainer",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Attract",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Barbed Beast // Barbed Bruiser",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "162",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/162a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/162a_front.jpg"
+			}
+		},
+		{
+			"name": "Barbed Beast // Barbed Bruiser",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "162",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/162a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/162a_front.jpg"
+			}
+		},
+		{
+			"name": "Barnacle Crawler",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Barrier",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Bee Hive",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Bessie",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Bessie",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Bird Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Bridled Growth",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Brighteyed Trainer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Brutality",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Budding Companion // Flourishing Companion",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "167",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/167a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/167a_front.jpg"
+			}
+		},
+		{
+			"name": "Budding Companion // Flourishing Companion",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "167",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/167a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/167a_front.jpg"
+			}
+		},
+		{
+			"name": "Bug Catcher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Call Back",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Canopy Darter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Monkey",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Cattle Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Ox",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Caustic Caterpillar",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Cavern Carver",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elemental Wurm",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Cheerful Generator // Combined Generator",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "227",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/227a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/227a_front.jpg"
+			}
+		},
+		{
+			"name": "Cheerful Generator // Combined Generator",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "227",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/227a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/227a_front.jpg"
+			}
+		},
+		{
+			"name": "Chikyu Champion",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}{W}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Chikyu League Arena",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Citadel Bagworm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Compulsive Patrol",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Confusion",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Cruel Fledgling",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Crusher Beetle",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Curious Cubs // Mauling Mother",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bear",
+			"collector_number": "7",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/7a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/7a_front.jpg"
+			}
+		},
+		{
+			"name": "Curious Cubs // Mauling Mother",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bear",
+			"collector_number": "7",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/7a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/7a_front.jpg"
+			}
+		},
+		{
+			"name": "Curious Fossil // Arisen Helix",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "228",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/228a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/228a_front.jpg"
+			}
+		},
+		{
+			"name": "Curious Fossil // Arisen Helix",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "228",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/228a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/228a_front.jpg"
+			}
+		},
+		{
+			"name": "Depth Charger",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Oyster",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Determined Koi // Destructive Serpent",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "47",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/47a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/47a_front.jpg"
+			}
+		},
+		{
+			"name": "Determined Koi // Destructive Serpent",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "47",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/47a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/47a_front.jpg"
+			}
+		},
+		{
+			"name": "Dreamnapper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Tapir",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Driven Mad",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Duplicate",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Eager Hatchling // Realized Hatchling",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Egg Beast",
+			"collector_number": "9",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/9a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/9a_front.jpg"
+			}
+		},
+		{
+			"name": "Eager Hatchling // Realized Hatchling",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Egg Beast",
+			"collector_number": "9",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/9a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/9a_front.jpg"
+			}
+		},
+		{
+			"name": "Eerie Cocoons",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Egg Bomb",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Elemental of Surprise",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Beast",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Ema, the Traveler",
+			"rarity": "special",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Emonoru, Ema's Wings",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "End of Monsters",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Legendary Creature — Beast Mutant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Enduring Charge",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Epic Encounter",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Essence Scatter_MON",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Ether",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Event Horizon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Ever-Gnawing Rat",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Rat",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Evolving Wilds_MON",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Experienced Team",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Expert Belt",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Extremespeed",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Familiar's Ruse",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Farewell",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Fierce Lunge",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Firemane Fox",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Fox",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Fishing Trip",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Flame-Tailed Lizard // Flame-Tested Dragon",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "128",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/128a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/128a_front.jpg"
+			}
+		},
+		{
+			"name": "Flame-Tailed Lizard // Flame-Tested Dragon",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "128",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/128a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/128a_front.jpg"
+			}
+		},
+		{
+			"name": "Flamethrower",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Flying Scorpion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Scorpion Bat",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Focus Energy",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Focus Sash",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Fogspewer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Forage",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Forest_MON",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Temple",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Fresh Carrion",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "From Beyond the Grave",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "From a Seed",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Full Belly",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Fury Swipes_MON",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Galloping Blaze",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Horse",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Garden Guardian",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Gene Pool",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Ghastly Spirit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Ghastly Tether",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Grinding",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Gruff Clutch",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Egg",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Gym Leader",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Healing Center",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Heartless Trainer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Hellhound Alpha",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Dog",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Hex Maniac",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Hidden Sprout",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Hopeful Caretaker // Mending Caretaker",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "14",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/14a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/14a_front.jpg"
+			}
+		},
+		{
+			"name": "Hopeful Caretaker // Mending Caretaker",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "14",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/14a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/14a_front.jpg"
+			}
+		},
+		{
+			"name": "Hyper Beam",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Hypnosis",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "I Choose You",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Ice Path",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Improvised Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Innocence",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Island_MON",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Karina's Training",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Lake of Rage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Lakeside Trickster",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Salamander",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Lava Plume",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Lavatrailer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Snail",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Leech Seed",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Loyal Firestarter",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Weasel",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Lucien, the Ravenous",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Planeswalker — Lucien",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Lucien's Trail",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Lucky Egg",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Luna, the Lost",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Fox",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Lunar Vigil",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Magma Crawler",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Magnitude",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Maple's Journal",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Marine Monster",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Beast",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Masaru, Aspiring Champion",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Maternal Monster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Maven of Fear",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Metal Coat",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Metronome",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Mighty Beetle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Monstrous Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Moon-Rune Fox",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Fox",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Moonlight",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Morning Sun",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Mountain_MON",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Mountain Runt // Mountain Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "142",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/142a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/142a_front.jpg"
+			}
+		},
+		{
+			"name": "Mountain Runt // Mountain Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "142",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/142a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/142a_front.jpg"
+			}
+		},
+		{
+			"name": "Mournful Newborn // Tempered Survivor",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "143",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/143a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/143a_front.jpg"
+			}
+		},
+		{
+			"name": "Mournful Newborn // Tempered Survivor",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "143",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/143a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/143a_front.jpg"
+			}
+		},
+		{
+			"name": "Muggy Mire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Natural Cure",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Night Shade",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Nirami, Ema's Keeper",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Nocturnal Watcher",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Nurse Trainee",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Old Map",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Ominous Wind",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "One on One",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Onigori, Ema's Shield",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Overheat",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Paleontologist",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Ranger Wizard",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Palm Walker",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Paralycker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Patient Cocoon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Perish Song",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Petal Dancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Pitfall Pangolin",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Pangolin",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Plains_MON",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Poised Koi",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Poison Point",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Power Plant",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Power of Love",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Practice Range",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Prepare for Trouble",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Preying Mantis",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Professor Maple",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Psychic Assault",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Psywave",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Quakestep Behemoth",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Creature — Rhino",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Queen of the Hive",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Quick Claw",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Quiet Retreat",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Rallywing",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Rapid Rodent",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Mouse",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Rest",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Revitalize",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Revived Pterosaur",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Dinosaur Skeleton",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Roaring Illusion",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Cat",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Rocket Admin",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Rocket Poacher",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Ruined Lab",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Ruined Shrine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Run Away",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Rustshell Mantis",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Ruthless Brawler",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Ape",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Safe from Harm",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Sanaito, Alone",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Planeswalker — Sanaito",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Sanaito's Blessing",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Sandslinger",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Scary Face",
+			"rarity": "common",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Scuttling Gnat // Vicious Metamorph",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Insect",
+			"collector_number": "61",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/61a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/61a_front.jpg"
+			}
+		},
+		{
+			"name": "Scuttling Gnat // Vicious Metamorph",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Insect",
+			"collector_number": "61",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/61a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/61a_front.jpg"
+			}
+		},
+		{
+			"name": "Seal of Approval",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Seal",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Secret Stash",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Shadow Ball",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Shadow Sneak",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Sharp-Eyed Wingmate",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Shocking Ewe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Sheep",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Shrouded Sanctuary_MON",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Silent Hypnotist",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Tapir Wizard",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Skill Link",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Skill Sketcher",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Dog",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Slashing Pangolin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Pangolin",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Slashing Sneak",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Weasel",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Slinking Sentinel",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Ferret",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Sludge-Gill Fox",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Fox Fish",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Sludge Drudger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Salamander",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Slumbering Bear",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bear Beast",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Smokescreen",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Snatch",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Spikehorn Behemoth",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Rhino Elemental",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Sporecaster",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Fungus Insect",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Sporecrowned Scavenger",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Fungus Insect",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Spotted Slugger",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Sprout Tender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Plant",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Starlight Emissary",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Beast",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Steelfeather Shrike",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Still Waters",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Stingsower",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Strategic Planning",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Sucker Punch",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Sun-Eyed Fox",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Fox",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Sunset Herald",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Swamp_MON",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Swords Dance",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Tangle Up",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Tangling Vines",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Telekinecktic",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Giraffe",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Temporal Aria",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "The Rocket Gang Strikes!",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Thundering Charger",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elephant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Thundermane Fox",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Tidepool Turtle // Tsunami Titan",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "70",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/70a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/70a_front.jpg"
+			}
+		},
+		{
+			"name": "Tidepool Turtle // Tsunami Titan",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "70",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/70a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/70a_front.jpg"
+			}
+		},
+		{
+			"name": "Tidesweeper Gharial",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Crocodile",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Time Stands Still",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Titanic Fossil // Arisen Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/237a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/237a_front.jpg"
+			}
+		},
+		{
+			"name": "Titanic Fossil // Arisen Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/237a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/237a_front.jpg"
+			}
+		},
+		{
+			"name": "Toxic Larva",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Trainee Karina Oblay",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Planeswalker — Karina",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Trainer's Eyes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Treasure Beach",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Truffle Snuffer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Boar",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Tunnel Moles",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Mole",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Twinning Psionic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Twister of Shadows",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Tyrant of Tributes",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Unburdened",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Undecided Mimic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Ooze Shapeshifter",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Unknown Shores_MON",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Unstoppable Weed",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Veil of Flames",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Victory Road",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Viper Ambush",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Volt Vermin",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elemental Mouse",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Waking Pollution",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Ooze",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Wandering Dragonfly",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Wandering Hamlet",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Warden of Lives",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Phoenix Avatar",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Warden of Seas",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Legendary Creature — Bird Avatar",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Warden of Time",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Faerie Avatar",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Warning Birds",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Weedy Wanderer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Whirling Winds",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Whirlpool Ride",
+			"rarity": "rare",
+			"mana_cost": "{8}{U}{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Wicked Fossil // Arisen Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/238a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/238a_front.jpg"
+			}
+		},
+		{
+			"name": "Wicked Fossil // Arisen Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/238a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/238a_front.jpg"
+			}
+		},
+		{
+			"name": "Wild Encounter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Winding Snake // Mother Snake",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "199",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/199a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/199a_front.jpg"
+			}
+		},
+		{
+			"name": "Winding Snake // Mother Snake",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "199",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/199a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/199a_front.jpg"
+			}
+		},
+		{
+			"name": "Wings of Trust",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Wishing Star",
+			"rarity": "common",
+			"mana_cost": "{X}{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Wistful Fox",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Fox",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Wondering Oaf",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Beast",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Work Up",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Working Together",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Worried Vulpine // Worthy Vulpine",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Fox",
+			"collector_number": "159",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/159a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/159a_front.jpg"
+			}
+		},
+		{
+			"name": "Worried Vulpine // Worthy Vulpine",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Fox",
+			"collector_number": "159",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MON-files/img/159a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/159a_front.jpg"
+			}
+		},
+		{
+			"name": "Wraith of the Fens",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Zankon, Ema's Claws",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Mongoose",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Zipping Zapper",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Mouse",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Gym Leader_PRO_MON",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Shadow Sneak_PRO_MON",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Wild Encounter_PRO_MON",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MON-files/img/255.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Bee Hive
+	2 Bessie
+	2 Brighteyed Trainer
+	2 Brutality
+	2 Budding Companion // Flourishing Companion
+	2 Budding Companion // Flourishing Companion
+	2 Chikyu Champion
+	2 Depth Charger
+	2 Duplicate
+	2 Egg Bomb
+	2 Elemental of Surprise
+	2 Emonoru, Ema's Wings
+	2 End of Monsters
+	2 Epic Encounter
+	2 Ever-Gnawing Rat
+	2 Flame-Tailed Lizard // Flame-Tested Dragon
+	2 Flame-Tailed Lizard // Flame-Tested Dragon
+	2 Fogspewer
+	2 Forgotten Temple
+	2 From a Seed
+	2 Gym Leader
+	2 Heartless Trainer
+	2 Hopeful Caretaker // Mending Caretaker
+	2 Hopeful Caretaker // Mending Caretaker
+	2 I Choose You
+	2 Karina's Training
+	2 Lava Plume
+	2 Loyal Firestarter
+	2 Lucien, the Ravenous
+	2 Lucien's Trail
+	2 Lucky Egg
+	2 Luna, the Lost
+	2 Lunar Vigil
+	2 Magnitude
+	2 Maple's Journal
+	2 Masaru, Aspiring Champion
+	2 Metronome
+	2 Moonlight
+	2 Mountain Runt // Mountain Tyrant
+	2 Mountain Runt // Mountain Tyrant
+	2 Night Shade
+	2 Nirami, Ema's Keeper
+	2 Onigori, Ema's Shield
+	2 Paleontologist
+	2 Perish Song
+	2 Power of Love
+	2 Professor Maple
+	2 Quakestep Behemoth
+	2 Queen of the Hive
+	2 Roaring Illusion
+	2 Rocket Admin
+	2 Rocket Poacher
+	2 Ruined Lab
+	2 Rustshell Mantis
+	2 Sanaito, Alone
+	2 Silent Hypnotist
+	2 Skill Sketcher
+	2 Slumbering Bear
+	2 Steelfeather Shrike
+	2 Sunset Herald
+	2 Temporal Aria
+	2 The Rocket Gang Strikes!
+	2 Tidepool Turtle // Tsunami Titan
+	2 Tidepool Turtle // Tsunami Titan
+	2 Time Stands Still
+	2 Titanic Fossil // Arisen Tyrant
+	2 Titanic Fossil // Arisen Tyrant
+	2 Trainee Karina Oblay
+	2 Twister of Shadows
+	2 Tyrant of Tributes
+	2 Warden of Lives
+	2 Warden of Seas
+	2 Warden of Time
+	2 Whirlpool Ride
+	2 Working Together
+	2 Zankon, Ema's Claws
+[uncommon(3)]
+	4 Ace Trainer
+	4 Acro Bat
+	4 Adrenaline
+	4 Aggressive Instinct
+	4 Amulet Coin
+	4 Barbed Beast // Barbed Bruiser
+	4 Barbed Beast // Barbed Bruiser
+	4 Bird Keeper
+	4 Bug Catcher
+	4 Call Back
+	4 Canopy Darter
+	4 Cattle Guard
+	4 Citadel Bagworm
+	4 Compulsive Patrol
+	4 Curious Cubs // Mauling Mother
+	4 Curious Cubs // Mauling Mother
+	4 Determined Koi // Destructive Serpent
+	4 Determined Koi // Destructive Serpent
+	4 Dreamnapper
+	4 Event Horizon
+	4 Experienced Team
+	4 Expert Belt
+	4 Extremespeed
+	4 Familiar's Ruse
+	4 Farewell
+	4 Firemane Fox
+	4 Flying Scorpion
+	4 From Beyond the Grave
+	4 Full Belly
+	4 Gene Pool
+	4 Ghastly Spirit
+	4 Gruff Clutch
+	4 Hellhound Alpha
+	4 Hyper Beam
+	4 Ice Path
+	4 Innocence
+	4 Lake of Rage
+	4 Lavatrailer
+	4 Leech Seed
+	4 Maternal Monster
+	4 Mighty Beetle
+	4 Monstrous Champion
+	4 Moon-Rune Fox
+	4 Morning Sun
+	4 Ominous Wind
+	4 One on One
+	4 Overheat
+	4 Palm Walker
+	4 Paralycker
+	4 Patient Cocoon
+	4 Petal Dancer
+	4 Power Plant
+	4 Preying Mantis
+	4 Psychic Assault
+	4 Revived Pterosaur
+	4 Scuttling Gnat // Vicious Metamorph
+	4 Scuttling Gnat // Vicious Metamorph
+	4 Seal of Approval
+	4 Secret Stash
+	4 Shadow Sneak
+	4 Shocking Ewe
+	4 Shrouded Sanctuary_MON
+	4 Skill Link
+	4 Slashing Pangolin
+	4 Sludge-Gill Fox
+	4 Sludge Drudger
+	4 Spotted Slugger
+	4 Sprout Tender
+	4 Starlight Emissary
+	4 Stingsower
+	4 Sun-Eyed Fox
+	4 Thundermane Fox
+	4 Tidesweeper Gharial
+	4 Trainer's Eyes
+	4 Truffle Snuffer
+	4 Tunnel Moles
+	4 Twinning Psionic
+	4 Undecided Mimic
+	4 Unstoppable Weed
+	4 Victory Road
+	4 Viper Ambush
+	4 Volt Vermin
+	4 Waking Pollution
+	4 Wicked Fossil // Arisen Hunter
+	4 Wicked Fossil // Arisen Hunter
+	4 Wild Encounter
+	4 Wings of Trust
+	4 Wistful Fox
+	4 Worried Vulpine // Worthy Vulpine
+	4 Worried Vulpine // Worthy Vulpine
+[common(7)]
+	8 A Journey Begins
+	8 Aeroblast
+	8 Aspiring Trainer
+	8 Attract
+	8 Barnacle Crawler
+	8 Barrier
+	8 Bridled Growth
+	8 Caustic Caterpillar
+	8 Cavern Carver
+	8 Cheerful Generator // Combined Generator
+	8 Cheerful Generator // Combined Generator
+	8 Chikyu League Arena
+	8 Confusion
+	8 Cruel Fledgling
+	8 Crusher Beetle
+	8 Curious Fossil // Arisen Helix
+	8 Curious Fossil // Arisen Helix
+	8 Driven Mad
+	8 Eager Hatchling // Realized Hatchling
+	8 Eager Hatchling // Realized Hatchling
+	8 Eerie Cocoons
+	8 Enduring Charge
+	8 Essence Scatter_MON
+	8 Ether
+	8 Evolving Wilds_MON
+	8 Fierce Lunge
+	8 Fishing Trip
+	8 Flamethrower
+	8 Focus Energy
+	8 Focus Sash
+	8 Forage
+	8 Fresh Carrion
+	8 Fury Swipes_MON
+	8 Galloping Blaze
+	8 Garden Guardian
+	8 Ghastly Tether
+	8 Grinding
+	8 Healing Center
+	8 Hex Maniac
+	8 Hidden Sprout
+	8 Hypnosis
+	8 Improvised Guardian
+	8 Lakeside Trickster
+	8 Magma Crawler
+	8 Marine Monster
+	8 Maven of Fear
+	8 Metal Coat
+	8 Mournful Newborn // Tempered Survivor
+	8 Mournful Newborn // Tempered Survivor
+	8 Natural Cure
+	8 Nocturnal Watcher
+	8 Nurse Trainee
+	8 Old Map
+	8 Pitfall Pangolin
+	8 Poised Koi
+	8 Poison Point
+	8 Prepare for Trouble
+	8 Psywave
+	8 Quick Claw
+	8 Quiet Retreat
+	8 Rallywing
+	8 Rapid Rodent
+	8 Rest
+	8 Revitalize
+	8 Run Away
+	8 Ruthless Brawler
+	8 Safe from Harm
+	8 Sanaito's Blessing
+	8 Sandslinger
+	8 Scary Face
+	8 Shadow Ball
+	8 Sharp-Eyed Wingmate
+	8 Slashing Sneak
+	8 Slinking Sentinel
+	8 Smokescreen
+	8 Snatch
+	8 Spikehorn Behemoth
+	8 Sporecaster
+	8 Sporecrowned Scavenger
+	8 Strategic Planning
+	8 Sucker Punch
+	8 Swords Dance
+	8 Tangle Up
+	8 Tangling Vines
+	8 Telekinecktic
+	8 Thundering Charger
+	8 Toxic Larva
+	8 Treasure Beach
+	8 Unburdened
+	8 Unknown Shores_MON
+	8 Veil of Flames
+	8 Wandering Dragonfly
+	8 Warning Birds
+	8 Weedy Wanderer
+	8 Whirling Winds
+	8 Winding Snake // Mother Snake
+	8 Winding Snake // Mother Snake
+	8 Wishing Star
+	8 Wondering Oaf
+	8 Work Up
+	8 Wraith of the Fens
+	8 Zipping Zapper
+[foil(1)]
+	12 A Journey Begins
+	6 Ace Trainer
+	6 Acro Bat
+	6 Adrenaline
+	12 Aeroblast
+	6 Aggressive Instinct
+	6 Amulet Coin
+	12 Aspiring Trainer
+	12 Attract
+	6 Barbed Beast // Barbed Bruiser
+	6 Barbed Beast // Barbed Bruiser
+	12 Barnacle Crawler
+	12 Barrier
+	2 Bee Hive
+	2 Bessie
+	6 Bird Keeper
+	12 Bridled Growth
+	2 Brighteyed Trainer
+	2 Brutality
+	2 Budding Companion // Flourishing Companion
+	2 Budding Companion // Flourishing Companion
+	6 Bug Catcher
+	6 Call Back
+	6 Canopy Darter
+	6 Cattle Guard
+	12 Caustic Caterpillar
+	12 Cavern Carver
+	12 Cheerful Generator // Combined Generator
+	12 Cheerful Generator // Combined Generator
+	2 Chikyu Champion
+	12 Chikyu League Arena
+	6 Citadel Bagworm
+	6 Compulsive Patrol
+	12 Confusion
+	12 Cruel Fledgling
+	12 Crusher Beetle
+	6 Curious Cubs // Mauling Mother
+	6 Curious Cubs // Mauling Mother
+	12 Curious Fossil // Arisen Helix
+	12 Curious Fossil // Arisen Helix
+	2 Depth Charger
+	6 Determined Koi // Destructive Serpent
+	6 Determined Koi // Destructive Serpent
+	6 Dreamnapper
+	12 Driven Mad
+	2 Duplicate
+	12 Eager Hatchling // Realized Hatchling
+	12 Eager Hatchling // Realized Hatchling
+	12 Eerie Cocoons
+	2 Egg Bomb
+	2 Elemental of Surprise
+	2 Emonoru, Ema's Wings
+	2 End of Monsters
+	12 Enduring Charge
+	2 Epic Encounter
+	12 Essence Scatter_MON
+	12 Ether
+	6 Event Horizon
+	2 Ever-Gnawing Rat
+	12 Evolving Wilds_MON
+	6 Experienced Team
+	6 Expert Belt
+	6 Extremespeed
+	6 Familiar's Ruse
+	6 Farewell
+	12 Fierce Lunge
+	6 Firemane Fox
+	12 Fishing Trip
+	2 Flame-Tailed Lizard // Flame-Tested Dragon
+	2 Flame-Tailed Lizard // Flame-Tested Dragon
+	12 Flamethrower
+	6 Flying Scorpion
+	12 Focus Energy
+	12 Focus Sash
+	2 Fogspewer
+	12 Forage
+	2 Forgotten Temple
+	12 Fresh Carrion
+	6 From Beyond the Grave
+	2 From a Seed
+	6 Full Belly
+	12 Fury Swipes_MON
+	12 Galloping Blaze
+	12 Garden Guardian
+	6 Gene Pool
+	6 Ghastly Spirit
+	12 Ghastly Tether
+	12 Grinding
+	6 Gruff Clutch
+	2 Gym Leader
+	12 Healing Center
+	2 Heartless Trainer
+	6 Hellhound Alpha
+	12 Hex Maniac
+	12 Hidden Sprout
+	2 Hopeful Caretaker // Mending Caretaker
+	2 Hopeful Caretaker // Mending Caretaker
+	6 Hyper Beam
+	12 Hypnosis
+	2 I Choose You
+	6 Ice Path
+	12 Improvised Guardian
+	6 Innocence
+	2 Karina's Training
+	6 Lake of Rage
+	12 Lakeside Trickster
+	2 Lava Plume
+	6 Lavatrailer
+	6 Leech Seed
+	2 Loyal Firestarter
+	2 Lucien, the Ravenous
+	2 Lucien's Trail
+	2 Lucky Egg
+	2 Luna, the Lost
+	2 Lunar Vigil
+	12 Magma Crawler
+	2 Magnitude
+	2 Maple's Journal
+	12 Marine Monster
+	2 Masaru, Aspiring Champion
+	6 Maternal Monster
+	12 Maven of Fear
+	12 Metal Coat
+	2 Metronome
+	6 Mighty Beetle
+	6 Monstrous Champion
+	6 Moon-Rune Fox
+	2 Moonlight
+	6 Morning Sun
+	2 Mountain Runt // Mountain Tyrant
+	2 Mountain Runt // Mountain Tyrant
+	12 Mournful Newborn // Tempered Survivor
+	12 Mournful Newborn // Tempered Survivor
+	12 Natural Cure
+	2 Night Shade
+	2 Nirami, Ema's Keeper
+	12 Nocturnal Watcher
+	12 Nurse Trainee
+	12 Old Map
+	6 Ominous Wind
+	6 One on One
+	2 Onigori, Ema's Shield
+	6 Overheat
+	2 Paleontologist
+	6 Palm Walker
+	6 Paralycker
+	6 Patient Cocoon
+	2 Perish Song
+	6 Petal Dancer
+	12 Pitfall Pangolin
+	12 Poised Koi
+	12 Poison Point
+	6 Power Plant
+	2 Power of Love
+	12 Prepare for Trouble
+	6 Preying Mantis
+	2 Professor Maple
+	6 Psychic Assault
+	12 Psywave
+	2 Quakestep Behemoth
+	2 Queen of the Hive
+	12 Quick Claw
+	12 Quiet Retreat
+	12 Rallywing
+	12 Rapid Rodent
+	12 Rest
+	12 Revitalize
+	6 Revived Pterosaur
+	2 Roaring Illusion
+	2 Rocket Admin
+	2 Rocket Poacher
+	2 Ruined Lab
+	12 Run Away
+	2 Rustshell Mantis
+	12 Ruthless Brawler
+	12 Safe from Harm
+	2 Sanaito, Alone
+	12 Sanaito's Blessing
+	12 Sandslinger
+	12 Scary Face
+	6 Scuttling Gnat // Vicious Metamorph
+	6 Scuttling Gnat // Vicious Metamorph
+	6 Seal of Approval
+	6 Secret Stash
+	12 Shadow Ball
+	6 Shadow Sneak
+	12 Sharp-Eyed Wingmate
+	6 Shocking Ewe
+	6 Shrouded Sanctuary_MON
+	2 Silent Hypnotist
+	6 Skill Link
+	2 Skill Sketcher
+	6 Slashing Pangolin
+	12 Slashing Sneak
+	12 Slinking Sentinel
+	6 Sludge-Gill Fox
+	6 Sludge Drudger
+	2 Slumbering Bear
+	12 Smokescreen
+	12 Snatch
+	12 Spikehorn Behemoth
+	12 Sporecaster
+	12 Sporecrowned Scavenger
+	6 Spotted Slugger
+	6 Sprout Tender
+	6 Starlight Emissary
+	2 Steelfeather Shrike
+	6 Stingsower
+	12 Strategic Planning
+	12 Sucker Punch
+	6 Sun-Eyed Fox
+	2 Sunset Herald
+	12 Swords Dance
+	12 Tangle Up
+	12 Tangling Vines
+	12 Telekinecktic
+	2 Temporal Aria
+	2 The Rocket Gang Strikes!
+	12 Thundering Charger
+	6 Thundermane Fox
+	2 Tidepool Turtle // Tsunami Titan
+	2 Tidepool Turtle // Tsunami Titan
+	6 Tidesweeper Gharial
+	2 Time Stands Still
+	2 Titanic Fossil // Arisen Tyrant
+	2 Titanic Fossil // Arisen Tyrant
+	12 Toxic Larva
+	2 Trainee Karina Oblay
+	6 Trainer's Eyes
+	12 Treasure Beach
+	6 Truffle Snuffer
+	6 Tunnel Moles
+	6 Twinning Psionic
+	2 Twister of Shadows
+	2 Tyrant of Tributes
+	12 Unburdened
+	6 Undecided Mimic
+	12 Unknown Shores_MON
+	6 Unstoppable Weed
+	12 Veil of Flames
+	6 Victory Road
+	6 Viper Ambush
+	6 Volt Vermin
+	6 Waking Pollution
+	12 Wandering Dragonfly
+	2 Warden of Lives
+	2 Warden of Seas
+	2 Warden of Time
+	12 Warning Birds
+	12 Weedy Wanderer
+	12 Whirling Winds
+	2 Whirlpool Ride
+	6 Wicked Fossil // Arisen Hunter
+	6 Wicked Fossil // Arisen Hunter
+	6 Wild Encounter
+	12 Winding Snake // Mother Snake
+	12 Winding Snake // Mother Snake
+	6 Wings of Trust
+	12 Wishing Star
+	6 Wistful Fox
+	12 Wondering Oaf
+	12 Work Up
+	2 Working Together
+	6 Worried Vulpine // Worthy Vulpine
+	6 Worried Vulpine // Worthy Vulpine
+	12 Wraith of the Fens
+	2 Zankon, Ema's Claws
+	12 Zipping Zapper
+[wildcard(1)]
+	6 A Journey Begins
+	15 Ace Trainer
+	15 Acro Bat
+	15 Adrenaline
+	6 Aeroblast
+	15 Aggressive Instinct
+	15 Amulet Coin
+	6 Aspiring Trainer
+	6 Attract
+	15 Barbed Beast // Barbed Bruiser
+	15 Barbed Beast // Barbed Bruiser
+	6 Barnacle Crawler
+	6 Barrier
+	7 Bee Hive
+	7 Bessie
+	15 Bird Keeper
+	6 Bridled Growth
+	7 Brighteyed Trainer
+	7 Brutality
+	7 Budding Companion // Flourishing Companion
+	7 Budding Companion // Flourishing Companion
+	15 Bug Catcher
+	15 Call Back
+	15 Canopy Darter
+	15 Cattle Guard
+	6 Caustic Caterpillar
+	6 Cavern Carver
+	6 Cheerful Generator // Combined Generator
+	6 Cheerful Generator // Combined Generator
+	7 Chikyu Champion
+	6 Chikyu League Arena
+	15 Citadel Bagworm
+	15 Compulsive Patrol
+	6 Confusion
+	6 Cruel Fledgling
+	6 Crusher Beetle
+	15 Curious Cubs // Mauling Mother
+	15 Curious Cubs // Mauling Mother
+	6 Curious Fossil // Arisen Helix
+	6 Curious Fossil // Arisen Helix
+	7 Depth Charger
+	15 Determined Koi // Destructive Serpent
+	15 Determined Koi // Destructive Serpent
+	15 Dreamnapper
+	6 Driven Mad
+	7 Duplicate
+	6 Eager Hatchling // Realized Hatchling
+	6 Eager Hatchling // Realized Hatchling
+	6 Eerie Cocoons
+	7 Egg Bomb
+	7 Elemental of Surprise
+	7 Emonoru, Ema's Wings
+	7 End of Monsters
+	6 Enduring Charge
+	7 Epic Encounter
+	6 Essence Scatter_MON
+	6 Ether
+	15 Event Horizon
+	7 Ever-Gnawing Rat
+	6 Evolving Wilds_MON
+	15 Experienced Team
+	15 Expert Belt
+	15 Extremespeed
+	15 Familiar's Ruse
+	15 Farewell
+	6 Fierce Lunge
+	15 Firemane Fox
+	6 Fishing Trip
+	7 Flame-Tailed Lizard // Flame-Tested Dragon
+	7 Flame-Tailed Lizard // Flame-Tested Dragon
+	6 Flamethrower
+	15 Flying Scorpion
+	6 Focus Energy
+	6 Focus Sash
+	7 Fogspewer
+	6 Forage
+	7 Forgotten Temple
+	6 Fresh Carrion
+	15 From Beyond the Grave
+	7 From a Seed
+	15 Full Belly
+	6 Fury Swipes_MON
+	6 Galloping Blaze
+	6 Garden Guardian
+	15 Gene Pool
+	15 Ghastly Spirit
+	6 Ghastly Tether
+	6 Grinding
+	15 Gruff Clutch
+	7 Gym Leader
+	6 Healing Center
+	7 Heartless Trainer
+	15 Hellhound Alpha
+	6 Hex Maniac
+	6 Hidden Sprout
+	7 Hopeful Caretaker // Mending Caretaker
+	7 Hopeful Caretaker // Mending Caretaker
+	15 Hyper Beam
+	6 Hypnosis
+	7 I Choose You
+	15 Ice Path
+	6 Improvised Guardian
+	15 Innocence
+	7 Karina's Training
+	15 Lake of Rage
+	6 Lakeside Trickster
+	7 Lava Plume
+	15 Lavatrailer
+	15 Leech Seed
+	7 Loyal Firestarter
+	7 Lucien, the Ravenous
+	7 Lucien's Trail
+	7 Lucky Egg
+	7 Luna, the Lost
+	7 Lunar Vigil
+	6 Magma Crawler
+	7 Magnitude
+	7 Maple's Journal
+	6 Marine Monster
+	7 Masaru, Aspiring Champion
+	15 Maternal Monster
+	6 Maven of Fear
+	6 Metal Coat
+	7 Metronome
+	15 Mighty Beetle
+	15 Monstrous Champion
+	15 Moon-Rune Fox
+	7 Moonlight
+	15 Morning Sun
+	7 Mountain Runt // Mountain Tyrant
+	7 Mountain Runt // Mountain Tyrant
+	6 Mournful Newborn // Tempered Survivor
+	6 Mournful Newborn // Tempered Survivor
+	6 Natural Cure
+	7 Night Shade
+	7 Nirami, Ema's Keeper
+	6 Nocturnal Watcher
+	6 Nurse Trainee
+	6 Old Map
+	15 Ominous Wind
+	15 One on One
+	7 Onigori, Ema's Shield
+	15 Overheat
+	7 Paleontologist
+	15 Palm Walker
+	15 Paralycker
+	15 Patient Cocoon
+	7 Perish Song
+	15 Petal Dancer
+	6 Pitfall Pangolin
+	6 Poised Koi
+	6 Poison Point
+	15 Power Plant
+	7 Power of Love
+	6 Prepare for Trouble
+	15 Preying Mantis
+	7 Professor Maple
+	15 Psychic Assault
+	6 Psywave
+	7 Quakestep Behemoth
+	7 Queen of the Hive
+	6 Quick Claw
+	6 Quiet Retreat
+	6 Rallywing
+	6 Rapid Rodent
+	6 Rest
+	6 Revitalize
+	15 Revived Pterosaur
+	7 Roaring Illusion
+	7 Rocket Admin
+	7 Rocket Poacher
+	7 Ruined Lab
+	6 Run Away
+	7 Rustshell Mantis
+	6 Ruthless Brawler
+	6 Safe from Harm
+	7 Sanaito, Alone
+	6 Sanaito's Blessing
+	6 Sandslinger
+	6 Scary Face
+	15 Scuttling Gnat // Vicious Metamorph
+	15 Scuttling Gnat // Vicious Metamorph
+	15 Seal of Approval
+	15 Secret Stash
+	6 Shadow Ball
+	15 Shadow Sneak
+	6 Sharp-Eyed Wingmate
+	15 Shocking Ewe
+	15 Shrouded Sanctuary_MON
+	7 Silent Hypnotist
+	15 Skill Link
+	7 Skill Sketcher
+	15 Slashing Pangolin
+	6 Slashing Sneak
+	6 Slinking Sentinel
+	15 Sludge-Gill Fox
+	15 Sludge Drudger
+	7 Slumbering Bear
+	6 Smokescreen
+	6 Snatch
+	6 Spikehorn Behemoth
+	6 Sporecaster
+	6 Sporecrowned Scavenger
+	15 Spotted Slugger
+	15 Sprout Tender
+	15 Starlight Emissary
+	7 Steelfeather Shrike
+	15 Stingsower
+	6 Strategic Planning
+	6 Sucker Punch
+	15 Sun-Eyed Fox
+	7 Sunset Herald
+	6 Swords Dance
+	6 Tangle Up
+	6 Tangling Vines
+	6 Telekinecktic
+	7 Temporal Aria
+	7 The Rocket Gang Strikes!
+	6 Thundering Charger
+	15 Thundermane Fox
+	7 Tidepool Turtle // Tsunami Titan
+	7 Tidepool Turtle // Tsunami Titan
+	15 Tidesweeper Gharial
+	7 Time Stands Still
+	7 Titanic Fossil // Arisen Tyrant
+	7 Titanic Fossil // Arisen Tyrant
+	6 Toxic Larva
+	7 Trainee Karina Oblay
+	15 Trainer's Eyes
+	6 Treasure Beach
+	15 Truffle Snuffer
+	15 Tunnel Moles
+	15 Twinning Psionic
+	7 Twister of Shadows
+	7 Tyrant of Tributes
+	6 Unburdened
+	15 Undecided Mimic
+	6 Unknown Shores_MON
+	15 Unstoppable Weed
+	6 Veil of Flames
+	15 Victory Road
+	15 Viper Ambush
+	15 Volt Vermin
+	15 Waking Pollution
+	6 Wandering Dragonfly
+	7 Warden of Lives
+	7 Warden of Seas
+	7 Warden of Time
+	6 Warning Birds
+	6 Weedy Wanderer
+	6 Whirling Winds
+	7 Whirlpool Ride
+	15 Wicked Fossil // Arisen Hunter
+	15 Wicked Fossil // Arisen Hunter
+	15 Wild Encounter
+	6 Winding Snake // Mother Snake
+	6 Winding Snake // Mother Snake
+	15 Wings of Trust
+	6 Wishing Star
+	15 Wistful Fox
+	6 Wondering Oaf
+	6 Work Up
+	7 Working Together
+	15 Worried Vulpine // Worthy Vulpine
+	15 Worried Vulpine // Worthy Vulpine
+	6 Wraith of the Fens
+	7 Zankon, Ema's Claws
+	6 Zipping Zapper

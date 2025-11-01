@@ -1,0 +1,3065 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abandoned Hermit",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Druid",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Above // Beyond",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Above // Beyond",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Adamant Cultist",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Reflection Shaman",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Alita Dawnstrike",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Vampire Rogue",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Analyze the Deep",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Avoid Fate",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Bazaar Guardian",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Bazaar Trickster",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Dwarf Wizard",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Bird with the Word",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Blazing Mirage",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Bleak Cultist",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Reflection Shaman",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Blessed Spellroot",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant Mutant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Blind Spellfeeder",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Blood Lashing",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Bridge Kalak",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Bronze Giant",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Buried Secrets",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Carving Secrets",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Cavern Monstrosity",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Chain of Decimation",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Instant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Channel the Mirror",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Chantwood Channeler",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Reflection Shaman",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Chantwood Cultist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Reflection Shaman",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Chantwood Guards",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Churning Spellroot",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Plant Mutant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Claw Crusher",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Clawing Shaman",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Reflection Shaman",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Clinging Mire",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Colpah Charmer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat Rebel",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Colpah Mystic",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Cat Reflection Mystic",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Controlled Burn",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Corrupted Bloodline",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Cranial Violation",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Crystallized Moment",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Cultist's Dagger",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Curious Statue",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Deepcaller Cultist",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Reflection Shaman",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Delude",
+			"rarity": "common",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Deserted Monk",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cat Monk",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Devouring Spellroot",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant Mutant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Dignity // Grace",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Dignity // Grace",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Dissipator Mage",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Dwarf Wizard",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Distant Misthorns",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Divert Attention",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Dragonblood Slayer",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Reflection Rebel",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Draw and Quarter",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Dreamfire",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Dredge the Graves",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Duela Alchemist",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Duela Duelist",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem Warrior",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Duela Marshall",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Duela Science Kit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Dusk Chord",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Reflection",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Dwarven Fireslinger",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Dwarf Wizard",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Dwarven Inquisitor",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Dwarven Twinslinger",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dwarf Wizard",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Echo Cleric",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Reflection Cleric",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Echo Striker",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Echoing Determination",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Echoing Rites",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Echoing Silence",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Echoing Sunder",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Echoing Thunder",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Endless Reverie",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Endless Walc",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Elemental Reflection",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Energize",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Ensouler of Blades",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Essence Weaver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Reflection Rebel",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Eternal Nightwalker",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Vampire Shaman",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Excavation Engine",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Exploit Fear",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Eyes of Endless Fates",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Faded Sacrifice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Fallen Fanatic",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Fallow Grave",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "False Shimmer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Farseek",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Fatethief",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Reflection Shaman",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Fatetwist Shaman",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Cat Shaman",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Fatewrench",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Feed Into Aether",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Fertile Grave",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Fickle Feeder",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Fight or Fade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Fine Craftsmanship",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Flames of the Forge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Flinging Invoker",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Flotsam // Jetsam",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Flotsam // Jetsam",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Forge Trick",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Forging Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Fall",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Fortified Flightsuit",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Frozen Halo",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Fueled Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Ghastly Castle",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Gleaming Dream",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Reflection",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Gleaming Veldt",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Gravantee",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Grisly Marsh",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Heat of the Moment",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "High // Mighty",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "High // Mighty",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Hired Kalak",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Troll",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Infiltrate Memory",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Intangible Company",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Kohmo the Grizzled",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Creature — Cat Rebel",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Last-Thought Feeder",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Lavastep Colossus",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Learn from Mistakes",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Lha Elite",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Reflection Rebel",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Lha Maria",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Reflection",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Lha Sha'rador",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Sha'rador",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Lha Striker",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Reflection Rebel",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Lift Off",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Lightcrafter",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Reflection Wizard",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Lo // Behold",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Lo // Behold",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Manifest Memories",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Market Caster",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Reflection",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Mei's Student",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Mei Liva, the Forsaken",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Planeswalker — Mei",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Melt Down",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Memory Collector",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Memory Deterioration",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Mental Meltdown",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Might of the Oslyd",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Mightlight",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Mindrip",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}{B}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Mirage Adept",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Reflection Wizard",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Mirage Bracers",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Mirage Caster",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Reflection Wizard",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Mirage Keeper",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Reflection Wizard",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Mirage Master",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Reflection Wizard",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Mirrored Mirage",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Mirrorform",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Mirrorfuse Angel",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{R}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Mirrorstalk",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Mirrorstorm",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Noirohpo Renegade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Reflection Rebel",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Obliterate Flesh",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "One // Done",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "One // Done",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Open the Wilds",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Ore Tunneler",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Oslyd Dreamer",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Reflection",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Oslyd Heretic",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Rebel",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Overgrown Spellroot",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant Mutant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Planar Reflection",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Poisoned Pupil",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Portent of Doom",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Power Jam",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Practical Battlemage",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Dwarf Wizard",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Preparation",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Purestrike Rebel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Cat Rebel",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Rangewalker Giant",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Reflection Giant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Rangewalker Pyromancer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Reflection Rebel",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Ravencaller",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Reflection Shaman",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Raving Student",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Reach of the Sha",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Reflection Cleric",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Reflected Worldwalker",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Creature — Avatar",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Reforged Relic",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Reformed Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Vampire Shaman",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Refract",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Relentless Researcher",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Retrace Histories",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Return to Service",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Revived Colpah",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cat Horror",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Revoke",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Ritesinger Shaman",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Shaman",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Rock // Roll",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Rock // Roll",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Rot Invoker",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Reflection Shaman",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Rotted Kalak",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Troll Shaman",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Safe // Sound",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Safe // Sound",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Sandstrider",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Cat Reflection Rebel",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Scout the Chantwoods",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Searing Recaller",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Reflection Rebel",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Sever Existence",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Sha's Summons",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Shapen Spellroot",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Mutant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Shard Flower",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Shard Sword",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Shattered Mirrorwalker",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Shimmering Dragon",
+			"rarity": "mythic",
+			"mana_cost": "{8}{R}{R}",
+			"type": "Creature — Dragon Reflection",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Shimmersting",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Sift Components",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Sigil Slinger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Dwarf Wizard",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Sigil of Echoes",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Slightly Mad",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Sluiceway Shrieker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bird Horror",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Spellbound Serpent",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Spellwoven Monster",
+			"rarity": "mythic",
+			"mana_cost": "{7}{U}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Spilling Secrets",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Spiritual Colpah",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Cat Shaman",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Splintering Scuttler",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Crab Reflection",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Splitting Phantasm",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Reflection Rebel",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Spring Recaller",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Reflection",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Starfall Singer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Reflection",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Steamwalker",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Storm Entity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Student of Secrets",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Sunken Cavern",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Sunny Dunes",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Surging Kalak",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Troll",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Sweep Stakes",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Sword // Board",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Sword // Board",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Tale of Two Sons",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "The Warrior Within",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Xaro",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Time // Again",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Time // Again",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Toggle",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Trade Blows",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Trench Breaker",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Tunnel Map",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Twin Trifles",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Twinned Slasher",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Reflection Rebel",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Twisted Echo",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Reflection Shaman",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Twisted Legacy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Unhallowed Singers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Unreflected Cultist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Untouched Wilds",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Unveil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Vampiric Rise",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Vaneir, Necromaster",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Vampire",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Vigil Invoker",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Reflection",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Wild Hermit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Shaman",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Zana, the Dreamer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Reflection Rebel",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Disgrace of Kin_PRO_ORP",
+			"rarity": "special",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Dreamfire_PRO_ORP",
+			"rarity": "special",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Forging Blade_PRO_ORP",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Heat of the Moment_PRO_ORP",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ORP-files/img/225.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Alita Dawnstrike
+	2 Bazaar Guardian
+	2 Bazaar Trickster
+	2 Chain of Decimation
+	1 Channel the Mirror
+	2 Chantwood Channeler
+	2 Clawing Shaman
+	2 Colpah Mystic
+	1 Corrupted Bloodline
+	2 Cranial Violation
+	2 Curious Statue
+	2 Dignity // Grace
+	2 Dignity // Grace
+	2 Dissipator Mage
+	2 Dragonblood Slayer
+	2 Dreamfire
+	2 Dwarven Twinslinger
+	2 Endless Reverie
+	2 Ensouler of Blades
+	2 Infiltrate Memory
+	2 Kohmo the Grizzled
+	2 Learn from Mistakes
+	2 Lha Elite
+	2 Lha Maria
+	1 Lha Sha'rador
+	2 Lightcrafter
+	2 Lo // Behold
+	2 Lo // Behold
+	2 Manifest Memories
+	1 Mei Liva, the Forsaken
+	2 Memory Deterioration
+	2 Mental Meltdown
+	2 Mindrip
+	2 Mirage Keeper
+	2 Mirage Master
+	1 Mirrorfuse Angel
+	2 Mirrorstorm
+	2 Obliterate Flesh
+	2 One // Done
+	2 One // Done
+	2 Overgrown Spellroot
+	1 Planar Reflection
+	1 Reflected Worldwalker
+	2 Revoke
+	2 Rock // Roll
+	2 Rock // Roll
+	2 Sever Existence
+	2 Shattered Mirrorwalker
+	1 Shimmering Dragon
+	1 Shimmersting
+	2 Sigil of Echoes
+	1 Spellwoven Monster
+	1 Starfall Singer
+	2 Surging Kalak
+	2 Sweep Stakes
+	1 The Warrior Within
+	2 Time // Again
+	2 Time // Again
+	2 Vaneir, Necromaster
+	2 Zana, the Dreamer
+[uncommon(3)]
+	4 Above // Beyond
+	4 Above // Beyond
+	4 Blood Lashing
+	4 Bridge Kalak
+	4 Buried Secrets
+	4 Carving Secrets
+	4 Cavern Monstrosity
+	4 Chantwood Cultist
+	4 Churning Spellroot
+	4 Controlled Burn
+	4 Cultist's Dagger
+	4 Deepcaller Cultist
+	4 Devouring Spellroot
+	4 Duela Science Kit
+	4 Dusk Chord
+	4 Endless Walc
+	4 Essence Weaver
+	4 Eyes of Endless Fates
+	4 Faded Sacrifice
+	4 Feed Into Aether
+	4 Fight or Fade
+	4 Flames of the Forge
+	4 Flotsam // Jetsam
+	4 Flotsam // Jetsam
+	4 Forging Blade
+	4 Forgotten Fall
+	4 Frozen Halo
+	4 Fueled Flame
+	4 Ghastly Castle
+	4 Gleaming Veldt
+	4 Grisly Marsh
+	4 Heat of the Moment
+	4 High // Mighty
+	4 High // Mighty
+	4 Hired Kalak
+	4 Mei's Student
+	4 Mirage Adept
+	4 Noirohpo Renegade
+	4 Open the Wilds
+	4 Oslyd Heretic
+	4 Power Jam
+	4 Purestrike Rebel
+	4 Ravencaller
+	4 Raving Student
+	4 Reach of the Sha
+	4 Reformed Seeker
+	4 Refract
+	4 Safe // Sound
+	4 Safe // Sound
+	4 Sandstrider
+	4 Scout the Chantwoods
+	4 Sha's Summons
+	4 Shard Flower
+	4 Shard Sword
+	4 Sigil Slinger
+	4 Slightly Mad
+	4 Spellbound Serpent
+	4 Spilling Secrets
+	4 Spring Recaller
+	4 Steamwalker
+	4 Storm Entity
+	4 Sunken Cavern
+	4 Sunny Dunes
+	4 Sword // Board
+	4 Sword // Board
+	4 Tale of Two Sons
+	4 Trade Blows
+	4 Twin Trifles
+	4 Twisted Echo
+	4 Twisted Legacy
+	4 Unhallowed Singers
+	4 Unreflected Cultist
+	4 Untouched Wilds
+	4 Unveil
+	4 Wild Hermit
+[common(7)]
+	8 Abandoned Hermit
+	8 Adamant Cultist
+	8 Analyze the Deep
+	8 Avoid Fate
+	8 Bird with the Word
+	8 Blazing Mirage
+	8 Bleak Cultist
+	8 Blessed Spellroot
+	8 Blind Spellfeeder
+	8 Bronze Giant
+	8 Chantwood Guards
+	8 Claw Crusher
+	8 Clinging Mire
+	8 Colpah Charmer
+	8 Crystallized Moment
+	8 Delude
+	8 Deserted Monk
+	8 Distant Misthorns
+	8 Divert Attention
+	8 Draw and Quarter
+	8 Dredge the Graves
+	8 Duela Alchemist
+	8 Duela Duelist
+	8 Duela Marshall
+	8 Dwarven Fireslinger
+	8 Dwarven Inquisitor
+	8 Echo Cleric
+	8 Echo Striker
+	8 Echoing Determination
+	8 Echoing Rites
+	8 Echoing Silence
+	8 Echoing Sunder
+	8 Echoing Thunder
+	8 Energize
+	8 Eternal Nightwalker
+	8 Excavation Engine
+	8 Exploit Fear
+	8 Fallen Fanatic
+	8 Fallow Grave
+	8 False Shimmer
+	8 Farseek
+	8 Fatethief
+	8 Fatetwist Shaman
+	8 Fatewrench
+	8 Fertile Grave
+	8 Fickle Feeder
+	8 Fine Craftsmanship
+	8 Flinging Invoker
+	8 Forge Trick
+	8 Fortified Flightsuit
+	8 Gleaming Dream
+	8 Gravantee
+	8 Intangible Company
+	8 Last-Thought Feeder
+	8 Lavastep Colossus
+	8 Lha Striker
+	8 Lift Off
+	8 Market Caster
+	8 Melt Down
+	8 Memory Collector
+	8 Might of the Oslyd
+	8 Mightlight
+	8 Mirage Bracers
+	8 Mirage Caster
+	8 Mirrored Mirage
+	8 Mirrorform
+	8 Mirrorstalk
+	8 Ore Tunneler
+	8 Oslyd Dreamer
+	8 Poisoned Pupil
+	8 Portent of Doom
+	8 Practical Battlemage
+	8 Preparation
+	8 Rangewalker Giant
+	8 Rangewalker Pyromancer
+	8 Reforged Relic
+	8 Relentless Researcher
+	8 Retrace Histories
+	8 Return to Service
+	8 Revived Colpah
+	8 Ritesinger Shaman
+	8 Rot Invoker
+	8 Rotted Kalak
+	8 Searing Recaller
+	8 Shapen Spellroot
+	8 Sift Components
+	8 Sluiceway Shrieker
+	8 Spiritual Colpah
+	8 Splintering Scuttler
+	8 Splitting Phantasm
+	8 Student of Secrets
+	8 Toggle
+	8 Trench Breaker
+	8 Tunnel Map
+	8 Twinned Slasher
+	8 Vampiric Rise
+	8 Vigil Invoker
+[foil(1)]
+	12 Abandoned Hermit
+	6 Above // Beyond
+	6 Above // Beyond
+	12 Adamant Cultist
+	2 Alita Dawnstrike
+	12 Analyze the Deep
+	12 Avoid Fate
+	2 Bazaar Guardian
+	2 Bazaar Trickster
+	12 Bird with the Word
+	12 Blazing Mirage
+	12 Bleak Cultist
+	12 Blessed Spellroot
+	12 Blind Spellfeeder
+	6 Blood Lashing
+	6 Bridge Kalak
+	12 Bronze Giant
+	6 Buried Secrets
+	6 Carving Secrets
+	6 Cavern Monstrosity
+	2 Chain of Decimation
+	1 Channel the Mirror
+	2 Chantwood Channeler
+	6 Chantwood Cultist
+	12 Chantwood Guards
+	6 Churning Spellroot
+	12 Claw Crusher
+	2 Clawing Shaman
+	12 Clinging Mire
+	12 Colpah Charmer
+	2 Colpah Mystic
+	6 Controlled Burn
+	1 Corrupted Bloodline
+	2 Cranial Violation
+	12 Crystallized Moment
+	6 Cultist's Dagger
+	2 Curious Statue
+	6 Deepcaller Cultist
+	12 Delude
+	12 Deserted Monk
+	6 Devouring Spellroot
+	2 Dignity // Grace
+	2 Dignity // Grace
+	2 Dissipator Mage
+	12 Distant Misthorns
+	12 Divert Attention
+	2 Dragonblood Slayer
+	12 Draw and Quarter
+	2 Dreamfire
+	12 Dredge the Graves
+	12 Duela Alchemist
+	12 Duela Duelist
+	12 Duela Marshall
+	6 Duela Science Kit
+	6 Dusk Chord
+	12 Dwarven Fireslinger
+	12 Dwarven Inquisitor
+	2 Dwarven Twinslinger
+	12 Echo Cleric
+	12 Echo Striker
+	12 Echoing Determination
+	12 Echoing Rites
+	12 Echoing Silence
+	12 Echoing Sunder
+	12 Echoing Thunder
+	2 Endless Reverie
+	6 Endless Walc
+	12 Energize
+	2 Ensouler of Blades
+	6 Essence Weaver
+	12 Eternal Nightwalker
+	12 Excavation Engine
+	12 Exploit Fear
+	6 Eyes of Endless Fates
+	6 Faded Sacrifice
+	12 Fallen Fanatic
+	12 Fallow Grave
+	12 False Shimmer
+	12 Farseek
+	12 Fatethief
+	12 Fatetwist Shaman
+	12 Fatewrench
+	6 Feed Into Aether
+	12 Fertile Grave
+	12 Fickle Feeder
+	6 Fight or Fade
+	12 Fine Craftsmanship
+	6 Flames of the Forge
+	12 Flinging Invoker
+	6 Flotsam // Jetsam
+	6 Flotsam // Jetsam
+	12 Forge Trick
+	6 Forging Blade
+	6 Forgotten Fall
+	12 Fortified Flightsuit
+	6 Frozen Halo
+	6 Fueled Flame
+	6 Ghastly Castle
+	12 Gleaming Dream
+	6 Gleaming Veldt
+	12 Gravantee
+	6 Grisly Marsh
+	6 Heat of the Moment
+	6 High // Mighty
+	6 High // Mighty
+	6 Hired Kalak
+	2 Infiltrate Memory
+	12 Intangible Company
+	2 Kohmo the Grizzled
+	12 Last-Thought Feeder
+	12 Lavastep Colossus
+	2 Learn from Mistakes
+	2 Lha Elite
+	2 Lha Maria
+	1 Lha Sha'rador
+	12 Lha Striker
+	12 Lift Off
+	2 Lightcrafter
+	2 Lo // Behold
+	2 Lo // Behold
+	2 Manifest Memories
+	12 Market Caster
+	6 Mei's Student
+	1 Mei Liva, the Forsaken
+	12 Melt Down
+	12 Memory Collector
+	2 Memory Deterioration
+	2 Mental Meltdown
+	12 Might of the Oslyd
+	12 Mightlight
+	2 Mindrip
+	6 Mirage Adept
+	12 Mirage Bracers
+	12 Mirage Caster
+	2 Mirage Keeper
+	2 Mirage Master
+	12 Mirrored Mirage
+	12 Mirrorform
+	1 Mirrorfuse Angel
+	12 Mirrorstalk
+	2 Mirrorstorm
+	6 Noirohpo Renegade
+	2 Obliterate Flesh
+	2 One // Done
+	2 One // Done
+	6 Open the Wilds
+	12 Ore Tunneler
+	12 Oslyd Dreamer
+	6 Oslyd Heretic
+	2 Overgrown Spellroot
+	1 Planar Reflection
+	12 Poisoned Pupil
+	12 Portent of Doom
+	6 Power Jam
+	12 Practical Battlemage
+	12 Preparation
+	6 Purestrike Rebel
+	12 Rangewalker Giant
+	12 Rangewalker Pyromancer
+	6 Ravencaller
+	6 Raving Student
+	6 Reach of the Sha
+	1 Reflected Worldwalker
+	12 Reforged Relic
+	6 Reformed Seeker
+	6 Refract
+	12 Relentless Researcher
+	12 Retrace Histories
+	12 Return to Service
+	12 Revived Colpah
+	2 Revoke
+	12 Ritesinger Shaman
+	2 Rock // Roll
+	2 Rock // Roll
+	12 Rot Invoker
+	12 Rotted Kalak
+	6 Safe // Sound
+	6 Safe // Sound
+	6 Sandstrider
+	6 Scout the Chantwoods
+	12 Searing Recaller
+	2 Sever Existence
+	6 Sha's Summons
+	12 Shapen Spellroot
+	6 Shard Flower
+	6 Shard Sword
+	2 Shattered Mirrorwalker
+	1 Shimmering Dragon
+	1 Shimmersting
+	12 Sift Components
+	6 Sigil Slinger
+	2 Sigil of Echoes
+	6 Slightly Mad
+	12 Sluiceway Shrieker
+	6 Spellbound Serpent
+	1 Spellwoven Monster
+	6 Spilling Secrets
+	12 Spiritual Colpah
+	12 Splintering Scuttler
+	12 Splitting Phantasm
+	6 Spring Recaller
+	1 Starfall Singer
+	6 Steamwalker
+	6 Storm Entity
+	12 Student of Secrets
+	6 Sunken Cavern
+	6 Sunny Dunes
+	2 Surging Kalak
+	2 Sweep Stakes
+	6 Sword // Board
+	6 Sword // Board
+	6 Tale of Two Sons
+	1 The Warrior Within
+	2 Time // Again
+	2 Time // Again
+	12 Toggle
+	6 Trade Blows
+	12 Trench Breaker
+	12 Tunnel Map
+	6 Twin Trifles
+	12 Twinned Slasher
+	6 Twisted Echo
+	6 Twisted Legacy
+	6 Unhallowed Singers
+	6 Unreflected Cultist
+	6 Untouched Wilds
+	6 Unveil
+	12 Vampiric Rise
+	2 Vaneir, Necromaster
+	12 Vigil Invoker
+	6 Wild Hermit
+	2 Zana, the Dreamer
+[wildcard(1)]
+	6 Abandoned Hermit
+	15 Above // Beyond
+	15 Above // Beyond
+	6 Adamant Cultist
+	7 Alita Dawnstrike
+	6 Analyze the Deep
+	6 Avoid Fate
+	7 Bazaar Guardian
+	7 Bazaar Trickster
+	6 Bird with the Word
+	6 Blazing Mirage
+	6 Bleak Cultist
+	6 Blessed Spellroot
+	6 Blind Spellfeeder
+	15 Blood Lashing
+	15 Bridge Kalak
+	6 Bronze Giant
+	15 Buried Secrets
+	15 Carving Secrets
+	15 Cavern Monstrosity
+	7 Chain of Decimation
+	4 Channel the Mirror
+	7 Chantwood Channeler
+	15 Chantwood Cultist
+	6 Chantwood Guards
+	15 Churning Spellroot
+	6 Claw Crusher
+	7 Clawing Shaman
+	6 Clinging Mire
+	6 Colpah Charmer
+	7 Colpah Mystic
+	15 Controlled Burn
+	4 Corrupted Bloodline
+	7 Cranial Violation
+	6 Crystallized Moment
+	15 Cultist's Dagger
+	7 Curious Statue
+	15 Deepcaller Cultist
+	6 Delude
+	6 Deserted Monk
+	15 Devouring Spellroot
+	7 Dignity // Grace
+	7 Dignity // Grace
+	7 Dissipator Mage
+	6 Distant Misthorns
+	6 Divert Attention
+	7 Dragonblood Slayer
+	6 Draw and Quarter
+	7 Dreamfire
+	6 Dredge the Graves
+	6 Duela Alchemist
+	6 Duela Duelist
+	6 Duela Marshall
+	15 Duela Science Kit
+	15 Dusk Chord
+	6 Dwarven Fireslinger
+	6 Dwarven Inquisitor
+	7 Dwarven Twinslinger
+	6 Echo Cleric
+	6 Echo Striker
+	6 Echoing Determination
+	6 Echoing Rites
+	6 Echoing Silence
+	6 Echoing Sunder
+	6 Echoing Thunder
+	7 Endless Reverie
+	15 Endless Walc
+	6 Energize
+	7 Ensouler of Blades
+	15 Essence Weaver
+	6 Eternal Nightwalker
+	6 Excavation Engine
+	6 Exploit Fear
+	15 Eyes of Endless Fates
+	15 Faded Sacrifice
+	6 Fallen Fanatic
+	6 Fallow Grave
+	6 False Shimmer
+	6 Farseek
+	6 Fatethief
+	6 Fatetwist Shaman
+	6 Fatewrench
+	15 Feed Into Aether
+	6 Fertile Grave
+	6 Fickle Feeder
+	15 Fight or Fade
+	6 Fine Craftsmanship
+	15 Flames of the Forge
+	6 Flinging Invoker
+	15 Flotsam // Jetsam
+	15 Flotsam // Jetsam
+	6 Forge Trick
+	15 Forging Blade
+	15 Forgotten Fall
+	6 Fortified Flightsuit
+	15 Frozen Halo
+	15 Fueled Flame
+	15 Ghastly Castle
+	6 Gleaming Dream
+	15 Gleaming Veldt
+	6 Gravantee
+	15 Grisly Marsh
+	15 Heat of the Moment
+	15 High // Mighty
+	15 High // Mighty
+	15 Hired Kalak
+	7 Infiltrate Memory
+	6 Intangible Company
+	7 Kohmo the Grizzled
+	6 Last-Thought Feeder
+	6 Lavastep Colossus
+	7 Learn from Mistakes
+	7 Lha Elite
+	7 Lha Maria
+	4 Lha Sha'rador
+	6 Lha Striker
+	6 Lift Off
+	7 Lightcrafter
+	7 Lo // Behold
+	7 Lo // Behold
+	7 Manifest Memories
+	6 Market Caster
+	15 Mei's Student
+	4 Mei Liva, the Forsaken
+	6 Melt Down
+	6 Memory Collector
+	7 Memory Deterioration
+	7 Mental Meltdown
+	6 Might of the Oslyd
+	6 Mightlight
+	7 Mindrip
+	15 Mirage Adept
+	6 Mirage Bracers
+	6 Mirage Caster
+	7 Mirage Keeper
+	7 Mirage Master
+	6 Mirrored Mirage
+	6 Mirrorform
+	4 Mirrorfuse Angel
+	6 Mirrorstalk
+	7 Mirrorstorm
+	15 Noirohpo Renegade
+	7 Obliterate Flesh
+	7 One // Done
+	7 One // Done
+	15 Open the Wilds
+	6 Ore Tunneler
+	6 Oslyd Dreamer
+	15 Oslyd Heretic
+	7 Overgrown Spellroot
+	4 Planar Reflection
+	6 Poisoned Pupil
+	6 Portent of Doom
+	15 Power Jam
+	6 Practical Battlemage
+	6 Preparation
+	15 Purestrike Rebel
+	6 Rangewalker Giant
+	6 Rangewalker Pyromancer
+	15 Ravencaller
+	15 Raving Student
+	15 Reach of the Sha
+	4 Reflected Worldwalker
+	6 Reforged Relic
+	15 Reformed Seeker
+	15 Refract
+	6 Relentless Researcher
+	6 Retrace Histories
+	6 Return to Service
+	6 Revived Colpah
+	7 Revoke
+	6 Ritesinger Shaman
+	7 Rock // Roll
+	7 Rock // Roll
+	6 Rot Invoker
+	6 Rotted Kalak
+	15 Safe // Sound
+	15 Safe // Sound
+	15 Sandstrider
+	15 Scout the Chantwoods
+	6 Searing Recaller
+	7 Sever Existence
+	15 Sha's Summons
+	6 Shapen Spellroot
+	15 Shard Flower
+	15 Shard Sword
+	7 Shattered Mirrorwalker
+	4 Shimmering Dragon
+	4 Shimmersting
+	6 Sift Components
+	15 Sigil Slinger
+	7 Sigil of Echoes
+	15 Slightly Mad
+	6 Sluiceway Shrieker
+	15 Spellbound Serpent
+	4 Spellwoven Monster
+	15 Spilling Secrets
+	6 Spiritual Colpah
+	6 Splintering Scuttler
+	6 Splitting Phantasm
+	15 Spring Recaller
+	4 Starfall Singer
+	15 Steamwalker
+	15 Storm Entity
+	6 Student of Secrets
+	15 Sunken Cavern
+	15 Sunny Dunes
+	7 Surging Kalak
+	7 Sweep Stakes
+	15 Sword // Board
+	15 Sword // Board
+	15 Tale of Two Sons
+	4 The Warrior Within
+	7 Time // Again
+	7 Time // Again
+	6 Toggle
+	15 Trade Blows
+	6 Trench Breaker
+	6 Tunnel Map
+	15 Twin Trifles
+	6 Twinned Slasher
+	15 Twisted Echo
+	15 Twisted Legacy
+	15 Unhallowed Singers
+	15 Unreflected Cultist
+	15 Untouched Wilds
+	15 Unveil
+	6 Vampiric Rise
+	7 Vaneir, Necromaster
+	6 Vigil Invoker
+	15 Wild Hermit
+	7 Zana, the Dreamer

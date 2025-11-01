@@ -1,0 +1,3250 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abandoned Monument",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Across the Threshold",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Aether Corsair",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Orc Pirate",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Aether Crosser",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Aether Gateway",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Aether Road Caravan",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Wizard Scout",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Aethercrafting",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Aethermancer's Familiar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Cat",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Ageless Weaver",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Aurashaper Shaman",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Akkrixian Ambassador",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Insect Aurashaper Advisor",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Akkrixian Assailants",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Alethea, Syzygy Captain",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Amber Reserves",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Arbor Protector",
+			"rarity": "common",
+			"mana_cost": "{7}{G}{G}",
+			"type": "Creature — Treefolk Shaman",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Arboreal Runes",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Archaeological Experience",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Ardent Explorers",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Autumn Canopy",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Basalt Ritualist",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Druid",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Beneath the Zhedina",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Benthic Thaumaturge",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Shaman",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Blackrift Dryad",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Dryad Warlock",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Blossoming Expanse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Blossoming Inspiration",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Brine Fleet Bay",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land — Vehicle",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Brinechum",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Fish Elemental",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "By the Sea",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Caldera Crawlers",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Elemental Salamander",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Caronas, Eon Wanderer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Cave Diving",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Chamber of Reflections",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Champion of Scales",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Chronosphere Sovereign",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{R}{W}",
+			"type": "Creature — Sphinx",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Cloudshaper Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Cloudsteel Summit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Contested Discovery",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Crater Burst",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Crest Skimmer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Crossing the Rifts",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Crossworld Wanderer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Treefolk Scout",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Cryptic Sentinel",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Cursed Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Customs Lookout",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Cyone, Expedition Captain",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Destabilizing the Rifts",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Dimensional Reshaper",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Distant Worlds",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Dreadfire Tyrant",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{W}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Dreamscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Dustchoked Outpost",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Endless Trove",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Entropic Harvest",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Epoch Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Eternal Reactor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Ethereal Stone",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Excursion Contingent",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard Scout",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Exhilarating Journey",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Expedition Post",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Explorer's Ascent",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Far-Realm Guardian",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Aurashaper Warrior",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Farwander Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Fathom Diver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Fearless Realmwalker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Fenhauler Gang",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Feral Ornithax",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Bird Beast",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Filch",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Forest_WAY",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Remains",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Fractured Reach",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Fungal Swathe",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Gathering Beacon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Ghostspore Mire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Gilded Gulch",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Glacial Shelf",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Glimmer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Gloam Gullet",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Frog Fungus",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Grand Expeditions",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Grove of Embers",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Guided by the Weave",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Gyr, Awoken World",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Gyreon Pickpocket",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Gyreon Smuggling",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Harrowing Experience",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Heart of Zhedina",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Heartwalker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Highwild Survivalist",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Honored Spellthreader",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Hot Streak",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Hunter of Incantations",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Hunting Experience",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Idravir, the Last City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Iknan, the Last Gildmane",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Plant Cat",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Incense Stoker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Wizard",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Interplanar Raid",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Into the Unknown",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Intrepid",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Island_WAY",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Isolated",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Jadycian Empath",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Shaman",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Journey's End",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Journey to the Otherworlds",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Journey to the Syzygy Spire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Journey to the Zhedina",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Journeying Giftbearer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Cat Aurashaper Cleric",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Kilnfire",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Krismite Purveyor",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Krismite Shard",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Krismite Vault",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Lotus Lake",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Lure of Adventure",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Mabil Fardancer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Planeswalker — Mabil",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Majesty of Nature",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Marrow Raptor",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Master of Imports",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Mausoleum Suffragan",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Aurashaper Cleric",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Maw of a Thousand Worlds",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{U}{R}",
+			"type": "Creature — Hydra",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Microzoologist",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Molten Falls",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Monument of Queens",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Morphic Verge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Mountain_WAY",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Mutalithic Golem",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem Shapeshifter",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Nereba, Sandchoked Archives",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Desert",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Notorious Smuggler",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Offworld Surveyors",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Opulent Proprietor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Othersea Submersible",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Gifts",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Outlander Patrol",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Paracosm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Pathshaper Mage",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Phantom Threader",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Aurashaper Cleric",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Phasmopillar",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect Mutant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Plains_WAY",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Planar Eulogist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Planar Genesis",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Planeshift",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Polyp Pools",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Kindred Land — Shapeshifter",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Portal Fracture",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Portal Inhibitor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue Wizard",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Possibility Engine",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Artifact",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Possibility Scope",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Precursor Sanctum",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Champion",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Aurashaper Soldier",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Prodigious Telemancer",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Promethean Grotto",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Pyroclastic Maw",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Elemental Wurm",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Quandary Seer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Quickmire",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Rainsculpted Gorge",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Razione Racecourse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Razorshell Marauder",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Reborn from the Ashes",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Relentless Pathcutter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elf Aurashaper Warrior",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Research Experience",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Rhyolithic Hellkite",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Rift Splicing",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Riftbreaker Mage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Riftkeeper Entity",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Rippling Curtain",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Rogg, Chaos Treader",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Goblin Warrior",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Roguish Instincts",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Rootbound Awakener",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Aurashaper Druid",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Rootwarper",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Treefolk Shaman",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Rubble Seer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Shaman",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Ruin Delver",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Saddled Scuttleback",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Crab",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Saddlesaur Guide",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Aurashaper Scout",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Salim and Certo",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Planeswalker — Salim Certo",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Scion of Calamities",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Avatar",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Scion of Desolation",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Elemental Avatar",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Scion of Flourishing",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elemental Avatar",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Scion of Storms",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Elemental Avatar",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Scion of Torrents",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elemental Avatar",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Seeds of New Life",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Seeker of Lost Secrets",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Shadowcleft Hideout",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Shambling Morass",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Elemental",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Shardstorm Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Shifting Spaces",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Shiftscale Drake",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Drake",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Shiftscape Canyon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Shiftscape Cascade",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Shiftscape Crag",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Shiftscape Grove",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Shiftscape Morass",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Shuddering Node",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Silksoul Celestial",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{B}{G}",
+			"type": "Creature — Angel",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Silkweaver Matron",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Aurashaper",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Skylight Fortress",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Smuggler's Den",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Soaring Biome",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Soaring Rainforest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Soulblade",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Sowing Spring",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Spellclad Auranaught",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Spellweaver Aureate",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Wizard",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Sphinx of Supremacy",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Sphinx Wizard",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Spitfireling",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Spoils of the Undermarket",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Starlight Beacon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Steamlit Peaks",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Stormtide Renegade",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Stormtide Sovereign",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Sunchaser Mantas",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Survival Experience",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Swamp_WAY",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Syzygy Navigator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Syzygy Privateer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Tears of Tizuma",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Telarine Ascendant",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Telarine Riftcrosser",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Telarine Runecarver",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Aurashaper",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Telarine Skychaser",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Temporal Rift",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Thermal Surger",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Thievery",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Threadspinner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit Wizard",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Timeless Shrine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Timestream Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Tomb of Shifting Sands",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Transdimensional Visitor",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Creature — Weird",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Transnaturalist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Transposition Portal",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Umberlure Angler",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Merfolk Warlock",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Undermarket Favors",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Undermarket Guildmaster",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Undermarket Hawker",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Untethered Disciple",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Insect Monk",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Untethered Spire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Vedlinn Ross",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Verdant Renewal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Vivid Mirage",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Voidflare",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Volcanic Terror",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Elemental Horror",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Voliv Edgelands",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Voliv Ritualist",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Voliv Skyhunter",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Wasteland Ravagers",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Wayfinding",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Whisper in the Rift",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{G}{U}",
+			"type": "Creature — Demon",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Worlds Away",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Worldshaper Adept",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Woven Network",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Xoqal, World Eater",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Zephyr Gliders",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Human Wizard Scout",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Zhargetan Reclaimer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Pirate",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Zhedina Bazaar",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Zhedina Coastguard",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Zhedina Confiscator",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Zhedina Envoys",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Zhedina Exchange",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Zhedina Outskirts",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Zhedina Provisioner",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Zhedina Servitor",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Zhedina Valiant",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Aurashaper",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Zhelid, Planar Academy",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Enchantment Land — Study",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/WAY-files/img/262.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Across the Threshold
+	2 Ageless Weaver
+	2 Alethea, Syzygy Captain
+	2 Blossoming Inspiration
+	2 By the Sea
+	2 Caronas, Eon Wanderer
+	2 Chamber of Reflections
+	2 Champion of Scales
+	1 Chronosphere Sovereign
+	2 Crossworld Wanderer
+	2 Cyone, Expedition Captain
+	2 Destabilizing the Rifts
+	1 Dimensional Reshaper
+	1 Dreadfire Tyrant
+	1 Ethereal Stone
+	2 Excursion Contingent
+	2 Grand Expeditions
+	2 Gyr, Awoken World
+	2 Iknan, the Last Gildmane
+	2 Interplanar Raid
+	2 Intrepid
+	2 Isolated
+	2 Lure of Adventure
+	1 Mabil Fardancer
+	2 Majesty of Nature
+	2 Master of Imports
+	1 Maw of a Thousand Worlds
+	2 Microzoologist
+	2 Mutalithic Golem
+	2 Phantom Threader
+	2 Phasmopillar
+	2 Planar Genesis
+	2 Possibility Engine
+	2 Prismatic Champion
+	2 Prodigious Telemancer
+	2 Rhyolithic Hellkite
+	2 Riftkeeper Entity
+	2 Rippling Curtain
+	2 Rogg, Chaos Treader
+	2 Ruin Delver
+	2 Saddled Scuttleback
+	1 Salim and Certo
+	1 Scion of Calamities
+	1 Scion of Desolation
+	1 Scion of Flourishing
+	1 Scion of Storms
+	1 Scion of Torrents
+	2 Seeds of New Life
+	2 Seeker of Lost Secrets
+	1 Silksoul Celestial
+	2 Soulblade
+	2 Sphinx of Supremacy
+	2 Spoils of the Undermarket
+	2 Stormtide Sovereign
+	2 Timestream Sentinel
+	2 Transdimensional Visitor
+	2 Transposition Portal
+	2 Umberlure Angler
+	2 Undermarket Guildmaster
+	2 Vedlinn Ross
+	2 Vivid Mirage
+	2 Voliv Ritualist
+	1 Whisper in the Rift
+	2 Xoqal, World Eater
+	2 Zhargetan Reclaimer
+	2 Zhedina Bazaar
+	2 Zhedina Exchange
+[uncommon(3)]
+	4 Aether Corsair
+	4 Aether Crosser
+	4 Aether Road Caravan
+	4 Aethercrafting
+	4 Aethermancer's Familiar
+	4 Amber Reserves
+	4 Arboreal Runes
+	4 Archaeological Experience
+	4 Basalt Ritualist
+	4 Beneath the Zhedina
+	4 Blackrift Dryad
+	4 Contested Discovery
+	4 Crater Burst
+	4 Distant Worlds
+	4 Entropic Harvest
+	4 Epoch Warden
+	4 Expedition Post
+	4 Farwander Guide
+	4 Fathom Diver
+	4 Fearless Realmwalker
+	4 Fenhauler Gang
+	4 Fungal Swathe
+	4 Harrowing Experience
+	4 Heartwalker
+	4 Highwild Survivalist
+	4 Hunter of Incantations
+	4 Hunting Experience
+	4 Incense Stoker
+	4 Into the Unknown
+	4 Journey's End
+	4 Journey to the Otherworlds
+	4 Journey to the Syzygy Spire
+	4 Journey to the Zhedina
+	4 Journeying Giftbearer
+	4 Krismite Purveyor
+	4 Marrow Raptor
+	4 Mausoleum Suffragan
+	4 Morphic Verge
+	4 Notorious Smuggler
+	4 Offworld Surveyors
+	4 Opulent Proprietor
+	4 Othersea Submersible
+	4 Planar Eulogist
+	4 Portal Fracture
+	4 Portal Inhibitor
+	4 Possibility Scope
+	4 Pyroclastic Maw
+	4 Relentless Pathcutter
+	4 Research Experience
+	4 Rift Splicing
+	4 Rootbound Awakener
+	4 Rootwarper
+	4 Shardstorm Elemental
+	4 Shifting Spaces
+	4 Silkweaver Matron
+	4 Spellclad Auranaught
+	4 Spitfireling
+	4 Stormtide Renegade
+	4 Sunchaser Mantas
+	4 Survival Experience
+	4 Syzygy Navigator
+	4 Syzygy Privateer
+	4 Threadspinner
+	4 Undermarket Hawker
+	4 Untethered Disciple
+	4 Verdant Renewal
+	4 Volcanic Terror
+	4 Worlds Away
+	4 Zhedina Coastguard
+	4 Zhedina Envoys
+[common(7)]
+	8 Aether Gateway
+	8 Akkrixian Ambassador
+	8 Akkrixian Assailants
+	8 Arbor Protector
+	8 Ardent Explorers
+	8 Benthic Thaumaturge
+	8 Brinechum
+	8 Caldera Crawlers
+	8 Cave Diving
+	8 Cloudshaper Pilgrim
+	8 Crest Skimmer
+	8 Crossing the Rifts
+	8 Cryptic Sentinel
+	8 Customs Lookout
+	8 Exhilarating Journey
+	8 Far-Realm Guardian
+	8 Feral Ornithax
+	8 Filch
+	8 Forgotten Remains
+	8 Glimmer
+	8 Gloam Gullet
+	8 Guided by the Weave
+	8 Gyreon Pickpocket
+	8 Gyreon Smuggling
+	8 Honored Spellthreader
+	8 Hot Streak
+	8 Jadycian Empath
+	8 Kilnfire
+	8 Krismite Shard
+	8 Otherworldly Forest
+	8 Otherworldly Gifts
+	8 Otherworldly Island
+	8 Otherworldly Mountain
+	8 Otherworldly Plains
+	8 Otherworldly Swamp
+	8 Outlander Patrol
+	8 Pathshaper Mage
+	8 Planeshift
+	8 Quandary Seer
+	8 Quickmire
+	8 Razorshell Marauder
+	8 Reborn from the Ashes
+	8 Riftbreaker Mage
+	8 Roguish Instincts
+	8 Rubble Seer
+	8 Saddlesaur Guide
+	8 Shambling Morass
+	8 Shiftscale Drake
+	8 Soaring Biome
+	8 Sowing Spring
+	8 Spellweaver Aureate
+	8 Telarine Ascendant
+	8 Telarine Riftcrosser
+	8 Telarine Runecarver
+	8 Telarine Skychaser
+	8 Temporal Rift
+	8 Thermal Surger
+	8 Thievery
+	8 Transnaturalist
+	8 Undermarket Favors
+	8 Voidflare
+	8 Voliv Skyhunter
+	8 Wasteland Ravagers
+	8 Wayfinding
+	8 Worldshaper Adept
+	8 Zephyr Gliders
+	8 Zhedina Confiscator
+	8 Zhedina Provisioner
+	8 Zhedina Servitor
+	8 Zhedina Valiant
+[foil(1)]
+	2 Across the Threshold
+	6 Aether Corsair
+	6 Aether Crosser
+	12 Aether Gateway
+	6 Aether Road Caravan
+	6 Aethercrafting
+	6 Aethermancer's Familiar
+	2 Ageless Weaver
+	12 Akkrixian Ambassador
+	12 Akkrixian Assailants
+	2 Alethea, Syzygy Captain
+	6 Amber Reserves
+	12 Arbor Protector
+	6 Arboreal Runes
+	6 Archaeological Experience
+	12 Ardent Explorers
+	6 Basalt Ritualist
+	6 Beneath the Zhedina
+	12 Benthic Thaumaturge
+	6 Blackrift Dryad
+	2 Blossoming Inspiration
+	12 Brinechum
+	2 By the Sea
+	12 Caldera Crawlers
+	2 Caronas, Eon Wanderer
+	12 Cave Diving
+	2 Chamber of Reflections
+	2 Champion of Scales
+	1 Chronosphere Sovereign
+	12 Cloudshaper Pilgrim
+	6 Contested Discovery
+	6 Crater Burst
+	12 Crest Skimmer
+	12 Crossing the Rifts
+	2 Crossworld Wanderer
+	12 Cryptic Sentinel
+	12 Customs Lookout
+	2 Cyone, Expedition Captain
+	2 Destabilizing the Rifts
+	1 Dimensional Reshaper
+	6 Distant Worlds
+	1 Dreadfire Tyrant
+	6 Entropic Harvest
+	6 Epoch Warden
+	1 Ethereal Stone
+	2 Excursion Contingent
+	12 Exhilarating Journey
+	6 Expedition Post
+	12 Far-Realm Guardian
+	6 Farwander Guide
+	6 Fathom Diver
+	6 Fearless Realmwalker
+	6 Fenhauler Gang
+	12 Feral Ornithax
+	12 Filch
+	12 Forgotten Remains
+	6 Fungal Swathe
+	12 Glimmer
+	12 Gloam Gullet
+	2 Grand Expeditions
+	12 Guided by the Weave
+	2 Gyr, Awoken World
+	12 Gyreon Pickpocket
+	12 Gyreon Smuggling
+	6 Harrowing Experience
+	6 Heartwalker
+	6 Highwild Survivalist
+	12 Honored Spellthreader
+	12 Hot Streak
+	6 Hunter of Incantations
+	6 Hunting Experience
+	2 Iknan, the Last Gildmane
+	6 Incense Stoker
+	2 Interplanar Raid
+	6 Into the Unknown
+	2 Intrepid
+	2 Isolated
+	12 Jadycian Empath
+	6 Journey's End
+	6 Journey to the Otherworlds
+	6 Journey to the Syzygy Spire
+	6 Journey to the Zhedina
+	6 Journeying Giftbearer
+	12 Kilnfire
+	6 Krismite Purveyor
+	12 Krismite Shard
+	2 Lure of Adventure
+	1 Mabil Fardancer
+	2 Majesty of Nature
+	6 Marrow Raptor
+	2 Master of Imports
+	6 Mausoleum Suffragan
+	1 Maw of a Thousand Worlds
+	2 Microzoologist
+	6 Morphic Verge
+	2 Mutalithic Golem
+	6 Notorious Smuggler
+	6 Offworld Surveyors
+	6 Opulent Proprietor
+	6 Othersea Submersible
+	12 Otherworldly Forest
+	12 Otherworldly Gifts
+	12 Otherworldly Island
+	12 Otherworldly Mountain
+	12 Otherworldly Plains
+	12 Otherworldly Swamp
+	12 Outlander Patrol
+	12 Pathshaper Mage
+	2 Phantom Threader
+	2 Phasmopillar
+	6 Planar Eulogist
+	2 Planar Genesis
+	12 Planeshift
+	6 Portal Fracture
+	6 Portal Inhibitor
+	2 Possibility Engine
+	6 Possibility Scope
+	2 Prismatic Champion
+	2 Prodigious Telemancer
+	6 Pyroclastic Maw
+	12 Quandary Seer
+	12 Quickmire
+	12 Razorshell Marauder
+	12 Reborn from the Ashes
+	6 Relentless Pathcutter
+	6 Research Experience
+	2 Rhyolithic Hellkite
+	6 Rift Splicing
+	12 Riftbreaker Mage
+	2 Riftkeeper Entity
+	2 Rippling Curtain
+	2 Rogg, Chaos Treader
+	12 Roguish Instincts
+	6 Rootbound Awakener
+	6 Rootwarper
+	12 Rubble Seer
+	2 Ruin Delver
+	2 Saddled Scuttleback
+	12 Saddlesaur Guide
+	1 Salim and Certo
+	1 Scion of Calamities
+	1 Scion of Desolation
+	1 Scion of Flourishing
+	1 Scion of Storms
+	1 Scion of Torrents
+	2 Seeds of New Life
+	2 Seeker of Lost Secrets
+	12 Shambling Morass
+	6 Shardstorm Elemental
+	6 Shifting Spaces
+	12 Shiftscale Drake
+	1 Silksoul Celestial
+	6 Silkweaver Matron
+	12 Soaring Biome
+	2 Soulblade
+	12 Sowing Spring
+	6 Spellclad Auranaught
+	12 Spellweaver Aureate
+	2 Sphinx of Supremacy
+	6 Spitfireling
+	2 Spoils of the Undermarket
+	6 Stormtide Renegade
+	2 Stormtide Sovereign
+	6 Sunchaser Mantas
+	6 Survival Experience
+	6 Syzygy Navigator
+	6 Syzygy Privateer
+	12 Telarine Ascendant
+	12 Telarine Riftcrosser
+	12 Telarine Runecarver
+	12 Telarine Skychaser
+	12 Temporal Rift
+	12 Thermal Surger
+	12 Thievery
+	6 Threadspinner
+	2 Timestream Sentinel
+	2 Transdimensional Visitor
+	12 Transnaturalist
+	2 Transposition Portal
+	2 Umberlure Angler
+	12 Undermarket Favors
+	2 Undermarket Guildmaster
+	6 Undermarket Hawker
+	6 Untethered Disciple
+	2 Vedlinn Ross
+	6 Verdant Renewal
+	2 Vivid Mirage
+	12 Voidflare
+	6 Volcanic Terror
+	2 Voliv Ritualist
+	12 Voliv Skyhunter
+	12 Wasteland Ravagers
+	12 Wayfinding
+	1 Whisper in the Rift
+	6 Worlds Away
+	12 Worldshaper Adept
+	2 Xoqal, World Eater
+	12 Zephyr Gliders
+	2 Zhargetan Reclaimer
+	2 Zhedina Bazaar
+	6 Zhedina Coastguard
+	12 Zhedina Confiscator
+	6 Zhedina Envoys
+	2 Zhedina Exchange
+	12 Zhedina Provisioner
+	12 Zhedina Servitor
+	12 Zhedina Valiant
+[wildcard(1)]
+	7 Across the Threshold
+	15 Aether Corsair
+	15 Aether Crosser
+	6 Aether Gateway
+	15 Aether Road Caravan
+	15 Aethercrafting
+	15 Aethermancer's Familiar
+	7 Ageless Weaver
+	6 Akkrixian Ambassador
+	6 Akkrixian Assailants
+	7 Alethea, Syzygy Captain
+	15 Amber Reserves
+	6 Arbor Protector
+	15 Arboreal Runes
+	15 Archaeological Experience
+	6 Ardent Explorers
+	15 Basalt Ritualist
+	15 Beneath the Zhedina
+	6 Benthic Thaumaturge
+	15 Blackrift Dryad
+	7 Blossoming Inspiration
+	6 Brinechum
+	7 By the Sea
+	6 Caldera Crawlers
+	7 Caronas, Eon Wanderer
+	6 Cave Diving
+	7 Chamber of Reflections
+	7 Champion of Scales
+	4 Chronosphere Sovereign
+	6 Cloudshaper Pilgrim
+	15 Contested Discovery
+	15 Crater Burst
+	6 Crest Skimmer
+	6 Crossing the Rifts
+	7 Crossworld Wanderer
+	6 Cryptic Sentinel
+	6 Customs Lookout
+	7 Cyone, Expedition Captain
+	7 Destabilizing the Rifts
+	4 Dimensional Reshaper
+	15 Distant Worlds
+	4 Dreadfire Tyrant
+	15 Entropic Harvest
+	15 Epoch Warden
+	4 Ethereal Stone
+	7 Excursion Contingent
+	6 Exhilarating Journey
+	15 Expedition Post
+	6 Far-Realm Guardian
+	15 Farwander Guide
+	15 Fathom Diver
+	15 Fearless Realmwalker
+	15 Fenhauler Gang
+	6 Feral Ornithax
+	6 Filch
+	6 Forgotten Remains
+	15 Fungal Swathe
+	6 Glimmer
+	6 Gloam Gullet
+	7 Grand Expeditions
+	6 Guided by the Weave
+	7 Gyr, Awoken World
+	6 Gyreon Pickpocket
+	6 Gyreon Smuggling
+	15 Harrowing Experience
+	15 Heartwalker
+	15 Highwild Survivalist
+	6 Honored Spellthreader
+	6 Hot Streak
+	15 Hunter of Incantations
+	15 Hunting Experience
+	7 Iknan, the Last Gildmane
+	15 Incense Stoker
+	7 Interplanar Raid
+	15 Into the Unknown
+	7 Intrepid
+	7 Isolated
+	6 Jadycian Empath
+	15 Journey's End
+	15 Journey to the Otherworlds
+	15 Journey to the Syzygy Spire
+	15 Journey to the Zhedina
+	15 Journeying Giftbearer
+	6 Kilnfire
+	15 Krismite Purveyor
+	6 Krismite Shard
+	7 Lure of Adventure
+	4 Mabil Fardancer
+	7 Majesty of Nature
+	15 Marrow Raptor
+	7 Master of Imports
+	15 Mausoleum Suffragan
+	4 Maw of a Thousand Worlds
+	7 Microzoologist
+	15 Morphic Verge
+	7 Mutalithic Golem
+	15 Notorious Smuggler
+	15 Offworld Surveyors
+	15 Opulent Proprietor
+	15 Othersea Submersible
+	6 Otherworldly Forest
+	6 Otherworldly Gifts
+	6 Otherworldly Island
+	6 Otherworldly Mountain
+	6 Otherworldly Plains
+	6 Otherworldly Swamp
+	6 Outlander Patrol
+	6 Pathshaper Mage
+	7 Phantom Threader
+	7 Phasmopillar
+	15 Planar Eulogist
+	7 Planar Genesis
+	6 Planeshift
+	15 Portal Fracture
+	15 Portal Inhibitor
+	7 Possibility Engine
+	15 Possibility Scope
+	7 Prismatic Champion
+	7 Prodigious Telemancer
+	15 Pyroclastic Maw
+	6 Quandary Seer
+	6 Quickmire
+	6 Razorshell Marauder
+	6 Reborn from the Ashes
+	15 Relentless Pathcutter
+	15 Research Experience
+	7 Rhyolithic Hellkite
+	15 Rift Splicing
+	6 Riftbreaker Mage
+	7 Riftkeeper Entity
+	7 Rippling Curtain
+	7 Rogg, Chaos Treader
+	6 Roguish Instincts
+	15 Rootbound Awakener
+	15 Rootwarper
+	6 Rubble Seer
+	7 Ruin Delver
+	7 Saddled Scuttleback
+	6 Saddlesaur Guide
+	4 Salim and Certo
+	4 Scion of Calamities
+	4 Scion of Desolation
+	4 Scion of Flourishing
+	4 Scion of Storms
+	4 Scion of Torrents
+	7 Seeds of New Life
+	7 Seeker of Lost Secrets
+	6 Shambling Morass
+	15 Shardstorm Elemental
+	15 Shifting Spaces
+	6 Shiftscale Drake
+	4 Silksoul Celestial
+	15 Silkweaver Matron
+	6 Soaring Biome
+	7 Soulblade
+	6 Sowing Spring
+	15 Spellclad Auranaught
+	6 Spellweaver Aureate
+	7 Sphinx of Supremacy
+	15 Spitfireling
+	7 Spoils of the Undermarket
+	15 Stormtide Renegade
+	7 Stormtide Sovereign
+	15 Sunchaser Mantas
+	15 Survival Experience
+	15 Syzygy Navigator
+	15 Syzygy Privateer
+	6 Telarine Ascendant
+	6 Telarine Riftcrosser
+	6 Telarine Runecarver
+	6 Telarine Skychaser
+	6 Temporal Rift
+	6 Thermal Surger
+	6 Thievery
+	15 Threadspinner
+	7 Timestream Sentinel
+	7 Transdimensional Visitor
+	6 Transnaturalist
+	7 Transposition Portal
+	7 Umberlure Angler
+	6 Undermarket Favors
+	7 Undermarket Guildmaster
+	15 Undermarket Hawker
+	15 Untethered Disciple
+	7 Vedlinn Ross
+	15 Verdant Renewal
+	7 Vivid Mirage
+	6 Voidflare
+	15 Volcanic Terror
+	7 Voliv Ritualist
+	6 Voliv Skyhunter
+	6 Wasteland Ravagers
+	6 Wayfinding
+	4 Whisper in the Rift
+	15 Worlds Away
+	6 Worldshaper Adept
+	7 Xoqal, World Eater
+	6 Zephyr Gliders
+	7 Zhargetan Reclaimer
+	7 Zhedina Bazaar
+	15 Zhedina Coastguard
+	6 Zhedina Confiscator
+	15 Zhedina Envoys
+	7 Zhedina Exchange
+	6 Zhedina Provisioner
+	6 Zhedina Servitor
+	6 Zhedina Valiant

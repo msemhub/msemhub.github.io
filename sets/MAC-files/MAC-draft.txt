@@ -1,0 +1,1149 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Act of Repentance",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Adiran Distractor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Adiran Scryers",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Adiran Survivors",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Aerida, Envious Chronomancer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Planeswalker — Aerida",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Aerida's Assistant",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Aerida's Study",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment — Study",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Algrin's Legacy",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Almgrove Ambassador",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Noble",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Anarchy Storm",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Appeal to the Ancestors",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Artist's Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Burgeoning Blooms",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Buy Time",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Champion of the Red Dawn",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Chance at Redemption",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Charming Marauder",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Cognitive Fumigator",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Collapsing Realities",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Conjure Realities",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Consuming Symbiosis",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Contemplate Obscurity",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Crystal Wave_MAC",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Culminating Chaos",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Culminating Conspiracy",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Culminating Despair",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Culminating Salvation",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Culminating Wisdom",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "End of Worlds",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Equilibrium Paladin",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Wizard Soldier",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Fading Dead",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Fallacy's Channeler",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Fallacy's Sanctifier",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Fate Charm",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Fateseeker's Orb",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Felice, Adira's Salvation",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Felice",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Felice's Defiance",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Felice's Study",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment — Study",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Foliage Hunter",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Forest_MAC",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Heraldry",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "In Tragedy",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Inspire Actuality",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Island_MAC",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Litany of Renewal",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Master of Masks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Creature — Elf Shapeshifter",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Mirrorplate Exemplar",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Mountain_MAC",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Mystic of Many Winds",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Once Abandoned",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Once Betrayed",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Once Denied",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Once Scarred",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Once Shunned",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Ophidian Oracle",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Over the Horizon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Paradox Rings",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Paragon of Purity",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Plains_MAC",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Poisoned Tonic",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Potion of Inhibition",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Recalculation",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Refracted Thoughts",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Repent, Daughter of Fallacy",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Root Dancer",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Rubble Tender",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Seek Refuge",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Seeker of Horizons",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Seeking Sword",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Shroud in Paranoia",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Speaker of the Iris",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Spectrum Archmage_MAC",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Stark Copse",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Stark Hinterlands",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Stark Horizon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Stark Stream",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Stark Wildfire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Starvation",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Strayseeker Ranger",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Soldier Ranger",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Swamp_MAC",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Theurgist of the Depths",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Creature — Merfolk",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Through Worlds",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Unbound Horizons",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Wicked Blow",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Withering Husk",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Forest_PRO_MAC",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Island_PRO_MAC",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Mountain_PRO_MAC",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Plains_PRO_MAC",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Swamp_PRO_MAC",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MAC-files/img/90.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Act of Repentance
+	2 Adiran Distractor
+	2 Adiran Scryers
+	2 Adiran Survivors
+	1 Aerida, Envious Chronomancer
+	2 Aerida's Assistant
+	2 Aerida's Study
+	2 Algrin's Legacy
+	2 Almgrove Ambassador
+	2 Anarchy Storm
+	2 Appeal to the Ancestors
+	2 Artist's Vista
+	2 Burgeoning Blooms
+	2 Buy Time
+	2 Champion of the Red Dawn
+	2 Chance at Redemption
+	2 Charming Marauder
+	2 Cognitive Fumigator
+	2 Collapsing Realities
+	2 Conjure Realities
+	2 Consuming Symbiosis
+	2 Contemplate Obscurity
+	2 Crystal Wave_MAC
+	2 Culminating Chaos
+	2 Culminating Conspiracy
+	2 Culminating Despair
+	2 Culminating Salvation
+	2 Culminating Wisdom
+	2 End of Worlds
+	2 Equilibrium Paladin
+	2 Fading Dead
+	2 Fallacy's Channeler
+	2 Fallacy's Sanctifier
+	2 Fate Charm
+	2 Fateseeker's Orb
+	1 Felice, Adira's Salvation
+	2 Felice's Defiance
+	2 Felice's Study
+	2 Foliage Hunter
+	2 Heraldry
+	2 In Tragedy
+	2 Inspire Actuality
+	2 Litany of Renewal
+	2 Master of Masks
+	2 Mirrorplate Exemplar
+	2 Mystic of Many Winds
+	2 Once Abandoned
+	2 Once Betrayed
+	2 Once Denied
+	2 Once Scarred
+	2 Once Shunned
+	2 Ophidian Oracle
+	2 Over the Horizon
+	2 Paradox Rings
+	2 Paragon of Purity
+	2 Poisoned Tonic
+	2 Potion of Inhibition
+	2 Recalculation
+	2 Refracted Thoughts
+	2 Repent, Daughter of Fallacy
+	2 Root Dancer
+	2 Rubble Tender
+	2 Seek Refuge
+	2 Seeker of Horizons
+	2 Seeking Sword
+	2 Shroud in Paranoia
+	2 Speaker of the Iris
+	2 Spectrum Archmage_MAC
+	2 Stark Copse
+	2 Stark Hinterlands
+	2 Stark Horizon
+	2 Stark Stream
+	2 Stark Wildfire
+	2 Starvation
+	2 Strayseeker Ranger
+	2 Theurgist of the Depths
+	2 Through Worlds
+	2 Unbound Horizons
+	2 Wicked Blow
+	2 Withering Husk
+[uncommon(3)]
+[common(7)]
+[foil(1)]
+	2 Act of Repentance
+	2 Adiran Distractor
+	2 Adiran Scryers
+	2 Adiran Survivors
+	1 Aerida, Envious Chronomancer
+	2 Aerida's Assistant
+	2 Aerida's Study
+	2 Algrin's Legacy
+	2 Almgrove Ambassador
+	2 Anarchy Storm
+	2 Appeal to the Ancestors
+	2 Artist's Vista
+	2 Burgeoning Blooms
+	2 Buy Time
+	2 Champion of the Red Dawn
+	2 Chance at Redemption
+	2 Charming Marauder
+	2 Cognitive Fumigator
+	2 Collapsing Realities
+	2 Conjure Realities
+	2 Consuming Symbiosis
+	2 Contemplate Obscurity
+	2 Crystal Wave_MAC
+	2 Culminating Chaos
+	2 Culminating Conspiracy
+	2 Culminating Despair
+	2 Culminating Salvation
+	2 Culminating Wisdom
+	2 End of Worlds
+	2 Equilibrium Paladin
+	2 Fading Dead
+	2 Fallacy's Channeler
+	2 Fallacy's Sanctifier
+	2 Fate Charm
+	2 Fateseeker's Orb
+	1 Felice, Adira's Salvation
+	2 Felice's Defiance
+	2 Felice's Study
+	2 Foliage Hunter
+	2 Heraldry
+	2 In Tragedy
+	2 Inspire Actuality
+	2 Litany of Renewal
+	2 Master of Masks
+	2 Mirrorplate Exemplar
+	2 Mystic of Many Winds
+	2 Once Abandoned
+	2 Once Betrayed
+	2 Once Denied
+	2 Once Scarred
+	2 Once Shunned
+	2 Ophidian Oracle
+	2 Over the Horizon
+	2 Paradox Rings
+	2 Paragon of Purity
+	2 Poisoned Tonic
+	2 Potion of Inhibition
+	2 Recalculation
+	2 Refracted Thoughts
+	2 Repent, Daughter of Fallacy
+	2 Root Dancer
+	2 Rubble Tender
+	2 Seek Refuge
+	2 Seeker of Horizons
+	2 Seeking Sword
+	2 Shroud in Paranoia
+	2 Speaker of the Iris
+	2 Spectrum Archmage_MAC
+	2 Stark Copse
+	2 Stark Hinterlands
+	2 Stark Horizon
+	2 Stark Stream
+	2 Stark Wildfire
+	2 Starvation
+	2 Strayseeker Ranger
+	2 Theurgist of the Depths
+	2 Through Worlds
+	2 Unbound Horizons
+	2 Wicked Blow
+	2 Withering Husk
+[wildcard(1)]
+	7 Act of Repentance
+	7 Adiran Distractor
+	7 Adiran Scryers
+	7 Adiran Survivors
+	4 Aerida, Envious Chronomancer
+	7 Aerida's Assistant
+	7 Aerida's Study
+	7 Algrin's Legacy
+	7 Almgrove Ambassador
+	7 Anarchy Storm
+	7 Appeal to the Ancestors
+	7 Artist's Vista
+	7 Burgeoning Blooms
+	7 Buy Time
+	7 Champion of the Red Dawn
+	7 Chance at Redemption
+	7 Charming Marauder
+	7 Cognitive Fumigator
+	7 Collapsing Realities
+	7 Conjure Realities
+	7 Consuming Symbiosis
+	7 Contemplate Obscurity
+	7 Crystal Wave_MAC
+	7 Culminating Chaos
+	7 Culminating Conspiracy
+	7 Culminating Despair
+	7 Culminating Salvation
+	7 Culminating Wisdom
+	7 End of Worlds
+	7 Equilibrium Paladin
+	7 Fading Dead
+	7 Fallacy's Channeler
+	7 Fallacy's Sanctifier
+	7 Fate Charm
+	7 Fateseeker's Orb
+	4 Felice, Adira's Salvation
+	7 Felice's Defiance
+	7 Felice's Study
+	7 Foliage Hunter
+	7 Heraldry
+	7 In Tragedy
+	7 Inspire Actuality
+	7 Litany of Renewal
+	7 Master of Masks
+	7 Mirrorplate Exemplar
+	7 Mystic of Many Winds
+	7 Once Abandoned
+	7 Once Betrayed
+	7 Once Denied
+	7 Once Scarred
+	7 Once Shunned
+	7 Ophidian Oracle
+	7 Over the Horizon
+	7 Paradox Rings
+	7 Paragon of Purity
+	7 Poisoned Tonic
+	7 Potion of Inhibition
+	7 Recalculation
+	7 Refracted Thoughts
+	7 Repent, Daughter of Fallacy
+	7 Root Dancer
+	7 Rubble Tender
+	7 Seek Refuge
+	7 Seeker of Horizons
+	7 Seeking Sword
+	7 Shroud in Paranoia
+	7 Speaker of the Iris
+	7 Spectrum Archmage_MAC
+	7 Stark Copse
+	7 Stark Hinterlands
+	7 Stark Horizon
+	7 Stark Stream
+	7 Stark Wildfire
+	7 Starvation
+	7 Strayseeker Ranger
+	7 Theurgist of the Depths
+	7 Through Worlds
+	7 Unbound Horizons
+	7 Wicked Blow
+	7 Withering Husk

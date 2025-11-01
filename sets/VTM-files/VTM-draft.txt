@@ -1,0 +1,4284 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Acorn Assault",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Adoration",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Aerial Watch",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Vampire Warrior",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Alley Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Amateur Auteur",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Actor",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Amulet of Loyalties",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Arisen Troops",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Ascendant's Gate",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Aspiring Recluse // Apex of Augmentation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Actor",
+			"collector_number": "37",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/37a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/37a_front.jpg"
+			}
+		},
+		{
+			"name": "Aspiring Recluse // Apex of Augmentation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Actor",
+			"collector_number": "37",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/37a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/37a_front.jpg"
+			}
+		},
+		{
+			"name": "Atlas of Worlds",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Audition",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Augmented Spawn",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Merfolk Horror",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Awestone",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Awestruck_VTM",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Ayshea Tome",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Babbling Experiment",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Horror",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Backalley Cutpurse",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Backalley Silencer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Backstage Banter",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Backstage Manager",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Elf Actor",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Backstage Rooms",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Backstage Tinkers",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Bahum, the Warden",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Planeswalker — Bahum",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Bessie, the Muscle",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Planeswalker — Bessie",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Bessie's Brood",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Bessie's Crusher",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Bit Player",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Vampire Actor",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Blind Tunneler",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Wurm",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Blood Artist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Blood Overruling",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Bloodied Outcast",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Bloodline Zealot",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Bounty Crusher",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Break a Leg",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Brilliance Overbearing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Buttress Formation",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Cadalon Chemist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Cadalon Experimenter",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Cadalon Inspector",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Cadalon Outfitter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Canopy Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Warrior Scout",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Changing Room",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Chi Lee of the Underworld",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Chromatic Lantern",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Chronovore Clock",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Clock of Seasons",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Coffers of Kovach",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Compulsive Accuser",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Control Discourse",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Coral Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Cornrose, the Mighty",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Planeswalker — Cornrose",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Corpsing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Crack Open the Cache_VTM",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Crowd Favorite",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elf Actor",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Crux Pinnacle",
+			"rarity": "special",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Crystal Cauldron",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Cursory Glance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Curtain Call",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Cut Short",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Defying Gravity",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Diasune Immolator",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Diasune Irregular",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Diasune Tracker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Diasune Warleader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Distracting Performer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Actor",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Divinity",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Dragonfire Blade",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Drop of Envy",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Duelist's Choice",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Dying Breath",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Ediam, the Inside Man",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Eldritch Egg",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Artifact",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Elsewhere Mirror",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Elven Guard // Diasune's First",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Actor",
+			"collector_number": "143",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/143a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/143a_front.jpg"
+			}
+		},
+		{
+			"name": "Elven Guard // Diasune's First",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Actor",
+			"collector_number": "143",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/143a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/143a_front.jpg"
+			}
+		},
+		{
+			"name": "Encore",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Encrypted Monument",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Enlightened Sigil",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Epic Confrontation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Eternity Pendant",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Evigial Winds",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Evigian Crusher",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Evigian Noble // Mistress of Frost",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Actor",
+			"collector_number": "13",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/13a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/13a_front.jpg"
+			}
+		},
+		{
+			"name": "Evigian Noble // Mistress of Frost",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Actor",
+			"collector_number": "13",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/13a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/13a_front.jpg"
+			}
+		},
+		{
+			"name": "Evigian Sculptor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Evigian Titan",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Giant Warrior Wizard",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Evolving Wilds_VTM",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Exeunt",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Exit, Pursued by a Bear",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "First Blood",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Flameblade",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Flawless Heist",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Flight of the Phoenix",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Forest_VTM",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Forsaken Bloodletter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Furor of the Bitten_VTM",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Gentleman Thief",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Ghost Light",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Gilded Cipher",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Gilded Hawk",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Gilded Lotus",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Glistening Chalice",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Goblet of Unhallowed Blood",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Golden Helm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Golden Touch",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Grab Bag",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Grafted Experiment",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Horror",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Grieved Outburst",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Growing Pains",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Harms Dealer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Hats Off",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Heddwyn, the Law",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Planeswalker — Heddwyn",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Heist Headquarters",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Her Ascension",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Hidden Hollow",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Impatient Busker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Actor",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Into the Woods",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Invisibility Cloak",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Island_VTM",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Isochron Wand",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Joyous Chromatelk",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Elk",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Kiku, the Gadgeteer",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Komurk Harvester",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Komurk Raid",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Lantern Tender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Actor",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Leaping Dancer // Immaculate Clouddasher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Actor",
+			"collector_number": "18",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/18a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/18a_front.jpg"
+			}
+		},
+		{
+			"name": "Leaping Dancer // Immaculate Clouddasher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Actor",
+			"collector_number": "18",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/18a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/18a_front.jpg"
+			}
+		},
+		{
+			"name": "Legitimate Establishment",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Life's Work",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Lightless Hedron",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Linebreaker Wurm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Lively Prop",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Bear Actor",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Living Script",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Lodestone Golem",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Loose Ends",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Lost Memories",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Lost in Smoke",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Lucien, the Grifter",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Planeswalker — Lucien",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Malign Growth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Masoh, Hitana's Monster",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Mei, the Infiltrator",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Planeswalker — Mei",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Mei's Collector",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Mei's Understudy",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Vampire Actor",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Mentorb",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Merfolk Vandal // Shoreline Stormers",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Actor",
+			"collector_number": "52",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/52a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/52a_front.jpg"
+			}
+		},
+		{
+			"name": "Merfolk Vandal // Shoreline Stormers",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Actor",
+			"collector_number": "52",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/52a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/52a_front.jpg"
+			}
+		},
+		{
+			"name": "Mindlock Field",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Mirrored Mask",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Miscast",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Mnemonic Curator",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Moonlit Charmer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Mountain_VTM",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Multipurpose Mannequin",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct Actor",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Night on Flayed Mountain",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Oracle of Flames",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Passionate Painter // Master of Arts",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Actor",
+			"collector_number": "123",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/123a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/123a_front.jpg"
+			}
+		},
+		{
+			"name": "Passionate Painter // Master of Arts",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Actor",
+			"collector_number": "123",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/123a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/123a_front.jpg"
+			}
+		},
+		{
+			"name": "Performer of Ambition // The Urchin King",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Actor",
+			"collector_number": "89",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/89a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/89a_front.jpg"
+			}
+		},
+		{
+			"name": "Performer of Ambition // The Urchin King",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Actor",
+			"collector_number": "89",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/89a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/89a_front.jpg"
+			}
+		},
+		{
+			"name": "Performer of Brilliance // Doctor Hitana, the Mad",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Actor",
+			"collector_number": "55",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/55a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/55a_front.jpg"
+			}
+		},
+		{
+			"name": "Performer of Brilliance // Doctor Hitana, the Mad",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Actor",
+			"collector_number": "55",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/55a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/55a_front.jpg"
+			}
+		},
+		{
+			"name": "Performer of Desire // Pyrus, the Undying Flame",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Actor",
+			"collector_number": "124",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/124a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/124a_front.jpg"
+			}
+		},
+		{
+			"name": "Performer of Desire // Pyrus, the Undying Flame",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Actor",
+			"collector_number": "124",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/124a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/124a_front.jpg"
+			}
+		},
+		{
+			"name": "Performer of Enlightenment // Sartha, the Living Source",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Actor",
+			"collector_number": "19",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/19a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/19a_front.jpg"
+			}
+		},
+		{
+			"name": "Performer of Enlightenment // Sartha, the Living Source",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Actor",
+			"collector_number": "19",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/19a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/19a_front.jpg"
+			}
+		},
+		{
+			"name": "Performer of Growth // Rei, the Supplanter",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Squirrel Actor",
+			"collector_number": "150",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/150a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/150a_front.jpg"
+			}
+		},
+		{
+			"name": "Performer of Growth // Rei, the Supplanter",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Squirrel Actor",
+			"collector_number": "150",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/150a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/150a_front.jpg"
+			}
+		},
+		{
+			"name": "Pilfered Process",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Plains_VTM",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Platinum Colossus",
+			"rarity": "mythic",
+			"mana_cost": "{13}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Poisoned Wine",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Posthumous Informant",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Power Overflowing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Priestess of Simplicity",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Panes",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Pristine Frame",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Prophetic Prism",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Protective Patron",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Qililia, the Saboteur",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Merfolk Rogue",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Questionable Methods",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Queue Bouncer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Vampire Actor",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Quinn, the Performer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Actor",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Rallying Guardian",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Ravage Relics",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Realms Overturning",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Realmstitching",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Rehearse",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Rei's Awakening",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Rei's Ranger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Squirrel Warrior Ranger",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Rei's Reinforcements",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Rei's Watch",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Squirrel Scout",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Reprising Bard",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elf Bard Actor",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Restoration",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Return to Form",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Reversal Medic // Haunted Healer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Actor",
+			"collector_number": "25",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/25a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/25a_front.jpg"
+			}
+		},
+		{
+			"name": "Reversal Medic // Haunted Healer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Actor",
+			"collector_number": "25",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/25a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/25a_front.jpg"
+			}
+		},
+		{
+			"name": "Rewriting Loyalties",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Ring of Souls",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Rootshambler",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Ruined Theater // Restored Theater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "232",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/232a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/232a_front.jpg"
+			}
+		},
+		{
+			"name": "Ruined Theater // Restored Theater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "232",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/232a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/232a_front.jpg"
+			}
+		},
+		{
+			"name": "Ruptured Citadel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Ruptured Expanse",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Ruptured Falls",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Ruptured Flats",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Ruptured Grotto",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Ruptured Grove",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Ruptured Meadow",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Ruptured Morass",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Ruptured Square",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Ruptured Trail",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Ruststep Centipede",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Centipede",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Saia, the Mastermind",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Planeswalker — Saia",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Saia's Price",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Saia's Protege",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard Rogue",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Sartha's Studies",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Scathing Review",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Scenery Chewing",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Scramble the Scouts",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Scuripi Blessing",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Scuripi Collector",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Squirrel Warrior",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Scuripi Lookout",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Squirrel Scout",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Scuripi Reserve",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Squirrel Warrior",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Scuripi Shaman",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Squirrel Shaman",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Seedy Bar",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Seer's Sphere",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Send Away",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Servant of Armageddon",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Set the Stage",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Seven-Year Step",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Sevid, the Lookout",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Planeswalker — Sevid",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Shared Trove",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Shifty Squirrel // Rei's Betrayer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Squirrel Actor",
+			"collector_number": "165",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/165a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/165a_front.jpg"
+			}
+		},
+		{
+			"name": "Shifty Squirrel // Rei's Betrayer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Squirrel Actor",
+			"collector_number": "165",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/165a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/165a_front.jpg"
+			}
+		},
+		{
+			"name": "Shining Crusader",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct Knight",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Shoreline Temptress",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Shushing Usher",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Skeleton Keyring",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Skitterthorns",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Skybreaker Hook",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Slave Child // Urchin's Captain",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Actor",
+			"collector_number": "91",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/91a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/91a_front.jpg"
+			}
+		},
+		{
+			"name": "Slave Child // Urchin's Captain",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Actor",
+			"collector_number": "91",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/91a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/91a_front.jpg"
+			}
+		},
+		{
+			"name": "Slay Them in the Aisles",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Slums Thug",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Soliloquy",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Sorcerous Spyglass",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Soul Gate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Soulless Backstabber",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Spectral Skycruiser",
+			"rarity": "special",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Ship",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Squid Pro Quo",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Instant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Stage Dressing",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Stage Fright",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Starforge Armor",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Steamquiver Strix",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Bird Construct",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Storm Servant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Stormcannon Gauntlet",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Street Busker",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Actor",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Street Stalker",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Sundial of the Infinite",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Swamp_VTM",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Sword of Redemption",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "Sword of Truth and Lies",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Taken for Granite",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Talent Pool",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Talent Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Actor Scout",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "The Dominomicon",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "The Stranger's Play",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Theater Guard",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Theater Mask",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Thunderous Applause",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Time Cube",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Timid Thunderhorn",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Titan Snare",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Tome of Loss",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Tower Prowler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Trap Door",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/287.jpg"
+			}
+		},
+		{
+			"name": "Treasury Keyper",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/288.jpg"
+			}
+		},
+		{
+			"name": "Troupe Smuggler",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Truth Extractor",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Turned Watcher",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Angel Vampire",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Tyrant's Reckoning",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Uncovered Idol",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Idol",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Undercity Diplomat",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Undercity Vendor",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Underworld Informant",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Unmoving Usher",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Unraveling",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Unwilling Accomplice",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Upstage",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Urchin Defector // Arisen Rider",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Actor",
+			"collector_number": "100",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/100a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/100a_front.jpg"
+			}
+		},
+		{
+			"name": "Urchin Defector // Arisen Rider",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Actor",
+			"collector_number": "100",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/100a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/100a_front.jpg"
+			}
+		},
+		{
+			"name": "Vampiric Hunger",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Vault Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Vile Infiltrator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Horror",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Villains: The Musical",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Vivian, the Detective",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Planeswalker — Vivian",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Vivian's Vanguard",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Warrior Detective",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Voices Overwhelming",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Walking Armory",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/289.jpg"
+			}
+		},
+		{
+			"name": "War's Sorrow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Warlord's Mantle",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/290.jpg"
+			}
+		},
+		{
+			"name": "Warrior's Bane",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/291.jpg"
+			}
+		},
+		{
+			"name": "Wayfaring Realmstitcher",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Wheat from Chaff_VTM",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Whispering Halls",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/292.jpg"
+			}
+		},
+		{
+			"name": "Wild Pyromancer // Rageborn Pyromancer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Actor",
+			"collector_number": "135",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/135a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/135a_front.jpg"
+			}
+		},
+		{
+			"name": "Wild Pyromancer // Rageborn Pyromancer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Actor",
+			"collector_number": "135",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/135a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/135a_front.jpg"
+			}
+		},
+		{
+			"name": "Wistful Automaton // Mortal Frame",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "293",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/293a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/293a_front.jpg"
+			}
+		},
+		{
+			"name": "Wistful Automaton // Mortal Frame",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "293",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/VTM-files/img/293a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/293a_front.jpg"
+			}
+		},
+		{
+			"name": "Worldslayer",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/294.jpg"
+			}
+		},
+		{
+			"name": "Zegarra, the Rival",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Planeswalker — Zegarra",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Amulet of Loyalties_PRO_VTM",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/296.jpg"
+			}
+		},
+		{
+			"name": "Atlas of Worlds_PRO_VTM",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/299.jpg"
+			}
+		},
+		{
+			"name": "Awestone_PRO_VTM",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/298.jpg"
+			}
+		},
+		{
+			"name": "Bessie, the Muscle_PRO_VTM",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Planeswalker — Bessie",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/306.jpg"
+			}
+		},
+		{
+			"name": "Blood Artist_PRO_VTM",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/300.jpg"
+			}
+		},
+		{
+			"name": "Eldritch Egg_PRO_VTM",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Artifact",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/297.jpg"
+			}
+		},
+		{
+			"name": "Forest_PRO_VTM",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/305.jpg"
+			}
+		},
+		{
+			"name": "Island_PRO_VTM",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/302.jpg"
+			}
+		},
+		{
+			"name": "Mountain_PRO_VTM",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/304.jpg"
+			}
+		},
+		{
+			"name": "Plains_PRO_VTM",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/301.jpg"
+			}
+		},
+		{
+			"name": "Swamp_PRO_VTM",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/303.jpg"
+			}
+		},
+		{
+			"name": "Tome of Loss_PRO_VTM",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VTM-files/img/295.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Amulet of Loyalties
+	2 Ascendant's Gate
+	2 Atlas of Worlds
+	2 Audition
+	2 Augmented Spawn
+	2 Awestone
+	2 Backstage Rooms
+	1 Bahum, the Warden
+	1 Bessie, the Muscle
+	2 Buttress Formation
+	2 Chi Lee of the Underworld
+	2 Coffers of Kovach
+	2 Compulsive Accuser
+	1 Cornrose, the Mighty
+	2 Curtain Call
+	1 Divinity
+	2 Ediam, the Inside Man
+	2 Eldritch Egg
+	2 Flawless Heist
+	2 Flight of the Phoenix
+	2 Gentleman Thief
+	2 Grab Bag
+	2 Hats Off
+	1 Heddwyn, the Law
+	2 Heist Headquarters
+	2 Hidden Hollow
+	2 Kiku, the Gadgeteer
+	2 Komurk Harvester
+	2 Legitimate Establishment
+	2 Life's Work
+	1 Lucien, the Grifter
+	2 Masoh, Hitana's Monster
+	1 Mei, the Infiltrator
+	2 Performer of Ambition // The Urchin King
+	2 Performer of Ambition // The Urchin King
+	2 Performer of Brilliance // Doctor Hitana, the Mad
+	2 Performer of Brilliance // Doctor Hitana, the Mad
+	2 Performer of Desire // Pyrus, the Undying Flame
+	2 Performer of Desire // Pyrus, the Undying Flame
+	2 Performer of Enlightenment // Sartha, the Living Source
+	2 Performer of Enlightenment // Sartha, the Living Source
+	2 Performer of Growth // Rei, the Supplanter
+	2 Performer of Growth // Rei, the Supplanter
+	1 Platinum Colossus
+	2 Priestess of Simplicity
+	2 Protective Patron
+	2 Qililia, the Saboteur
+	2 Quinn, the Performer
+	2 Realmstitching
+	2 Reprising Bard
+	2 Restoration
+	2 Return to Form
+	2 Rewriting Loyalties
+	1 Saia, the Mastermind
+	2 Scuripi Lookout
+	2 Seedy Bar
+	2 Set the Stage
+	1 Sevid, the Lookout
+	2 Shoreline Temptress
+	2 Shushing Usher
+	2 Skybreaker Hook
+	1 Sword of Truth and Lies
+	2 Taken for Granite
+	2 Talent Pool
+	2 Tome of Loss
+	2 Troupe Smuggler
+	2 Turned Watcher
+	2 Underworld Informant
+	2 Unraveling
+	1 Upstage
+	2 Villains: The Musical
+	1 Vivian, the Detective
+	1 Zegarra, the Rival
+[uncommon(3)]
+	4 Adoration
+	4 Aspiring Recluse // Apex of Augmentation
+	4 Aspiring Recluse // Apex of Augmentation
+	4 Babbling Experiment
+	4 Backalley Silencer
+	4 Backstage Manager
+	4 Backstage Tinkers
+	4 Bessie's Brood
+	4 Blood Artist
+	4 Blood Overruling
+	4 Bloodied Outcast
+	4 Brilliance Overbearing
+	4 Cadalon Chemist
+	4 Cadalon Inspector
+	4 Canopy Scout
+	4 Changing Room
+	4 Clock of Seasons
+	4 Corpsing
+	4 Crystal Cauldron
+	4 Cursory Glance
+	4 Cut Short
+	4 Diasune Warleader
+	4 Encore
+	4 Evigian Sculptor
+	4 Golden Helm
+	4 Growing Pains
+	4 Harms Dealer
+	4 Her Ascension
+	4 Invisibility Cloak
+	4 Joyous Chromatelk
+	4 Lantern Tender
+	4 Leaping Dancer // Immaculate Clouddasher
+	4 Leaping Dancer // Immaculate Clouddasher
+	4 Linebreaker Wurm
+	4 Malign Growth
+	4 Mei's Collector
+	4 Mirrored Mask
+	4 Night on Flayed Mountain
+	4 Passionate Painter // Master of Arts
+	4 Passionate Painter // Master of Arts
+	4 Pilfered Process
+	4 Power Overflowing
+	4 Questionable Methods
+	4 Queue Bouncer
+	4 Ravage Relics
+	4 Realms Overturning
+	4 Rei's Awakening
+	4 Rei's Reinforcements
+	4 Ruptured Citadel
+	4 Ruptured Expanse
+	4 Ruptured Falls
+	4 Ruptured Flats
+	4 Ruptured Grotto
+	4 Ruptured Grove
+	4 Ruptured Meadow
+	4 Ruptured Morass
+	4 Ruptured Square
+	4 Ruptured Trail
+	4 Ruststep Centipede
+	4 Saia's Protege
+	4 Sartha's Studies
+	4 Scuripi Shaman
+	4 Shifty Squirrel // Rei's Betrayer
+	4 Shifty Squirrel // Rei's Betrayer
+	4 Skitterthorns
+	4 Slay Them in the Aisles
+	4 Soliloquy
+	4 Soul Gate
+	4 Soulless Backstabber
+	4 Squid Pro Quo
+	4 Storm Servant
+	4 Talent Scout
+	4 Theater Mask
+	4 Timid Thunderhorn
+	4 Tower Prowler
+	4 Tyrant's Reckoning
+	4 Undercity Diplomat
+	4 Undercity Vendor
+	4 Urchin Defector // Arisen Rider
+	4 Urchin Defector // Arisen Rider
+	4 Vault Sentinel
+	4 Vile Infiltrator
+	4 Voices Overwhelming
+	4 War's Sorrow
+[common(7)]
+	8 Acorn Assault
+	8 Aerial Watch
+	8 Alley Hunter
+	8 Amateur Auteur
+	8 Arisen Troops
+	8 Awestruck_VTM
+	8 Backalley Cutpurse
+	8 Backstage Banter
+	8 Bessie's Crusher
+	8 Bit Player
+	8 Blind Tunneler
+	8 Bloodline Zealot
+	8 Bounty Crusher
+	8 Break a Leg
+	8 Cadalon Experimenter
+	8 Cadalon Outfitter
+	8 Control Discourse
+	8 Coral Hunter
+	8 Crack Open the Cache_VTM
+	8 Crowd Favorite
+	8 Defying Gravity
+	8 Diasune Immolator
+	8 Diasune Irregular
+	8 Diasune Tracker
+	8 Distracting Performer
+	8 Dragonfire Blade
+	8 Duelist's Choice
+	8 Dying Breath
+	8 Elven Guard // Diasune's First
+	8 Elven Guard // Diasune's First
+	8 Epic Confrontation
+	8 Evigial Winds
+	8 Evigian Crusher
+	8 Evigian Noble // Mistress of Frost
+	8 Evigian Noble // Mistress of Frost
+	8 Evigian Titan
+	8 Evolving Wilds_VTM
+	8 Exeunt
+	8 Exit, Pursued by a Bear
+	8 First Blood
+	8 Flameblade
+	8 Forsaken Bloodletter
+	8 Furor of the Bitten_VTM
+	8 Ghost Light
+	8 Gilded Cipher
+	8 Gilded Hawk
+	8 Golden Touch
+	8 Grafted Experiment
+	8 Grieved Outburst
+	8 Impatient Busker
+	8 Into the Woods
+	8 Komurk Raid
+	8 Lively Prop
+	8 Living Script
+	8 Loose Ends
+	8 Lost Memories
+	8 Lost in Smoke
+	8 Mei's Understudy
+	8 Merfolk Vandal // Shoreline Stormers
+	8 Merfolk Vandal // Shoreline Stormers
+	8 Miscast
+	8 Moonlit Charmer
+	8 Multipurpose Mannequin
+	8 Oracle of Flames
+	8 Poisoned Wine
+	8 Posthumous Informant
+	8 Prismatic Panes
+	8 Prophetic Prism
+	8 Rallying Guardian
+	8 Rehearse
+	8 Rei's Ranger
+	8 Rei's Watch
+	8 Reversal Medic // Haunted Healer
+	8 Reversal Medic // Haunted Healer
+	8 Rootshambler
+	8 Ruined Theater // Restored Theater
+	8 Ruined Theater // Restored Theater
+	8 Saia's Price
+	8 Scathing Review
+	8 Scenery Chewing
+	8 Scramble the Scouts
+	8 Scuripi Blessing
+	8 Scuripi Collector
+	8 Scuripi Reserve
+	8 Send Away
+	8 Slave Child // Urchin's Captain
+	8 Slave Child // Urchin's Captain
+	8 Slums Thug
+	8 Stage Dressing
+	8 Stage Fright
+	8 Street Busker
+	8 Street Stalker
+	8 Theater Guard
+	8 Thunderous Applause
+	8 Truth Extractor
+	8 Uncovered Idol
+	8 Unmoving Usher
+	8 Unwilling Accomplice
+	8 Vampiric Hunger
+	8 Vivian's Vanguard
+	8 Wayfaring Realmstitcher
+	8 Wheat from Chaff_VTM
+	8 Wild Pyromancer // Rageborn Pyromancer
+	8 Wild Pyromancer // Rageborn Pyromancer
+[foil(1)]
+	12 Acorn Assault
+	6 Adoration
+	12 Aerial Watch
+	12 Alley Hunter
+	12 Amateur Auteur
+	2 Amulet of Loyalties
+	12 Arisen Troops
+	2 Ascendant's Gate
+	6 Aspiring Recluse // Apex of Augmentation
+	6 Aspiring Recluse // Apex of Augmentation
+	2 Atlas of Worlds
+	2 Audition
+	2 Augmented Spawn
+	2 Awestone
+	12 Awestruck_VTM
+	6 Babbling Experiment
+	12 Backalley Cutpurse
+	6 Backalley Silencer
+	12 Backstage Banter
+	6 Backstage Manager
+	2 Backstage Rooms
+	6 Backstage Tinkers
+	1 Bahum, the Warden
+	1 Bessie, the Muscle
+	6 Bessie's Brood
+	12 Bessie's Crusher
+	12 Bit Player
+	12 Blind Tunneler
+	6 Blood Artist
+	6 Blood Overruling
+	6 Bloodied Outcast
+	12 Bloodline Zealot
+	12 Bounty Crusher
+	12 Break a Leg
+	6 Brilliance Overbearing
+	2 Buttress Formation
+	6 Cadalon Chemist
+	12 Cadalon Experimenter
+	6 Cadalon Inspector
+	12 Cadalon Outfitter
+	6 Canopy Scout
+	6 Changing Room
+	2 Chi Lee of the Underworld
+	6 Clock of Seasons
+	2 Coffers of Kovach
+	2 Compulsive Accuser
+	12 Control Discourse
+	12 Coral Hunter
+	1 Cornrose, the Mighty
+	6 Corpsing
+	12 Crack Open the Cache_VTM
+	12 Crowd Favorite
+	6 Crystal Cauldron
+	6 Cursory Glance
+	2 Curtain Call
+	6 Cut Short
+	12 Defying Gravity
+	12 Diasune Immolator
+	12 Diasune Irregular
+	12 Diasune Tracker
+	6 Diasune Warleader
+	12 Distracting Performer
+	1 Divinity
+	12 Dragonfire Blade
+	12 Duelist's Choice
+	12 Dying Breath
+	2 Ediam, the Inside Man
+	2 Eldritch Egg
+	12 Elven Guard // Diasune's First
+	12 Elven Guard // Diasune's First
+	6 Encore
+	12 Epic Confrontation
+	12 Evigial Winds
+	12 Evigian Crusher
+	12 Evigian Noble // Mistress of Frost
+	12 Evigian Noble // Mistress of Frost
+	6 Evigian Sculptor
+	12 Evigian Titan
+	12 Evolving Wilds_VTM
+	12 Exeunt
+	12 Exit, Pursued by a Bear
+	12 First Blood
+	12 Flameblade
+	2 Flawless Heist
+	2 Flight of the Phoenix
+	12 Forsaken Bloodletter
+	12 Furor of the Bitten_VTM
+	2 Gentleman Thief
+	12 Ghost Light
+	12 Gilded Cipher
+	12 Gilded Hawk
+	6 Golden Helm
+	12 Golden Touch
+	2 Grab Bag
+	12 Grafted Experiment
+	12 Grieved Outburst
+	6 Growing Pains
+	6 Harms Dealer
+	2 Hats Off
+	1 Heddwyn, the Law
+	2 Heist Headquarters
+	6 Her Ascension
+	2 Hidden Hollow
+	12 Impatient Busker
+	12 Into the Woods
+	6 Invisibility Cloak
+	6 Joyous Chromatelk
+	2 Kiku, the Gadgeteer
+	2 Komurk Harvester
+	12 Komurk Raid
+	6 Lantern Tender
+	6 Leaping Dancer // Immaculate Clouddasher
+	6 Leaping Dancer // Immaculate Clouddasher
+	2 Legitimate Establishment
+	2 Life's Work
+	6 Linebreaker Wurm
+	12 Lively Prop
+	12 Living Script
+	12 Loose Ends
+	12 Lost Memories
+	12 Lost in Smoke
+	1 Lucien, the Grifter
+	6 Malign Growth
+	2 Masoh, Hitana's Monster
+	1 Mei, the Infiltrator
+	6 Mei's Collector
+	12 Mei's Understudy
+	12 Merfolk Vandal // Shoreline Stormers
+	12 Merfolk Vandal // Shoreline Stormers
+	6 Mirrored Mask
+	12 Miscast
+	12 Moonlit Charmer
+	12 Multipurpose Mannequin
+	6 Night on Flayed Mountain
+	12 Oracle of Flames
+	6 Passionate Painter // Master of Arts
+	6 Passionate Painter // Master of Arts
+	2 Performer of Ambition // The Urchin King
+	2 Performer of Ambition // The Urchin King
+	2 Performer of Brilliance // Doctor Hitana, the Mad
+	2 Performer of Brilliance // Doctor Hitana, the Mad
+	2 Performer of Desire // Pyrus, the Undying Flame
+	2 Performer of Desire // Pyrus, the Undying Flame
+	2 Performer of Enlightenment // Sartha, the Living Source
+	2 Performer of Enlightenment // Sartha, the Living Source
+	2 Performer of Growth // Rei, the Supplanter
+	2 Performer of Growth // Rei, the Supplanter
+	6 Pilfered Process
+	1 Platinum Colossus
+	12 Poisoned Wine
+	12 Posthumous Informant
+	6 Power Overflowing
+	2 Priestess of Simplicity
+	12 Prismatic Panes
+	12 Prophetic Prism
+	2 Protective Patron
+	2 Qililia, the Saboteur
+	6 Questionable Methods
+	6 Queue Bouncer
+	2 Quinn, the Performer
+	12 Rallying Guardian
+	6 Ravage Relics
+	6 Realms Overturning
+	2 Realmstitching
+	12 Rehearse
+	6 Rei's Awakening
+	12 Rei's Ranger
+	6 Rei's Reinforcements
+	12 Rei's Watch
+	2 Reprising Bard
+	2 Restoration
+	2 Return to Form
+	12 Reversal Medic // Haunted Healer
+	12 Reversal Medic // Haunted Healer
+	2 Rewriting Loyalties
+	12 Rootshambler
+	12 Ruined Theater // Restored Theater
+	12 Ruined Theater // Restored Theater
+	6 Ruptured Citadel
+	6 Ruptured Expanse
+	6 Ruptured Falls
+	6 Ruptured Flats
+	6 Ruptured Grotto
+	6 Ruptured Grove
+	6 Ruptured Meadow
+	6 Ruptured Morass
+	6 Ruptured Square
+	6 Ruptured Trail
+	6 Ruststep Centipede
+	1 Saia, the Mastermind
+	12 Saia's Price
+	6 Saia's Protege
+	6 Sartha's Studies
+	12 Scathing Review
+	12 Scenery Chewing
+	12 Scramble the Scouts
+	12 Scuripi Blessing
+	12 Scuripi Collector
+	2 Scuripi Lookout
+	12 Scuripi Reserve
+	6 Scuripi Shaman
+	2 Seedy Bar
+	12 Send Away
+	2 Set the Stage
+	1 Sevid, the Lookout
+	6 Shifty Squirrel // Rei's Betrayer
+	6 Shifty Squirrel // Rei's Betrayer
+	2 Shoreline Temptress
+	2 Shushing Usher
+	6 Skitterthorns
+	2 Skybreaker Hook
+	12 Slave Child // Urchin's Captain
+	12 Slave Child // Urchin's Captain
+	6 Slay Them in the Aisles
+	12 Slums Thug
+	6 Soliloquy
+	6 Soul Gate
+	6 Soulless Backstabber
+	6 Squid Pro Quo
+	12 Stage Dressing
+	12 Stage Fright
+	6 Storm Servant
+	12 Street Busker
+	12 Street Stalker
+	1 Sword of Truth and Lies
+	2 Taken for Granite
+	2 Talent Pool
+	6 Talent Scout
+	12 Theater Guard
+	6 Theater Mask
+	12 Thunderous Applause
+	6 Timid Thunderhorn
+	2 Tome of Loss
+	6 Tower Prowler
+	2 Troupe Smuggler
+	12 Truth Extractor
+	2 Turned Watcher
+	6 Tyrant's Reckoning
+	12 Uncovered Idol
+	6 Undercity Diplomat
+	6 Undercity Vendor
+	2 Underworld Informant
+	12 Unmoving Usher
+	2 Unraveling
+	12 Unwilling Accomplice
+	1 Upstage
+	6 Urchin Defector // Arisen Rider
+	6 Urchin Defector // Arisen Rider
+	12 Vampiric Hunger
+	6 Vault Sentinel
+	6 Vile Infiltrator
+	2 Villains: The Musical
+	1 Vivian, the Detective
+	12 Vivian's Vanguard
+	6 Voices Overwhelming
+	6 War's Sorrow
+	12 Wayfaring Realmstitcher
+	12 Wheat from Chaff_VTM
+	12 Wild Pyromancer // Rageborn Pyromancer
+	12 Wild Pyromancer // Rageborn Pyromancer
+	1 Zegarra, the Rival
+[wildcard(1)]
+	6 Acorn Assault
+	15 Adoration
+	6 Aerial Watch
+	6 Alley Hunter
+	6 Amateur Auteur
+	7 Amulet of Loyalties
+	6 Arisen Troops
+	7 Ascendant's Gate
+	15 Aspiring Recluse // Apex of Augmentation
+	15 Aspiring Recluse // Apex of Augmentation
+	7 Atlas of Worlds
+	7 Audition
+	7 Augmented Spawn
+	7 Awestone
+	6 Awestruck_VTM
+	15 Babbling Experiment
+	6 Backalley Cutpurse
+	15 Backalley Silencer
+	6 Backstage Banter
+	15 Backstage Manager
+	7 Backstage Rooms
+	15 Backstage Tinkers
+	4 Bahum, the Warden
+	4 Bessie, the Muscle
+	15 Bessie's Brood
+	6 Bessie's Crusher
+	6 Bit Player
+	6 Blind Tunneler
+	15 Blood Artist
+	15 Blood Overruling
+	15 Bloodied Outcast
+	6 Bloodline Zealot
+	6 Bounty Crusher
+	6 Break a Leg
+	15 Brilliance Overbearing
+	7 Buttress Formation
+	15 Cadalon Chemist
+	6 Cadalon Experimenter
+	15 Cadalon Inspector
+	6 Cadalon Outfitter
+	15 Canopy Scout
+	15 Changing Room
+	7 Chi Lee of the Underworld
+	15 Clock of Seasons
+	7 Coffers of Kovach
+	7 Compulsive Accuser
+	6 Control Discourse
+	6 Coral Hunter
+	4 Cornrose, the Mighty
+	15 Corpsing
+	6 Crack Open the Cache_VTM
+	6 Crowd Favorite
+	15 Crystal Cauldron
+	15 Cursory Glance
+	7 Curtain Call
+	15 Cut Short
+	6 Defying Gravity
+	6 Diasune Immolator
+	6 Diasune Irregular
+	6 Diasune Tracker
+	15 Diasune Warleader
+	6 Distracting Performer
+	4 Divinity
+	6 Dragonfire Blade
+	6 Duelist's Choice
+	6 Dying Breath
+	7 Ediam, the Inside Man
+	7 Eldritch Egg
+	6 Elven Guard // Diasune's First
+	6 Elven Guard // Diasune's First
+	15 Encore
+	6 Epic Confrontation
+	6 Evigial Winds
+	6 Evigian Crusher
+	6 Evigian Noble // Mistress of Frost
+	6 Evigian Noble // Mistress of Frost
+	15 Evigian Sculptor
+	6 Evigian Titan
+	6 Evolving Wilds_VTM
+	6 Exeunt
+	6 Exit, Pursued by a Bear
+	6 First Blood
+	6 Flameblade
+	7 Flawless Heist
+	7 Flight of the Phoenix
+	6 Forsaken Bloodletter
+	6 Furor of the Bitten_VTM
+	7 Gentleman Thief
+	6 Ghost Light
+	6 Gilded Cipher
+	6 Gilded Hawk
+	15 Golden Helm
+	6 Golden Touch
+	7 Grab Bag
+	6 Grafted Experiment
+	6 Grieved Outburst
+	15 Growing Pains
+	15 Harms Dealer
+	7 Hats Off
+	4 Heddwyn, the Law
+	7 Heist Headquarters
+	15 Her Ascension
+	7 Hidden Hollow
+	6 Impatient Busker
+	6 Into the Woods
+	15 Invisibility Cloak
+	15 Joyous Chromatelk
+	7 Kiku, the Gadgeteer
+	7 Komurk Harvester
+	6 Komurk Raid
+	15 Lantern Tender
+	15 Leaping Dancer // Immaculate Clouddasher
+	15 Leaping Dancer // Immaculate Clouddasher
+	7 Legitimate Establishment
+	7 Life's Work
+	15 Linebreaker Wurm
+	6 Lively Prop
+	6 Living Script
+	6 Loose Ends
+	6 Lost Memories
+	6 Lost in Smoke
+	4 Lucien, the Grifter
+	15 Malign Growth
+	7 Masoh, Hitana's Monster
+	4 Mei, the Infiltrator
+	15 Mei's Collector
+	6 Mei's Understudy
+	6 Merfolk Vandal // Shoreline Stormers
+	6 Merfolk Vandal // Shoreline Stormers
+	15 Mirrored Mask
+	6 Miscast
+	6 Moonlit Charmer
+	6 Multipurpose Mannequin
+	15 Night on Flayed Mountain
+	6 Oracle of Flames
+	15 Passionate Painter // Master of Arts
+	15 Passionate Painter // Master of Arts
+	7 Performer of Ambition // The Urchin King
+	7 Performer of Ambition // The Urchin King
+	7 Performer of Brilliance // Doctor Hitana, the Mad
+	7 Performer of Brilliance // Doctor Hitana, the Mad
+	7 Performer of Desire // Pyrus, the Undying Flame
+	7 Performer of Desire // Pyrus, the Undying Flame
+	7 Performer of Enlightenment // Sartha, the Living Source
+	7 Performer of Enlightenment // Sartha, the Living Source
+	7 Performer of Growth // Rei, the Supplanter
+	7 Performer of Growth // Rei, the Supplanter
+	15 Pilfered Process
+	4 Platinum Colossus
+	6 Poisoned Wine
+	6 Posthumous Informant
+	15 Power Overflowing
+	7 Priestess of Simplicity
+	6 Prismatic Panes
+	6 Prophetic Prism
+	7 Protective Patron
+	7 Qililia, the Saboteur
+	15 Questionable Methods
+	15 Queue Bouncer
+	7 Quinn, the Performer
+	6 Rallying Guardian
+	15 Ravage Relics
+	15 Realms Overturning
+	7 Realmstitching
+	6 Rehearse
+	15 Rei's Awakening
+	6 Rei's Ranger
+	15 Rei's Reinforcements
+	6 Rei's Watch
+	7 Reprising Bard
+	7 Restoration
+	7 Return to Form
+	6 Reversal Medic // Haunted Healer
+	6 Reversal Medic // Haunted Healer
+	7 Rewriting Loyalties
+	6 Rootshambler
+	6 Ruined Theater // Restored Theater
+	6 Ruined Theater // Restored Theater
+	15 Ruptured Citadel
+	15 Ruptured Expanse
+	15 Ruptured Falls
+	15 Ruptured Flats
+	15 Ruptured Grotto
+	15 Ruptured Grove
+	15 Ruptured Meadow
+	15 Ruptured Morass
+	15 Ruptured Square
+	15 Ruptured Trail
+	15 Ruststep Centipede
+	4 Saia, the Mastermind
+	6 Saia's Price
+	15 Saia's Protege
+	15 Sartha's Studies
+	6 Scathing Review
+	6 Scenery Chewing
+	6 Scramble the Scouts
+	6 Scuripi Blessing
+	6 Scuripi Collector
+	7 Scuripi Lookout
+	6 Scuripi Reserve
+	15 Scuripi Shaman
+	7 Seedy Bar
+	6 Send Away
+	7 Set the Stage
+	4 Sevid, the Lookout
+	15 Shifty Squirrel // Rei's Betrayer
+	15 Shifty Squirrel // Rei's Betrayer
+	7 Shoreline Temptress
+	7 Shushing Usher
+	15 Skitterthorns
+	7 Skybreaker Hook
+	6 Slave Child // Urchin's Captain
+	6 Slave Child // Urchin's Captain
+	15 Slay Them in the Aisles
+	6 Slums Thug
+	15 Soliloquy
+	15 Soul Gate
+	15 Soulless Backstabber
+	15 Squid Pro Quo
+	6 Stage Dressing
+	6 Stage Fright
+	15 Storm Servant
+	6 Street Busker
+	6 Street Stalker
+	4 Sword of Truth and Lies
+	7 Taken for Granite
+	7 Talent Pool
+	15 Talent Scout
+	6 Theater Guard
+	15 Theater Mask
+	6 Thunderous Applause
+	15 Timid Thunderhorn
+	7 Tome of Loss
+	15 Tower Prowler
+	7 Troupe Smuggler
+	6 Truth Extractor
+	7 Turned Watcher
+	15 Tyrant's Reckoning
+	6 Uncovered Idol
+	15 Undercity Diplomat
+	15 Undercity Vendor
+	7 Underworld Informant
+	6 Unmoving Usher
+	7 Unraveling
+	6 Unwilling Accomplice
+	4 Upstage
+	15 Urchin Defector // Arisen Rider
+	15 Urchin Defector // Arisen Rider
+	6 Vampiric Hunger
+	15 Vault Sentinel
+	15 Vile Infiltrator
+	7 Villains: The Musical
+	4 Vivian, the Detective
+	6 Vivian's Vanguard
+	15 Voices Overwhelming
+	15 War's Sorrow
+	6 Wayfaring Realmstitcher
+	6 Wheat from Chaff_VTM
+	6 Wild Pyromancer // Rageborn Pyromancer
+	6 Wild Pyromancer // Rageborn Pyromancer
+	4 Zegarra, the Rival

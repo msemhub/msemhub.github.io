@@ -1,0 +1,3296 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abrupt Duplication",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Adaptive Troll",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Troll Mutant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Adventuring Guildmage",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Affluent Cetanthrope",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Whale Avatar",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Ancient Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Ancient Wurm",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Appropriated Gear",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Archivist's Familiar",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Arena Challenger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior Avatar",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Arms Merchant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dwarf Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Awaken the SOURCE",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Quest",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Backstab",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Bag of Holding",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Bed Rest",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Bind the Great Evil",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Quest",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Blessing of Immunity",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Boiling Tensions",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Bold Vanquisher",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Orc Warrior Avatar",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Call to the Maker",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Cancel_AKD",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Cascade Failure",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Cavern Scourge",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Bat Horror",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Centaur Courser",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Centaur Warrior",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Centaur Warband",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Centaur Warrior",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Chained Greatwolf",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wolf Beast",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Champion's Steed",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Pegasus",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Coastal Metropolis",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Collect the World Stones",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment — Quest",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Contagious Deathspore",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Fungus",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Corrupted Memory",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Critical Strike",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Crowded Tavern",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Cunning Mimic",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Cut Causality",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Desperate Valkyrie",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Destructive Storm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Determined Hero",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight Avatar",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Devious Plot",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Devour Essence",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Doom Cultist",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Doomed Traveler",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Dragon-Forged Armor",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Eccentric Gardener",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid Avatar",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Eclectic Tactics",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Eldritch Invitation",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Elumiel, Error Researcher",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Embodied Soul",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Embodiment of Law",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Angel Incarnation",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Engulf in Flames",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Enigmatic Protector",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Monk Avatar",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Enraged Hydra",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Ensouled Thief",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue Avatar",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Entitled Griefer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue Avatar",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Error Engineer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Gnome Wizard",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Error Exploiter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard Avatar",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Essence Manipulator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cephalid Wizard",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Evolving Wilds_AKD",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Exotic Mask",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Expel from the Dungeon",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Experienced Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Wizard Avatar",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Explore_AKD",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Fast Travel",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Fertile Steppe",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Final Form",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Flawless Tactics",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Flooding Magma",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Folsen, King of Valimir",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Forceglow Shield",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Forest_AKD",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Foretold Cataclysm",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Fourth Eye Assassin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Fourth Eye Dealings",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Fragment Mind",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Frantic Researcher",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Freeze in Place",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Gambler's Tournament",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Quest",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Gather the Ingredients",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Quest",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Gather the Party",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Gifted Swordsman",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier Avatar",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Gifted Warmage",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cephalid Wizard Avatar",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Glimpse Beyond",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Godmother Ilthiss",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Cephalid Rogue",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Gold Farmer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Greed",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Grisly Feast",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Guided Hunter",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Scout Avatar",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Guided Medic",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dwarf Cleric Avatar",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Guided Occultist",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Wizard Avatar",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Guided Sniper",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Archer Avatar",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Guild Recruiter",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Guildmaster Wyran",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Haughty Paladin",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Healing Potion",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Heirloom Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Hero's Axe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Hero's Henchman",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dwarf Soldier",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Heroic Return",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Hired Help",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Hoarding Arachnid",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Homeward Amulet",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Hunt the Elusive Titans",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Quest",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Hurl from Existence",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Ildirin, the Apex Blade",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Ilhus, Knight of Zarad",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Azra Knight",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Immortal Child",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Improbable Aim",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Ingredient Scroungers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Shaman Scout",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Innocuous Sidekick",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Horror",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Invisible Communion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Invoke the Divine",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Island_AKD",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Itinerant Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Jormir, Who Encircles All",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{G}",
+			"type": "Legendary Creature — Elder Snake",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Jotunn Warchief",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Juddering Mishap",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Kindly Pilgrim",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Kleptomania",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Knight of Valimir",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight Avatar",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Lag Spike",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Lelin, the Wise",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Human Wizard Avatar",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Living Hoard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Load-Bearing Behemoth",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Long Shot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Lost Progress",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Loyal Squire",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Mage's Staff",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Magma Bolt",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Malaise",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Mana Overflow",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Mana Potion",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Map All Creation",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Quest",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Marrow Gorger",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Boar",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Mending Valkyrie",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Might of the Modrans",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Missing Manifestation",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Molting Linnorm",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Dragon Wurm",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Momentous Blow",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Mountain_AKD",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Mukal Butcher",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Construct Warrior",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Mukal Charger",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Construct Berserker",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Mukal Desecrator",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Construct Warrior",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Mukal Forerunner",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Construct Warrior",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Mukal Pillager",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Construct Warrior",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Mukal Rager",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Construct Berserker",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Mukal Reaper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Construct Warrior",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Mukal Sire",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Construct Warrior",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Mukal Swarmhorde",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Construct Horror",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Mukal Swordsman",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Construct Warrior",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Mukal Warleader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Construct Warrior",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Mysterious Stranger",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Necromancer's Gambit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Need for Heroes",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Nether Fiend",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Nidhir, the One Beyond",
+			"rarity": "mythic",
+			"mana_cost": "{7}{B}{R}{G}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "No Way Out",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Null Entity",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Occult Mastermind",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Ocean's Edge Kraken",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Kraken",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Omen Serpent",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Osk, the Maker's Pet",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Squirrel",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Overfull Inventory",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Pacifist Run",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Paladin's Flail",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Palette Swap",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Patient Optimizer",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard Avatar",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Plains_AKD",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Polymorphist's Gift",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Predictable Pattern",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Premium Membership",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Prepare for the Onslaught",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Quest",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Procedural Genesis",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Promotional Code",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Puzzling Stratagem",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Raid the Cursed Temple",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Quest",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Raid the Dragon's Lair",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Quest",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Raid the Forgotten Tomb",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Quest",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Raid the Infested Woods",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Quest",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Raid the Sunken Ruin",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Quest",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Ranger's Bow",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Ravenous Grue",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Beast",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Reclusive Horror",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Relic Corrosion",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Renowned Healer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric Avatar",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Resurrection Priest",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Revela, Star-Touched",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Revela",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Rogue's Passage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Romantic Interlude",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Quest",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Ruinous Vagrants",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Rogue Warrior",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Ruthless Blademaster",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Savage Companion",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cat",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Save the Village",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Scale Factor",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Scavenging Alchemist",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Scour Forgotten Archives",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Quest",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Seek the Buried Relic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Quest",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Seek the Lost Child",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Quest",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Seek the Maker's Egg",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment — Quest",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Selvar, the Seeker",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Elf Scout Avatar",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Selvar's Defiance",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Shambling Retinue",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Shedding of the Coils",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Silent Suppression",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Skalnir, Ruinbringer",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}{G}{G}",
+			"type": "Legendary Creature — Hydra",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Smash and Grab",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Smelting Breath",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Soaring Skymage",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Spawning Barrens",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Stampede Shepherd",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Giant Shaman",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Stonevault Blademaster",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Dwarf Knight",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Student of Winds",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Wizard Avatar",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Sudden Absence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Support Talisman",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Swamp_AKD",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Swift-Fingered Sneak",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Gnome Rogue",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Taran Joy, Cruel Huntress",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Planeswalker — Joy",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Tempest Wyvern",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Thalassic Borough",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "The Book of Secrets",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Thieves' Dagger",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Thornweald Archer_AKD",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Thornweald Cavalier",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Knight",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Time Fissure",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Tomb Creeper",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Town Elder",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Tweak the Settings",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Twisted Hospitality",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Twitchy Pyromancer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Shaman Avatar",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Uncanny Investor",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Undying Lich",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Unending Slime",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Unlikely Recruitment",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Unravel",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Unspeakable Rite",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Unsummon",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Urak, Voice of the Horde",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Construct",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Village Courier",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Violent Incursion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Viscous Webbing",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Vital Companion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Volcano Tyrant",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Vosh, the Champion",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Orc Warrior Avatar",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Walk Through Walls",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Warden of Urilath",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cephalid Monk",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Warped Glitchmage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Wizard",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Watchful Ancestor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Waypoint Stone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Weak-Spot Colossus",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Wild Outlander",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout Avatar",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Wild Peak",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "World Map",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Xenocrata, Reality Breaker",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Planeswalker — Xenocrata",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Zarad, the Final Adversary_AKD",
+			"rarity": "mythic",
+			"mana_cost": "{7}{W}{B}",
+			"type": "Legendary Creature — Human Horror",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Zarad's Executioner",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Azra Assassin",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Zealous Recruit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/AKD-files/img/42.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Abrupt Duplication
+	2 Adaptive Troll
+	2 Affluent Cetanthrope
+	1 Awaken the SOURCE
+	2 Bag of Holding
+	2 Bind the Great Evil
+	2 Call to the Maker
+	2 Cascade Failure
+	2 Chained Greatwolf
+	2 Coastal Metropolis
+	1 Collect the World Stones
+	2 Contagious Deathspore
+	1 Cut Causality
+	2 Dragon-Forged Armor
+	2 Eldritch Invitation
+	2 Elumiel, Error Researcher
+	1 Embodied Soul
+	1 Embodiment of Law
+	2 Expel from the Dungeon
+	2 Fertile Steppe
+	1 Final Form
+	2 Folsen, King of Valimir
+	2 Foretold Cataclysm
+	2 Gambler's Tournament
+	2 Godmother Ilthiss
+	2 Greed
+	2 Guided Sniper
+	2 Guildmaster Wyran
+	2 Ildirin, the Apex Blade
+	2 Ilhus, Knight of Zarad
+	2 Jormir, Who Encircles All
+	2 Kleptomania
+	2 Knight of Valimir
+	2 Lelin, the Wise
+	2 Mana Overflow
+	2 Map All Creation
+	2 Mukal Charger
+	2 Mukal Desecrator
+	2 Need for Heroes
+	2 Nether Fiend
+	1 Nidhir, the One Beyond
+	2 Ocean's Edge Kraken
+	1 Osk, the Maker's Pet
+	2 Patient Optimizer
+	2 Premium Membership
+	2 Procedural Genesis
+	2 Promotional Code
+	2 Resurrection Priest
+	1 Revela, Star-Touched
+	2 Seek the Lost Child
+	2 Selvar, the Seeker
+	2 Selvar's Defiance
+	2 Skalnir, Ruinbringer
+	2 Spawning Barrens
+	1 Taran Joy, Cruel Huntress
+	2 Thalassic Borough
+	1 The Book of Secrets
+	1 Tweak the Settings
+	2 Twitchy Pyromancer
+	2 Uncanny Investor
+	2 Undying Lich
+	2 Unlikely Recruitment
+	2 Urak, Voice of the Horde
+	1 Volcano Tyrant
+	2 Vosh, the Champion
+	2 Wild Peak
+	1 Xenocrata, Reality Breaker
+	1 Zarad, the Final Adversary_AKD
+[uncommon(3)]
+	4 Adventuring Guildmage
+	4 Ancient Guardian
+	4 Arena Challenger
+	4 Arms Merchant
+	4 Boiling Tensions
+	4 Corrupted Memory
+	4 Crowded Tavern
+	4 Destructive Storm
+	4 Determined Hero
+	4 Eccentric Gardener
+	4 Enigmatic Protector
+	4 Enraged Hydra
+	4 Entitled Griefer
+	4 Error Exploiter
+	4 Essence Manipulator
+	4 Experienced Mentor
+	4 Flooding Magma
+	4 Fourth Eye Assassin
+	4 Fourth Eye Dealings
+	4 Fragment Mind
+	4 Gather the Ingredients
+	4 Gather the Party
+	4 Guild Recruiter
+	4 Heirloom Seeker
+	4 Hero's Axe
+	4 Heroic Return
+	4 Hunt the Elusive Titans
+	4 Immortal Child
+	4 Improbable Aim
+	4 Ingredient Scroungers
+	4 Invisible Communion
+	4 Itinerant Stalker
+	4 Jotunn Warchief
+	4 Juddering Mishap
+	4 Kindly Pilgrim
+	4 Living Hoard
+	4 Long Shot
+	4 Lost Progress
+	4 Mage's Staff
+	4 Malaise
+	4 Mending Valkyrie
+	4 Missing Manifestation
+	4 Mukal Pillager
+	4 Mukal Reaper
+	4 Mukal Sire
+	4 Mukal Swarmhorde
+	4 Mukal Warleader
+	4 Necromancer's Gambit
+	4 Occult Mastermind
+	4 Paladin's Flail
+	4 Palette Swap
+	4 Polymorphist's Gift
+	4 Predictable Pattern
+	4 Prepare for the Onslaught
+	4 Ranger's Bow
+	4 Ravenous Grue
+	4 Renowned Healer
+	4 Rogue's Passage
+	4 Romantic Interlude
+	4 Scale Factor
+	4 Scour Forgotten Archives
+	4 Seek the Buried Relic
+	4 Seek the Maker's Egg
+	4 Shedding of the Coils
+	4 Silent Suppression
+	4 Stampede Shepherd
+	4 Stonevault Blademaster
+	4 Student of Winds
+	4 Sudden Absence
+	4 Tempest Wyvern
+	4 Thieves' Dagger
+	4 Twisted Hospitality
+	4 Unending Slime
+	4 Unspeakable Rite
+	4 Vital Companion
+	4 Walk Through Walls
+	4 Warped Glitchmage
+	4 Waypoint Stone
+	4 Wild Outlander
+	4 World Map
+[common(7)]
+	8 Ancient Wurm
+	8 Appropriated Gear
+	8 Archivist's Familiar
+	8 Backstab
+	8 Bed Rest
+	8 Blessing of Immunity
+	8 Bold Vanquisher
+	8 Cancel_AKD
+	8 Cavern Scourge
+	8 Centaur Courser
+	8 Centaur Warband
+	8 Champion's Steed
+	8 Critical Strike
+	8 Cunning Mimic
+	8 Desperate Valkyrie
+	8 Devious Plot
+	8 Devour Essence
+	8 Doom Cultist
+	8 Doomed Traveler
+	8 Eclectic Tactics
+	8 Engulf in Flames
+	8 Ensouled Thief
+	8 Error Engineer
+	8 Evolving Wilds_AKD
+	8 Exotic Mask
+	8 Explore_AKD
+	8 Fast Travel
+	8 Flawless Tactics
+	8 Forceglow Shield
+	8 Frantic Researcher
+	8 Freeze in Place
+	8 Gifted Swordsman
+	8 Gifted Warmage
+	8 Glimpse Beyond
+	8 Gold Farmer
+	8 Grisly Feast
+	8 Guided Hunter
+	8 Guided Medic
+	8 Guided Occultist
+	8 Haughty Paladin
+	8 Healing Potion
+	8 Hero's Henchman
+	8 Hired Help
+	8 Hoarding Arachnid
+	8 Homeward Amulet
+	8 Hurl from Existence
+	8 Innocuous Sidekick
+	8 Invoke the Divine
+	8 Lag Spike
+	8 Load-Bearing Behemoth
+	8 Loyal Squire
+	8 Magma Bolt
+	8 Mana Potion
+	8 Marrow Gorger
+	8 Might of the Modrans
+	8 Molting Linnorm
+	8 Momentous Blow
+	8 Mukal Butcher
+	8 Mukal Forerunner
+	8 Mukal Rager
+	8 Mukal Swordsman
+	8 Mysterious Stranger
+	8 No Way Out
+	8 Null Entity
+	8 Omen Serpent
+	8 Overfull Inventory
+	8 Pacifist Run
+	8 Puzzling Stratagem
+	8 Raid the Cursed Temple
+	8 Raid the Dragon's Lair
+	8 Raid the Forgotten Tomb
+	8 Raid the Infested Woods
+	8 Raid the Sunken Ruin
+	8 Reclusive Horror
+	8 Relic Corrosion
+	8 Ruinous Vagrants
+	8 Ruthless Blademaster
+	8 Savage Companion
+	8 Save the Village
+	8 Scavenging Alchemist
+	8 Shambling Retinue
+	8 Smash and Grab
+	8 Smelting Breath
+	8 Soaring Skymage
+	8 Support Talisman
+	8 Swift-Fingered Sneak
+	8 Thornweald Archer_AKD
+	8 Thornweald Cavalier
+	8 Time Fissure
+	8 Tomb Creeper
+	8 Town Elder
+	8 Unravel
+	8 Unsummon
+	8 Village Courier
+	8 Violent Incursion
+	8 Viscous Webbing
+	8 Warden of Urilath
+	8 Watchful Ancestor
+	8 Weak-Spot Colossus
+	8 Zarad's Executioner
+	8 Zealous Recruit
+[foil(1)]
+	2 Abrupt Duplication
+	2 Adaptive Troll
+	6 Adventuring Guildmage
+	2 Affluent Cetanthrope
+	6 Ancient Guardian
+	12 Ancient Wurm
+	12 Appropriated Gear
+	12 Archivist's Familiar
+	6 Arena Challenger
+	6 Arms Merchant
+	1 Awaken the SOURCE
+	12 Backstab
+	2 Bag of Holding
+	12 Bed Rest
+	2 Bind the Great Evil
+	12 Blessing of Immunity
+	6 Boiling Tensions
+	12 Bold Vanquisher
+	2 Call to the Maker
+	12 Cancel_AKD
+	2 Cascade Failure
+	12 Cavern Scourge
+	12 Centaur Courser
+	12 Centaur Warband
+	2 Chained Greatwolf
+	12 Champion's Steed
+	2 Coastal Metropolis
+	1 Collect the World Stones
+	2 Contagious Deathspore
+	6 Corrupted Memory
+	12 Critical Strike
+	6 Crowded Tavern
+	12 Cunning Mimic
+	1 Cut Causality
+	12 Desperate Valkyrie
+	6 Destructive Storm
+	6 Determined Hero
+	12 Devious Plot
+	12 Devour Essence
+	12 Doom Cultist
+	12 Doomed Traveler
+	2 Dragon-Forged Armor
+	6 Eccentric Gardener
+	12 Eclectic Tactics
+	2 Eldritch Invitation
+	2 Elumiel, Error Researcher
+	1 Embodied Soul
+	1 Embodiment of Law
+	12 Engulf in Flames
+	6 Enigmatic Protector
+	6 Enraged Hydra
+	12 Ensouled Thief
+	6 Entitled Griefer
+	12 Error Engineer
+	6 Error Exploiter
+	6 Essence Manipulator
+	12 Evolving Wilds_AKD
+	12 Exotic Mask
+	2 Expel from the Dungeon
+	6 Experienced Mentor
+	12 Explore_AKD
+	12 Fast Travel
+	2 Fertile Steppe
+	1 Final Form
+	12 Flawless Tactics
+	6 Flooding Magma
+	2 Folsen, King of Valimir
+	12 Forceglow Shield
+	2 Foretold Cataclysm
+	6 Fourth Eye Assassin
+	6 Fourth Eye Dealings
+	6 Fragment Mind
+	12 Frantic Researcher
+	12 Freeze in Place
+	2 Gambler's Tournament
+	6 Gather the Ingredients
+	6 Gather the Party
+	12 Gifted Swordsman
+	12 Gifted Warmage
+	12 Glimpse Beyond
+	2 Godmother Ilthiss
+	12 Gold Farmer
+	2 Greed
+	12 Grisly Feast
+	12 Guided Hunter
+	12 Guided Medic
+	12 Guided Occultist
+	2 Guided Sniper
+	6 Guild Recruiter
+	2 Guildmaster Wyran
+	12 Haughty Paladin
+	12 Healing Potion
+	6 Heirloom Seeker
+	6 Hero's Axe
+	12 Hero's Henchman
+	6 Heroic Return
+	12 Hired Help
+	12 Hoarding Arachnid
+	12 Homeward Amulet
+	6 Hunt the Elusive Titans
+	12 Hurl from Existence
+	2 Ildirin, the Apex Blade
+	2 Ilhus, Knight of Zarad
+	6 Immortal Child
+	6 Improbable Aim
+	6 Ingredient Scroungers
+	12 Innocuous Sidekick
+	6 Invisible Communion
+	12 Invoke the Divine
+	6 Itinerant Stalker
+	2 Jormir, Who Encircles All
+	6 Jotunn Warchief
+	6 Juddering Mishap
+	6 Kindly Pilgrim
+	2 Kleptomania
+	2 Knight of Valimir
+	12 Lag Spike
+	2 Lelin, the Wise
+	6 Living Hoard
+	12 Load-Bearing Behemoth
+	6 Long Shot
+	6 Lost Progress
+	12 Loyal Squire
+	6 Mage's Staff
+	12 Magma Bolt
+	6 Malaise
+	2 Mana Overflow
+	12 Mana Potion
+	2 Map All Creation
+	12 Marrow Gorger
+	6 Mending Valkyrie
+	12 Might of the Modrans
+	6 Missing Manifestation
+	12 Molting Linnorm
+	12 Momentous Blow
+	12 Mukal Butcher
+	2 Mukal Charger
+	2 Mukal Desecrator
+	12 Mukal Forerunner
+	6 Mukal Pillager
+	12 Mukal Rager
+	6 Mukal Reaper
+	6 Mukal Sire
+	6 Mukal Swarmhorde
+	12 Mukal Swordsman
+	6 Mukal Warleader
+	12 Mysterious Stranger
+	6 Necromancer's Gambit
+	2 Need for Heroes
+	2 Nether Fiend
+	1 Nidhir, the One Beyond
+	12 No Way Out
+	12 Null Entity
+	6 Occult Mastermind
+	2 Ocean's Edge Kraken
+	12 Omen Serpent
+	1 Osk, the Maker's Pet
+	12 Overfull Inventory
+	12 Pacifist Run
+	6 Paladin's Flail
+	6 Palette Swap
+	2 Patient Optimizer
+	6 Polymorphist's Gift
+	6 Predictable Pattern
+	2 Premium Membership
+	6 Prepare for the Onslaught
+	2 Procedural Genesis
+	2 Promotional Code
+	12 Puzzling Stratagem
+	12 Raid the Cursed Temple
+	12 Raid the Dragon's Lair
+	12 Raid the Forgotten Tomb
+	12 Raid the Infested Woods
+	12 Raid the Sunken Ruin
+	6 Ranger's Bow
+	6 Ravenous Grue
+	12 Reclusive Horror
+	12 Relic Corrosion
+	6 Renowned Healer
+	2 Resurrection Priest
+	1 Revela, Star-Touched
+	6 Rogue's Passage
+	6 Romantic Interlude
+	12 Ruinous Vagrants
+	12 Ruthless Blademaster
+	12 Savage Companion
+	12 Save the Village
+	6 Scale Factor
+	12 Scavenging Alchemist
+	6 Scour Forgotten Archives
+	6 Seek the Buried Relic
+	2 Seek the Lost Child
+	6 Seek the Maker's Egg
+	2 Selvar, the Seeker
+	2 Selvar's Defiance
+	12 Shambling Retinue
+	6 Shedding of the Coils
+	6 Silent Suppression
+	2 Skalnir, Ruinbringer
+	12 Smash and Grab
+	12 Smelting Breath
+	12 Soaring Skymage
+	2 Spawning Barrens
+	6 Stampede Shepherd
+	6 Stonevault Blademaster
+	6 Student of Winds
+	6 Sudden Absence
+	12 Support Talisman
+	12 Swift-Fingered Sneak
+	1 Taran Joy, Cruel Huntress
+	6 Tempest Wyvern
+	2 Thalassic Borough
+	1 The Book of Secrets
+	6 Thieves' Dagger
+	12 Thornweald Archer_AKD
+	12 Thornweald Cavalier
+	12 Time Fissure
+	12 Tomb Creeper
+	12 Town Elder
+	1 Tweak the Settings
+	6 Twisted Hospitality
+	2 Twitchy Pyromancer
+	2 Uncanny Investor
+	2 Undying Lich
+	6 Unending Slime
+	2 Unlikely Recruitment
+	12 Unravel
+	6 Unspeakable Rite
+	12 Unsummon
+	2 Urak, Voice of the Horde
+	12 Village Courier
+	12 Violent Incursion
+	12 Viscous Webbing
+	6 Vital Companion
+	1 Volcano Tyrant
+	2 Vosh, the Champion
+	6 Walk Through Walls
+	12 Warden of Urilath
+	6 Warped Glitchmage
+	12 Watchful Ancestor
+	6 Waypoint Stone
+	12 Weak-Spot Colossus
+	6 Wild Outlander
+	2 Wild Peak
+	6 World Map
+	1 Xenocrata, Reality Breaker
+	1 Zarad, the Final Adversary_AKD
+	12 Zarad's Executioner
+	12 Zealous Recruit
+[wildcard(1)]
+	7 Abrupt Duplication
+	7 Adaptive Troll
+	15 Adventuring Guildmage
+	7 Affluent Cetanthrope
+	15 Ancient Guardian
+	6 Ancient Wurm
+	6 Appropriated Gear
+	6 Archivist's Familiar
+	15 Arena Challenger
+	15 Arms Merchant
+	4 Awaken the SOURCE
+	6 Backstab
+	7 Bag of Holding
+	6 Bed Rest
+	7 Bind the Great Evil
+	6 Blessing of Immunity
+	15 Boiling Tensions
+	6 Bold Vanquisher
+	7 Call to the Maker
+	6 Cancel_AKD
+	7 Cascade Failure
+	6 Cavern Scourge
+	6 Centaur Courser
+	6 Centaur Warband
+	7 Chained Greatwolf
+	6 Champion's Steed
+	7 Coastal Metropolis
+	4 Collect the World Stones
+	7 Contagious Deathspore
+	15 Corrupted Memory
+	6 Critical Strike
+	15 Crowded Tavern
+	6 Cunning Mimic
+	4 Cut Causality
+	6 Desperate Valkyrie
+	15 Destructive Storm
+	15 Determined Hero
+	6 Devious Plot
+	6 Devour Essence
+	6 Doom Cultist
+	6 Doomed Traveler
+	7 Dragon-Forged Armor
+	15 Eccentric Gardener
+	6 Eclectic Tactics
+	7 Eldritch Invitation
+	7 Elumiel, Error Researcher
+	4 Embodied Soul
+	4 Embodiment of Law
+	6 Engulf in Flames
+	15 Enigmatic Protector
+	15 Enraged Hydra
+	6 Ensouled Thief
+	15 Entitled Griefer
+	6 Error Engineer
+	15 Error Exploiter
+	15 Essence Manipulator
+	6 Evolving Wilds_AKD
+	6 Exotic Mask
+	7 Expel from the Dungeon
+	15 Experienced Mentor
+	6 Explore_AKD
+	6 Fast Travel
+	7 Fertile Steppe
+	4 Final Form
+	6 Flawless Tactics
+	15 Flooding Magma
+	7 Folsen, King of Valimir
+	6 Forceglow Shield
+	7 Foretold Cataclysm
+	15 Fourth Eye Assassin
+	15 Fourth Eye Dealings
+	15 Fragment Mind
+	6 Frantic Researcher
+	6 Freeze in Place
+	7 Gambler's Tournament
+	15 Gather the Ingredients
+	15 Gather the Party
+	6 Gifted Swordsman
+	6 Gifted Warmage
+	6 Glimpse Beyond
+	7 Godmother Ilthiss
+	6 Gold Farmer
+	7 Greed
+	6 Grisly Feast
+	6 Guided Hunter
+	6 Guided Medic
+	6 Guided Occultist
+	7 Guided Sniper
+	15 Guild Recruiter
+	7 Guildmaster Wyran
+	6 Haughty Paladin
+	6 Healing Potion
+	15 Heirloom Seeker
+	15 Hero's Axe
+	6 Hero's Henchman
+	15 Heroic Return
+	6 Hired Help
+	6 Hoarding Arachnid
+	6 Homeward Amulet
+	15 Hunt the Elusive Titans
+	6 Hurl from Existence
+	7 Ildirin, the Apex Blade
+	7 Ilhus, Knight of Zarad
+	15 Immortal Child
+	15 Improbable Aim
+	15 Ingredient Scroungers
+	6 Innocuous Sidekick
+	15 Invisible Communion
+	6 Invoke the Divine
+	15 Itinerant Stalker
+	7 Jormir, Who Encircles All
+	15 Jotunn Warchief
+	15 Juddering Mishap
+	15 Kindly Pilgrim
+	7 Kleptomania
+	7 Knight of Valimir
+	6 Lag Spike
+	7 Lelin, the Wise
+	15 Living Hoard
+	6 Load-Bearing Behemoth
+	15 Long Shot
+	15 Lost Progress
+	6 Loyal Squire
+	15 Mage's Staff
+	6 Magma Bolt
+	15 Malaise
+	7 Mana Overflow
+	6 Mana Potion
+	7 Map All Creation
+	6 Marrow Gorger
+	15 Mending Valkyrie
+	6 Might of the Modrans
+	15 Missing Manifestation
+	6 Molting Linnorm
+	6 Momentous Blow
+	6 Mukal Butcher
+	7 Mukal Charger
+	7 Mukal Desecrator
+	6 Mukal Forerunner
+	15 Mukal Pillager
+	6 Mukal Rager
+	15 Mukal Reaper
+	15 Mukal Sire
+	15 Mukal Swarmhorde
+	6 Mukal Swordsman
+	15 Mukal Warleader
+	6 Mysterious Stranger
+	15 Necromancer's Gambit
+	7 Need for Heroes
+	7 Nether Fiend
+	4 Nidhir, the One Beyond
+	6 No Way Out
+	6 Null Entity
+	15 Occult Mastermind
+	7 Ocean's Edge Kraken
+	6 Omen Serpent
+	4 Osk, the Maker's Pet
+	6 Overfull Inventory
+	6 Pacifist Run
+	15 Paladin's Flail
+	15 Palette Swap
+	7 Patient Optimizer
+	15 Polymorphist's Gift
+	15 Predictable Pattern
+	7 Premium Membership
+	15 Prepare for the Onslaught
+	7 Procedural Genesis
+	7 Promotional Code
+	6 Puzzling Stratagem
+	6 Raid the Cursed Temple
+	6 Raid the Dragon's Lair
+	6 Raid the Forgotten Tomb
+	6 Raid the Infested Woods
+	6 Raid the Sunken Ruin
+	15 Ranger's Bow
+	15 Ravenous Grue
+	6 Reclusive Horror
+	6 Relic Corrosion
+	15 Renowned Healer
+	7 Resurrection Priest
+	4 Revela, Star-Touched
+	15 Rogue's Passage
+	15 Romantic Interlude
+	6 Ruinous Vagrants
+	6 Ruthless Blademaster
+	6 Savage Companion
+	6 Save the Village
+	15 Scale Factor
+	6 Scavenging Alchemist
+	15 Scour Forgotten Archives
+	15 Seek the Buried Relic
+	7 Seek the Lost Child
+	15 Seek the Maker's Egg
+	7 Selvar, the Seeker
+	7 Selvar's Defiance
+	6 Shambling Retinue
+	15 Shedding of the Coils
+	15 Silent Suppression
+	7 Skalnir, Ruinbringer
+	6 Smash and Grab
+	6 Smelting Breath
+	6 Soaring Skymage
+	7 Spawning Barrens
+	15 Stampede Shepherd
+	15 Stonevault Blademaster
+	15 Student of Winds
+	15 Sudden Absence
+	6 Support Talisman
+	6 Swift-Fingered Sneak
+	4 Taran Joy, Cruel Huntress
+	15 Tempest Wyvern
+	7 Thalassic Borough
+	4 The Book of Secrets
+	15 Thieves' Dagger
+	6 Thornweald Archer_AKD
+	6 Thornweald Cavalier
+	6 Time Fissure
+	6 Tomb Creeper
+	6 Town Elder
+	4 Tweak the Settings
+	15 Twisted Hospitality
+	7 Twitchy Pyromancer
+	7 Uncanny Investor
+	7 Undying Lich
+	15 Unending Slime
+	7 Unlikely Recruitment
+	6 Unravel
+	15 Unspeakable Rite
+	6 Unsummon
+	7 Urak, Voice of the Horde
+	6 Village Courier
+	6 Violent Incursion
+	6 Viscous Webbing
+	15 Vital Companion
+	4 Volcano Tyrant
+	7 Vosh, the Champion
+	15 Walk Through Walls
+	6 Warden of Urilath
+	15 Warped Glitchmage
+	6 Watchful Ancestor
+	15 Waypoint Stone
+	6 Weak-Spot Colossus
+	15 Wild Outlander
+	7 Wild Peak
+	15 World Map
+	4 Xenocrata, Reality Breaker
+	4 Zarad, the Final Adversary_AKD
+	6 Zarad's Executioner
+	6 Zealous Recruit

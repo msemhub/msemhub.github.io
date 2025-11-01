@@ -1,0 +1,3699 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "A Bond that Spans Planes",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "A Delightful Afternoon. . .",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "A Memorial to Radiance",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "A Most Important Prince",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Construct Noble",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "A Princess' Plea",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "A Recipe for Disaster",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "A Song of Sleet and Hellfire",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "A Tale of the Boastful Sailor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Abominable Auteur",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Creature — Skeleton Horror",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "All Part of the Show",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "An Accursed Coronation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "An Invitation to High Rollers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Angelic Diva",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Construct Angel",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Apprehend the Nemesis",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Apprehensive 'Slinger",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Construct Soldier",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Arms Tinkerer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Construct Artificer",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Around the Plane in Three Days",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Arrive, Surrounded by Petals",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "As the Lanterns Float On",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Assemble the Heroes!",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Astute Sceneweaver",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Construct Advisor",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Audacious Spectator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Construct Noble",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Autumnal Boscage_ACT",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Backdrop Artisan",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Backstage Broken",
+			"rarity": "common",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Backstage Comic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Construct Warlock",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Backstage Prompter",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Banished Prophet",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Construct Wizard",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Basin Fortress_ACT",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Bedrock of Tales",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Bigroot Valley_ACT",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Black Curtain Enforcer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Construct Cleric",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Black Curtain Extra",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Blood on Satin",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Blooming Reclamation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Boneyard Pass_ACT",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Bring the Spotlight",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Brooding Replacement",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Creature — Construct Rogue",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Brutal Director",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Creature — Horror Noble",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Cacophonous Demon",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Creature — Demon Horror",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Call the Backup Actors",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Castigate",
+			"rarity": "common",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Castigated Sister",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Horror Cleric",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Caustic Mangrove_ACT",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Cerulean Curtain Treasurer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Construct Wizard",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Closing-Act Abomination",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Demon Horror",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Collapsing Frame",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Clue",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Collect the Actors",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Conclude",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Conflict Capturer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Construct Bard",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Cordial Ticketmaster",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Construct Scout",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Crafty Escape",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Crescent Crasher",
+			"rarity": "common",
+			"mana_cost": "{2}{R/G}",
+			"type": "Creature — Construct Soldier",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Crimson Curtain Favored",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Construct Wizard",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Critical Acclaim",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Crocheted Buddy",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Construct Turtle",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Crucify",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Curtain Cull",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Dance of Frost",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Dastardly Duo",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Construct Rogue",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Dealer of Pointed Fortunes",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Horror",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Death's Widow",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Construct Noble",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Defeat of the Greatest Evil",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Denouement",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Detective's Gambit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Dig for Evidence",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Director's Perks",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Distracted at Sea",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Douglass, Star of the Show",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Construct Scout",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Dramatic Understudy",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Dreadful Gorgon",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Gorgon Horror",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Dream Monologue",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Dulled Ghost",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Creature — Spirit Horror",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Eldon and Eleanor, Sleuths",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Construct Detective",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Encouraging Bulwark",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Construct Warrior",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Engrossed in the Tale",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Enter Captain Minnow",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Enthusiastic Admirer",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Construct Citizen",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Erupting Territory_ACT",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Evolving Wilds_ACT",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Expendable Victim",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Extolled Arachstruct",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spider Horror",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Exuberant Snowmage",
+			"rarity": "common",
+			"mana_cost": "{2}{W/U}",
+			"type": "Creature — Construct Wizard Noble",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Fade Out",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Fatal Method Acting",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Festival Sabotage",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Follow the Crumbs",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Forest_ACT",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Fractured Prodigy",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Construct Wizard",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "From Curtains to Chills",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Frostpoint Caldera_ACT",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Glimpse the Puppet Strings",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Gloomtide Gulf_ACT",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Glory of the Star",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Go Out Guns Blazing",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Grand Historian",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Construct Druid",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Grasp of the Stageless",
+			"rarity": "rare",
+			"mana_cost": "{10}{G}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Hazy Summits_ACT",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Hedge Dashers",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Construct Citizen",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "High Rollers Croupier",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Construct Advisor",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "High Rollers Esteemed",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Construct Noble",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Holding Out for a Hero",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Hollow Queen",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Horror Noble",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Hope Spot",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Hope Wrangler",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Construct Rogue",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Host of the Celebration",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Creature — Horror",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Imposing Threat",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "In the Nick of Time",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Inciting Incident",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Inspect the Plot",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Intellectual Critic",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Construct Advisor",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Into Autumn's Arms",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Island_ACT",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Ivory Curtain Litigator",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Construct Cleric",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Ivory Curtain Producer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Construct Advisor",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Ivory Curtain Roleweaver",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Jeffery, Stage Manager",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Construct Avatar",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Jeffery Stages the Finale",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Jerrold, Fugitive",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Legendary Creature — Construct Horror",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Jerrold, Master Experimenter",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Construct Druid",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Jerrold's Descent",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Jerrold's Wretched Cure",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Lantern-Bearer Belle",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Construct Wizard",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Lapinized Caster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Creature — Rabbit Horror Wizard",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Lead Athlete",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Construct Warrior",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Leading Clergy",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Construct Cleric",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Leads Don't Die",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Lethal Storyboarding",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Life's Bride",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Construct Noble",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Long-Term Method Actor",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Construct Elemental",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Look Beyond the Stage",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Looming Threat",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Lost in the Role",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Lovely Duet",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Lush Coast_ACT",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Magella's First Step",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Main Role Maiden",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Creature — Construct Noble",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Make a Plan",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Marionette Phantom",
+			"rarity": "common",
+			"mana_cost": "{4}{G/U}",
+			"type": "Creature — Spirit Horror",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Marva of Endless Inspiration",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Legendary Creature — Construct God",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Mervin's Armor",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Method Actor Retiree",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Construct Druid",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Mindscape Ripper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Creature — Horror Wizard",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Minnow's Accomplice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Construct Pirate",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Molten Mire_ACT",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Monster Behind the Curtain",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Spider Horror",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Monstrous Revelation",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Monument to Quia",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Mountain_ACT",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "Mourners of Mervin",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Construct Cleric",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Mourning Lady Faye",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Newswright",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Construct Wizard",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Off-Set Rumormonger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Construct Citizen",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "On the Case",
+			"rarity": "common",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Once More with Heart",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Opulent Reprise",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Over the Moon",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Overconfident Batter",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Creature — Construct Warrior",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Paul, Making Greatness",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Construct Actor",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Paul, Rock Bottom",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Planeswalker — Paul",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Paul, Startin' Out Small",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Construct Actor",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Paul's Finest Act",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Peaceful Passage_ACT",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Percy, Master of Puppets",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Planeswalker — Perceval",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Percy's Messenger",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Percy's Perfect World",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Percy's Proclaimer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Creature — Horror Advisor",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Perfect the Models",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Performer King",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Construct Noble",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Performer of Winds",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Construct Wizard",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Performers of Purpose",
+			"rarity": "common",
+			"mana_cost": "{1}{R/W}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Piecemeal Finale",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Plains_ACT",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Powerful Distraction",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Price of Performance",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Prod the Stitchwork",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Prop Custodian",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Prop Recycling",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Prop Work",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Prophetic Prism_ACT",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Pursue Perfect Realities",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Push to the Background",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Radiant Lead",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Construct Knight",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Raging Restitched",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Horror",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Rambunctious Afterparty",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Ravenous Extra",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Reborn Through the Eternities",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Recoil in Fear",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Reflective Stalker",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Creature — Reflection Horror",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Remake the Cast",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Remnant of Past Realities",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Rendezvous Behind the Curtain",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Repurpose Debris",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Retire",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Revitalize_ACT",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Rip Apart",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Royal Doctor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Construct Cleric",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Runaway Princess",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Construct Noble",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Ruthless Director",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Construct Advisor",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Salome",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Planeswalker — Salome",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Salome's Intervention",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Salome's Messenger",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Horror",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Salome Breaks the Lies",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Salvage the Stitchings",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Scaled Outburst",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Scathing Critics",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Scene to Cinders",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Sculpt the Scene",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Sculpted Observatory_ACT",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Sealed Evil in a Cage",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Second-Day Slayings",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Second-Stage Actress",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Construct Cleric",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Seeker of Salome",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Construct Warlock",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Seraph of the Stage",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Construct Angel",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Shattered Reflection",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Shining Showstopper",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Silent Credits",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Silent Sleep",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Skyward Dreamers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Somber Meadow_ACT",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Soulwrought Songster",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Creature — Demon Horror",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Sower of Seeds",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Construct Druid",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Sower of Virulent Thoughts",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Plant Horror",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Spinerock Canyon_ACT",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Splendid Scenery_ACT",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Spoiled Prince",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Horror Noble",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Stage Magician",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Construct Wizard",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Steal the Show",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Stitched-Smile Seamstress",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Construct Warlock",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Stolen Light",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Strawhood Harvested",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Scarecrow Horror",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Strength of Character",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Strikebreaker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Study the Maps",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Swamp_ACT",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Swan Dance",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Swiftwheel Slayers",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Construct Rogue",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Tailor of Terror",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Spider Horror",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Take Back the Stage",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Tales from the Fallen Court",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "That Fateful Tuesday",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Thawing Valley_ACT",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "The Death of King Mervin",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "The Disappearance of Faye",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "The Girl Who Wouldn't Die",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "The Grand Plot",
+			"rarity": "mythic",
+			"mana_cost": "{X}{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "The Highest Stakes",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "The Infinite Calls to Marva",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "The Investigation of Dr. Vaughn",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "The Lead Falls Short",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "The Malevolence Chronicles",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "The Monsters Attack!",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "The Playwright's Gambit",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "The Rejection of the Fair Prince",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "The Tragedy of Fruits and Fanfare",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "The Unhinging Project",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Theatric Tandem",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Construct Wizard",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Thespian's Page",
+			"rarity": "common",
+			"mana_cost": "{3}{U/R}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Time Stands Still, Heroes Emerge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Timeless Rehearsal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Tire Out",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Trauma Spike",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Traveling Ticketmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Construct Scout",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Tuesday's First Victim",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Twisting Fissure_ACT",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Tyrant of the Depths",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Construct Merfolk",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Uncover Malevolence",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Unraveller of Mysteries",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Construct Faerie",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Unwrite",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Valiant Instructor",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Construct Knight",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Vaughn's Vows",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Verdant Curtain Caretaker",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Construct Druid",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Verdant Curtain Mascot",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Construct Boar",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Verdant Curtain Naturalist",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Construct Scout",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Verdant Curtain Prodigy",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Waltz on a Nimbus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Waterfront Market_ACT",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Wayward Bloodseeker",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Vampire Horror",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Whispering Canal_ACT",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Wild Entourage",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Wooded Ward",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Xiyue Dragondancer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Xiyue Firelighters",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Construct Actor",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Young Soulspeaker",
+			"rarity": "common",
+			"mana_cost": "{1}{B/G}",
+			"type": "Creature — Construct Warlock",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Zealous Persecution",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ACT-files/img/196.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 A Bond that Spans Planes
+	2 A Most Important Prince
+	2 A Princess' Plea
+	2 A Recipe for Disaster
+	2 A Song of Sleet and Hellfire
+	2 All Part of the Show
+	1 Angelic Diva
+	2 Around the Plane in Three Days
+	2 As the Lanterns Float On
+	1 Cacophonous Demon
+	2 Castigated Sister
+	2 Collect the Actors
+	2 Crimson Curtain Favored
+	2 Curtain Cull
+	2 Dance of Frost
+	2 Death's Widow
+	2 Defeat of the Greatest Evil
+	2 Denouement
+	1 Douglass, Star of the Show
+	2 Dream Monologue
+	2 Eldon and Eleanor, Sleuths
+	2 Enter Captain Minnow
+	1 Follow the Crumbs
+	2 Fractured Prodigy
+	2 Glimpse the Puppet Strings
+	2 Grand Historian
+	2 Grasp of the Stageless
+	2 High Rollers Esteemed
+	1 Host of the Celebration
+	2 Ivory Curtain Litigator
+	2 Ivory Curtain Roleweaver
+	1 Jeffery, Stage Manager
+	2 Jeffery Stages the Finale
+	1 Jerrold, Fugitive
+	2 Jerrold, Master Experimenter
+	2 Jerrold's Wretched Cure
+	1 Lethal Storyboarding
+	2 Life's Bride
+	2 Long-Term Method Actor
+	2 Magella's First Step
+	1 Marva of Endless Inspiration
+	2 Monster Behind the Curtain
+	2 Monument to Quia
+	2 Over the Moon
+	2 Paul, Making Greatness
+	1 Paul, Rock Bottom
+	2 Paul's Finest Act
+	1 Percy, Master of Puppets
+	2 Percy's Perfect World
+	1 Performer King
+	2 Piecemeal Finale
+	1 Prop Recycling
+	2 Pursue Perfect Realities
+	1 Reborn Through the Eternities
+	1 Reflective Stalker
+	1 Remake the Cast
+	2 Ruthless Director
+	1 Salome
+	2 Salome's Intervention
+	2 Salome Breaks the Lies
+	2 Sculpt the Scene
+	2 Seraph of the Stage
+	1 Soulwrought Songster
+	1 Sower of Seeds
+	2 Stage Magician
+	2 Steal the Show
+	2 Stolen Light
+	2 Swan Dance
+	2 The Death of King Mervin
+	2 The Disappearance of Faye
+	2 The Girl Who Wouldn't Die
+	1 The Grand Plot
+	2 The Highest Stakes
+	2 The Infinite Calls to Marva
+	2 The Unhinging Project
+	2 Trauma Spike
+	2 Tyrant of the Depths
+	2 Verdant Curtain Caretaker
+	2 Verdant Curtain Prodigy
+	2 Xiyue Dragondancer
+[uncommon(3)]
+	4 A Delightful Afternoon. . .
+	4 A Memorial to Radiance
+	4 A Tale of the Boastful Sailor
+	4 Abominable Auteur
+	4 An Accursed Coronation
+	4 An Invitation to High Rollers
+	4 Apprehend the Nemesis
+	4 Audacious Spectator
+	4 Autumnal Boscage_ACT
+	4 Backstage Comic
+	4 Basin Fortress_ACT
+	4 Blood on Satin
+	4 Boneyard Pass_ACT
+	4 Brutal Director
+	4 Call the Backup Actors
+	4 Closing-Act Abomination
+	4 Crucify
+	4 Detective's Gambit
+	4 Dig for Evidence
+	4 Director's Perks
+	4 Distracted at Sea
+	4 Dulled Ghost
+	4 Encouraging Bulwark
+	4 Enthusiastic Admirer
+	4 Extolled Arachstruct
+	4 Frostpoint Caldera_ACT
+	4 Glory of the Star
+	4 High Rollers Croupier
+	4 Holding Out for a Hero
+	4 Hollow Queen
+	4 Into Autumn's Arms
+	4 Lapinized Caster
+	4 Leads Don't Die
+	4 Looming Threat
+	4 Main Role Maiden
+	4 Method Actor Retiree
+	4 Mindscape Ripper
+	4 Minnow's Accomplice
+	4 Molten Mire_ACT
+	4 Off-Set Rumormonger
+	4 Once More with Heart
+	4 Paul, Startin' Out Small
+	4 Percy's Proclaimer
+	4 Perfect the Models
+	4 Price of Performance
+	4 Prod the Stitchwork
+	4 Prop Custodian
+	4 Push to the Background
+	4 Radiant Lead
+	4 Rambunctious Afterparty
+	4 Ravenous Extra
+	4 Remnant of Past Realities
+	4 Rendezvous Behind the Curtain
+	4 Repurpose Debris
+	4 Royal Doctor
+	4 Salome's Messenger
+	4 Scene to Cinders
+	4 Sealed Evil in a Cage
+	4 Second-Day Slayings
+	4 Silent Credits
+	4 Skyward Dreamers
+	4 Sower of Virulent Thoughts
+	4 Spinerock Canyon_ACT
+	4 Splendid Scenery_ACT
+	4 Strawhood Harvested
+	4 Strikebreaker
+	4 Study the Maps
+	4 Tales from the Fallen Court
+	4 That Fateful Tuesday
+	4 Thawing Valley_ACT
+	4 The Investigation of Dr. Vaughn
+	4 The Malevolence Chronicles
+	4 The Playwright's Gambit
+	4 The Rejection of the Fair Prince
+	4 The Tragedy of Fruits and Fanfare
+	4 Theatric Tandem
+	4 Time Stands Still, Heroes Emerge
+	4 Timeless Rehearsal
+	4 Traveling Ticketmaster
+	4 Vaughn's Vows
+	4 Waltz on a Nimbus
+	4 Waterfront Market_ACT
+	4 Wayward Bloodseeker
+	4 Whispering Canal_ACT
+	4 Xiyue Firelighters
+	4 Zealous Persecution
+[common(7)]
+	8 Apprehensive 'Slinger
+	8 Arms Tinkerer
+	8 Arrive, Surrounded by Petals
+	8 Assemble the Heroes!
+	8 Astute Sceneweaver
+	8 Backdrop Artisan
+	8 Backstage Broken
+	8 Backstage Prompter
+	8 Banished Prophet
+	8 Bedrock of Tales
+	8 Bigroot Valley_ACT
+	8 Black Curtain Enforcer
+	8 Black Curtain Extra
+	8 Blooming Reclamation
+	8 Bring the Spotlight
+	8 Brooding Replacement
+	8 Castigate
+	8 Caustic Mangrove_ACT
+	8 Cerulean Curtain Treasurer
+	8 Collapsing Frame
+	8 Conclude
+	8 Conflict Capturer
+	8 Cordial Ticketmaster
+	8 Crafty Escape
+	8 Crescent Crasher
+	8 Critical Acclaim
+	8 Crocheted Buddy
+	8 Dastardly Duo
+	8 Dealer of Pointed Fortunes
+	8 Dramatic Understudy
+	8 Dreadful Gorgon
+	8 Engrossed in the Tale
+	8 Erupting Territory_ACT
+	8 Evolving Wilds_ACT
+	8 Expendable Victim
+	8 Exuberant Snowmage
+	8 Fade Out
+	8 Fatal Method Acting
+	8 Festival Sabotage
+	8 From Curtains to Chills
+	8 Gloomtide Gulf_ACT
+	8 Go Out Guns Blazing
+	8 Hazy Summits_ACT
+	8 Hedge Dashers
+	8 Hope Spot
+	8 Hope Wrangler
+	8 Imposing Threat
+	8 In the Nick of Time
+	8 Inciting Incident
+	8 Inspect the Plot
+	8 Intellectual Critic
+	8 Ivory Curtain Producer
+	8 Jerrold's Descent
+	8 Lantern-Bearer Belle
+	8 Lead Athlete
+	8 Leading Clergy
+	8 Look Beyond the Stage
+	8 Lost in the Role
+	8 Lovely Duet
+	8 Lush Coast_ACT
+	8 Make a Plan
+	8 Marionette Phantom
+	8 Mervin's Armor
+	8 Monstrous Revelation
+	8 Mourners of Mervin
+	8 Mourning Lady Faye
+	8 Newswright
+	8 On the Case
+	8 Opulent Reprise
+	8 Overconfident Batter
+	8 Peaceful Passage_ACT
+	8 Percy's Messenger
+	8 Performer of Winds
+	8 Performers of Purpose
+	8 Powerful Distraction
+	8 Prop Work
+	8 Prophetic Prism_ACT
+	8 Raging Restitched
+	8 Recoil in Fear
+	8 Retire
+	8 Revitalize_ACT
+	8 Rip Apart
+	8 Runaway Princess
+	8 Salvage the Stitchings
+	8 Scaled Outburst
+	8 Scathing Critics
+	8 Sculpted Observatory_ACT
+	8 Second-Stage Actress
+	8 Seeker of Salome
+	8 Shattered Reflection
+	8 Shining Showstopper
+	8 Silent Sleep
+	8 Somber Meadow_ACT
+	8 Spoiled Prince
+	8 Stitched-Smile Seamstress
+	8 Strength of Character
+	8 Swiftwheel Slayers
+	8 Tailor of Terror
+	8 Take Back the Stage
+	8 The Lead Falls Short
+	8 The Monsters Attack!
+	8 Thespian's Page
+	8 Tire Out
+	8 Tuesday's First Victim
+	8 Twisting Fissure_ACT
+	8 Uncover Malevolence
+	8 Unraveller of Mysteries
+	8 Unwrite
+	8 Valiant Instructor
+	8 Verdant Curtain Mascot
+	8 Verdant Curtain Naturalist
+	8 Wild Entourage
+	8 Wooded Ward
+	8 Young Soulspeaker
+[foil(1)]
+	2 A Bond that Spans Planes
+	6 A Delightful Afternoon. . .
+	6 A Memorial to Radiance
+	2 A Most Important Prince
+	2 A Princess' Plea
+	2 A Recipe for Disaster
+	2 A Song of Sleet and Hellfire
+	6 A Tale of the Boastful Sailor
+	6 Abominable Auteur
+	2 All Part of the Show
+	6 An Accursed Coronation
+	6 An Invitation to High Rollers
+	1 Angelic Diva
+	6 Apprehend the Nemesis
+	12 Apprehensive 'Slinger
+	12 Arms Tinkerer
+	2 Around the Plane in Three Days
+	12 Arrive, Surrounded by Petals
+	2 As the Lanterns Float On
+	12 Assemble the Heroes!
+	12 Astute Sceneweaver
+	6 Audacious Spectator
+	6 Autumnal Boscage_ACT
+	12 Backdrop Artisan
+	12 Backstage Broken
+	6 Backstage Comic
+	12 Backstage Prompter
+	12 Banished Prophet
+	6 Basin Fortress_ACT
+	12 Bedrock of Tales
+	12 Bigroot Valley_ACT
+	12 Black Curtain Enforcer
+	12 Black Curtain Extra
+	6 Blood on Satin
+	12 Blooming Reclamation
+	6 Boneyard Pass_ACT
+	12 Bring the Spotlight
+	12 Brooding Replacement
+	6 Brutal Director
+	1 Cacophonous Demon
+	6 Call the Backup Actors
+	12 Castigate
+	2 Castigated Sister
+	12 Caustic Mangrove_ACT
+	12 Cerulean Curtain Treasurer
+	6 Closing-Act Abomination
+	12 Collapsing Frame
+	2 Collect the Actors
+	12 Conclude
+	12 Conflict Capturer
+	12 Cordial Ticketmaster
+	12 Crafty Escape
+	12 Crescent Crasher
+	2 Crimson Curtain Favored
+	12 Critical Acclaim
+	12 Crocheted Buddy
+	6 Crucify
+	2 Curtain Cull
+	2 Dance of Frost
+	12 Dastardly Duo
+	12 Dealer of Pointed Fortunes
+	2 Death's Widow
+	2 Defeat of the Greatest Evil
+	2 Denouement
+	6 Detective's Gambit
+	6 Dig for Evidence
+	6 Director's Perks
+	6 Distracted at Sea
+	1 Douglass, Star of the Show
+	12 Dramatic Understudy
+	12 Dreadful Gorgon
+	2 Dream Monologue
+	6 Dulled Ghost
+	2 Eldon and Eleanor, Sleuths
+	6 Encouraging Bulwark
+	12 Engrossed in the Tale
+	2 Enter Captain Minnow
+	6 Enthusiastic Admirer
+	12 Erupting Territory_ACT
+	12 Evolving Wilds_ACT
+	12 Expendable Victim
+	6 Extolled Arachstruct
+	12 Exuberant Snowmage
+	12 Fade Out
+	12 Fatal Method Acting
+	12 Festival Sabotage
+	1 Follow the Crumbs
+	2 Fractured Prodigy
+	12 From Curtains to Chills
+	6 Frostpoint Caldera_ACT
+	2 Glimpse the Puppet Strings
+	12 Gloomtide Gulf_ACT
+	6 Glory of the Star
+	12 Go Out Guns Blazing
+	2 Grand Historian
+	2 Grasp of the Stageless
+	12 Hazy Summits_ACT
+	12 Hedge Dashers
+	6 High Rollers Croupier
+	2 High Rollers Esteemed
+	6 Holding Out for a Hero
+	6 Hollow Queen
+	12 Hope Spot
+	12 Hope Wrangler
+	1 Host of the Celebration
+	12 Imposing Threat
+	12 In the Nick of Time
+	12 Inciting Incident
+	12 Inspect the Plot
+	12 Intellectual Critic
+	6 Into Autumn's Arms
+	2 Ivory Curtain Litigator
+	12 Ivory Curtain Producer
+	2 Ivory Curtain Roleweaver
+	1 Jeffery, Stage Manager
+	2 Jeffery Stages the Finale
+	1 Jerrold, Fugitive
+	2 Jerrold, Master Experimenter
+	12 Jerrold's Descent
+	2 Jerrold's Wretched Cure
+	12 Lantern-Bearer Belle
+	6 Lapinized Caster
+	12 Lead Athlete
+	12 Leading Clergy
+	6 Leads Don't Die
+	1 Lethal Storyboarding
+	2 Life's Bride
+	2 Long-Term Method Actor
+	12 Look Beyond the Stage
+	6 Looming Threat
+	12 Lost in the Role
+	12 Lovely Duet
+	12 Lush Coast_ACT
+	2 Magella's First Step
+	6 Main Role Maiden
+	12 Make a Plan
+	12 Marionette Phantom
+	1 Marva of Endless Inspiration
+	12 Mervin's Armor
+	6 Method Actor Retiree
+	6 Mindscape Ripper
+	6 Minnow's Accomplice
+	6 Molten Mire_ACT
+	2 Monster Behind the Curtain
+	12 Monstrous Revelation
+	2 Monument to Quia
+	12 Mourners of Mervin
+	12 Mourning Lady Faye
+	12 Newswright
+	6 Off-Set Rumormonger
+	12 On the Case
+	6 Once More with Heart
+	12 Opulent Reprise
+	2 Over the Moon
+	12 Overconfident Batter
+	2 Paul, Making Greatness
+	1 Paul, Rock Bottom
+	6 Paul, Startin' Out Small
+	2 Paul's Finest Act
+	12 Peaceful Passage_ACT
+	1 Percy, Master of Puppets
+	12 Percy's Messenger
+	2 Percy's Perfect World
+	6 Percy's Proclaimer
+	6 Perfect the Models
+	1 Performer King
+	12 Performer of Winds
+	12 Performers of Purpose
+	2 Piecemeal Finale
+	12 Powerful Distraction
+	6 Price of Performance
+	6 Prod the Stitchwork
+	6 Prop Custodian
+	1 Prop Recycling
+	12 Prop Work
+	12 Prophetic Prism_ACT
+	2 Pursue Perfect Realities
+	6 Push to the Background
+	6 Radiant Lead
+	12 Raging Restitched
+	6 Rambunctious Afterparty
+	6 Ravenous Extra
+	1 Reborn Through the Eternities
+	12 Recoil in Fear
+	1 Reflective Stalker
+	1 Remake the Cast
+	6 Remnant of Past Realities
+	6 Rendezvous Behind the Curtain
+	6 Repurpose Debris
+	12 Retire
+	12 Revitalize_ACT
+	12 Rip Apart
+	6 Royal Doctor
+	12 Runaway Princess
+	2 Ruthless Director
+	1 Salome
+	2 Salome's Intervention
+	6 Salome's Messenger
+	2 Salome Breaks the Lies
+	12 Salvage the Stitchings
+	12 Scaled Outburst
+	12 Scathing Critics
+	6 Scene to Cinders
+	2 Sculpt the Scene
+	12 Sculpted Observatory_ACT
+	6 Sealed Evil in a Cage
+	6 Second-Day Slayings
+	12 Second-Stage Actress
+	12 Seeker of Salome
+	2 Seraph of the Stage
+	12 Shattered Reflection
+	12 Shining Showstopper
+	6 Silent Credits
+	12 Silent Sleep
+	6 Skyward Dreamers
+	12 Somber Meadow_ACT
+	1 Soulwrought Songster
+	1 Sower of Seeds
+	6 Sower of Virulent Thoughts
+	6 Spinerock Canyon_ACT
+	6 Splendid Scenery_ACT
+	12 Spoiled Prince
+	2 Stage Magician
+	2 Steal the Show
+	12 Stitched-Smile Seamstress
+	2 Stolen Light
+	6 Strawhood Harvested
+	12 Strength of Character
+	6 Strikebreaker
+	6 Study the Maps
+	2 Swan Dance
+	12 Swiftwheel Slayers
+	12 Tailor of Terror
+	12 Take Back the Stage
+	6 Tales from the Fallen Court
+	6 That Fateful Tuesday
+	6 Thawing Valley_ACT
+	2 The Death of King Mervin
+	2 The Disappearance of Faye
+	2 The Girl Who Wouldn't Die
+	1 The Grand Plot
+	2 The Highest Stakes
+	2 The Infinite Calls to Marva
+	6 The Investigation of Dr. Vaughn
+	12 The Lead Falls Short
+	6 The Malevolence Chronicles
+	12 The Monsters Attack!
+	6 The Playwright's Gambit
+	6 The Rejection of the Fair Prince
+	6 The Tragedy of Fruits and Fanfare
+	2 The Unhinging Project
+	6 Theatric Tandem
+	12 Thespian's Page
+	6 Time Stands Still, Heroes Emerge
+	6 Timeless Rehearsal
+	12 Tire Out
+	2 Trauma Spike
+	6 Traveling Ticketmaster
+	12 Tuesday's First Victim
+	12 Twisting Fissure_ACT
+	2 Tyrant of the Depths
+	12 Uncover Malevolence
+	12 Unraveller of Mysteries
+	12 Unwrite
+	12 Valiant Instructor
+	6 Vaughn's Vows
+	2 Verdant Curtain Caretaker
+	12 Verdant Curtain Mascot
+	12 Verdant Curtain Naturalist
+	2 Verdant Curtain Prodigy
+	6 Waltz on a Nimbus
+	6 Waterfront Market_ACT
+	6 Wayward Bloodseeker
+	6 Whispering Canal_ACT
+	12 Wild Entourage
+	12 Wooded Ward
+	2 Xiyue Dragondancer
+	6 Xiyue Firelighters
+	12 Young Soulspeaker
+	6 Zealous Persecution
+[wildcard(1)]
+	7 A Bond that Spans Planes
+	15 A Delightful Afternoon. . .
+	15 A Memorial to Radiance
+	7 A Most Important Prince
+	7 A Princess' Plea
+	7 A Recipe for Disaster
+	7 A Song of Sleet and Hellfire
+	15 A Tale of the Boastful Sailor
+	15 Abominable Auteur
+	7 All Part of the Show
+	15 An Accursed Coronation
+	15 An Invitation to High Rollers
+	4 Angelic Diva
+	15 Apprehend the Nemesis
+	6 Apprehensive 'Slinger
+	6 Arms Tinkerer
+	7 Around the Plane in Three Days
+	6 Arrive, Surrounded by Petals
+	7 As the Lanterns Float On
+	6 Assemble the Heroes!
+	6 Astute Sceneweaver
+	15 Audacious Spectator
+	15 Autumnal Boscage_ACT
+	6 Backdrop Artisan
+	6 Backstage Broken
+	15 Backstage Comic
+	6 Backstage Prompter
+	6 Banished Prophet
+	15 Basin Fortress_ACT
+	6 Bedrock of Tales
+	6 Bigroot Valley_ACT
+	6 Black Curtain Enforcer
+	6 Black Curtain Extra
+	15 Blood on Satin
+	6 Blooming Reclamation
+	15 Boneyard Pass_ACT
+	6 Bring the Spotlight
+	6 Brooding Replacement
+	15 Brutal Director
+	4 Cacophonous Demon
+	15 Call the Backup Actors
+	6 Castigate
+	7 Castigated Sister
+	6 Caustic Mangrove_ACT
+	6 Cerulean Curtain Treasurer
+	15 Closing-Act Abomination
+	6 Collapsing Frame
+	7 Collect the Actors
+	6 Conclude
+	6 Conflict Capturer
+	6 Cordial Ticketmaster
+	6 Crafty Escape
+	6 Crescent Crasher
+	7 Crimson Curtain Favored
+	6 Critical Acclaim
+	6 Crocheted Buddy
+	15 Crucify
+	7 Curtain Cull
+	7 Dance of Frost
+	6 Dastardly Duo
+	6 Dealer of Pointed Fortunes
+	7 Death's Widow
+	7 Defeat of the Greatest Evil
+	7 Denouement
+	15 Detective's Gambit
+	15 Dig for Evidence
+	15 Director's Perks
+	15 Distracted at Sea
+	4 Douglass, Star of the Show
+	6 Dramatic Understudy
+	6 Dreadful Gorgon
+	7 Dream Monologue
+	15 Dulled Ghost
+	7 Eldon and Eleanor, Sleuths
+	15 Encouraging Bulwark
+	6 Engrossed in the Tale
+	7 Enter Captain Minnow
+	15 Enthusiastic Admirer
+	6 Erupting Territory_ACT
+	6 Evolving Wilds_ACT
+	6 Expendable Victim
+	15 Extolled Arachstruct
+	6 Exuberant Snowmage
+	6 Fade Out
+	6 Fatal Method Acting
+	6 Festival Sabotage
+	4 Follow the Crumbs
+	7 Fractured Prodigy
+	6 From Curtains to Chills
+	15 Frostpoint Caldera_ACT
+	7 Glimpse the Puppet Strings
+	6 Gloomtide Gulf_ACT
+	15 Glory of the Star
+	6 Go Out Guns Blazing
+	7 Grand Historian
+	7 Grasp of the Stageless
+	6 Hazy Summits_ACT
+	6 Hedge Dashers
+	15 High Rollers Croupier
+	7 High Rollers Esteemed
+	15 Holding Out for a Hero
+	15 Hollow Queen
+	6 Hope Spot
+	6 Hope Wrangler
+	4 Host of the Celebration
+	6 Imposing Threat
+	6 In the Nick of Time
+	6 Inciting Incident
+	6 Inspect the Plot
+	6 Intellectual Critic
+	15 Into Autumn's Arms
+	7 Ivory Curtain Litigator
+	6 Ivory Curtain Producer
+	7 Ivory Curtain Roleweaver
+	4 Jeffery, Stage Manager
+	7 Jeffery Stages the Finale
+	4 Jerrold, Fugitive
+	7 Jerrold, Master Experimenter
+	6 Jerrold's Descent
+	7 Jerrold's Wretched Cure
+	6 Lantern-Bearer Belle
+	15 Lapinized Caster
+	6 Lead Athlete
+	6 Leading Clergy
+	15 Leads Don't Die
+	4 Lethal Storyboarding
+	7 Life's Bride
+	7 Long-Term Method Actor
+	6 Look Beyond the Stage
+	15 Looming Threat
+	6 Lost in the Role
+	6 Lovely Duet
+	6 Lush Coast_ACT
+	7 Magella's First Step
+	15 Main Role Maiden
+	6 Make a Plan
+	6 Marionette Phantom
+	4 Marva of Endless Inspiration
+	6 Mervin's Armor
+	15 Method Actor Retiree
+	15 Mindscape Ripper
+	15 Minnow's Accomplice
+	15 Molten Mire_ACT
+	7 Monster Behind the Curtain
+	6 Monstrous Revelation
+	7 Monument to Quia
+	6 Mourners of Mervin
+	6 Mourning Lady Faye
+	6 Newswright
+	15 Off-Set Rumormonger
+	6 On the Case
+	15 Once More with Heart
+	6 Opulent Reprise
+	7 Over the Moon
+	6 Overconfident Batter
+	7 Paul, Making Greatness
+	4 Paul, Rock Bottom
+	15 Paul, Startin' Out Small
+	7 Paul's Finest Act
+	6 Peaceful Passage_ACT
+	4 Percy, Master of Puppets
+	6 Percy's Messenger
+	7 Percy's Perfect World
+	15 Percy's Proclaimer
+	15 Perfect the Models
+	4 Performer King
+	6 Performer of Winds
+	6 Performers of Purpose
+	7 Piecemeal Finale
+	6 Powerful Distraction
+	15 Price of Performance
+	15 Prod the Stitchwork
+	15 Prop Custodian
+	4 Prop Recycling
+	6 Prop Work
+	6 Prophetic Prism_ACT
+	7 Pursue Perfect Realities
+	15 Push to the Background
+	15 Radiant Lead
+	6 Raging Restitched
+	15 Rambunctious Afterparty
+	15 Ravenous Extra
+	4 Reborn Through the Eternities
+	6 Recoil in Fear
+	4 Reflective Stalker
+	4 Remake the Cast
+	15 Remnant of Past Realities
+	15 Rendezvous Behind the Curtain
+	15 Repurpose Debris
+	6 Retire
+	6 Revitalize_ACT
+	6 Rip Apart
+	15 Royal Doctor
+	6 Runaway Princess
+	7 Ruthless Director
+	4 Salome
+	7 Salome's Intervention
+	15 Salome's Messenger
+	7 Salome Breaks the Lies
+	6 Salvage the Stitchings
+	6 Scaled Outburst
+	6 Scathing Critics
+	15 Scene to Cinders
+	7 Sculpt the Scene
+	6 Sculpted Observatory_ACT
+	15 Sealed Evil in a Cage
+	15 Second-Day Slayings
+	6 Second-Stage Actress
+	6 Seeker of Salome
+	7 Seraph of the Stage
+	6 Shattered Reflection
+	6 Shining Showstopper
+	15 Silent Credits
+	6 Silent Sleep
+	15 Skyward Dreamers
+	6 Somber Meadow_ACT
+	4 Soulwrought Songster
+	4 Sower of Seeds
+	15 Sower of Virulent Thoughts
+	15 Spinerock Canyon_ACT
+	15 Splendid Scenery_ACT
+	6 Spoiled Prince
+	7 Stage Magician
+	7 Steal the Show
+	6 Stitched-Smile Seamstress
+	7 Stolen Light
+	15 Strawhood Harvested
+	6 Strength of Character
+	15 Strikebreaker
+	15 Study the Maps
+	7 Swan Dance
+	6 Swiftwheel Slayers
+	6 Tailor of Terror
+	6 Take Back the Stage
+	15 Tales from the Fallen Court
+	15 That Fateful Tuesday
+	15 Thawing Valley_ACT
+	7 The Death of King Mervin
+	7 The Disappearance of Faye
+	7 The Girl Who Wouldn't Die
+	4 The Grand Plot
+	7 The Highest Stakes
+	7 The Infinite Calls to Marva
+	15 The Investigation of Dr. Vaughn
+	6 The Lead Falls Short
+	15 The Malevolence Chronicles
+	6 The Monsters Attack!
+	15 The Playwright's Gambit
+	15 The Rejection of the Fair Prince
+	15 The Tragedy of Fruits and Fanfare
+	7 The Unhinging Project
+	15 Theatric Tandem
+	6 Thespian's Page
+	15 Time Stands Still, Heroes Emerge
+	15 Timeless Rehearsal
+	6 Tire Out
+	7 Trauma Spike
+	15 Traveling Ticketmaster
+	6 Tuesday's First Victim
+	6 Twisting Fissure_ACT
+	7 Tyrant of the Depths
+	6 Uncover Malevolence
+	6 Unraveller of Mysteries
+	6 Unwrite
+	6 Valiant Instructor
+	15 Vaughn's Vows
+	7 Verdant Curtain Caretaker
+	6 Verdant Curtain Mascot
+	6 Verdant Curtain Naturalist
+	7 Verdant Curtain Prodigy
+	15 Waltz on a Nimbus
+	15 Waterfront Market_ACT
+	15 Wayward Bloodseeker
+	15 Whispering Canal_ACT
+	6 Wild Entourage
+	6 Wooded Ward
+	7 Xiyue Dragondancer
+	15 Xiyue Firelighters
+	6 Young Soulspeaker
+	15 Zealous Persecution

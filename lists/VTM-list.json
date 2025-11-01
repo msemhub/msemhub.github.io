@@ -1,0 +1,2185 @@
+﻿[
+    {
+        "card_name": "Divinity",
+        "number": 9,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "9"
+    },
+    {
+        "card_name": "Amulet of Loyalties",
+        "number": 36,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "36"
+    },
+    {
+        "card_name": "Upstage",
+        "number": 99,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "99"
+    },
+    {
+        "card_name": "Audition",
+        "number": 103,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "103"
+    },
+    {
+        "card_name": "Atlas of Worlds",
+        "number": 137,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "137"
+    },
+    {
+        "card_name": "Buttress Formation",
+        "number": 4,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "4"
+    },
+    {
+        "card_name": "Augmented Spawn",
+        "number": 38,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "38"
+    },
+    {
+        "card_name": "Compulsive Accuser",
+        "number": 77,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "77"
+    },
+    {
+        "card_name": "Awestone",
+        "number": 104,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "104"
+    },
+    {
+        "card_name": "Komurk Harvester",
+        "number": 146,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "146"
+    },
+    {
+        "card_name": "Priestess of Simplicity",
+        "number": 20,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "20"
+    },
+    {
+        "card_name": "Flawless Heist",
+        "number": 47,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "47"
+    },
+    {
+        "card_name": "Eldritch Egg",
+        "number": 81,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "81"
+    },
+    {
+        "card_name": "Flight of the Phoenix",
+        "number": 115,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "115"
+    },
+    {
+        "card_name": "Realmstitching",
+        "number": 152,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "152"
+    },
+    {
+        "card_name": "Protective Patron",
+        "number": 21,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "21"
+    },
+    {
+        "card_name": "Gentleman Thief",
+        "number": 48,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "48"
+    },
+    {
+        "card_name": "Troupe Smuggler",
+        "number": 94,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "94"
+    },
+    {
+        "card_name": "Hats Off",
+        "number": 119,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "119"
+    },
+    {
+        "card_name": "Restoration",
+        "number": 156,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "156"
+    },
+    {
+        "card_name": "Return to Form",
+        "number": 24,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "24"
+    },
+    {
+        "card_name": "Rewriting Loyalties",
+        "number": 60,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "60"
+    },
+    {
+        "card_name": "Turned Watcher",
+        "number": 96,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "96"
+    },
+    {
+        "card_name": "Life's Work",
+        "number": 121,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "121"
+    },
+    {
+        "card_name": "Scuripi Lookout",
+        "number": 163,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "163"
+    },
+    {
+        "card_name": "Shushing Usher",
+        "number": 28,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "28"
+    },
+    {
+        "card_name": "Shoreline Temptress",
+        "number": 63,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "63"
+    },
+    {
+        "card_name": "Underworld Informant",
+        "number": 98,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "98"
+    },
+    {
+        "card_name": "Reprising Bard",
+        "number": 126,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "126"
+    },
+    {
+        "card_name": "Taken for Granite",
+        "number": 167,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "167"
+    },
+    {
+        "card_name": "Tome of Loss",
+        "number": 32,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "32"
+    },
+    {
+        "card_name": "Unraveling",
+        "number": 65,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "65"
+    },
+    {
+        "card_name": "Villains: The Musical",
+        "number": 102,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "102"
+    },
+    {
+        "card_name": "Cadalon Chemist",
+        "number": 109,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "109"
+    },
+    {
+        "card_name": "Bessie's Brood",
+        "number": 138,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "138"
+    },
+    {
+        "card_name": "Adoration",
+        "number": 1,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "1"
+    },
+    {
+        "card_name": "Babbling Experiment",
+        "number": 39,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "39"
+    },
+    {
+        "card_name": "Backalley Silencer",
+        "number": 72,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "72"
+    },
+    {
+        "card_name": "Harms Dealer",
+        "number": 118,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "118"
+    },
+    {
+        "card_name": "Canopy Scout",
+        "number": 140,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "140"
+    },
+    {
+        "card_name": "Changing Room",
+        "number": 5,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "5"
+    },
+    {
+        "card_name": "Brilliance Overbearing",
+        "number": 40,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "40"
+    },
+    {
+        "card_name": "Blood Artist",
+        "number": 73,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "73"
+    },
+    {
+        "card_name": "Power Overflowing",
+        "number": 125,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "125"
+    },
+    {
+        "card_name": "Diasune Warleader",
+        "number": 142,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "142"
+    },
+    {
+        "card_name": "Encore",
+        "number": 10,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "10"
+    },
+    {
+        "card_name": "Cursory Glance",
+        "number": 44,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "44"
+    },
+    {
+        "card_name": "Blood Overruling",
+        "number": 74,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "74"
+    },
+    {
+        "card_name": "Slay Them in the Aisles",
+        "number": 128,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "128"
+    },
+    {
+        "card_name": "Malign Growth",
+        "number": 149,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "149"
+    },
+    {
+        "card_name": "Growing Pains",
+        "number": 16,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "16"
+    },
+    {
+        "card_name": "Pilfered Process",
+        "number": 56,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "56"
+    },
+    {
+        "card_name": "Corpsing",
+        "number": 78,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "78"
+    },
+    {
+        "card_name": "Soliloquy",
+        "number": 129,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "129"
+    },
+    {
+        "card_name": "Realms Overturning",
+        "number": 151,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "151"
+    },
+    {
+        "card_name": "Her Ascension",
+        "number": 17,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "17"
+    },
+    {
+        "card_name": "Questionable Methods",
+        "number": 58,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "58"
+    },
+    {
+        "card_name": "Cut Short",
+        "number": 79,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "79"
+    },
+    {
+        "card_name": "Storm Servant",
+        "number": 130,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "130"
+    },
+    {
+        "card_name": "Rei's Awakening",
+        "number": 153,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "153"
+    },
+    {
+        "card_name": "Sartha's Studies",
+        "number": 27,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "27"
+    },
+    {
+        "card_name": "Queue Bouncer",
+        "number": 59,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "59"
+    },
+    {
+        "card_name": "Mei's Collector",
+        "number": 87,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "87"
+    },
+    {
+        "card_name": "Tyrant's Reckoning",
+        "number": 132,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "132"
+    },
+    {
+        "card_name": "Ruststep Centipede",
+        "number": 158,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "158"
+    },
+    {
+        "card_name": "Talent Scout",
+        "number": 30,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "30"
+    },
+    {
+        "card_name": "Saia's Protege",
+        "number": 61,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "61"
+    },
+    {
+        "card_name": "Night on Flayed Mountain",
+        "number": 88,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "88"
+    },
+    {
+        "card_name": "War's Sorrow",
+        "number": 134,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "134"
+    },
+    {
+        "card_name": "Skitterthorns",
+        "number": 166,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "166"
+    },
+    {
+        "card_name": "Voices Overwhelming",
+        "number": 34,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "34"
+    },
+    {
+        "card_name": "Vile Infiltrator",
+        "number": 66,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "66"
+    },
+    {
+        "card_name": "Undercity Diplomat",
+        "number": 97,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "97"
+    },
+    {
+        "card_name": "Backstage Banter",
+        "number": 105,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "105"
+    },
+    {
+        "card_name": "Acorn Assault",
+        "number": 136,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "136"
+    },
+    {
+        "card_name": "Amateur Auteur",
+        "number": 2,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "2"
+    },
+    {
+        "card_name": "Aerial Watch",
+        "number": 35,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "35"
+    },
+    {
+        "card_name": "Alley Hunter",
+        "number": 69,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "69"
+    },
+    {
+        "card_name": "Bit Player",
+        "number": 106,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "106"
+    },
+    {
+        "card_name": "Bessie's Crusher",
+        "number": 139,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "139"
+    },
+    {
+        "card_name": "Awestruck_VTM",
+        "number": 3,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "3"
+    },
+    {
+        "card_name": "Cadalon Outfitter",
+        "number": 41,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "41"
+    },
+    {
+        "card_name": "Arisen Troops",
+        "number": 70,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "70"
+    },
+    {
+        "card_name": "Blind Tunneler",
+        "number": 107,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "107"
+    },
+    {
+        "card_name": "Diasune Irregular",
+        "number": 141,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "141"
+    },
+    {
+        "card_name": "Crowd Favorite",
+        "number": 6,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "6"
+    },
+    {
+        "card_name": "Control Discourse",
+        "number": 42,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "42"
+    },
+    {
+        "card_name": "Backalley Cutpurse",
+        "number": 71,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "71"
+    },
+    {
+        "card_name": "Bounty Crusher",
+        "number": 108,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "108"
+    },
+    {
+        "card_name": "Epic Confrontation",
+        "number": 144,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "144"
+    },
+    {
+        "card_name": "Defying Gravity",
+        "number": 7,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "7"
+    },
+    {
+        "card_name": "Coral Hunter",
+        "number": 43,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "43"
+    },
+    {
+        "card_name": "Bloodline Zealot",
+        "number": 75,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "75"
+    },
+    {
+        "card_name": "Cadalon Experimenter",
+        "number": 110,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "110"
+    },
+    {
+        "card_name": "Into the Woods",
+        "number": 145,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "145"
+    },
+    {
+        "card_name": "Distracting Performer",
+        "number": 8,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "8"
+    },
+    {
+        "card_name": "Evigian Titan",
+        "number": 45,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "45"
+    },
+    {
+        "card_name": "Break a Leg",
+        "number": 76,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "76"
+    },
+    {
+        "card_name": "Crack Open the Cache_VTM",
+        "number": 111,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "111"
+    },
+    {
+        "card_name": "Komurk Raid",
+        "number": 147,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "147"
+    },
+    {
+        "card_name": "Evigial Winds",
+        "number": 11,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "11"
+    },
+    {
+        "card_name": "Exit, Pursued by a Bear",
+        "number": 46,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "46"
+    },
+    {
+        "card_name": "Dying Breath",
+        "number": 80,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "80"
+    },
+    {
+        "card_name": "Diasune Immolator",
+        "number": 112,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "112"
+    },
+    {
+        "card_name": "Lively Prop",
+        "number": 148,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "148"
+    },
+    {
+        "card_name": "Evigian Crusher",
+        "number": 12,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "12"
+    },
+    {
+        "card_name": "Grafted Experiment",
+        "number": 49,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "49"
+    },
+    {
+        "card_name": "Exeunt",
+        "number": 82,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "82"
+    },
+    {
+        "card_name": "Diasune Tracker",
+        "number": 113,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "113"
+    },
+    {
+        "card_name": "Rei's Ranger",
+        "number": 154,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "154"
+    },
+    {
+        "card_name": "Gilded Hawk",
+        "number": 14,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "14"
+    },
+    {
+        "card_name": "Lost in Smoke",
+        "number": 50,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "50"
+    },
+    {
+        "card_name": "First Blood",
+        "number": 83,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "83"
+    },
+    {
+        "card_name": "Flameblade",
+        "number": 114,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "114"
+    },
+    {
+        "card_name": "Rei's Watch",
+        "number": 155,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "155"
+    },
+    {
+        "card_name": "Golden Touch",
+        "number": 15,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "15"
+    },
+    {
+        "card_name": "Mei's Understudy",
+        "number": 51,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "51"
+    },
+    {
+        "card_name": "Forsaken Bloodletter",
+        "number": 84,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "84"
+    },
+    {
+        "card_name": "Furor of the Bitten_VTM",
+        "number": 116,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "116"
+    },
+    {
+        "card_name": "Rootshambler",
+        "number": 157,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "157"
+    },
+    {
+        "card_name": "Rallying Guardian",
+        "number": 22,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "22"
+    },
+    {
+        "card_name": "Miscast",
+        "number": 53,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "53"
+    },
+    {
+        "card_name": "Loose Ends",
+        "number": 85,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "85"
+    },
+    {
+        "card_name": "Grieved Outburst",
+        "number": 117,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "117"
+    },
+    {
+        "card_name": "Scenery Chewing",
+        "number": 159,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "159"
+    },
+    {
+        "card_name": "Rehearse",
+        "number": 23,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "23"
+    },
+    {
+        "card_name": "Moonlit Charmer",
+        "number": 54,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "54"
+    },
+    {
+        "card_name": "Lost Memories",
+        "number": 86,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "86"
+    },
+    {
+        "card_name": "Impatient Busker",
+        "number": 120,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "120"
+    },
+    {
+        "card_name": "Scramble the Scouts",
+        "number": 160,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "160"
+    },
+    {
+        "card_name": "Saia's Price",
+        "number": 26,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "26"
+    },
+    {
+        "card_name": "Posthumous Informant",
+        "number": 57,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "57"
+    },
+    {
+        "card_name": "Poisoned Wine",
+        "number": 90,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "90"
+    },
+    {
+        "card_name": "Oracle of Flames",
+        "number": 122,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "122"
+    },
+    {
+        "card_name": "Scuripi Blessing",
+        "number": 161,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "161"
+    },
+    {
+        "card_name": "Street Busker",
+        "number": 29,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "29"
+    },
+    {
+        "card_name": "Send Away",
+        "number": 62,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "62"
+    },
+    {
+        "card_name": "Slums Thug",
+        "number": 92,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "92"
+    },
+    {
+        "card_name": "Scathing Review",
+        "number": 127,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "127"
+    },
+    {
+        "card_name": "Scuripi Collector",
+        "number": 162,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "162"
+    },
+    {
+        "card_name": "Theater Guard",
+        "number": 31,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "31"
+    },
+    {
+        "card_name": "Stage Fright",
+        "number": 64,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "64"
+    },
+    {
+        "card_name": "Street Stalker",
+        "number": 93,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "93"
+    },
+    {
+        "card_name": "Thunderous Applause",
+        "number": 131,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "131"
+    },
+    {
+        "card_name": "Scuripi Reserve",
+        "number": 164,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "164"
+    },
+    {
+        "card_name": "Unmoving Usher",
+        "number": 33,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "33"
+    },
+    {
+        "card_name": "Vivian's Vanguard",
+        "number": 67,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "67"
+    },
+    {
+        "card_name": "Truth Extractor",
+        "number": 95,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "95"
+    },
+    {
+        "card_name": "Unwilling Accomplice",
+        "number": 133,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "133"
+    },
+    {
+        "card_name": "Wayfaring Realmstitcher",
+        "number": 168,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "168"
+    },
+    {
+        "card_name": "Tome of Loss_PRO_VTM",
+        "number": 295,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "295"
+    },
+    {
+        "card_name": "Wheat from Chaff_VTM",
+        "number": 68,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "68"
+    },
+    {
+        "card_name": "Vampiric Hunger",
+        "number": 101,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "101"
+    },
+    {
+        "card_name": "Awestone_PRO_VTM",
+        "number": 298,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "298"
+    },
+    {
+        "card_name": "Atlas of Worlds_PRO_VTM",
+        "number": 299,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "299"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Amulet of Loyalties_PRO_VTM",
+        "number": 296,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "296"
+    },
+    {
+        "card_name": "Eldritch Egg_PRO_VTM",
+        "number": 297,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "297"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Blood Artist_PRO_VTM",
+        "number": 300,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "300"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Heddwyn, the Law",
+        "number": 180,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "180"
+    },
+    {
+        "card_name": "Mei, the Infiltrator",
+        "number": 186,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "186"
+    },
+    {
+        "card_name": "Lucien, the Grifter",
+        "number": 184,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "184"
+    },
+    {
+        "card_name": "Bessie, the Muscle",
+        "number": 172,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "172"
+    },
+    {
+        "card_name": "Bahum, the Warden",
+        "number": 171,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "171"
+    },
+    {
+        "card_name": "Saia, the Mastermind",
+        "number": 191,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "191"
+    },
+    {
+        "card_name": "Vivian, the Detective",
+        "number": 200,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "200"
+    },
+    {
+        "card_name": "Zegarra, the Rival",
+        "number": 201,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "201"
+    },
+    {
+        "card_name": "Cornrose, the Mighty",
+        "number": 176,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "176"
+    },
+    {
+        "card_name": "Sevid, the Lookout",
+        "number": 194,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "194"
+    },
+    {
+        "card_name": "Evigian Sculptor",
+        "number": 179,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "179"
+    },
+    {
+        "card_name": "Masoh, Hitana's Monster",
+        "number": 185,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "185"
+    },
+    {
+        "card_name": "Curtain Call",
+        "number": 177,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "177"
+    },
+    {
+        "card_name": "Linebreaker Wurm",
+        "number": 183,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "183"
+    },
+    {
+        "card_name": "Set the Stage",
+        "number": 193,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "193"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Soulless Backstabber",
+        "number": 195,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "195"
+    },
+    {
+        "card_name": "Tower Prowler",
+        "number": 198,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "198"
+    },
+    {
+        "card_name": "Timid Thunderhorn",
+        "number": 197,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "197"
+    },
+    {
+        "card_name": "Ravage Relics",
+        "number": 189,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "189"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Undercity Vendor",
+        "number": 199,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "199"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Bessie, the Muscle_PRO_VTM",
+        "number": 306,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "306"
+    },
+    {
+        "card_name": "Rei's Reinforcements",
+        "number": 190,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "190"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ediam, the Inside Man",
+        "number": 178,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "178"
+    },
+    {
+        "card_name": "Kiku, the Gadgeteer",
+        "number": 181,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "181"
+    },
+    {
+        "card_name": "Chi Lee of the Underworld",
+        "number": 175,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "175"
+    },
+    {
+        "card_name": "Quinn, the Performer",
+        "number": 188,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "188"
+    },
+    {
+        "card_name": "Qililia, the Saboteur",
+        "number": 187,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "187"
+    },
+    {
+        "card_name": "Backstage Manager",
+        "number": 169,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "169"
+    },
+    {
+        "card_name": "Backstage Tinkers",
+        "number": 170,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "170"
+    },
+    {
+        "card_name": "Scuripi Shaman",
+        "number": 192,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "192"
+    },
+    {
+        "card_name": "Lantern Tender",
+        "number": 182,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "182"
+    },
+    {
+        "card_name": "Squid Pro Quo",
+        "number": 196,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "196"
+    },
+    {
+        "card_name": "Bloodied Outcast",
+        "number": 173,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "173"
+    },
+    {
+        "card_name": "Cadalon Inspector",
+        "number": 174,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "174"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Platinum Colossus",
+        "number": 216,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "216"
+    },
+    {
+        "card_name": "Sword of Truth and Lies",
+        "number": 222,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "222"
+    },
+    {
+        "card_name": "Coffers of Kovach",
+        "number": 203,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "203"
+    },
+    {
+        "card_name": "Grab Bag",
+        "number": 210,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "210"
+    },
+    {
+        "card_name": "Skybreaker Hook",
+        "number": 219,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "219"
+    },
+    {
+        "card_name": "Clock of Seasons",
+        "number": 202,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "202"
+    },
+    {
+        "card_name": "Crystal Cauldron",
+        "number": 204,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "204"
+    },
+    {
+        "card_name": "Golden Helm",
+        "number": 209,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "209"
+    },
+    {
+        "card_name": "Invisibility Cloak",
+        "number": 211,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "211"
+    },
+    {
+        "card_name": "Joyous Chromatelk",
+        "number": 212,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "212"
+    },
+    {
+        "card_name": "Mirrored Mask",
+        "number": 214,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "214"
+    },
+    {
+        "card_name": "Soul Gate",
+        "number": 220,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "220"
+    },
+    {
+        "card_name": "Theater Mask",
+        "number": 223,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "223"
+    },
+    {
+        "card_name": "Vault Sentinel",
+        "number": 225,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "225"
+    },
+    {
+        "card_name": "Dragonfire Blade",
+        "number": 205,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "205"
+    },
+    {
+        "card_name": "Duelist's Choice",
+        "number": 206,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "206"
+    },
+    {
+        "card_name": "Ghost Light",
+        "number": 207,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "207"
+    },
+    {
+        "card_name": "Gilded Cipher",
+        "number": 208,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "208"
+    },
+    {
+        "card_name": "Living Script",
+        "number": 213,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "213"
+    },
+    {
+        "card_name": "Multipurpose Mannequin",
+        "number": 215,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "215"
+    },
+    {
+        "card_name": "Prismatic Panes",
+        "number": 217,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "217"
+    },
+    {
+        "card_name": "Prophetic Prism",
+        "number": 218,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "218"
+    },
+    {
+        "card_name": "Stage Dressing",
+        "number": 221,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "221"
+    },
+    {
+        "card_name": "Uncovered Idol",
+        "number": 224,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "224"
+    },
+    {
+        "card_name": "Ayshea Tome",
+        "number": 250,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "250"
+    },
+    {
+        "card_name": "Chromatic Lantern",
+        "number": 251,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "251"
+    },
+    {
+        "card_name": "Chronovore Clock",
+        "number": 252,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "252"
+    },
+    {
+        "card_name": "Crux Pinnacle",
+        "number": 253,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "253"
+    },
+    {
+        "card_name": "The Dominomicon",
+        "number": 254,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "254"
+    },
+    {
+        "card_name": "Drop of Envy",
+        "number": 255,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "255"
+    },
+    {
+        "card_name": "Elsewhere Mirror",
+        "number": 256,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "256"
+    },
+    {
+        "card_name": "Encrypted Monument",
+        "number": 257,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "257"
+    },
+    {
+        "card_name": "Enlightened Sigil",
+        "number": 258,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "258"
+    },
+    {
+        "card_name": "Eternity Pendant",
+        "number": 259,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "259"
+    },
+    {
+        "card_name": "Gilded Lotus",
+        "number": 260,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "260"
+    },
+    {
+        "card_name": "Glistening Chalice",
+        "number": 261,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "261"
+    },
+    {
+        "card_name": "Goblet of Unhallowed Blood",
+        "number": 262,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "262"
+    },
+    {
+        "card_name": "Isochron Wand",
+        "number": 263,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "263"
+    },
+    {
+        "card_name": "Lightless Hedron",
+        "number": 264,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "264"
+    },
+    {
+        "card_name": "Lodestone Golem",
+        "number": 265,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "265"
+    },
+    {
+        "card_name": "Mentorb",
+        "number": 266,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "266"
+    },
+    {
+        "card_name": "Mindlock Field",
+        "number": 267,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "267"
+    },
+    {
+        "card_name": "Mnemonic Curator",
+        "number": 268,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "268"
+    },
+    {
+        "card_name": "Pristine Frame",
+        "number": 269,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "269"
+    },
+    {
+        "card_name": "Ring of Souls",
+        "number": 270,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "270"
+    },
+    {
+        "card_name": "Seer's Sphere",
+        "number": 271,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "271"
+    },
+    {
+        "card_name": "Servant of Armageddon",
+        "number": 272,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "272"
+    },
+    {
+        "card_name": "Seven-Year Step",
+        "number": 273,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "273"
+    },
+    {
+        "card_name": "Shared Trove",
+        "number": 274,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "274"
+    },
+    {
+        "card_name": "Shining Crusader",
+        "number": 275,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "275"
+    },
+    {
+        "card_name": "Skeleton Keyring",
+        "number": 276,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "276"
+    },
+    {
+        "card_name": "Sorcerous Spyglass",
+        "number": 277,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "277"
+    },
+    {
+        "card_name": "Spectral Skycruiser",
+        "number": 278,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "278"
+    },
+    {
+        "card_name": "Starforge Armor",
+        "number": 279,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "279"
+    },
+    {
+        "card_name": "Steamquiver Strix",
+        "number": 280,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "280"
+    },
+    {
+        "card_name": "Stormcannon Gauntlet",
+        "number": 281,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "281"
+    },
+    {
+        "card_name": "The Stranger's Play",
+        "number": 282,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "282"
+    },
+    {
+        "card_name": "Sundial of the Infinite",
+        "number": 283,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "283"
+    },
+    {
+        "card_name": "Sword of Redemption",
+        "number": 284,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "284"
+    },
+    {
+        "card_name": "Time Cube",
+        "number": 285,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "285"
+    },
+    {
+        "card_name": "Titan Snare",
+        "number": 286,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "286"
+    },
+    {
+        "card_name": "Trap Door",
+        "number": 287,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "287"
+    },
+    {
+        "card_name": "Treasury Keyper",
+        "number": 288,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "288"
+    },
+    {
+        "card_name": "Walking Armory",
+        "number": 289,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "289"
+    },
+    {
+        "card_name": "Warlord's Mantle",
+        "number": 290,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "290"
+    },
+    {
+        "card_name": "Warrior's Bane",
+        "number": 291,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "291"
+    },
+    {
+        "card_name": "Whispering Halls",
+        "number": 292,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "292"
+    },
+    {
+        "card_name": "Worldslayer",
+        "number": 294,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "294"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ruptured Square",
+        "number": 241,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "241"
+    },
+    {
+        "card_name": "Ruptured Grotto",
+        "number": 237,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "237"
+    },
+    {
+        "card_name": "Ruptured Flats",
+        "number": 236,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "236"
+    },
+    {
+        "card_name": "Ruptured Trail",
+        "number": 242,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "242"
+    },
+    {
+        "card_name": "Ruptured Meadow",
+        "number": 239,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "239"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Legitimate Establishment",
+        "number": 231,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "231"
+    },
+    {
+        "card_name": "Heist Headquarters",
+        "number": 229,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "229"
+    },
+    {
+        "card_name": "Seedy Bar",
+        "number": 243,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "243"
+    },
+    {
+        "card_name": "Backstage Rooms",
+        "number": 227,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "227"
+    },
+    {
+        "card_name": "Hidden Hollow",
+        "number": 230,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "230"
+    },
+    {
+        "card_name": "Ruptured Expanse",
+        "number": 234,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "234"
+    },
+    {
+        "card_name": "Ruptured Falls",
+        "number": 235,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "235"
+    },
+    {
+        "card_name": "Ruptured Morass",
+        "number": 240,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "240"
+    },
+    {
+        "card_name": "Ruptured Citadel",
+        "number": 233,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "233"
+    },
+    {
+        "card_name": "Ruptured Grove",
+        "number": 238,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "238"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ascendant's Gate",
+        "number": 226,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "226"
+    },
+    {
+        "card_name": "Talent Pool",
+        "number": 244,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "244"
+    },
+    {
+        "card_name": "Evolving Wilds_VTM",
+        "number": 228,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "228"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Forest_VTM",
+        "number": 249,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "249"
+    },
+    {
+        "card_name": "Island_VTM",
+        "number": 246,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "246"
+    },
+    {
+        "card_name": "Mountain_VTM",
+        "number": 248,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "248"
+    },
+    {
+        "card_name": "Plains_VTM",
+        "number": 245,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "245"
+    },
+    {
+        "card_name": "Swamp_VTM",
+        "number": 247,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "247"
+    },
+    {
+        "card_name": "Forest_PRO_VTM",
+        "number": 305,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "305"
+    },
+    {
+        "card_name": "Island_PRO_VTM",
+        "number": 302,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "302"
+    },
+    {
+        "card_name": "Mountain_PRO_VTM",
+        "number": 304,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "304"
+    },
+    {
+        "card_name": "Plains_PRO_VTM",
+        "number": 301,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "301"
+    },
+    {
+        "card_name": "Swamp_PRO_VTM",
+        "number": 303,
+        "shape": "normal",
+        "set": "VTM",
+        "position": "303"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

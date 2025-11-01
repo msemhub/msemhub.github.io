@@ -1,0 +1,3166 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "A Moment in Time",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "A Place to Protect",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Abandon Stagnation",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Absurdity",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Creature — Incarnation",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Accomplished Master",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Accursed Bear",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Demon Bear",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Act of Treason_EOW",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Aided Assault",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Alida, Resolute",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Alida",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Allure of the Woods",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Amid Flames",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Anxious Worries",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Arborback Stomper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Army Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Army Saboteur",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Asking Imp",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Cat Demon Imp",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Assurance of Finality",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Awoken Elemental",
+			"rarity": "common",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Baleful Raven",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Bird",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Battlefront Scavenger",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Become Oneself",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Belief in the World",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Bestower of Princely Sin",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Bound by Nature",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Boundless Hopes",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Jellyfish Spirit",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Brash Charger",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Burning Winds",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Call of the Void",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Carefree Performer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Actor",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Cinders of an Old Era",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Climber's Outfit",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Comforting Presence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Cat Spirit",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Commence Hostilities",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Concoquo, Wiedfree Sage",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Confident Traveler",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Confirmor of Virtue",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Conscious Taboo",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Consider",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Corrupted Amalgam",
+			"rarity": "common",
+			"mana_cost": "{6}{B}",
+			"type": "Creature — Beast Demon",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Curious Traveler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Death of Belief",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Deathmarked Explorer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Decrepit Hero",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Dedicated Retribution",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Deserter's Wandering",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Desolate Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Desperate Thief",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Desperate Vanguard",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Detached Specters",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Devoted Artistry_EOW",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Dias, Freed from Belief",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Dias",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Diminish to Obscurity",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Dissolve into Nature",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Distant Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Distorted Fantasy",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Domineering Champion",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Dormant Memory",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Doubt Oneself",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Dreamscaper",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Embodiment of Nature",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Ox Spirit",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Embraced by Depths",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Emirik Invigilator",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Emirik Patrol",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "End of History",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Enduring Force",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}{W}{W}",
+			"type": "Creature — Snake Spirit",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Engrossed Reader",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Erosive Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Ethics and Reanimation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Evaluate the End",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Expressive Performer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Actor",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Extoller of Effort",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Famished Verdure",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Plant Beast",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Faraway Albatross",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Faulty Lock",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Fervent Igmel",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Elemental Bird",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Firebird's Passion",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Fleetfooted Survivalist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Flickers in the Night",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Fog-Lit Piracy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Font of Natural Essence",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Font of Strength",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Forest_EOW",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Idol",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Forgotten King's Mask",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Wretch",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Forlorn Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Forlorned Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Formative Experience",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Frontline Veteran",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Fungal Goliath",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Fungus Demon",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Fungal Infection",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Gangling Titan",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Giant Demon",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Generous Hermit",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Ghastly Belief",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Ghim, King's Servant",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Planeswalker — Ghim",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Ghim's Demise",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Giant's Blade",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Great Beyond",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Halford, the Rightful King",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Hallowed Perspective",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Heavenly Bull",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Ox Spirit",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Heretical Soulshifter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Heroic Exemplar",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Heroic Inspiration",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Hinterland Ritualist",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Humar, Mad Researcher",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Hunted Wolf",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Wolf",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Hunting Ground",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Ideoscio",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Igniderm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Elemental Elk",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Igniter of Unbridled Fury",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Giant Shaman",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Impassioned Craze",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Inquisitive Pod",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Insatiable Student",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Intensifying Luminescence",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Into the Wiedfree",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Irreverent Sinscape",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Artifact",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Island_EOW",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Keeper of Tradition",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "King's General",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Lamech, Seeking Apocolypse",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Planeswalker — Lamech",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Lonely Gateway",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Long-Lived Prowler",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Long Journey_EOW",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Lost in Combat",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Lucid Dweller",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Human",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Lumen Cell",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Manafly",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Insect Spirit",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Manifest Irrationality",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Manifested Freedom",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Horse Spirit",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Marsh Dweller",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Demon Imp",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Meadow's Allure",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Meandering Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Migrating Herd",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Militant Arms",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Mind's Contagion",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bird Demon",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Mob of the End",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Mountain_EOW",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Murky Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Mystical Elk",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "New State of Mind",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Nitrous Renewer",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Obsessive Ritualist",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Opportunistic Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Beast",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Researcher",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Alien",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Outlands Bodyguard",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Overcome Adversity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Overcome Enormity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Overhear Paranoia",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Overwhelming Paperwork",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Pale Night Remnants",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Perfecting Forgemaster",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Pestering Imp",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon Imp",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Petty Destruction",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Instant",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Picturesque Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Pious Warden",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Cleric Soldier",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Pitiful End",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Plains_EOW",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Poisonous Growth",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Presence of the Unknown",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Promised Exaltation",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel Spirit",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Protector of the City",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Provoker of Mountains",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Rampaging Ambusher",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Reckless Exemplar",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Recognification Process",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Recognition of Mortality",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Reconsider_EOW",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Reminder of History",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Research Aquarium",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Respectful Tracker",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Rest in the Wiedfree",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Restless Explorer",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Creature — Human Scout",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Retort Nonsense",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Retreat to the Walls",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Return to the Natural State",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Rigid Conformist",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Risk Distant Lands",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "River Miscreants",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Roar of the Wilds",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Rotting Greatwurm",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Rousing Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Ruins Entrance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Ruins Guardian",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Ruins Pack",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Search for a New Land",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Seeing Signs",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Shifting Dweller",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Spirit",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Sinful Tempter",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Skittish Prey",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Sodden Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Stalking Baloth",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Stirring Igmel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Elemental Bird",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Strange Sights",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Whale Spirit",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Structured Debate",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Study Oneself",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Suburban Farmer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Sudden Contortions",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Sunken Curiosity",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Surging Lightning",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Swamp_EOW",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Take Grievance",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Terramorphic Expanse_EOW",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Terrify the Unworthy",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Territorial Bear",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Bear",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Territorial Wolverine",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Wolverine",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "The Dreamer, Seeking",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Alien",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "The Pursuit of Science",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Artifact",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Thicketed Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "This-Worldliness",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Tinchor, Ever Suffering",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Spirit",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Torrid Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Tracking Party",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric Soldier",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Transformative Paints",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Transgressive Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Trepid Deserters",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Tumultuous Shrine",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Turn to Argument",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Turned by Fear",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Unexplored Wilds",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Unfathomable Terror",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon Serpent",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Valorous Ideal",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Venerated Sanctity",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Whale Spirit",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Vigorous Caldera",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Vision Beyond the Waters",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Vivid Bloom",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Jellyfish Spirit",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Wall of Notes",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Warping Relic",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Wartorn Veteran",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Wary Rider",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Weary Border Guard",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Weathered Storm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Weight of Consciousness",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Whimsical Dancer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Wiedfree Behemoth",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elk Demon",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Wiedfree Berserker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Fungus Warrior",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Wiedfree Investigator",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Wiedfree Roughrider",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Wiedfree Spider",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Witness Vanity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Workshop Engineer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Yielder of Ambition",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Zare, Heart Transformed",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Zealous Boar",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Boar",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EOW-files/img/224.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Absurdity
+	2 Alida, Resolute
+	2 Asking Imp
+	1 Become Oneself
+	2 Belief in the World
+	2 Bestower of Princely Sin
+	1 Bound by Nature
+	1 Cinders of an Old Era
+	1 Concoquo, Wiedfree Sage
+	1 Death of Belief
+	2 Deathmarked Explorer
+	2 Desolate Path
+	2 Devoted Artistry_EOW
+	2 Dias, Freed from Belief
+	2 Distant Path
+	2 Distorted Fantasy
+	2 Dormant Memory
+	2 Dreamscaper
+	2 Embodiment of Nature
+	1 End of History
+	2 Enduring Force
+	2 Engrossed Reader
+	2 Erosive Path
+	2 Famished Verdure
+	2 Faraway Albatross
+	2 Fervent Igmel
+	2 Forgotten Idol
+	2 Forgotten King's Mask
+	2 Forlorn Path
+	1 Formative Experience
+	1 Ghim, King's Servant
+	2 Giant's Blade
+	1 Halford, the Rightful King
+	1 Heavenly Bull
+	2 Hinterland Ritualist
+	1 Humar, Mad Researcher
+	2 Hunting Ground
+	1 Ideoscio
+	2 Igniter of Unbridled Fury
+	2 Irreverent Sinscape
+	2 Lamech, Seeking Apocolypse
+	2 Lonely Gateway
+	2 Manifested Freedom
+	2 Meadow's Allure
+	2 Meandering Path
+	2 Mind's Contagion
+	1 Mob of the End
+	2 Murky Path
+	2 Mystical Elk
+	2 Obsessive Ritualist
+	2 Otherworldly Researcher
+	2 Perfecting Forgemaster
+	2 Pious Warden
+	1 Promised Exaltation
+	2 Protector of the City
+	2 Provoker of Mountains
+	2 Recognification Process
+	1 Recognition of Mortality
+	2 Respectful Tracker
+	2 Retort Nonsense
+	2 Retreat to the Walls
+	2 Rigid Conformist
+	2 Rousing Path
+	2 Ruins Guardian
+	2 Sinful Tempter
+	2 Skittish Prey
+	2 Sodden Path
+	2 Structured Debate
+	2 Sunken Curiosity
+	2 Take Grievance
+	2 The Dreamer, Seeking
+	2 Thicketed Path
+	1 This-Worldliness
+	2 Tinchor, Ever Suffering
+	2 Torrid Path
+	2 Tumultuous Shrine
+	2 Unfathomable Terror
+	2 Venerated Sanctity
+	2 Vigorous Caldera
+	2 Warping Relic
+	2 Weight of Consciousness
+	2 Wiedfree Investigator
+	2 Wiedfree Roughrider
+	1 Zare, Heart Transformed
+[uncommon(3)]
+	4 A Moment in Time
+	4 A Place to Protect
+	4 Abandon Stagnation
+	4 Arborback Stomper
+	4 Army Guide
+	4 Army Saboteur
+	4 Baleful Raven
+	4 Call of the Void
+	4 Carefree Performer
+	4 Comforting Presence
+	4 Commence Hostilities
+	4 Confirmor of Virtue
+	4 Conscious Taboo
+	4 Curious Traveler
+	4 Dissolve into Nature
+	4 Doubt Oneself
+	4 Ethics and Reanimation
+	4 Evaluate the End
+	4 Extoller of Effort
+	4 Fleetfooted Survivalist
+	4 Fog-Lit Piracy
+	4 Font of Strength
+	4 Forlorned Knight
+	4 Fungal Goliath
+	4 Ghim's Demise
+	4 Hallowed Perspective
+	4 Heretical Soulshifter
+	4 Igniderm
+	4 Intensifying Luminescence
+	4 Into the Wiedfree
+	4 King's General
+	4 Lucid Dweller
+	4 Manifest Irrationality
+	4 Nitrous Renewer
+	4 Opportunistic Beast
+	4 Overcome Adversity
+	4 Overcome Enormity
+	4 Pale Night Remnants
+	4 Petty Destruction
+	4 Picturesque Champion
+	4 Presence of the Unknown
+	4 Reminder of History
+	4 Rest in the Wiedfree
+	4 Risk Distant Lands
+	4 River Miscreants
+	4 Rotting Greatwurm
+	4 Ruins Entrance
+	4 Search for a New Land
+	4 Stirring Igmel
+	4 Study Oneself
+	4 Suburban Farmer
+	4 Surging Lightning
+	4 Territorial Bear
+	4 The Pursuit of Science
+	4 Tracking Party
+	4 Transgressive Ritual
+	4 Turned by Fear
+	4 Unexplored Wilds
+	4 Valorous Ideal
+	4 Vision Beyond the Waters
+	4 Vivid Bloom
+	4 Wartorn Veteran
+	4 Weathered Storm
+	4 Wiedfree Berserker
+	4 Witness Vanity
+	4 Zealous Boar
+[common(7)]
+	8 Accomplished Master
+	8 Accursed Bear
+	8 Act of Treason_EOW
+	8 Aided Assault
+	8 Allure of the Woods
+	8 Amid Flames
+	8 Anxious Worries
+	8 Assurance of Finality
+	8 Awoken Elemental
+	8 Battlefront Scavenger
+	8 Boundless Hopes
+	8 Brash Charger
+	8 Burning Winds
+	8 Climber's Outfit
+	8 Confident Traveler
+	8 Consider
+	8 Corrupted Amalgam
+	8 Decrepit Hero
+	8 Dedicated Retribution
+	8 Deserter's Wandering
+	8 Desperate Thief
+	8 Desperate Vanguard
+	8 Detached Specters
+	8 Diminish to Obscurity
+	8 Domineering Champion
+	8 Embraced by Depths
+	8 Emirik Invigilator
+	8 Emirik Patrol
+	8 Expressive Performer
+	8 Faulty Lock
+	8 Firebird's Passion
+	8 Flickers in the Night
+	8 Font of Natural Essence
+	8 Forgotten Wretch
+	8 Frontline Veteran
+	8 Fungal Infection
+	8 Gangling Titan
+	8 Generous Hermit
+	8 Ghastly Belief
+	8 Great Beyond
+	8 Heroic Exemplar
+	8 Heroic Inspiration
+	8 Hunted Wolf
+	8 Impassioned Craze
+	8 Inquisitive Pod
+	8 Insatiable Student
+	8 Keeper of Tradition
+	8 Long-Lived Prowler
+	8 Long Journey_EOW
+	8 Lost in Combat
+	8 Lumen Cell
+	8 Manafly
+	8 Marsh Dweller
+	8 Migrating Herd
+	8 Militant Arms
+	8 New State of Mind
+	8 Outlands Bodyguard
+	8 Overhear Paranoia
+	8 Overwhelming Paperwork
+	8 Pestering Imp
+	8 Pitiful End
+	8 Poisonous Growth
+	8 Rampaging Ambusher
+	8 Reckless Exemplar
+	8 Reconsider_EOW
+	8 Research Aquarium
+	8 Restless Explorer
+	8 Return to the Natural State
+	8 Roar of the Wilds
+	8 Ruins Pack
+	8 Seeing Signs
+	8 Shifting Dweller
+	8 Stalking Baloth
+	8 Strange Sights
+	8 Sudden Contortions
+	8 Terramorphic Expanse_EOW
+	8 Terrify the Unworthy
+	8 Territorial Wolverine
+	8 Transformative Paints
+	8 Trepid Deserters
+	8 Turn to Argument
+	8 Wall of Notes
+	8 Wary Rider
+	8 Weary Border Guard
+	8 Whimsical Dancer
+	8 Wiedfree Behemoth
+	8 Wiedfree Spider
+	8 Workshop Engineer
+	8 Yielder of Ambition
+[foil(1)]
+	6 A Moment in Time
+	6 A Place to Protect
+	6 Abandon Stagnation
+	1 Absurdity
+	12 Accomplished Master
+	12 Accursed Bear
+	12 Act of Treason_EOW
+	12 Aided Assault
+	2 Alida, Resolute
+	12 Allure of the Woods
+	12 Amid Flames
+	12 Anxious Worries
+	6 Arborback Stomper
+	6 Army Guide
+	6 Army Saboteur
+	2 Asking Imp
+	12 Assurance of Finality
+	12 Awoken Elemental
+	6 Baleful Raven
+	12 Battlefront Scavenger
+	1 Become Oneself
+	2 Belief in the World
+	2 Bestower of Princely Sin
+	1 Bound by Nature
+	12 Boundless Hopes
+	12 Brash Charger
+	12 Burning Winds
+	6 Call of the Void
+	6 Carefree Performer
+	1 Cinders of an Old Era
+	12 Climber's Outfit
+	6 Comforting Presence
+	6 Commence Hostilities
+	1 Concoquo, Wiedfree Sage
+	12 Confident Traveler
+	6 Confirmor of Virtue
+	6 Conscious Taboo
+	12 Consider
+	12 Corrupted Amalgam
+	6 Curious Traveler
+	1 Death of Belief
+	2 Deathmarked Explorer
+	12 Decrepit Hero
+	12 Dedicated Retribution
+	12 Deserter's Wandering
+	2 Desolate Path
+	12 Desperate Thief
+	12 Desperate Vanguard
+	12 Detached Specters
+	2 Devoted Artistry_EOW
+	2 Dias, Freed from Belief
+	12 Diminish to Obscurity
+	6 Dissolve into Nature
+	2 Distant Path
+	2 Distorted Fantasy
+	12 Domineering Champion
+	2 Dormant Memory
+	6 Doubt Oneself
+	2 Dreamscaper
+	2 Embodiment of Nature
+	12 Embraced by Depths
+	12 Emirik Invigilator
+	12 Emirik Patrol
+	1 End of History
+	2 Enduring Force
+	2 Engrossed Reader
+	2 Erosive Path
+	6 Ethics and Reanimation
+	6 Evaluate the End
+	12 Expressive Performer
+	6 Extoller of Effort
+	2 Famished Verdure
+	2 Faraway Albatross
+	12 Faulty Lock
+	2 Fervent Igmel
+	12 Firebird's Passion
+	6 Fleetfooted Survivalist
+	12 Flickers in the Night
+	6 Fog-Lit Piracy
+	12 Font of Natural Essence
+	6 Font of Strength
+	2 Forgotten Idol
+	2 Forgotten King's Mask
+	12 Forgotten Wretch
+	2 Forlorn Path
+	6 Forlorned Knight
+	1 Formative Experience
+	12 Frontline Veteran
+	6 Fungal Goliath
+	12 Fungal Infection
+	12 Gangling Titan
+	12 Generous Hermit
+	12 Ghastly Belief
+	1 Ghim, King's Servant
+	6 Ghim's Demise
+	2 Giant's Blade
+	12 Great Beyond
+	1 Halford, the Rightful King
+	6 Hallowed Perspective
+	1 Heavenly Bull
+	6 Heretical Soulshifter
+	12 Heroic Exemplar
+	12 Heroic Inspiration
+	2 Hinterland Ritualist
+	1 Humar, Mad Researcher
+	12 Hunted Wolf
+	2 Hunting Ground
+	1 Ideoscio
+	6 Igniderm
+	2 Igniter of Unbridled Fury
+	12 Impassioned Craze
+	12 Inquisitive Pod
+	12 Insatiable Student
+	6 Intensifying Luminescence
+	6 Into the Wiedfree
+	2 Irreverent Sinscape
+	12 Keeper of Tradition
+	6 King's General
+	2 Lamech, Seeking Apocolypse
+	2 Lonely Gateway
+	12 Long-Lived Prowler
+	12 Long Journey_EOW
+	12 Lost in Combat
+	6 Lucid Dweller
+	12 Lumen Cell
+	12 Manafly
+	6 Manifest Irrationality
+	2 Manifested Freedom
+	12 Marsh Dweller
+	2 Meadow's Allure
+	2 Meandering Path
+	12 Migrating Herd
+	12 Militant Arms
+	2 Mind's Contagion
+	1 Mob of the End
+	2 Murky Path
+	2 Mystical Elk
+	12 New State of Mind
+	6 Nitrous Renewer
+	2 Obsessive Ritualist
+	6 Opportunistic Beast
+	2 Otherworldly Researcher
+	12 Outlands Bodyguard
+	6 Overcome Adversity
+	6 Overcome Enormity
+	12 Overhear Paranoia
+	12 Overwhelming Paperwork
+	6 Pale Night Remnants
+	2 Perfecting Forgemaster
+	12 Pestering Imp
+	6 Petty Destruction
+	6 Picturesque Champion
+	2 Pious Warden
+	12 Pitiful End
+	12 Poisonous Growth
+	6 Presence of the Unknown
+	1 Promised Exaltation
+	2 Protector of the City
+	2 Provoker of Mountains
+	12 Rampaging Ambusher
+	12 Reckless Exemplar
+	2 Recognification Process
+	1 Recognition of Mortality
+	12 Reconsider_EOW
+	6 Reminder of History
+	12 Research Aquarium
+	2 Respectful Tracker
+	6 Rest in the Wiedfree
+	12 Restless Explorer
+	2 Retort Nonsense
+	2 Retreat to the Walls
+	12 Return to the Natural State
+	2 Rigid Conformist
+	6 Risk Distant Lands
+	6 River Miscreants
+	12 Roar of the Wilds
+	6 Rotting Greatwurm
+	2 Rousing Path
+	6 Ruins Entrance
+	2 Ruins Guardian
+	12 Ruins Pack
+	6 Search for a New Land
+	12 Seeing Signs
+	12 Shifting Dweller
+	2 Sinful Tempter
+	2 Skittish Prey
+	2 Sodden Path
+	12 Stalking Baloth
+	6 Stirring Igmel
+	12 Strange Sights
+	2 Structured Debate
+	6 Study Oneself
+	6 Suburban Farmer
+	12 Sudden Contortions
+	2 Sunken Curiosity
+	6 Surging Lightning
+	2 Take Grievance
+	12 Terramorphic Expanse_EOW
+	12 Terrify the Unworthy
+	6 Territorial Bear
+	12 Territorial Wolverine
+	2 The Dreamer, Seeking
+	6 The Pursuit of Science
+	2 Thicketed Path
+	1 This-Worldliness
+	2 Tinchor, Ever Suffering
+	2 Torrid Path
+	6 Tracking Party
+	12 Transformative Paints
+	6 Transgressive Ritual
+	12 Trepid Deserters
+	2 Tumultuous Shrine
+	12 Turn to Argument
+	6 Turned by Fear
+	6 Unexplored Wilds
+	2 Unfathomable Terror
+	6 Valorous Ideal
+	2 Venerated Sanctity
+	2 Vigorous Caldera
+	6 Vision Beyond the Waters
+	6 Vivid Bloom
+	12 Wall of Notes
+	2 Warping Relic
+	6 Wartorn Veteran
+	12 Wary Rider
+	12 Weary Border Guard
+	6 Weathered Storm
+	2 Weight of Consciousness
+	12 Whimsical Dancer
+	12 Wiedfree Behemoth
+	6 Wiedfree Berserker
+	2 Wiedfree Investigator
+	2 Wiedfree Roughrider
+	12 Wiedfree Spider
+	6 Witness Vanity
+	12 Workshop Engineer
+	12 Yielder of Ambition
+	1 Zare, Heart Transformed
+	6 Zealous Boar
+[wildcard(1)]
+	15 A Moment in Time
+	15 A Place to Protect
+	15 Abandon Stagnation
+	4 Absurdity
+	6 Accomplished Master
+	6 Accursed Bear
+	6 Act of Treason_EOW
+	6 Aided Assault
+	7 Alida, Resolute
+	6 Allure of the Woods
+	6 Amid Flames
+	6 Anxious Worries
+	15 Arborback Stomper
+	15 Army Guide
+	15 Army Saboteur
+	7 Asking Imp
+	6 Assurance of Finality
+	6 Awoken Elemental
+	15 Baleful Raven
+	6 Battlefront Scavenger
+	4 Become Oneself
+	7 Belief in the World
+	7 Bestower of Princely Sin
+	4 Bound by Nature
+	6 Boundless Hopes
+	6 Brash Charger
+	6 Burning Winds
+	15 Call of the Void
+	15 Carefree Performer
+	4 Cinders of an Old Era
+	6 Climber's Outfit
+	15 Comforting Presence
+	15 Commence Hostilities
+	4 Concoquo, Wiedfree Sage
+	6 Confident Traveler
+	15 Confirmor of Virtue
+	15 Conscious Taboo
+	6 Consider
+	6 Corrupted Amalgam
+	15 Curious Traveler
+	4 Death of Belief
+	7 Deathmarked Explorer
+	6 Decrepit Hero
+	6 Dedicated Retribution
+	6 Deserter's Wandering
+	7 Desolate Path
+	6 Desperate Thief
+	6 Desperate Vanguard
+	6 Detached Specters
+	7 Devoted Artistry_EOW
+	7 Dias, Freed from Belief
+	6 Diminish to Obscurity
+	15 Dissolve into Nature
+	7 Distant Path
+	7 Distorted Fantasy
+	6 Domineering Champion
+	7 Dormant Memory
+	15 Doubt Oneself
+	7 Dreamscaper
+	7 Embodiment of Nature
+	6 Embraced by Depths
+	6 Emirik Invigilator
+	6 Emirik Patrol
+	4 End of History
+	7 Enduring Force
+	7 Engrossed Reader
+	7 Erosive Path
+	15 Ethics and Reanimation
+	15 Evaluate the End
+	6 Expressive Performer
+	15 Extoller of Effort
+	7 Famished Verdure
+	7 Faraway Albatross
+	6 Faulty Lock
+	7 Fervent Igmel
+	6 Firebird's Passion
+	15 Fleetfooted Survivalist
+	6 Flickers in the Night
+	15 Fog-Lit Piracy
+	6 Font of Natural Essence
+	15 Font of Strength
+	7 Forgotten Idol
+	7 Forgotten King's Mask
+	6 Forgotten Wretch
+	7 Forlorn Path
+	15 Forlorned Knight
+	4 Formative Experience
+	6 Frontline Veteran
+	15 Fungal Goliath
+	6 Fungal Infection
+	6 Gangling Titan
+	6 Generous Hermit
+	6 Ghastly Belief
+	4 Ghim, King's Servant
+	15 Ghim's Demise
+	7 Giant's Blade
+	6 Great Beyond
+	4 Halford, the Rightful King
+	15 Hallowed Perspective
+	4 Heavenly Bull
+	15 Heretical Soulshifter
+	6 Heroic Exemplar
+	6 Heroic Inspiration
+	7 Hinterland Ritualist
+	4 Humar, Mad Researcher
+	6 Hunted Wolf
+	7 Hunting Ground
+	4 Ideoscio
+	15 Igniderm
+	7 Igniter of Unbridled Fury
+	6 Impassioned Craze
+	6 Inquisitive Pod
+	6 Insatiable Student
+	15 Intensifying Luminescence
+	15 Into the Wiedfree
+	7 Irreverent Sinscape
+	6 Keeper of Tradition
+	15 King's General
+	7 Lamech, Seeking Apocolypse
+	7 Lonely Gateway
+	6 Long-Lived Prowler
+	6 Long Journey_EOW
+	6 Lost in Combat
+	15 Lucid Dweller
+	6 Lumen Cell
+	6 Manafly
+	15 Manifest Irrationality
+	7 Manifested Freedom
+	6 Marsh Dweller
+	7 Meadow's Allure
+	7 Meandering Path
+	6 Migrating Herd
+	6 Militant Arms
+	7 Mind's Contagion
+	4 Mob of the End
+	7 Murky Path
+	7 Mystical Elk
+	6 New State of Mind
+	15 Nitrous Renewer
+	7 Obsessive Ritualist
+	15 Opportunistic Beast
+	7 Otherworldly Researcher
+	6 Outlands Bodyguard
+	15 Overcome Adversity
+	15 Overcome Enormity
+	6 Overhear Paranoia
+	6 Overwhelming Paperwork
+	15 Pale Night Remnants
+	7 Perfecting Forgemaster
+	6 Pestering Imp
+	15 Petty Destruction
+	15 Picturesque Champion
+	7 Pious Warden
+	6 Pitiful End
+	6 Poisonous Growth
+	15 Presence of the Unknown
+	4 Promised Exaltation
+	7 Protector of the City
+	7 Provoker of Mountains
+	6 Rampaging Ambusher
+	6 Reckless Exemplar
+	7 Recognification Process
+	4 Recognition of Mortality
+	6 Reconsider_EOW
+	15 Reminder of History
+	6 Research Aquarium
+	7 Respectful Tracker
+	15 Rest in the Wiedfree
+	6 Restless Explorer
+	7 Retort Nonsense
+	7 Retreat to the Walls
+	6 Return to the Natural State
+	7 Rigid Conformist
+	15 Risk Distant Lands
+	15 River Miscreants
+	6 Roar of the Wilds
+	15 Rotting Greatwurm
+	7 Rousing Path
+	15 Ruins Entrance
+	7 Ruins Guardian
+	6 Ruins Pack
+	15 Search for a New Land
+	6 Seeing Signs
+	6 Shifting Dweller
+	7 Sinful Tempter
+	7 Skittish Prey
+	7 Sodden Path
+	6 Stalking Baloth
+	15 Stirring Igmel
+	6 Strange Sights
+	7 Structured Debate
+	15 Study Oneself
+	15 Suburban Farmer
+	6 Sudden Contortions
+	7 Sunken Curiosity
+	15 Surging Lightning
+	7 Take Grievance
+	6 Terramorphic Expanse_EOW
+	6 Terrify the Unworthy
+	15 Territorial Bear
+	6 Territorial Wolverine
+	7 The Dreamer, Seeking
+	15 The Pursuit of Science
+	7 Thicketed Path
+	4 This-Worldliness
+	7 Tinchor, Ever Suffering
+	7 Torrid Path
+	15 Tracking Party
+	6 Transformative Paints
+	15 Transgressive Ritual
+	6 Trepid Deserters
+	7 Tumultuous Shrine
+	6 Turn to Argument
+	15 Turned by Fear
+	15 Unexplored Wilds
+	7 Unfathomable Terror
+	15 Valorous Ideal
+	7 Venerated Sanctity
+	7 Vigorous Caldera
+	15 Vision Beyond the Waters
+	15 Vivid Bloom
+	6 Wall of Notes
+	7 Warping Relic
+	15 Wartorn Veteran
+	6 Wary Rider
+	6 Weary Border Guard
+	15 Weathered Storm
+	7 Weight of Consciousness
+	6 Whimsical Dancer
+	6 Wiedfree Behemoth
+	15 Wiedfree Berserker
+	7 Wiedfree Investigator
+	7 Wiedfree Roughrider
+	6 Wiedfree Spider
+	15 Witness Vanity
+	6 Workshop Engineer
+	6 Yielder of Ambition
+	4 Zare, Heart Transformed
+	15 Zealous Boar

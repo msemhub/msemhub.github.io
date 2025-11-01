@@ -1,0 +1,439 @@
+﻿{
+    "sets": [
+        {
+            "set_code": "101",
+            "set_name": "Storytime",
+            "formats": ""
+        },
+        {
+            "set_code": "ACA",
+            "set_name": "Arcanum Academia",
+            "formats": ""
+        },
+        {
+            "set_code": "ACT",
+            "set_name": "The Stage Presents: The Neverending Act",
+            "formats": ""
+        },
+        {
+            "set_code": "AFM",
+            "set_name": "Aftermath",
+            "formats": ""
+        },
+        {
+            "set_code": "AKD",
+            "set_name": "Arkadai",
+            "formats": ""
+        },
+        {
+            "set_code": "ALK",
+            "set_name": "Alkabah",
+            "formats": ""
+        },
+        {
+            "set_code": "ALR",
+            "set_name": "Alara",
+            "formats": ""
+        },
+        {
+            "set_code": "ATB",
+            "set_name": "Al Tabaq",
+            "formats": ""
+        },
+        {
+            "set_code": "AVX",
+            "set_name": "Animus Vox",
+            "formats": ""
+        },
+        {
+            "set_code": "BLR",
+            "set_name": "Blood Like Rivers",
+            "formats": ""
+        },
+        {
+            "set_code": "BTB",
+            "set_name": "Beyond the Blackwall",
+            "formats": ""
+        },
+        {
+            "set_code": "BYK",
+            "set_name": "Beyond Our Ken",
+            "formats": ""
+        },
+        {
+            "set_code": "CAC",
+            "set_name": "Carpe Arcanum",
+            "formats": ""
+        },
+        {
+            "set_code": "CHAMPIONS",
+            "set_name": "MSEM Champions",
+            "formats": ""
+        },
+        {
+            "set_code": "DHL",
+            "set_name": "Descent from the Highlands",
+            "formats": ""
+        },
+        {
+            "set_code": "DOA",
+            "set_name": "Discoveries of Akieva",
+            "formats": ""
+        },
+        {
+            "set_code": "DSS",
+            "set_name": "Dark Seas of Shiryen",
+            "formats": ""
+        },
+        {
+            "set_code": "EAU",
+            "set_name": "Eralou",
+            "formats": ""
+        },
+        {
+            "set_code": "EIA",
+            "set_name": "Elmare: Into the Abyss",
+            "formats": ""
+        },
+        {
+            "set_code": "EOW",
+            "set_name": "End of Wollensie",
+            "formats": ""
+        },
+        {
+            "set_code": "ETF",
+            "set_name": "The Empty Throne of Feanav",
+            "formats": ""
+        },
+        {
+            "set_code": "FLP",
+            "set_name": "Foreign Language Promos",
+            "formats": ""
+        },
+        {
+            "set_code": "FNV",
+            "set_name": "Feanav: The Apothecary's Progress",
+            "formats": ""
+        },
+        {
+            "set_code": "GHQ",
+            "set_name": "Glacia: Hail to the Queen",
+            "formats": ""
+        },
+        {
+            "set_code": "GNJ",
+            "set_name": "Goliaths of Nangjiao",
+            "formats": ""
+        },
+        {
+            "set_code": "HI12",
+            "set_name": "High Noon",
+            "formats": ""
+        },
+        {
+            "set_code": "HQZ",
+            "set_name": "Hunting Quiet Horizons",
+            "formats": ""
+        },
+        {
+            "set_code": "HVF",
+            "set_name": "Harvest Festival",
+            "formats": ""
+        },
+        {
+            "set_code": "HZN",
+            "set_name": "New Horizons",
+            "formats": ""
+        },
+        {
+            "set_code": "IMP",
+            "set_name": "Imperial Legacies",
+            "formats": ""
+        },
+        {
+            "set_code": "INM",
+            "set_name": "Innistrad In Memoriam",
+            "formats": ""
+        },
+        {
+            "set_code": "K15",
+            "set_name": "K15 Core Set",
+            "formats": ""
+        },
+        {
+            "set_code": "KLC",
+            "set_name": "Kaleidoscope",
+            "formats": ""
+        },
+        {
+            "set_code": "KOD",
+            "set_name": "Kahembo: Olde Dawn",
+            "formats": ""
+        },
+        {
+            "set_code": "KXP",
+            "set_name": "Karina's Explorations",
+            "formats": ""
+        },
+        {
+            "set_code": "KZD",
+            "set_name": "Khaliz-Dorahn",
+            "formats": ""
+        },
+        {
+            "set_code": "L",
+            "set_name": "The Land Bundle",
+            "formats": ""
+        },
+        {
+            "set_code": "L2",
+            "set_name": "The Mana Pool",
+            "formats": ""
+        },
+        {
+            "set_code": "L3",
+            "set_name": "The Mana Pool 2",
+            "formats": ""
+        },
+        {
+            "set_code": "LAIR",
+            "set_name": "MSEM Secret Lair Drops",
+            "formats": ""
+        },
+        {
+            "set_code": "LAW",
+            "set_name": "Lovi Awoken",
+            "formats": ""
+        },
+        {
+            "set_code": "LVS",
+            "set_name": "Love Song",
+            "formats": ""
+        },
+        {
+            "set_code": "MAC",
+            "set_name": "Memorium Arcanum",
+            "formats": ""
+        },
+        {
+            "set_code": "MC25",
+            "set_name": "MSEM Masters Cube 2025",
+            "formats": ""
+        },
+        {
+            "set_code": "MIS",
+            "set_name": "Mious",
+            "formats": ""
+        },
+        {
+            "set_code": "MON",
+            "set_name": "Monsters of Chikyu",
+            "formats": ""
+        },
+        {
+            "set_code": "MPS_MSE",
+            "set_name": "MSEM Champions",
+            "formats": ""
+        },
+        {
+            "set_code": "MS1",
+            "set_name": "MSEM Masters 2019",
+            "formats": ""
+        },
+        {
+            "set_code": "MS2",
+            "set_name": "MSEM Masters 2020",
+            "formats": ""
+        },
+        {
+            "set_code": "MS3",
+            "set_name": "MSEM Masters 2021",
+            "formats": ""
+        },
+        {
+            "set_code": "MSC",
+            "set_name": "MSEM Masters Cube",
+            "formats": ""
+        },
+        {
+            "set_code": "MSJ",
+            "set_name": "MSEM Masters: Jumpstart",
+            "formats": ""
+        },
+        {
+            "set_code": "MSL",
+            "set_name": "MSEM Masters: Legends",
+            "formats": ""
+        },
+        {
+            "set_code": "NJB",
+            "set_name": "Nangjiao In Bloom",
+            "formats": ""
+        },
+        {
+            "set_code": "NVA",
+            "set_name": "Novea",
+            "formats": ""
+        },
+        {
+            "set_code": "ONO",
+            "set_name": "Adventurers of Onora",
+            "formats": ""
+        },
+        {
+            "set_code": "OPH",
+            "set_name": "Ophorio",
+            "formats": ""
+        },
+        {
+            "set_code": "ORP",
+            "set_name": "Oirohpo",
+            "formats": ""
+        },
+        {
+            "set_code": "OTH",
+            "set_name": "Over the Horizon",
+            "formats": ""
+        },
+        {
+            "set_code": "PAX",
+            "set_name": "Panxiou",
+            "formats": ""
+        },
+        {
+            "set_code": "PFP",
+            "set_name": "Plagues of Fretport",
+            "formats": ""
+        },
+        {
+            "set_code": "PLAY",
+            "set_name": "Playtest Cards",
+            "formats": ""
+        },
+        {
+            "set_code": "POA",
+            "set_name": "Pyramids of Atuum",
+            "formats": ""
+        },
+        {
+            "set_code": "PSA",
+            "set_name": "Path of Shadows",
+            "formats": ""
+        },
+        {
+            "set_code": "QRB",
+            "set_name": "Quest for the Roseblade",
+            "formats": ""
+        },
+        {
+            "set_code": "RCM",
+            "set_name": "Road to Car\u00fc Mapu",
+            "formats": ""
+        },
+        {
+            "set_code": "ROS",
+            "set_name": "Alkabah: The Rise of Soli",
+            "formats": ""
+        },
+        {
+            "set_code": "RVO",
+            "set_name": "Riddles of Revio",
+            "formats": ""
+        },
+        {
+            "set_code": "RWR",
+            "set_name": "Rail War",
+            "formats": ""
+        },
+        {
+            "set_code": "SHRINE",
+            "set_name": "From the Vault: Wayfarer's Shrine",
+            "formats": ""
+        },
+        {
+            "set_code": "SOR",
+            "set_name": "Spark of Revolution",
+            "formats": ""
+        },
+        {
+            "set_code": "SOU",
+            "set_name": "Scriptures of Urshad",
+            "formats": ""
+        },
+        {
+            "set_code": "SPK",
+            "set_name": "Sparks of a Multiverse",
+            "formats": ""
+        },
+        {
+            "set_code": "STN",
+            "set_name": "Survive the Night",
+            "formats": ""
+        },
+        {
+            "set_code": "SUR",
+            "set_name": "Surging Tide",
+            "formats": ""
+        },
+        {
+            "set_code": "SWR",
+            "set_name": "Seasons of War",
+            "formats": ""
+        },
+        {
+            "set_code": "TMI",
+            "set_name": "Toll Midnight",
+            "formats": ""
+        },
+        {
+            "set_code": "TOJ",
+            "set_name": "Tales of Old Jidai",
+            "formats": ""
+        },
+        {
+            "set_code": "TOW",
+            "set_name": "Tides of War",
+            "formats": ""
+        },
+        {
+            "set_code": "TPW",
+            "set_name": "The Petals Wilt",
+            "formats": ""
+        },
+        {
+            "set_code": "TTR",
+            "set_name": "Theros Triumphant",
+            "formats": ""
+        },
+        {
+            "set_code": "TWR",
+            "set_name": "A Tourney at Whiterun",
+            "formats": ""
+        },
+        {
+            "set_code": "UNR",
+            "set_name": "The Unraveling",
+            "formats": ""
+        },
+        {
+            "set_code": "VHS",
+            "set_name": "Video Horror System",
+            "formats": ""
+        },
+        {
+            "set_code": "VTM",
+            "set_name": "Villains: The Musical",
+            "formats": ""
+        },
+        {
+            "set_code": "WAY",
+            "set_name": "Worlds Away",
+            "formats": ""
+        },
+        {
+            "set_code": "ZER",
+            "set_name": "Zero",
+            "formats": ""
+        }
+    ]
+}

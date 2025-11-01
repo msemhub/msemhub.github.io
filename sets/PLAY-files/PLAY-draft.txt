@@ -1,0 +1,361 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Acin, the Toymaker Avatar",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Vanguard",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Big Presents",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Reminder",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Massive Surprises",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Reminder",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A1_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A10_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A11_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A12_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A13_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A14_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A15_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A2_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A3_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A4_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A5_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A6_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A7_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A8_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card A9_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B1_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B10_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B11_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B12_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B13_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B14_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B15_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B2_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B3_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B4_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B5_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B6_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B7_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B8_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Playtest Card B9_PLAY",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Playtest",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Small Gifts",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Reminder",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PLAY-files/img/41.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Acin, the Toymaker Avatar
+	2 Big Presents
+	2 Massive Surprises
+	2 Small Gifts
+[uncommon(3)]
+[common(7)]
+[foil(1)]
+	2 Acin, the Toymaker Avatar
+	2 Big Presents
+	2 Massive Surprises
+	2 Small Gifts
+[wildcard(1)]
+	7 Acin, the Toymaker Avatar
+	7 Big Presents
+	7 Massive Surprises
+	7 Small Gifts

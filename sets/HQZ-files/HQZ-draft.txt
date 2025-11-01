@@ -1,0 +1,2212 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "AOSE Field Biologist",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Above Danawan",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Omenpath",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Achievement Aspirant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Amateur Inventor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Answered Plea",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Arcane Figment",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Elk Illusion",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Arcor Carapace",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Ashes of the Hundred Suns",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Aspirant Peak",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Omenpath",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Awaiting Yhzag",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Bad // Worse",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Bad // Worse",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Bazaar Smuggler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Mutant Merchant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Beloved of Wachet",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Biochemical Bloom",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Black Tesseract",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment Implement",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Blackened Heart",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment Implement",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Bleeting Distraction",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Bracing Crossroads",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Broadlane Well-to-Do",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Citizen",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Calefactor of Seas",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Serpent",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Child of Tezoculpa",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Cling to Old Dreams",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Colonial Alchemist",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Crinster Dame",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Human Citizen Shaman",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Croaking Crooner",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Frog Bard",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Crooked Whistle",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment Implement",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Cruel Crossroads",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Cruel Guidance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Dashing Qith",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Cat",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Deal with the Devil // The Devil's Fair Share",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/59a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/59a_front.jpg"
+			}
+		},
+		{
+			"name": "Deal with the Devil // The Devil's Fair Share",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/59a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/59a_front.jpg"
+			}
+		},
+		{
+			"name": "Den of Sulfur",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Omenpath",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Devka, Mad Memory",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Nightmare",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Eccentric Biologist",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Advisor Citizen",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Emeria Claviger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Experimental Concoctions",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Face Down the Odds // Shrug Off the Odds",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/7a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/7a_front.jpg"
+			}
+		},
+		{
+			"name": "Face Down the Odds // Shrug Off the Odds",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/7a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/7a_front.jpg"
+			}
+		},
+		{
+			"name": "Faces of War",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Faithful of Abendo",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Faithful of Helar // Shard of Helar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Cultist",
+			"collector_number": "25",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/25a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/25a_front.jpg"
+			}
+		},
+		{
+			"name": "Faithful of Helar // Shard of Helar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Cultist",
+			"collector_number": "25",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/25a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/25a_front.jpg"
+			}
+		},
+		{
+			"name": "Fallow Plateau",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Field of Rot",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Omenpath",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Fifth Street Patronage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "First of the Horde",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Zombie Scout",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Flood Realm Monarch",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Forest_HQZ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Forest_HQZ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Frigid Scrubland",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Omenpath",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Gatetown Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Reflection Artificer",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Graduate of Illusions",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Guardian of the Wards",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Dwarf Noble",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Half-Made Man",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Human Horror",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Hardened Crossroads",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Harsh Sanctuary",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Hateful Eye",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment Implement",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Haunted Breathstealer // Urborg Butcher",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Nightstalker",
+			"collector_number": "41",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/41a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/41a_front.jpg"
+			}
+		},
+		{
+			"name": "Haunted Breathstealer // Urborg Butcher",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Nightstalker",
+			"collector_number": "41",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/41a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/41a_front.jpg"
+			}
+		},
+		{
+			"name": "Haunting Visitations",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Headwind Aetherwork",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Bird",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Heartless Exchange",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Heaving Charnel",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}{R}{R}{G}{G}",
+			"type": "Creature — Nightmare Maggot",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "House of Long Shadows",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Omenpath",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Ink Sea Sentinel",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Soldier",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Introspective Crossroads",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Intrusive Thoughts",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery — Inscription",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Island_HQZ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Island_HQZ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Izzet Extractionist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Kareki Wanderer",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Kattalin's Intrigues // Thailen, Reclaimant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/62a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/62a_front.jpg"
+			}
+		},
+		{
+			"name": "Kattalin's Intrigues // Thailen, Reclaimant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/62a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/62a_front.jpg"
+			}
+		},
+		{
+			"name": "Kholon Astrologist // Dreaming Butcher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Noble Werewolf",
+			"collector_number": "42",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/42a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/42a_front.jpg"
+			}
+		},
+		{
+			"name": "Kholon Astrologist // Dreaming Butcher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Noble Werewolf",
+			"collector_number": "42",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/42a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/42a_front.jpg"
+			}
+		},
+		{
+			"name": "Knight of Wennex",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Orc Knight",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Liar's Tongue",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment Implement",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Lovestruck Heir",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Lunar Latchkey",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment Key",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Maddening Trinket",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment Implement",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Magde, Icatian Refugee",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Spellshaper",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Maghbri Votary",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Master of the Living Art",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Creature — Alien",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Meletis Sophist",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Wizard Advisor",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Mezzio Thespian",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Creature — Human Actor",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Morgeth's Harvest",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Mountain_HQZ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Mountain_HQZ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Nayando Found",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Druid",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Nephalia Preacher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Horror",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Night on the Town // Union Organizers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "79",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/79a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/79a_front.jpg"
+			}
+		},
+		{
+			"name": "Night on the Town // Union Organizers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "79",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/79a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/79a_front.jpg"
+			}
+		},
+		{
+			"name": "Nohrish Soldier",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Numinous Workshop",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Fortification",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Outcast of Sannuria",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Outerworld Witness",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Alien Druid",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Paladin of Norn",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Phyrexian",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Peace Through Violence",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Kindred Sorcery — Soldier Revelation",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Peerless Porcelain",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Pervasive Memories",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Plague-Ridden Alley",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Omenpath",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Plains_HQZ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Plains_HQZ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Prasiolite Mox",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Quarry of the Ivory Mask",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Ragged Fleet Fence",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Rampant Consumption",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Raven Queen's Martyr",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Relic of Wachibal",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Artifact Creature — Giant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Remember the Good",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Remembering Devka",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Salt Road",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Omenpath",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Salt Road Exile",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Satrapy Guard",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Scarred Fantassin",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "See It All Again",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Ser Elviree, Trailblazer",
+			"rarity": "uncommon",
+			"mana_cost": "{Vp}{Vp}{Vp}",
+			"type": "Legendary Creature — Orc Nomad Knight",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Seriin Outpost",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Shard of Singular Fates",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Sigil Hoarder",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Homunculus",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Silence the Council // Urborg Butcher",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/50a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/50a_front.jpg"
+			}
+		},
+		{
+			"name": "Silence the Council // Urborg Butcher",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/50a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/50a_front.jpg"
+			}
+		},
+		{
+			"name": "Sisters of the Flock",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Skyshroud Neophyte",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Snake-Venom Dealer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Merchant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Spatial Singularity",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Specter of Crosis // Bane of the Burning Isles",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Specter",
+			"collector_number": "52",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/52a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/52a_front.jpg"
+			}
+		},
+		{
+			"name": "Specter of Crosis // Bane of the Burning Isles",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Specter",
+			"collector_number": "52",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/52a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/52a_front.jpg"
+			}
+		},
+		{
+			"name": "Splinterfrost",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Snow Enchantment — Aura",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Still-Smoke Courser",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Streets of Worship",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Omenpath",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Strike the Stage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Swamp_HQZ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Swamp_HQZ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Sword of Want and Need",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Szengyi Monolith",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Teferi's Dismissal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Traitor's Finger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment Implement",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Tugae Interloper",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Turbulent Crossroads",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Turning of the Cosmos",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Tutelary Sentry",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Twisting Puzzlebox",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment Implement",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Twyllian Turncoat",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Faerie",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Unquestioning",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Vanguard of Tzhai",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Vengeance of the Dungeon",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Verdant Skygiant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Creature — Whale",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Vine Street Brute",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Vitalia Tragedienne",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Shapeshifter Noble",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Walking with Ancestors",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Walls of Almgrove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Omenpath",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Wasteland Vagabond",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Wayfarer's Shrine_HQZ",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Whisper of Saebin",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Witch's Whisper",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Shaman",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Yearning Clockwork // Breathing Spellwork",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "127",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/127a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/127a_front.jpg"
+			}
+		},
+		{
+			"name": "Yearning Clockwork // Breathing Spellwork",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "127",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HQZ-files/img/127a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/127a_front.jpg"
+			}
+		},
+		{
+			"name": "Young Nekoru",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Cat Dragon",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Zadyk Contamination",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HQZ-files/img/88.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Above Danawan
+	2 Aspirant Peak
+	2 Den of Sulfur
+	2 Field of Rot
+	2 Frigid Scrubland
+	2 House of Long Shadows
+	2 Plague-Ridden Alley
+	2 Salt Road
+	2 Streets of Worship
+	2 Walls of Almgrove
+[uncommon(3)]
+	4 Achievement Aspirant
+	4 Amateur Inventor
+	4 Answered Plea
+	4 Arcor Carapace
+	4 Ashes of the Hundred Suns
+	4 Awaiting Yhzag
+	4 Bazaar Smuggler
+	4 Black Tesseract
+	4 Broadlane Well-to-Do
+	4 Calefactor of Seas
+	4 Child of Tezoculpa
+	4 Cling to Old Dreams
+	4 Crinster Dame
+	4 Croaking Crooner
+	4 Crooked Whistle
+	4 Cruel Guidance
+	4 Devka, Mad Memory
+	4 Emeria Claviger
+	4 Faces of War
+	4 Faithful of Abendo
+	4 Faithful of Helar // Shard of Helar
+	4 Faithful of Helar // Shard of Helar
+	4 Fifth Street Patronage
+	4 First of the Horde
+	4 Gatetown Warden
+	4 Graduate of Illusions
+	4 Harsh Sanctuary
+	4 Heaving Charnel
+	4 Intrusive Thoughts
+	4 Izzet Extractionist
+	4 Kattalin's Intrigues // Thailen, Reclaimant
+	4 Kattalin's Intrigues // Thailen, Reclaimant
+	4 Kholon Astrologist // Dreaming Butcher
+	4 Kholon Astrologist // Dreaming Butcher
+	4 Lovestruck Heir
+	4 Magde, Icatian Refugee
+	4 Maghbri Votary
+	4 Master of the Living Art
+	4 Nephalia Preacher
+	4 Night on the Town // Union Organizers
+	4 Night on the Town // Union Organizers
+	4 Outcast of Sannuria
+	4 Outerworld Witness
+	4 Peerless Porcelain
+	4 Quarry of the Ivory Mask
+	4 Rampant Consumption
+	4 Raven Queen's Martyr
+	4 Remember the Good
+	4 See It All Again
+	4 Ser Elviree, Trailblazer
+	4 Shard of Singular Fates
+	4 Snake-Venom Dealer
+	4 Spatial Singularity
+	4 Specter of Crosis // Bane of the Burning Isles
+	4 Specter of Crosis // Bane of the Burning Isles
+	4 Strike the Stage
+	4 Teferi's Dismissal
+	4 Traitor's Finger
+	4 Twisting Puzzlebox
+	4 Vanguard of Tzhai
+	4 Verdant Skygiant
+	4 Vitalia Tragedienne
+	4 Wasteland Vagabond
+	4 Yearning Clockwork // Breathing Spellwork
+	4 Yearning Clockwork // Breathing Spellwork
+	4 Zadyk Contamination
+[common(7)]
+	8 AOSE Field Biologist
+	8 Arcane Figment
+	8 Bad // Worse
+	8 Bad // Worse
+	8 Beloved of Wachet
+	8 Biochemical Bloom
+	8 Blackened Heart
+	8 Bleeting Distraction
+	8 Bracing Crossroads
+	8 Colonial Alchemist
+	8 Cruel Crossroads
+	8 Dashing Qith
+	8 Deal with the Devil // The Devil's Fair Share
+	8 Deal with the Devil // The Devil's Fair Share
+	8 Eccentric Biologist
+	8 Experimental Concoctions
+	8 Face Down the Odds // Shrug Off the Odds
+	8 Face Down the Odds // Shrug Off the Odds
+	8 Fallow Plateau
+	8 Flood Realm Monarch
+	8 Guardian of the Wards
+	8 Half-Made Man
+	8 Hardened Crossroads
+	8 Hateful Eye
+	8 Haunted Breathstealer // Urborg Butcher
+	8 Haunted Breathstealer // Urborg Butcher
+	8 Haunting Visitations
+	8 Headwind Aetherwork
+	8 Heartless Exchange
+	8 Ink Sea Sentinel
+	8 Introspective Crossroads
+	8 Kareki Wanderer
+	8 Knight of Wennex
+	8 Liar's Tongue
+	8 Lunar Latchkey
+	8 Maddening Trinket
+	8 Meletis Sophist
+	8 Mezzio Thespian
+	8 Morgeth's Harvest
+	8 Nayando Found
+	8 Nohrish Soldier
+	8 Numinous Workshop
+	8 Paladin of Norn
+	8 Peace Through Violence
+	8 Pervasive Memories
+	8 Prasiolite Mox
+	8 Ragged Fleet Fence
+	8 Relic of Wachibal
+	8 Remembering Devka
+	8 Salt Road Exile
+	8 Satrapy Guard
+	8 Scarred Fantassin
+	8 Seriin Outpost
+	8 Sigil Hoarder
+	8 Silence the Council // Urborg Butcher
+	8 Silence the Council // Urborg Butcher
+	8 Sisters of the Flock
+	8 Skyshroud Neophyte
+	8 Splinterfrost
+	8 Still-Smoke Courser
+	8 Sword of Want and Need
+	8 Szengyi Monolith
+	8 Tugae Interloper
+	8 Turbulent Crossroads
+	8 Turning of the Cosmos
+	8 Tutelary Sentry
+	8 Twyllian Turncoat
+	8 Unquestioning
+	8 Vengeance of the Dungeon
+	8 Vine Street Brute
+	8 Walking with Ancestors
+	8 Wayfarer's Shrine_HQZ
+	8 Whisper of Saebin
+	8 Witch's Whisper
+	8 Young Nekoru
+[foil(1)]
+	12 AOSE Field Biologist
+	2 Above Danawan
+	6 Achievement Aspirant
+	6 Amateur Inventor
+	6 Answered Plea
+	12 Arcane Figment
+	6 Arcor Carapace
+	6 Ashes of the Hundred Suns
+	2 Aspirant Peak
+	6 Awaiting Yhzag
+	12 Bad // Worse
+	12 Bad // Worse
+	6 Bazaar Smuggler
+	12 Beloved of Wachet
+	12 Biochemical Bloom
+	6 Black Tesseract
+	12 Blackened Heart
+	12 Bleeting Distraction
+	12 Bracing Crossroads
+	6 Broadlane Well-to-Do
+	6 Calefactor of Seas
+	6 Child of Tezoculpa
+	6 Cling to Old Dreams
+	12 Colonial Alchemist
+	6 Crinster Dame
+	6 Croaking Crooner
+	6 Crooked Whistle
+	12 Cruel Crossroads
+	6 Cruel Guidance
+	12 Dashing Qith
+	12 Deal with the Devil // The Devil's Fair Share
+	12 Deal with the Devil // The Devil's Fair Share
+	2 Den of Sulfur
+	6 Devka, Mad Memory
+	12 Eccentric Biologist
+	6 Emeria Claviger
+	12 Experimental Concoctions
+	12 Face Down the Odds // Shrug Off the Odds
+	12 Face Down the Odds // Shrug Off the Odds
+	6 Faces of War
+	6 Faithful of Abendo
+	6 Faithful of Helar // Shard of Helar
+	6 Faithful of Helar // Shard of Helar
+	12 Fallow Plateau
+	2 Field of Rot
+	6 Fifth Street Patronage
+	6 First of the Horde
+	12 Flood Realm Monarch
+	2 Frigid Scrubland
+	6 Gatetown Warden
+	6 Graduate of Illusions
+	12 Guardian of the Wards
+	12 Half-Made Man
+	12 Hardened Crossroads
+	6 Harsh Sanctuary
+	12 Hateful Eye
+	12 Haunted Breathstealer // Urborg Butcher
+	12 Haunted Breathstealer // Urborg Butcher
+	12 Haunting Visitations
+	12 Headwind Aetherwork
+	12 Heartless Exchange
+	6 Heaving Charnel
+	2 House of Long Shadows
+	12 Ink Sea Sentinel
+	12 Introspective Crossroads
+	6 Intrusive Thoughts
+	6 Izzet Extractionist
+	12 Kareki Wanderer
+	6 Kattalin's Intrigues // Thailen, Reclaimant
+	6 Kattalin's Intrigues // Thailen, Reclaimant
+	6 Kholon Astrologist // Dreaming Butcher
+	6 Kholon Astrologist // Dreaming Butcher
+	12 Knight of Wennex
+	12 Liar's Tongue
+	6 Lovestruck Heir
+	12 Lunar Latchkey
+	12 Maddening Trinket
+	6 Magde, Icatian Refugee
+	6 Maghbri Votary
+	6 Master of the Living Art
+	12 Meletis Sophist
+	12 Mezzio Thespian
+	12 Morgeth's Harvest
+	12 Nayando Found
+	6 Nephalia Preacher
+	6 Night on the Town // Union Organizers
+	6 Night on the Town // Union Organizers
+	12 Nohrish Soldier
+	12 Numinous Workshop
+	6 Outcast of Sannuria
+	6 Outerworld Witness
+	12 Paladin of Norn
+	12 Peace Through Violence
+	6 Peerless Porcelain
+	12 Pervasive Memories
+	2 Plague-Ridden Alley
+	12 Prasiolite Mox
+	6 Quarry of the Ivory Mask
+	12 Ragged Fleet Fence
+	6 Rampant Consumption
+	6 Raven Queen's Martyr
+	12 Relic of Wachibal
+	6 Remember the Good
+	12 Remembering Devka
+	2 Salt Road
+	12 Salt Road Exile
+	12 Satrapy Guard
+	12 Scarred Fantassin
+	6 See It All Again
+	6 Ser Elviree, Trailblazer
+	12 Seriin Outpost
+	6 Shard of Singular Fates
+	12 Sigil Hoarder
+	12 Silence the Council // Urborg Butcher
+	12 Silence the Council // Urborg Butcher
+	12 Sisters of the Flock
+	12 Skyshroud Neophyte
+	6 Snake-Venom Dealer
+	6 Spatial Singularity
+	6 Specter of Crosis // Bane of the Burning Isles
+	6 Specter of Crosis // Bane of the Burning Isles
+	12 Splinterfrost
+	12 Still-Smoke Courser
+	2 Streets of Worship
+	6 Strike the Stage
+	12 Sword of Want and Need
+	12 Szengyi Monolith
+	6 Teferi's Dismissal
+	6 Traitor's Finger
+	12 Tugae Interloper
+	12 Turbulent Crossroads
+	12 Turning of the Cosmos
+	12 Tutelary Sentry
+	6 Twisting Puzzlebox
+	12 Twyllian Turncoat
+	12 Unquestioning
+	6 Vanguard of Tzhai
+	12 Vengeance of the Dungeon
+	6 Verdant Skygiant
+	12 Vine Street Brute
+	6 Vitalia Tragedienne
+	12 Walking with Ancestors
+	2 Walls of Almgrove
+	6 Wasteland Vagabond
+	12 Wayfarer's Shrine_HQZ
+	12 Whisper of Saebin
+	12 Witch's Whisper
+	6 Yearning Clockwork // Breathing Spellwork
+	6 Yearning Clockwork // Breathing Spellwork
+	12 Young Nekoru
+	6 Zadyk Contamination
+[wildcard(1)]
+	6 AOSE Field Biologist
+	7 Above Danawan
+	15 Achievement Aspirant
+	15 Amateur Inventor
+	15 Answered Plea
+	6 Arcane Figment
+	15 Arcor Carapace
+	15 Ashes of the Hundred Suns
+	7 Aspirant Peak
+	15 Awaiting Yhzag
+	6 Bad // Worse
+	6 Bad // Worse
+	15 Bazaar Smuggler
+	6 Beloved of Wachet
+	6 Biochemical Bloom
+	15 Black Tesseract
+	6 Blackened Heart
+	6 Bleeting Distraction
+	6 Bracing Crossroads
+	15 Broadlane Well-to-Do
+	15 Calefactor of Seas
+	15 Child of Tezoculpa
+	15 Cling to Old Dreams
+	6 Colonial Alchemist
+	15 Crinster Dame
+	15 Croaking Crooner
+	15 Crooked Whistle
+	6 Cruel Crossroads
+	15 Cruel Guidance
+	6 Dashing Qith
+	6 Deal with the Devil // The Devil's Fair Share
+	6 Deal with the Devil // The Devil's Fair Share
+	7 Den of Sulfur
+	15 Devka, Mad Memory
+	6 Eccentric Biologist
+	15 Emeria Claviger
+	6 Experimental Concoctions
+	6 Face Down the Odds // Shrug Off the Odds
+	6 Face Down the Odds // Shrug Off the Odds
+	15 Faces of War
+	15 Faithful of Abendo
+	15 Faithful of Helar // Shard of Helar
+	15 Faithful of Helar // Shard of Helar
+	6 Fallow Plateau
+	7 Field of Rot
+	15 Fifth Street Patronage
+	15 First of the Horde
+	6 Flood Realm Monarch
+	7 Frigid Scrubland
+	15 Gatetown Warden
+	15 Graduate of Illusions
+	6 Guardian of the Wards
+	6 Half-Made Man
+	6 Hardened Crossroads
+	15 Harsh Sanctuary
+	6 Hateful Eye
+	6 Haunted Breathstealer // Urborg Butcher
+	6 Haunted Breathstealer // Urborg Butcher
+	6 Haunting Visitations
+	6 Headwind Aetherwork
+	6 Heartless Exchange
+	15 Heaving Charnel
+	7 House of Long Shadows
+	6 Ink Sea Sentinel
+	6 Introspective Crossroads
+	15 Intrusive Thoughts
+	15 Izzet Extractionist
+	6 Kareki Wanderer
+	15 Kattalin's Intrigues // Thailen, Reclaimant
+	15 Kattalin's Intrigues // Thailen, Reclaimant
+	15 Kholon Astrologist // Dreaming Butcher
+	15 Kholon Astrologist // Dreaming Butcher
+	6 Knight of Wennex
+	6 Liar's Tongue
+	15 Lovestruck Heir
+	6 Lunar Latchkey
+	6 Maddening Trinket
+	15 Magde, Icatian Refugee
+	15 Maghbri Votary
+	15 Master of the Living Art
+	6 Meletis Sophist
+	6 Mezzio Thespian
+	6 Morgeth's Harvest
+	6 Nayando Found
+	15 Nephalia Preacher
+	15 Night on the Town // Union Organizers
+	15 Night on the Town // Union Organizers
+	6 Nohrish Soldier
+	6 Numinous Workshop
+	15 Outcast of Sannuria
+	15 Outerworld Witness
+	6 Paladin of Norn
+	6 Peace Through Violence
+	15 Peerless Porcelain
+	6 Pervasive Memories
+	7 Plague-Ridden Alley
+	6 Prasiolite Mox
+	15 Quarry of the Ivory Mask
+	6 Ragged Fleet Fence
+	15 Rampant Consumption
+	15 Raven Queen's Martyr
+	6 Relic of Wachibal
+	15 Remember the Good
+	6 Remembering Devka
+	7 Salt Road
+	6 Salt Road Exile
+	6 Satrapy Guard
+	6 Scarred Fantassin
+	15 See It All Again
+	15 Ser Elviree, Trailblazer
+	6 Seriin Outpost
+	15 Shard of Singular Fates
+	6 Sigil Hoarder
+	6 Silence the Council // Urborg Butcher
+	6 Silence the Council // Urborg Butcher
+	6 Sisters of the Flock
+	6 Skyshroud Neophyte
+	15 Snake-Venom Dealer
+	15 Spatial Singularity
+	15 Specter of Crosis // Bane of the Burning Isles
+	15 Specter of Crosis // Bane of the Burning Isles
+	6 Splinterfrost
+	6 Still-Smoke Courser
+	7 Streets of Worship
+	15 Strike the Stage
+	6 Sword of Want and Need
+	6 Szengyi Monolith
+	15 Teferi's Dismissal
+	15 Traitor's Finger
+	6 Tugae Interloper
+	6 Turbulent Crossroads
+	6 Turning of the Cosmos
+	6 Tutelary Sentry
+	15 Twisting Puzzlebox
+	6 Twyllian Turncoat
+	6 Unquestioning
+	15 Vanguard of Tzhai
+	6 Vengeance of the Dungeon
+	15 Verdant Skygiant
+	6 Vine Street Brute
+	15 Vitalia Tragedienne
+	6 Walking with Ancestors
+	7 Walls of Almgrove
+	15 Wasteland Vagabond
+	6 Wayfarer's Shrine_HQZ
+	6 Whisper of Saebin
+	6 Witch's Whisper
+	15 Yearning Clockwork // Breathing Spellwork
+	15 Yearning Clockwork // Breathing Spellwork
+	6 Young Nekoru
+	15 Zadyk Contamination

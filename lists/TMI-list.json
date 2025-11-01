@@ -1,0 +1,977 @@
+﻿[
+    {
+        "card_name": "Across the Planar Void",
+        "number": 6,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "6"
+    },
+    {
+        "card_name": "Benthic Tidebreaker",
+        "number": 21,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "21"
+    },
+    {
+        "card_name": "Blasphemous Conversion",
+        "number": 38,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "38"
+    },
+    {
+        "card_name": "Austere Instructor",
+        "number": 53,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "53"
+    },
+    {
+        "card_name": "What Remains of Samuel Quinn",
+        "number": 3,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "3"
+    },
+    {
+        "card_name": "Atal, the Shroudmaker",
+        "number": 7,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "7"
+    },
+    {
+        "card_name": "Cenotaph Conjurant",
+        "number": 22,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "22"
+    },
+    {
+        "card_name": "Cedric Shaw",
+        "number": 39,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "39"
+    },
+    {
+        "card_name": "Bennett Brooks",
+        "number": 54,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "54"
+    },
+    {
+        "card_name": "Agency Doorbreakers",
+        "number": 69,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "69"
+    },
+    {
+        "card_name": "Beyond the Veil",
+        "number": 8,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "8"
+    },
+    {
+        "card_name": "Chronal Echo",
+        "number": 24,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "24"
+    },
+    {
+        "card_name": "Chosen of Yhzag",
+        "number": 40,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "40"
+    },
+    {
+        "card_name": "Blazing Exultation",
+        "number": 55,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "55"
+    },
+    {
+        "card_name": "Amorphous Tyrant",
+        "number": 70,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "70"
+    },
+    {
+        "card_name": "Bridgehaven's Finest",
+        "number": 9,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "9"
+    },
+    {
+        "card_name": "Duncaster Nightwatcher",
+        "number": 25,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "25"
+    },
+    {
+        "card_name": "Disciple of Myriad Fates",
+        "number": 41,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "41"
+    },
+    {
+        "card_name": "Bloodfiend Ravager",
+        "number": 56,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "56"
+    },
+    {
+        "card_name": "Darren Hunter",
+        "number": 71,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "71"
+    },
+    {
+        "card_name": "Desiccating Dust",
+        "number": 10,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "10"
+    },
+    {
+        "card_name": "Forbiddance",
+        "number": 26,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "26"
+    },
+    {
+        "card_name": "Duskling Stalker",
+        "number": 42,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "42"
+    },
+    {
+        "card_name": "Corpulent Gibberer",
+        "number": 57,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "57"
+    },
+    {
+        "card_name": "Enthralled Fantasist",
+        "number": 72,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "72"
+    },
+    {
+        "card_name": "Dread Sacricolist",
+        "number": 11,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "11"
+    },
+    {
+        "card_name": "Fractured Persona",
+        "number": 27,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "27"
+    },
+    {
+        "card_name": "Fatal Decision",
+        "number": 43,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "43"
+    },
+    {
+        "card_name": "Edgar Stokes, Slightly Unhinged",
+        "number": 58,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "58"
+    },
+    {
+        "card_name": "Eternitarian Savior",
+        "number": 73,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "73"
+    },
+    {
+        "card_name": "Grandmaster of the Order",
+        "number": 12,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "12"
+    },
+    {
+        "card_name": "Grasper of Secrets",
+        "number": 28,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "28"
+    },
+    {
+        "card_name": "Feed Those Below",
+        "number": 44,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "44"
+    },
+    {
+        "card_name": "Empty the Magazine",
+        "number": 59,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "59"
+    },
+    {
+        "card_name": "Keeper of the Ancient Ways",
+        "number": 74,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "74"
+    },
+    {
+        "card_name": "Nathaniel O'Brien",
+        "number": 13,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "13"
+    },
+    {
+        "card_name": "Hideaway Agent",
+        "number": 29,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "29"
+    },
+    {
+        "card_name": "Formed from Twisted Aeons",
+        "number": 45,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "45"
+    },
+    {
+        "card_name": "Eruq, the Flamebearer",
+        "number": 60,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "60"
+    },
+    {
+        "card_name": "Memories Rewound",
+        "number": 75,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "75"
+    },
+    {
+        "card_name": "Not Without a Fight",
+        "number": 14,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "14"
+    },
+    {
+        "card_name": "Professor Henrick Crawford",
+        "number": 30,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "30"
+    },
+    {
+        "card_name": "Goremound",
+        "number": 46,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "46"
+    },
+    {
+        "card_name": "Fate of the World",
+        "number": 61,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "61"
+    },
+    {
+        "card_name": "Molting Abomination",
+        "number": 76,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "76"
+    },
+    {
+        "card_name": "Safehouse Caretaker",
+        "number": 15,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "15"
+    },
+    {
+        "card_name": "Rowena Bishop",
+        "number": 31,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "31"
+    },
+    {
+        "card_name": "Gravetiller",
+        "number": 47,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "47"
+    },
+    {
+        "card_name": "Keepers of the Reach",
+        "number": 63,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "63"
+    },
+    {
+        "card_name": "Rova, the Fleshweaver",
+        "number": 77,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "77"
+    },
+    {
+        "card_name": "Sepulchral Guide",
+        "number": 16,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "16"
+    },
+    {
+        "card_name": "Shed the Corporeal Form",
+        "number": 32,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "32"
+    },
+    {
+        "card_name": "Groz, the Nightshaper",
+        "number": 48,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "48"
+    },
+    {
+        "card_name": "Mouthpiece of Yhzag",
+        "number": 64,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "64"
+    },
+    {
+        "card_name": "Runebound Disciple",
+        "number": 78,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "78"
+    },
+    {
+        "card_name": "Soul Reader",
+        "number": 17,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "17"
+    },
+    {
+        "card_name": "Stillmarsh Brinecatcher",
+        "number": 33,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "33"
+    },
+    {
+        "card_name": "Marrowskitter",
+        "number": 49,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "49"
+    },
+    {
+        "card_name": "Reality Collapse",
+        "number": 65,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "65"
+    },
+    {
+        "card_name": "Sire of the Shapeless",
+        "number": 79,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "79"
+    },
+    {
+        "card_name": "Stoneport Provisioner",
+        "number": 18,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "18"
+    },
+    {
+        "card_name": "Streetwise Investigator",
+        "number": 34,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "34"
+    },
+    {
+        "card_name": "Rattlecage Terror",
+        "number": 50,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "50"
+    },
+    {
+        "card_name": "Reckless Mutationist",
+        "number": 66,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "66"
+    },
+    {
+        "card_name": "Theodore Harper, Head Librarian",
+        "number": 80,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "80"
+    },
+    {
+        "card_name": "Unwitting Fanatic",
+        "number": 19,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "19"
+    },
+    {
+        "card_name": "Vedu, the Deepdrinker",
+        "number": 35,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "35"
+    },
+    {
+        "card_name": "Temeration",
+        "number": 51,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "51"
+    },
+    {
+        "card_name": "Stillmarsh Smuggler",
+        "number": 67,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "67"
+    },
+    {
+        "card_name": "Vile Progenitor",
+        "number": 81,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "81"
+    },
+    {
+        "card_name": "Ward of Seclusion",
+        "number": 20,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "20"
+    },
+    {
+        "card_name": "Warped Physiognomist",
+        "number": 36,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "36"
+    },
+    {
+        "card_name": "Visions of the End",
+        "number": 52,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "52"
+    },
+    {
+        "card_name": "Umbral Hunter",
+        "number": 68,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "68"
+    },
+    {
+        "card_name": "Whitney Banks, Ace Mechanic",
+        "number": 83,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "83"
+    },
+    {
+        "card_name": "All In This Together",
+        "number": 102,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "102"
+    },
+    {
+        "card_name": "Discoveries Worth Forgetting",
+        "number": 104,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "104"
+    },
+    {
+        "card_name": "Crypt Gnawer",
+        "number": 106,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "106"
+    },
+    {
+        "card_name": "Run & Gun",
+        "number": 108,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "108"
+    },
+    {
+        "card_name": "From Forsaken Depths",
+        "number": 110,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "110"
+    },
+    {
+        "card_name": "Burdens of the Deceased",
+        "number": 103,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "103"
+    },
+    {
+        "card_name": "Within Midnight's Nexus",
+        "number": 105,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "105"
+    },
+    {
+        "card_name": "Curse of Impending Doom",
+        "number": 107,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "107"
+    },
+    {
+        "card_name": "Unguarded Relics",
+        "number": 109,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "109"
+    },
+    {
+        "card_name": "Ritual Preparations",
+        "number": 111,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "111"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Meridian Mills, Seeking Answers",
+        "number": 119,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "119"
+    },
+    {
+        "card_name": "Solomon Rivers, Arcane Dabbler",
+        "number": 122,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "122"
+    },
+    {
+        "card_name": "Lisa Ward, Dreams of Madness",
+        "number": 118,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "118"
+    },
+    {
+        "card_name": "Elise Fisher, Tough as Nails",
+        "number": 115,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "115"
+    },
+    {
+        "card_name": "Ivy Kissinger, Sharpshooter",
+        "number": 117,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "117"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Servant in the Ivory Mask",
+        "number": 121,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "121"
+    },
+    {
+        "card_name": "Scarlett Gallagher, Postmaster",
+        "number": 120,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "120"
+    },
+    {
+        "card_name": "The Duncaster Terror",
+        "number": 114,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "114"
+    },
+    {
+        "card_name": "Charlie Fraser, Taking Point",
+        "number": 112,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "112"
+    },
+    {
+        "card_name": "Gaspar Reeves, Occult Broker",
+        "number": 116,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "116"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Chromatic Interloper",
+        "number": 113,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "113"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Formless Eidolon",
+        "number": 1,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "1"
+    },
+    {
+        "card_name": "Screams from the Deep",
+        "number": 2,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "2"
+    },
+    {
+        "card_name": "Yhzag, Alpha and Omega",
+        "number": 4,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "4"
+    },
+    {
+        "card_name": "Cranial Glass",
+        "number": 84,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "84"
+    },
+    {
+        "card_name": "Etched Prism",
+        "number": 85,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "85"
+    },
+    {
+        "card_name": "Eternity's Eye",
+        "number": 86,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "86"
+    },
+    {
+        "card_name": "Faithforged Pauldron",
+        "number": 87,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "87"
+    },
+    {
+        "card_name": "Gasoline Canister",
+        "number": 88,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "88"
+    },
+    {
+        "card_name": "Hexstone",
+        "number": 89,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "89"
+    },
+    {
+        "card_name": "The Pactbinder's Cane",
+        "number": 90,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "90"
+    },
+    {
+        "card_name": "Tome of the Lidless Gaze",
+        "number": 91,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "91"
+    },
+    {
+        "card_name": "Cavalier Deluxe Roadster",
+        "number": 123,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "123"
+    },
+    {
+        "card_name": "Deepdrinker's Effigy",
+        "number": 124,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "124"
+    },
+    {
+        "card_name": "Horrid Crawlspace",
+        "number": 125,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "125"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Bridgehaven",
+        "number": 92,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "92"
+    },
+    {
+        "card_name": "Crypt of Myriad Fates",
+        "number": 93,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "93"
+    },
+    {
+        "card_name": "Ghost Quarter",
+        "number": 94,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "94"
+    },
+    {
+        "card_name": "Planar Rift",
+        "number": 95,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "95"
+    },
+    {
+        "card_name": "Sealed Archives",
+        "number": 96,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "96"
+    },
+    {
+        "card_name": "Nightmare Alley",
+        "number": 126,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "126"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Forest_TMI",
+        "number": 101,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "101"
+    },
+    {
+        "card_name": "Island_TMI",
+        "number": 98,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "98"
+    },
+    {
+        "card_name": "Mountain_TMI",
+        "number": 100,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "100"
+    },
+    {
+        "card_name": "Plains_TMI",
+        "number": 97,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "97"
+    },
+    {
+        "card_name": "Swamp_TMI",
+        "number": 99,
+        "shape": "normal",
+        "set": "TMI",
+        "position": "99"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

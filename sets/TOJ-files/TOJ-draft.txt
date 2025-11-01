@@ -1,0 +1,2401 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abscond",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Agent of Long Shadows",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Aguri, Shadow of Doubt",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Spirit Rogue",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Akaima Rager",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Ancestral Council",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Aokara Redeemer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Arcane Strategist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Ashspeaker",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Aspect of Shifting Storms",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Azuma Hashiro, Unshackled",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Backburner",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Bitter Lies",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Bond of Battle",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Chamber of Splendor",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Champion of the Provinces",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Chigau, the Red Market",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Chiheisen, Terrace of Serenity",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Chimei Scourge",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Daughter of Suisei",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Deathless Disciple",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Diffuse",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Double-Edged Duelist",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Dragon's Eye Descendant",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Dragon's Eye Spiritualist",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Dragonfly Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Dragonmaw Wurm",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Creature — Dragon Wurm",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Dragonsoul Disciple",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Dreams of Tomorrow",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Ebb and Flow",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Eiji of the Dragon's Eye",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Elemental Power",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Enemies of My Enemy",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Enlightenment",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Enshrine",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Fate in Flames",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Fiery Embrace",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Fire and Ashes",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Fireshaper Adept",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Flash of Blades",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Forgewatcher",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Forlorn Companion",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Shapeshifter",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Garrote",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "General of Kinjiru Castle",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Ginjiro Chimei",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Zombie Wizard",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Grasp of Water",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Hand of the Governor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Heartcleaver",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Hero of Shengin Province",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Hinode, the Sacred Summit",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Hiroto Jaakuna",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Hirukari's Immortal",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Samurai Knight",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Hisano the White Lion",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Hisashi Kogane",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Honor and Glory",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Honored Retinue",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Horizon Treader",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Hundred-Year Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Illicit Tutor",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Imperial Coins",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Imperial Diplomats",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Imperial Legacies",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Imperial Proclaimer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Imperial Silks",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Indomitable Duo",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Jade Temple",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Jade Vault Reclaimer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Journey through Kareki",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Journey through Kitasan",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Journey through Masamori",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Journey through Moranai",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Journey through Odaya",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Journey through Uwaito",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Jun",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Kagetsu, Chronicler of Jidai",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Kareki Magehunter",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Kareki Retainer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Kareki Stormshooter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Archer",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Kareki Vanguard",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Kareki Warmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Kemuri Saboteur",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Kinjiru Assailant",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Kinjiru Blackguard",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Kinjiru Cavalry",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Kinjiru Sandshaper",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Kinjiru Warlord",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Kinken, the Dragon's Breath",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Kirishima's Escort",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Kirishima of Iron Chains",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Kodaichi Bladedancer",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Kuno Aokara, Ivory Crane",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Lives Redeemed",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Masamori Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Masamori Initiate",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid Wizard",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Masked Assailant",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Master of Elements",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Mirai, Spring's Promise",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Planeswalker — Mirai",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Miyoga Flameweaver",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Moeru Thunderers",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Moranai Outriders",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Moranai Survivalist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Monk Wizard",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Moranai Tracker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Mortal Tapestry",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Monk",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Mortal Will",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Night Ambush",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Nightfall Infiltrator",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Nightfire Adept",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Nightmare Riders",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Spirit Warrior",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Nightmarish Fears",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Odaya Magistrate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Odaya Profiteer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Old Soeji",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Oshiruko Operative",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Oshiruko Silencer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Palace of Reflections",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Paragon of Honor",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Past, Present, Future",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Path of Shadows",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Perfect Distraction",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Phantasmal Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Primal Channeler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid Wizard",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Profaner of Souls",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Samurai Wizard",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Proffered Heirloom",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Raikai Raider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior Pirate",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Raikai Seafarer",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Warrior Pirate",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Red Flower Assassin",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Reserve Troops",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Ride as One",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Rippling Water Arcanist",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Rising Tides",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Sacred Inheritance",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Sage of Reflections",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Human Monk",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Scales of Seishin",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Scout the Terrain",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Sea Cache",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Searing Grace",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Seek Guidance",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Seikatsu Recruits",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Seikatsu Warleader",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Samurai Knight",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Setting Sun",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Sevenfold Summoner",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Monk",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Shadow Courier",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Shengin Heartland",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Shengin Renegade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Shengin Scoundrel",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Shengin Tactician",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Shina Taiyohata",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Shizen, the Thousand Steps",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Silent Murmurs",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Smoldering Pages",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Soul Jar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Soulkindle Lantern",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Spellfire Savant",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Spirit Keeper",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Spirit Script",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Stolen Secrets",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Stonework Infantry",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Strike from the Shadows",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Suisei the Southern Star",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Phoenix",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Sunchanter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Sundering Arcanist",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Suzume's Envoy",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Suzume Oshiruko",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Swift Spearmaster",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Sworn Cohort",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Takara Flameblade",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Tengu Skyguard",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Samurai",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Terracotta Legion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "The Imperial Collection",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "The Serpent Throne",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Throwing Stones",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Thunder from Above",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Thunderlash Mystic",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Toil the Fields",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Torrent of Wind",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Traitor's Touch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Uwaito Envoy",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Vanish",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Venerable Purist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Warden of Silence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Warfan of Changing Winds",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Windshaper",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Yamamai Invoker",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Yasei, Heart of Jidai",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Zen Ascendant",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TOJ-files/img/147.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Abscond
+	2 Agent of Long Shadows
+	1 Aguri, Shadow of Doubt
+	2 Ancestral Council
+	2 Aspect of Shifting Storms
+	1 Azuma Hashiro, Unshackled
+	2 Backburner
+	2 Chamber of Splendor
+	2 Champion of the Provinces
+	2 Chigau, the Red Market
+	2 Chiheisen, Terrace of Serenity
+	2 Double-Edged Duelist
+	2 Dragon's Eye Descendant
+	2 Dragonmaw Wurm
+	2 Dragonsoul Disciple
+	2 Dreams of Tomorrow
+	2 Ebb and Flow
+	1 Eiji of the Dragon's Eye
+	2 Enlightenment
+	2 Fate in Flames
+	2 Fireshaper Adept
+	2 General of Kinjiru Castle
+	1 Ginjiro Chimei
+	2 Hero of Shengin Province
+	2 Hinode, the Sacred Summit
+	1 Hiroto Jaakuna
+	2 Hirukari's Immortal
+	1 Hisano the White Lion
+	1 Hisashi Kogane
+	2 Honored Retinue
+	2 Illicit Tutor
+	1 Jun
+	1 Kagetsu, Chronicler of Jidai
+	2 Kareki Magehunter
+	2 Kinjiru Warlord
+	2 Kinken, the Dragon's Breath
+	1 Kirishima of Iron Chains
+	1 Kuno Aokara, Ivory Crane
+	2 Master of Elements
+	1 Mirai, Spring's Promise
+	2 Miyoga Flameweaver
+	2 Nightmarish Fears
+	2 Odaya Profiteer
+	1 Old Soeji
+	2 Palace of Reflections
+	2 Paragon of Honor
+	2 Path of Shadows
+	2 Perfect Distraction
+	2 Red Flower Assassin
+	2 Rippling Water Arcanist
+	2 Sage of Reflections
+	2 Scales of Seishin
+	2 Setting Sun
+	2 Sevenfold Summoner
+	1 Shina Taiyohata
+	2 Shizen, the Thousand Steps
+	2 Soulkindle Lantern
+	2 Spellfire Savant
+	1 Suisei the Southern Star
+	2 Sundering Arcanist
+	1 Suzume Oshiruko
+	2 Sworn Cohort
+	2 The Imperial Collection
+	1 The Serpent Throne
+	2 Thunderlash Mystic
+	2 Uwaito Envoy
+	2 Warfan of Changing Winds
+	1 Yasei, Heart of Jidai
+	2 Zen Ascendant
+[uncommon(3)]
+	4 Aokara Redeemer
+	4 Arcane Strategist
+	4 Ashspeaker
+	4 Daughter of Suisei
+	4 Fire and Ashes
+	4 Forlorn Companion
+	4 Hand of the Governor
+	4 Hundred-Year Blade
+	4 Imperial Proclaimer
+	4 Imperial Silks
+	4 Indomitable Duo
+	4 Jade Temple
+	4 Jade Vault Reclaimer
+	4 Journey through Kitasan
+	4 Journey through Masamori
+	4 Journey through Moranai
+	4 Journey through Odaya
+	4 Journey through Uwaito
+	4 Kareki Stormshooter
+	4 Kareki Warmaster
+	4 Kinjiru Assailant
+	4 Kinjiru Cavalry
+	4 Kirishima's Escort
+	4 Moranai Survivalist
+	4 Moranai Tracker
+	4 Mortal Tapestry
+	4 Nightmare Riders
+	4 Odaya Magistrate
+	4 Past, Present, Future
+	4 Phantasmal Stalker
+	4 Primal Channeler
+	4 Profaner of Souls
+	4 Raikai Raider
+	4 Ride as One
+	4 Searing Grace
+	4 Seek Guidance
+	4 Seikatsu Recruits
+	4 Seikatsu Warleader
+	4 Shengin Heartland
+	4 Shengin Renegade
+	4 Silent Murmurs
+	4 Smoldering Pages
+	4 Soul Jar
+	4 Spirit Script
+	4 Stolen Secrets
+	4 Strike from the Shadows
+	4 Sunchanter
+	4 Suzume's Envoy
+	4 Takara Flameblade
+	4 Terracotta Legion
+	4 Thunder from Above
+	4 Traitor's Touch
+	4 Vanish
+	4 Venerable Purist
+	4 Warden of Silence
+[common(7)]
+	8 Akaima Rager
+	8 Bitter Lies
+	8 Bond of Battle
+	8 Chimei Scourge
+	8 Deathless Disciple
+	8 Diffuse
+	8 Dragon's Eye Spiritualist
+	8 Dragonfly Shrine
+	8 Elemental Power
+	8 Enemies of My Enemy
+	8 Enshrine
+	8 Fiery Embrace
+	8 Flash of Blades
+	8 Forgewatcher
+	8 Garrote
+	8 Grasp of Water
+	8 Heartcleaver
+	8 Honor and Glory
+	8 Horizon Treader
+	8 Imperial Coins
+	8 Imperial Diplomats
+	8 Imperial Legacies
+	8 Journey through Kareki
+	8 Kareki Retainer
+	8 Kareki Vanguard
+	8 Kemuri Saboteur
+	8 Kinjiru Blackguard
+	8 Kinjiru Sandshaper
+	8 Kodaichi Bladedancer
+	8 Lives Redeemed
+	8 Masamori Hunter
+	8 Masamori Initiate
+	8 Masked Assailant
+	8 Moeru Thunderers
+	8 Moranai Outriders
+	8 Mortal Will
+	8 Night Ambush
+	8 Nightfall Infiltrator
+	8 Nightfire Adept
+	8 Oshiruko Operative
+	8 Oshiruko Silencer
+	8 Proffered Heirloom
+	8 Raikai Seafarer
+	8 Reserve Troops
+	8 Rising Tides
+	8 Sacred Inheritance
+	8 Scout the Terrain
+	8 Sea Cache
+	8 Shadow Courier
+	8 Shengin Scoundrel
+	8 Shengin Tactician
+	8 Spirit Keeper
+	8 Stonework Infantry
+	8 Swift Spearmaster
+	8 Tengu Skyguard
+	8 Throwing Stones
+	8 Toil the Fields
+	8 Torrent of Wind
+	8 Windshaper
+	8 Yamamai Invoker
+[foil(1)]
+	2 Abscond
+	2 Agent of Long Shadows
+	1 Aguri, Shadow of Doubt
+	12 Akaima Rager
+	2 Ancestral Council
+	6 Aokara Redeemer
+	6 Arcane Strategist
+	6 Ashspeaker
+	2 Aspect of Shifting Storms
+	1 Azuma Hashiro, Unshackled
+	2 Backburner
+	12 Bitter Lies
+	12 Bond of Battle
+	2 Chamber of Splendor
+	2 Champion of the Provinces
+	2 Chigau, the Red Market
+	2 Chiheisen, Terrace of Serenity
+	12 Chimei Scourge
+	6 Daughter of Suisei
+	12 Deathless Disciple
+	12 Diffuse
+	2 Double-Edged Duelist
+	2 Dragon's Eye Descendant
+	12 Dragon's Eye Spiritualist
+	12 Dragonfly Shrine
+	2 Dragonmaw Wurm
+	2 Dragonsoul Disciple
+	2 Dreams of Tomorrow
+	2 Ebb and Flow
+	1 Eiji of the Dragon's Eye
+	12 Elemental Power
+	12 Enemies of My Enemy
+	2 Enlightenment
+	12 Enshrine
+	2 Fate in Flames
+	12 Fiery Embrace
+	6 Fire and Ashes
+	2 Fireshaper Adept
+	12 Flash of Blades
+	12 Forgewatcher
+	6 Forlorn Companion
+	12 Garrote
+	2 General of Kinjiru Castle
+	1 Ginjiro Chimei
+	12 Grasp of Water
+	6 Hand of the Governor
+	12 Heartcleaver
+	2 Hero of Shengin Province
+	2 Hinode, the Sacred Summit
+	1 Hiroto Jaakuna
+	2 Hirukari's Immortal
+	1 Hisano the White Lion
+	1 Hisashi Kogane
+	12 Honor and Glory
+	2 Honored Retinue
+	12 Horizon Treader
+	6 Hundred-Year Blade
+	2 Illicit Tutor
+	12 Imperial Coins
+	12 Imperial Diplomats
+	12 Imperial Legacies
+	6 Imperial Proclaimer
+	6 Imperial Silks
+	6 Indomitable Duo
+	6 Jade Temple
+	6 Jade Vault Reclaimer
+	12 Journey through Kareki
+	6 Journey through Kitasan
+	6 Journey through Masamori
+	6 Journey through Moranai
+	6 Journey through Odaya
+	6 Journey through Uwaito
+	1 Jun
+	1 Kagetsu, Chronicler of Jidai
+	2 Kareki Magehunter
+	12 Kareki Retainer
+	6 Kareki Stormshooter
+	12 Kareki Vanguard
+	6 Kareki Warmaster
+	12 Kemuri Saboteur
+	6 Kinjiru Assailant
+	12 Kinjiru Blackguard
+	6 Kinjiru Cavalry
+	12 Kinjiru Sandshaper
+	2 Kinjiru Warlord
+	2 Kinken, the Dragon's Breath
+	6 Kirishima's Escort
+	1 Kirishima of Iron Chains
+	12 Kodaichi Bladedancer
+	1 Kuno Aokara, Ivory Crane
+	12 Lives Redeemed
+	12 Masamori Hunter
+	12 Masamori Initiate
+	12 Masked Assailant
+	2 Master of Elements
+	1 Mirai, Spring's Promise
+	2 Miyoga Flameweaver
+	12 Moeru Thunderers
+	12 Moranai Outriders
+	6 Moranai Survivalist
+	6 Moranai Tracker
+	6 Mortal Tapestry
+	12 Mortal Will
+	12 Night Ambush
+	12 Nightfall Infiltrator
+	12 Nightfire Adept
+	6 Nightmare Riders
+	2 Nightmarish Fears
+	6 Odaya Magistrate
+	2 Odaya Profiteer
+	1 Old Soeji
+	12 Oshiruko Operative
+	12 Oshiruko Silencer
+	2 Palace of Reflections
+	2 Paragon of Honor
+	6 Past, Present, Future
+	2 Path of Shadows
+	2 Perfect Distraction
+	6 Phantasmal Stalker
+	6 Primal Channeler
+	6 Profaner of Souls
+	12 Proffered Heirloom
+	6 Raikai Raider
+	12 Raikai Seafarer
+	2 Red Flower Assassin
+	12 Reserve Troops
+	6 Ride as One
+	2 Rippling Water Arcanist
+	12 Rising Tides
+	12 Sacred Inheritance
+	2 Sage of Reflections
+	2 Scales of Seishin
+	12 Scout the Terrain
+	12 Sea Cache
+	6 Searing Grace
+	6 Seek Guidance
+	6 Seikatsu Recruits
+	6 Seikatsu Warleader
+	2 Setting Sun
+	2 Sevenfold Summoner
+	12 Shadow Courier
+	6 Shengin Heartland
+	6 Shengin Renegade
+	12 Shengin Scoundrel
+	12 Shengin Tactician
+	1 Shina Taiyohata
+	2 Shizen, the Thousand Steps
+	6 Silent Murmurs
+	6 Smoldering Pages
+	6 Soul Jar
+	2 Soulkindle Lantern
+	2 Spellfire Savant
+	12 Spirit Keeper
+	6 Spirit Script
+	6 Stolen Secrets
+	12 Stonework Infantry
+	6 Strike from the Shadows
+	1 Suisei the Southern Star
+	6 Sunchanter
+	2 Sundering Arcanist
+	6 Suzume's Envoy
+	1 Suzume Oshiruko
+	12 Swift Spearmaster
+	2 Sworn Cohort
+	6 Takara Flameblade
+	12 Tengu Skyguard
+	6 Terracotta Legion
+	2 The Imperial Collection
+	1 The Serpent Throne
+	12 Throwing Stones
+	6 Thunder from Above
+	2 Thunderlash Mystic
+	12 Toil the Fields
+	12 Torrent of Wind
+	6 Traitor's Touch
+	2 Uwaito Envoy
+	6 Vanish
+	6 Venerable Purist
+	6 Warden of Silence
+	2 Warfan of Changing Winds
+	12 Windshaper
+	12 Yamamai Invoker
+	1 Yasei, Heart of Jidai
+	2 Zen Ascendant
+[wildcard(1)]
+	7 Abscond
+	7 Agent of Long Shadows
+	4 Aguri, Shadow of Doubt
+	6 Akaima Rager
+	7 Ancestral Council
+	15 Aokara Redeemer
+	15 Arcane Strategist
+	15 Ashspeaker
+	7 Aspect of Shifting Storms
+	4 Azuma Hashiro, Unshackled
+	7 Backburner
+	6 Bitter Lies
+	6 Bond of Battle
+	7 Chamber of Splendor
+	7 Champion of the Provinces
+	7 Chigau, the Red Market
+	7 Chiheisen, Terrace of Serenity
+	6 Chimei Scourge
+	15 Daughter of Suisei
+	6 Deathless Disciple
+	6 Diffuse
+	7 Double-Edged Duelist
+	7 Dragon's Eye Descendant
+	6 Dragon's Eye Spiritualist
+	6 Dragonfly Shrine
+	7 Dragonmaw Wurm
+	7 Dragonsoul Disciple
+	7 Dreams of Tomorrow
+	7 Ebb and Flow
+	4 Eiji of the Dragon's Eye
+	6 Elemental Power
+	6 Enemies of My Enemy
+	7 Enlightenment
+	6 Enshrine
+	7 Fate in Flames
+	6 Fiery Embrace
+	15 Fire and Ashes
+	7 Fireshaper Adept
+	6 Flash of Blades
+	6 Forgewatcher
+	15 Forlorn Companion
+	6 Garrote
+	7 General of Kinjiru Castle
+	4 Ginjiro Chimei
+	6 Grasp of Water
+	15 Hand of the Governor
+	6 Heartcleaver
+	7 Hero of Shengin Province
+	7 Hinode, the Sacred Summit
+	4 Hiroto Jaakuna
+	7 Hirukari's Immortal
+	4 Hisano the White Lion
+	4 Hisashi Kogane
+	6 Honor and Glory
+	7 Honored Retinue
+	6 Horizon Treader
+	15 Hundred-Year Blade
+	7 Illicit Tutor
+	6 Imperial Coins
+	6 Imperial Diplomats
+	6 Imperial Legacies
+	15 Imperial Proclaimer
+	15 Imperial Silks
+	15 Indomitable Duo
+	15 Jade Temple
+	15 Jade Vault Reclaimer
+	6 Journey through Kareki
+	15 Journey through Kitasan
+	15 Journey through Masamori
+	15 Journey through Moranai
+	15 Journey through Odaya
+	15 Journey through Uwaito
+	4 Jun
+	4 Kagetsu, Chronicler of Jidai
+	7 Kareki Magehunter
+	6 Kareki Retainer
+	15 Kareki Stormshooter
+	6 Kareki Vanguard
+	15 Kareki Warmaster
+	6 Kemuri Saboteur
+	15 Kinjiru Assailant
+	6 Kinjiru Blackguard
+	15 Kinjiru Cavalry
+	6 Kinjiru Sandshaper
+	7 Kinjiru Warlord
+	7 Kinken, the Dragon's Breath
+	15 Kirishima's Escort
+	4 Kirishima of Iron Chains
+	6 Kodaichi Bladedancer
+	4 Kuno Aokara, Ivory Crane
+	6 Lives Redeemed
+	6 Masamori Hunter
+	6 Masamori Initiate
+	6 Masked Assailant
+	7 Master of Elements
+	4 Mirai, Spring's Promise
+	7 Miyoga Flameweaver
+	6 Moeru Thunderers
+	6 Moranai Outriders
+	15 Moranai Survivalist
+	15 Moranai Tracker
+	15 Mortal Tapestry
+	6 Mortal Will
+	6 Night Ambush
+	6 Nightfall Infiltrator
+	6 Nightfire Adept
+	15 Nightmare Riders
+	7 Nightmarish Fears
+	15 Odaya Magistrate
+	7 Odaya Profiteer
+	4 Old Soeji
+	6 Oshiruko Operative
+	6 Oshiruko Silencer
+	7 Palace of Reflections
+	7 Paragon of Honor
+	15 Past, Present, Future
+	7 Path of Shadows
+	7 Perfect Distraction
+	15 Phantasmal Stalker
+	15 Primal Channeler
+	15 Profaner of Souls
+	6 Proffered Heirloom
+	15 Raikai Raider
+	6 Raikai Seafarer
+	7 Red Flower Assassin
+	6 Reserve Troops
+	15 Ride as One
+	7 Rippling Water Arcanist
+	6 Rising Tides
+	6 Sacred Inheritance
+	7 Sage of Reflections
+	7 Scales of Seishin
+	6 Scout the Terrain
+	6 Sea Cache
+	15 Searing Grace
+	15 Seek Guidance
+	15 Seikatsu Recruits
+	15 Seikatsu Warleader
+	7 Setting Sun
+	7 Sevenfold Summoner
+	6 Shadow Courier
+	15 Shengin Heartland
+	15 Shengin Renegade
+	6 Shengin Scoundrel
+	6 Shengin Tactician
+	4 Shina Taiyohata
+	7 Shizen, the Thousand Steps
+	15 Silent Murmurs
+	15 Smoldering Pages
+	15 Soul Jar
+	7 Soulkindle Lantern
+	7 Spellfire Savant
+	6 Spirit Keeper
+	15 Spirit Script
+	15 Stolen Secrets
+	6 Stonework Infantry
+	15 Strike from the Shadows
+	4 Suisei the Southern Star
+	15 Sunchanter
+	7 Sundering Arcanist
+	15 Suzume's Envoy
+	4 Suzume Oshiruko
+	6 Swift Spearmaster
+	7 Sworn Cohort
+	15 Takara Flameblade
+	6 Tengu Skyguard
+	15 Terracotta Legion
+	7 The Imperial Collection
+	4 The Serpent Throne
+	6 Throwing Stones
+	15 Thunder from Above
+	7 Thunderlash Mystic
+	6 Toil the Fields
+	6 Torrent of Wind
+	15 Traitor's Touch
+	7 Uwaito Envoy
+	15 Vanish
+	15 Venerable Purist
+	15 Warden of Silence
+	7 Warfan of Changing Winds
+	6 Windshaper
+	6 Yamamai Invoker
+	4 Yasei, Heart of Jidai
+	7 Zen Ascendant

@@ -1,0 +1,3609 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Aether Leak",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Aether Recoverer",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Aether Striders",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Aetherborn Horror",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Aetherite Dagger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Aetherite Shackles",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Aetherite Slugs",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Aetherite Vein",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Aetherlock Effigy",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Aetherlock Pistol",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Aetherwhirl",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Arcane Caper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Arrest",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "At the Gallows",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Atop Their High Horses",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Axom, the Drifter",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Azun, Sheriff of Daisite",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Planeswalker — Azun",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Azun's Play",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Bearidge Charmer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Bearidge Jailer",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Bearidge Marshall",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Bearidge Preacher",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Binding Lasso",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Bleeding Bear",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Bear",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Blind Soulcaller",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Bloodleaf Butcher",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Bloodleaf Druid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Scout Druid",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Bloodleaf Poisoner",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Bloodleaf Tracker",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Bloodleaf Warcry",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Bloodshot Berserker",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Centaur Berserker",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Bloodthirsty Ambusher",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Devil Spirit",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Bold Griffin",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Bounty Collector",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Bounty Leveler",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Spirit Mercenary",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Brazen Drifter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Brush Sniper",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Warrior Archer",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Burning-Tree Shaman",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Centaur Shaman",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Cage the Mind",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Calamity Rose",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Campfire Stories",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Canopy Ambush",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Cardsharp",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Cardsharp Drifter",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Spirit Rogue",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Cathartic Reunion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Chief Striking Dawn",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Elf Warrior",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Collapsed Mine",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Creed, Eternal Straggler",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Spirit Soldier",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Creeping Hidebehind",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Spirit",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Crossfire",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Cruel Effigy",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Daisite Express",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Dead Man's Hand",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Deputy Gibem",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Goblin Soldier",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Derelict Town",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Derelict Watcher",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Derringer Revelation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Diligent Deputy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Disallow",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Dispel",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Down Barrel",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Dreamkeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Drifting Warden",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Driver of Herds",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Centaur Warrior",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Dual Wield",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Dusk Occultist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Elf Warrior Shaman",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Dusk Rider",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Spirit Mercenary",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Elven Wanderer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Embed",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Eternal Scout",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Eversoar",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Expedition Leader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Exposed Ghoul",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit Rogue",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Feed to the Pigs",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Fireheart Centaur",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Centaur",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Fog",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Fool's Gold",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Forest_HI12",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Haunt",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Forlorn Farmhand",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Foulweather Effigy",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "From the Shadows",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Frontier Hoof",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Centaur Scout",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Frontier Meditation",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Frontier Outrider",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Centaur Scout",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Frontier Paragon",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Frontier Scouts",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Full House",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Gambler's Dice",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Ghastly Character",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Ghostly Flicker",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Ghostway",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Gift of Shadows",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Gifts of Ancient Ulek",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Gleaming Rider",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elf Spirit Shaman",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Grasping Spirits",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Graygulch Drifter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Graygulch Howler",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dog Spirit",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Graygulch Lurker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Graygulch Outcast",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Graygulch Revenant",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Graygulch Turncoat",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit Rogue",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Gulchdrinker Serpent",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Gun Fight",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Haide Bankbuster",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Planeswalker — Haide",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Hair-Trigger Marshall",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Hard Knocks",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Hardened Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Harsh Wastes",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Haunting Bard",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Scout Bard",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Haunting Horseman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Haunting Stragglers",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Head in the Clouds",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Heartwood Sniper",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Centaur Archer",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Heavy Moneybag",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "High Spirits",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Howler Sellout",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Dog Rogue",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Howler Sheriff",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dog Soldier",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Imposing Griffin",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Griffin",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Injustice",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Invisible Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Ironeyes Desperado",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Ironeyes Scoundrel",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Ironeyes Slingers",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Island_HI12",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Judges' Shield",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Judges of Bearidge",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Kill Shot_HI12",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Koshui, the Trader",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Creature — Centaur Scout",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Land Grab",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Lead the Charge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Lease on Life",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Lingering Guide",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Centaur Scout",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Lone Stranger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Lonely Return",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Loreweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Shaman Warrior",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Luck of the Draw",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Make an Entrance",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Maligned Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Griffin",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "March of the Gray",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Mentor of the Mighty",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Merchant's Guile_HI12",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Midnight Fright",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Mighty Totem",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Miner's Barracks",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Mistbreaker",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Lizard Horror",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Moonlit Lurker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Mountain_HI12",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Mudslinging",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Murder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Murderkeep",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Mysteries of the Ulek",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Nameless Drifter",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Spirit Rogue",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Natural Growth_HI12",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Needle Doll",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Nightrail Fence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Nightrail Forger",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Nightrail Kingpin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Nightrail Printer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Nightshade Cultivator",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Old-World Forgotten",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Old-World Walker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit Scout",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "One with the Herd",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Open Road",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Pains of the Drunk",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Patron of the Ancients",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Centaur Spirit",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Penny Dreadful",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Pickpocket",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Pioneer of Wild Places",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Plains_HI12",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Pocket Aces",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Postmark Bullet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Preacher of Stray Souls",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Prolific Thief",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Public Hanging",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Qilan Archer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Centaur Archer",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Qilan Explorer",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Centaur Scout",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Qilan Raiders",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Centaur Warrior",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Qilan Seer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Centaur Shaman",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Qilan Stormers",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Centaur Warrior",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Qilan Wanderer",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Centaur Scout",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Qilan Warrior",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Centaur Warrior",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Quelling Tavern",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Rain of Blood",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Ravenous Chupacabra",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Recoil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Reforge",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Refund",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Resolute Scarecrow",
+			"rarity": "common",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Ride into the Sunset",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Roxite's Revenge",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Roxite of Nightrail",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Sandbluff Assailant",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Sandbluff Barflies",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Sandbluff Confiscator",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Sandbluff Duelist",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Sandbluff Enforcers",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Sandbluff Inciter",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Sandbluff Irregular",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dog Soldier",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Sandbluff Slinger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Sandbluff Training",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Sareng, the Dealer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Scoundrel's Aetherlock",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Scout Ahead",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Shredding Sword",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Silence of the Drifter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Slighted Spirit",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Slinger's Showdown",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Slinger's Storm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Solemn Deputy",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Songs of the Howlers",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Sparkling Jackalope",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Rabbit Beast",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Spectral Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Centaur Warrior Spirit",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Spectral Slinger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Spirit Guidance",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Spirit of Infamy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit Rogue",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Spirit of the Falls",
+			"rarity": "mythic",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Staking Hand",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Stand Your Ground",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Stealer of Secrets",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Stickup",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Stolen Cache",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Stormcall Thunderbird",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Creature — Elemental Bird",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Straw Soldiers",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Scarecrow Soldier",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Street Smarts",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Sunrise Bluffs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Sunrise Prairie",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Sunrise River",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Sunrise Ruins",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Sunrise Woods",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Sunset Cliffs Hunter",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Spirit Mercenary",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Sunset Cliffs Lawman",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Sunset Cliffs Patron",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Swamp_HI12",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Tailwind Griffin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Take Aim",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Tales of the Lingering",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Tavern Brawl",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Terror of Sunset Cliffs",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Creature — Manticore",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "The Aetherite Saloon",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "The Wicker Lord",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Legendary Artifact Creature — Elder Scarecrow",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Threaten",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Thunder Crow",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental Bird",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Tireless Explorer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Tracker of Wild Places",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Trailbloomer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Centaur Scout",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Train Heist",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Tumblewalker",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Ulek Crusher",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant Spirit",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Ulek Elder",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Spirit",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Ulek Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Ulek Wayfinder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Ulek Windrider",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Unassuming Swineherd",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Uncharted Frontier",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Uncommon Grit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Uncovered Mine",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Unified Ceremony",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Vengeful Agent",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Vessel of Lost Souls",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Plant Spirit",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Victims of Graygulch",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Vivid Hallucination",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Ox Illusion",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Walker of Wild Places",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Walking with Ancients",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Wanted",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Wardens of the Ulek",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Warning Shot",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Wasting Soul",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Yeti Spirit",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Wave of Goblins",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Weaver of the Winds",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Whirling Thoughts",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Wild Bounties",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Window Shopping",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Winning Hand",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Worn Saddle",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Wu, the Shackled",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Legendary Creature — Centaur Druid",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Ghostway_PRO_HI12",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Mistbreaker_PRO_HI12",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Lizard Horror",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Murder_PRO_HI12",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Unassuming Swineherd_PRO_HI12",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HI12-files/img/278.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Aether Leak
+	2 Aether Recoverer
+	2 Aether Striders
+	2 Aetherite Shackles
+	2 At the Gallows
+	1 Axom, the Drifter
+	1 Azun, Sheriff of Daisite
+	2 Bearidge Charmer
+	2 Bearidge Jailer
+	2 Bearidge Marshall
+	2 Bloodleaf Tracker
+	2 Bloodshot Berserker
+	2 Bounty Collector
+	2 Burning-Tree Shaman
+	1 Calamity Rose
+	2 Cardsharp
+	2 Chief Striking Dawn
+	2 Creed, Eternal Straggler
+	2 Daisite Express
+	1 Dead Man's Hand
+	2 Deputy Gibem
+	2 Derelict Town
+	2 Disallow
+	2 Drifting Warden
+	2 Foulweather Effigy
+	2 Frontier Meditation
+	2 Full House
+	2 Ghastly Character
+	2 Ghostway
+	2 Graygulch Revenant
+	1 Haide Bankbuster
+	2 Imposing Griffin
+	1 Judges of Bearidge
+	1 Koshui, the Trader
+	2 Lease on Life
+	2 Mentor of the Mighty
+	2 Mistbreaker
+	2 Mysteries of the Ulek
+	2 Nameless Drifter
+	2 One with the Herd
+	2 Open Road
+	2 Patron of the Ancients
+	2 Pocket Aces
+	2 Preacher of Stray Souls
+	2 Qilan Stormers
+	2 Rain of Blood
+	2 Ride into the Sunset
+	2 Roxite of Nightrail
+	2 Sareng, the Dealer
+	2 Slinger's Showdown
+	2 Sparkling Jackalope
+	1 Spirit of the Falls
+	2 Stickup
+	1 Stormcall Thunderbird
+	2 Sunrise Bluffs
+	2 Sunrise Prairie
+	2 Sunrise River
+	2 Sunrise Ruins
+	2 Sunrise Woods
+	2 Tavern Brawl
+	1 Terror of Sunset Cliffs
+	1 The Aetherite Saloon
+	1 The Wicker Lord
+	2 Tireless Explorer
+	2 Train Heist
+	2 Unassuming Swineherd
+	1 Unified Ceremony
+	2 Vengeful Agent
+	2 Vessel of Lost Souls
+	2 Wasting Soul
+	2 Weaver of the Winds
+	2 Winning Hand
+	1 Wu, the Shackled
+[uncommon(3)]
+	4 Aetherite Dagger
+	4 Aetherite Slugs
+	4 Aetherlock Effigy
+	4 Aetherwhirl
+	4 Arcane Caper
+	4 Atop Their High Horses
+	4 Azun's Play
+	4 Bloodleaf Druid
+	4 Bounty Leveler
+	4 Brazen Drifter
+	4 Cage the Mind
+	4 Collapsed Mine
+	4 Creeping Hidebehind
+	4 Derelict Watcher
+	4 Derringer Revelation
+	4 Diligent Deputy
+	4 Dreamkeeper
+	4 Driver of Herds
+	4 Dusk Occultist
+	4 Dusk Rider
+	4 Elven Wanderer
+	4 Eversoar
+	4 Expedition Leader
+	4 Feed to the Pigs
+	4 Fireheart Centaur
+	4 Forgotten Haunt
+	4 From the Shadows
+	4 Frontier Hoof
+	4 Gifts of Ancient Ulek
+	4 Gleaming Rider
+	4 Graygulch Drifter
+	4 Hair-Trigger Marshall
+	4 Hard Knocks
+	4 Hardened Soul
+	4 Haunting Horseman
+	4 Howler Sellout
+	4 Howler Sheriff
+	4 Invisible Stalker
+	4 Ironeyes Desperado
+	4 Land Grab
+	4 Lead the Charge
+	4 Lone Stranger
+	4 Loreweaver
+	4 Luck of the Draw
+	4 Maligned Scavenger
+	4 Midnight Fright
+	4 Miner's Barracks
+	4 Moonlit Lurker
+	4 Murder
+	4 Murderkeep
+	4 Nightrail Fence
+	4 Nightrail Kingpin
+	4 Old-World Walker
+	4 Postmark Bullet
+	4 Prolific Thief
+	4 Qilan Archer
+	4 Quelling Tavern
+	4 Ravenous Chupacabra
+	4 Recoil
+	4 Sandbluff Inciter
+	4 Sandbluff Slinger
+	4 Scoundrel's Aetherlock
+	4 Shredding Sword
+	4 Slighted Spirit
+	4 Slinger's Storm
+	4 Spectral Hunter
+	4 Spectral Slinger
+	4 Spirit of Infamy
+	4 Staking Hand
+	4 Stand Your Ground
+	4 Stolen Cache
+	4 Tailwind Griffin
+	4 Tales of the Lingering
+	4 Trailbloomer
+	4 Ulek Guardian
+	4 Ulek Wayfinder
+	4 Uncommon Grit
+	4 Uncovered Mine
+	4 Vivid Hallucination
+	4 Walker of Wild Places
+	4 Walking with Ancients
+	4 Wardens of the Ulek
+	4 Warning Shot
+	4 Wild Bounties
+	4 Window Shopping
+[common(7)]
+	8 Aetherite Vein
+	8 Aetherlock Pistol
+	8 Arrest
+	8 Bearidge Preacher
+	8 Binding Lasso
+	8 Bleeding Bear
+	8 Blind Soulcaller
+	8 Bloodleaf Butcher
+	8 Bloodleaf Poisoner
+	8 Bloodleaf Warcry
+	8 Bloodthirsty Ambusher
+	8 Bold Griffin
+	8 Brush Sniper
+	8 Campfire Stories
+	8 Canopy Ambush
+	8 Cardsharp Drifter
+	8 Cathartic Reunion
+	8 Crossfire
+	8 Cruel Effigy
+	8 Dispel
+	8 Down Barrel
+	8 Dual Wield
+	8 Embed
+	8 Eternal Scout
+	8 Exposed Ghoul
+	8 Fog
+	8 Fool's Gold
+	8 Forlorn Farmhand
+	8 Frontier Outrider
+	8 Frontier Paragon
+	8 Frontier Scouts
+	8 Gambler's Dice
+	8 Ghostly Flicker
+	8 Gift of Shadows
+	8 Grasping Spirits
+	8 Graygulch Howler
+	8 Graygulch Lurker
+	8 Graygulch Outcast
+	8 Graygulch Turncoat
+	8 Gulchdrinker Serpent
+	8 Gun Fight
+	8 Harsh Wastes
+	8 Haunting Bard
+	8 Haunting Stragglers
+	8 Head in the Clouds
+	8 Heartwood Sniper
+	8 Heavy Moneybag
+	8 High Spirits
+	8 Injustice
+	8 Ironeyes Scoundrel
+	8 Ironeyes Slingers
+	8 Judges' Shield
+	8 Kill Shot_HI12
+	8 Lingering Guide
+	8 Lonely Return
+	8 Make an Entrance
+	8 March of the Gray
+	8 Merchant's Guile_HI12
+	8 Mighty Totem
+	8 Mudslinging
+	8 Natural Growth_HI12
+	8 Needle Doll
+	8 Nightrail Forger
+	8 Nightrail Printer
+	8 Nightshade Cultivator
+	8 Old-World Forgotten
+	8 Pains of the Drunk
+	8 Penny Dreadful
+	8 Pickpocket
+	8 Pioneer of Wild Places
+	8 Public Hanging
+	8 Qilan Explorer
+	8 Qilan Raiders
+	8 Qilan Seer
+	8 Qilan Wanderer
+	8 Qilan Warrior
+	8 Reforge
+	8 Refund
+	8 Resolute Scarecrow
+	8 Roxite's Revenge
+	8 Sandbluff Assailant
+	8 Sandbluff Barflies
+	8 Sandbluff Confiscator
+	8 Sandbluff Duelist
+	8 Sandbluff Enforcers
+	8 Sandbluff Irregular
+	8 Sandbluff Training
+	8 Scout Ahead
+	8 Silence of the Drifter
+	8 Solemn Deputy
+	8 Songs of the Howlers
+	8 Spirit Guidance
+	8 Stealer of Secrets
+	8 Straw Soldiers
+	8 Street Smarts
+	8 Sunset Cliffs Hunter
+	8 Sunset Cliffs Lawman
+	8 Sunset Cliffs Patron
+	8 Take Aim
+	8 Threaten
+	8 Thunder Crow
+	8 Tracker of Wild Places
+	8 Tumblewalker
+	8 Ulek Crusher
+	8 Ulek Elder
+	8 Ulek Windrider
+	8 Uncharted Frontier
+	8 Victims of Graygulch
+	8 Wanted
+	8 Wave of Goblins
+	8 Whirling Thoughts
+	8 Worn Saddle
+[foil(1)]
+	1 Aether Leak
+	2 Aether Recoverer
+	2 Aether Striders
+	6 Aetherite Dagger
+	2 Aetherite Shackles
+	6 Aetherite Slugs
+	12 Aetherite Vein
+	6 Aetherlock Effigy
+	12 Aetherlock Pistol
+	6 Aetherwhirl
+	6 Arcane Caper
+	12 Arrest
+	2 At the Gallows
+	6 Atop Their High Horses
+	1 Axom, the Drifter
+	1 Azun, Sheriff of Daisite
+	6 Azun's Play
+	2 Bearidge Charmer
+	2 Bearidge Jailer
+	2 Bearidge Marshall
+	12 Bearidge Preacher
+	12 Binding Lasso
+	12 Bleeding Bear
+	12 Blind Soulcaller
+	12 Bloodleaf Butcher
+	6 Bloodleaf Druid
+	12 Bloodleaf Poisoner
+	2 Bloodleaf Tracker
+	12 Bloodleaf Warcry
+	2 Bloodshot Berserker
+	12 Bloodthirsty Ambusher
+	12 Bold Griffin
+	2 Bounty Collector
+	6 Bounty Leveler
+	6 Brazen Drifter
+	12 Brush Sniper
+	2 Burning-Tree Shaman
+	6 Cage the Mind
+	1 Calamity Rose
+	12 Campfire Stories
+	12 Canopy Ambush
+	2 Cardsharp
+	12 Cardsharp Drifter
+	12 Cathartic Reunion
+	2 Chief Striking Dawn
+	6 Collapsed Mine
+	2 Creed, Eternal Straggler
+	6 Creeping Hidebehind
+	12 Crossfire
+	12 Cruel Effigy
+	2 Daisite Express
+	1 Dead Man's Hand
+	2 Deputy Gibem
+	2 Derelict Town
+	6 Derelict Watcher
+	6 Derringer Revelation
+	6 Diligent Deputy
+	2 Disallow
+	12 Dispel
+	12 Down Barrel
+	6 Dreamkeeper
+	2 Drifting Warden
+	6 Driver of Herds
+	12 Dual Wield
+	6 Dusk Occultist
+	6 Dusk Rider
+	6 Elven Wanderer
+	12 Embed
+	12 Eternal Scout
+	6 Eversoar
+	6 Expedition Leader
+	12 Exposed Ghoul
+	6 Feed to the Pigs
+	6 Fireheart Centaur
+	12 Fog
+	12 Fool's Gold
+	6 Forgotten Haunt
+	12 Forlorn Farmhand
+	2 Foulweather Effigy
+	6 From the Shadows
+	6 Frontier Hoof
+	2 Frontier Meditation
+	12 Frontier Outrider
+	12 Frontier Paragon
+	12 Frontier Scouts
+	2 Full House
+	12 Gambler's Dice
+	2 Ghastly Character
+	12 Ghostly Flicker
+	2 Ghostway
+	12 Gift of Shadows
+	6 Gifts of Ancient Ulek
+	6 Gleaming Rider
+	12 Grasping Spirits
+	6 Graygulch Drifter
+	12 Graygulch Howler
+	12 Graygulch Lurker
+	12 Graygulch Outcast
+	2 Graygulch Revenant
+	12 Graygulch Turncoat
+	12 Gulchdrinker Serpent
+	12 Gun Fight
+	1 Haide Bankbuster
+	6 Hair-Trigger Marshall
+	6 Hard Knocks
+	6 Hardened Soul
+	12 Harsh Wastes
+	12 Haunting Bard
+	6 Haunting Horseman
+	12 Haunting Stragglers
+	12 Head in the Clouds
+	12 Heartwood Sniper
+	12 Heavy Moneybag
+	12 High Spirits
+	6 Howler Sellout
+	6 Howler Sheriff
+	2 Imposing Griffin
+	12 Injustice
+	6 Invisible Stalker
+	6 Ironeyes Desperado
+	12 Ironeyes Scoundrel
+	12 Ironeyes Slingers
+	12 Judges' Shield
+	1 Judges of Bearidge
+	12 Kill Shot_HI12
+	1 Koshui, the Trader
+	6 Land Grab
+	6 Lead the Charge
+	2 Lease on Life
+	12 Lingering Guide
+	6 Lone Stranger
+	12 Lonely Return
+	6 Loreweaver
+	6 Luck of the Draw
+	12 Make an Entrance
+	6 Maligned Scavenger
+	12 March of the Gray
+	2 Mentor of the Mighty
+	12 Merchant's Guile_HI12
+	6 Midnight Fright
+	12 Mighty Totem
+	6 Miner's Barracks
+	2 Mistbreaker
+	6 Moonlit Lurker
+	12 Mudslinging
+	6 Murder
+	6 Murderkeep
+	2 Mysteries of the Ulek
+	2 Nameless Drifter
+	12 Natural Growth_HI12
+	12 Needle Doll
+	6 Nightrail Fence
+	12 Nightrail Forger
+	6 Nightrail Kingpin
+	12 Nightrail Printer
+	12 Nightshade Cultivator
+	12 Old-World Forgotten
+	6 Old-World Walker
+	2 One with the Herd
+	2 Open Road
+	12 Pains of the Drunk
+	2 Patron of the Ancients
+	12 Penny Dreadful
+	12 Pickpocket
+	12 Pioneer of Wild Places
+	2 Pocket Aces
+	6 Postmark Bullet
+	2 Preacher of Stray Souls
+	6 Prolific Thief
+	12 Public Hanging
+	6 Qilan Archer
+	12 Qilan Explorer
+	12 Qilan Raiders
+	12 Qilan Seer
+	2 Qilan Stormers
+	12 Qilan Wanderer
+	12 Qilan Warrior
+	6 Quelling Tavern
+	2 Rain of Blood
+	6 Ravenous Chupacabra
+	6 Recoil
+	12 Reforge
+	12 Refund
+	12 Resolute Scarecrow
+	2 Ride into the Sunset
+	12 Roxite's Revenge
+	2 Roxite of Nightrail
+	12 Sandbluff Assailant
+	12 Sandbluff Barflies
+	12 Sandbluff Confiscator
+	12 Sandbluff Duelist
+	12 Sandbluff Enforcers
+	6 Sandbluff Inciter
+	12 Sandbluff Irregular
+	6 Sandbluff Slinger
+	12 Sandbluff Training
+	2 Sareng, the Dealer
+	6 Scoundrel's Aetherlock
+	12 Scout Ahead
+	6 Shredding Sword
+	12 Silence of the Drifter
+	6 Slighted Spirit
+	2 Slinger's Showdown
+	6 Slinger's Storm
+	12 Solemn Deputy
+	12 Songs of the Howlers
+	2 Sparkling Jackalope
+	6 Spectral Hunter
+	6 Spectral Slinger
+	12 Spirit Guidance
+	6 Spirit of Infamy
+	1 Spirit of the Falls
+	6 Staking Hand
+	6 Stand Your Ground
+	12 Stealer of Secrets
+	2 Stickup
+	6 Stolen Cache
+	1 Stormcall Thunderbird
+	12 Straw Soldiers
+	12 Street Smarts
+	2 Sunrise Bluffs
+	2 Sunrise Prairie
+	2 Sunrise River
+	2 Sunrise Ruins
+	2 Sunrise Woods
+	12 Sunset Cliffs Hunter
+	12 Sunset Cliffs Lawman
+	12 Sunset Cliffs Patron
+	6 Tailwind Griffin
+	12 Take Aim
+	6 Tales of the Lingering
+	2 Tavern Brawl
+	1 Terror of Sunset Cliffs
+	1 The Aetherite Saloon
+	1 The Wicker Lord
+	12 Threaten
+	12 Thunder Crow
+	2 Tireless Explorer
+	12 Tracker of Wild Places
+	6 Trailbloomer
+	2 Train Heist
+	12 Tumblewalker
+	12 Ulek Crusher
+	12 Ulek Elder
+	6 Ulek Guardian
+	6 Ulek Wayfinder
+	12 Ulek Windrider
+	2 Unassuming Swineherd
+	12 Uncharted Frontier
+	6 Uncommon Grit
+	6 Uncovered Mine
+	1 Unified Ceremony
+	2 Vengeful Agent
+	2 Vessel of Lost Souls
+	12 Victims of Graygulch
+	6 Vivid Hallucination
+	6 Walker of Wild Places
+	6 Walking with Ancients
+	12 Wanted
+	6 Wardens of the Ulek
+	6 Warning Shot
+	2 Wasting Soul
+	12 Wave of Goblins
+	2 Weaver of the Winds
+	12 Whirling Thoughts
+	6 Wild Bounties
+	6 Window Shopping
+	2 Winning Hand
+	12 Worn Saddle
+	1 Wu, the Shackled
+[wildcard(1)]
+	4 Aether Leak
+	7 Aether Recoverer
+	7 Aether Striders
+	15 Aetherite Dagger
+	7 Aetherite Shackles
+	15 Aetherite Slugs
+	6 Aetherite Vein
+	15 Aetherlock Effigy
+	6 Aetherlock Pistol
+	15 Aetherwhirl
+	15 Arcane Caper
+	6 Arrest
+	7 At the Gallows
+	15 Atop Their High Horses
+	4 Axom, the Drifter
+	4 Azun, Sheriff of Daisite
+	15 Azun's Play
+	7 Bearidge Charmer
+	7 Bearidge Jailer
+	7 Bearidge Marshall
+	6 Bearidge Preacher
+	6 Binding Lasso
+	6 Bleeding Bear
+	6 Blind Soulcaller
+	6 Bloodleaf Butcher
+	15 Bloodleaf Druid
+	6 Bloodleaf Poisoner
+	7 Bloodleaf Tracker
+	6 Bloodleaf Warcry
+	7 Bloodshot Berserker
+	6 Bloodthirsty Ambusher
+	6 Bold Griffin
+	7 Bounty Collector
+	15 Bounty Leveler
+	15 Brazen Drifter
+	6 Brush Sniper
+	7 Burning-Tree Shaman
+	15 Cage the Mind
+	4 Calamity Rose
+	6 Campfire Stories
+	6 Canopy Ambush
+	7 Cardsharp
+	6 Cardsharp Drifter
+	6 Cathartic Reunion
+	7 Chief Striking Dawn
+	15 Collapsed Mine
+	7 Creed, Eternal Straggler
+	15 Creeping Hidebehind
+	6 Crossfire
+	6 Cruel Effigy
+	7 Daisite Express
+	4 Dead Man's Hand
+	7 Deputy Gibem
+	7 Derelict Town
+	15 Derelict Watcher
+	15 Derringer Revelation
+	15 Diligent Deputy
+	7 Disallow
+	6 Dispel
+	6 Down Barrel
+	15 Dreamkeeper
+	7 Drifting Warden
+	15 Driver of Herds
+	6 Dual Wield
+	15 Dusk Occultist
+	15 Dusk Rider
+	15 Elven Wanderer
+	6 Embed
+	6 Eternal Scout
+	15 Eversoar
+	15 Expedition Leader
+	6 Exposed Ghoul
+	15 Feed to the Pigs
+	15 Fireheart Centaur
+	6 Fog
+	6 Fool's Gold
+	15 Forgotten Haunt
+	6 Forlorn Farmhand
+	7 Foulweather Effigy
+	15 From the Shadows
+	15 Frontier Hoof
+	7 Frontier Meditation
+	6 Frontier Outrider
+	6 Frontier Paragon
+	6 Frontier Scouts
+	7 Full House
+	6 Gambler's Dice
+	7 Ghastly Character
+	6 Ghostly Flicker
+	7 Ghostway
+	6 Gift of Shadows
+	15 Gifts of Ancient Ulek
+	15 Gleaming Rider
+	6 Grasping Spirits
+	15 Graygulch Drifter
+	6 Graygulch Howler
+	6 Graygulch Lurker
+	6 Graygulch Outcast
+	7 Graygulch Revenant
+	6 Graygulch Turncoat
+	6 Gulchdrinker Serpent
+	6 Gun Fight
+	4 Haide Bankbuster
+	15 Hair-Trigger Marshall
+	15 Hard Knocks
+	15 Hardened Soul
+	6 Harsh Wastes
+	6 Haunting Bard
+	15 Haunting Horseman
+	6 Haunting Stragglers
+	6 Head in the Clouds
+	6 Heartwood Sniper
+	6 Heavy Moneybag
+	6 High Spirits
+	15 Howler Sellout
+	15 Howler Sheriff
+	7 Imposing Griffin
+	6 Injustice
+	15 Invisible Stalker
+	15 Ironeyes Desperado
+	6 Ironeyes Scoundrel
+	6 Ironeyes Slingers
+	6 Judges' Shield
+	4 Judges of Bearidge
+	6 Kill Shot_HI12
+	4 Koshui, the Trader
+	15 Land Grab
+	15 Lead the Charge
+	7 Lease on Life
+	6 Lingering Guide
+	15 Lone Stranger
+	6 Lonely Return
+	15 Loreweaver
+	15 Luck of the Draw
+	6 Make an Entrance
+	15 Maligned Scavenger
+	6 March of the Gray
+	7 Mentor of the Mighty
+	6 Merchant's Guile_HI12
+	15 Midnight Fright
+	6 Mighty Totem
+	15 Miner's Barracks
+	7 Mistbreaker
+	15 Moonlit Lurker
+	6 Mudslinging
+	15 Murder
+	15 Murderkeep
+	7 Mysteries of the Ulek
+	7 Nameless Drifter
+	6 Natural Growth_HI12
+	6 Needle Doll
+	15 Nightrail Fence
+	6 Nightrail Forger
+	15 Nightrail Kingpin
+	6 Nightrail Printer
+	6 Nightshade Cultivator
+	6 Old-World Forgotten
+	15 Old-World Walker
+	7 One with the Herd
+	7 Open Road
+	6 Pains of the Drunk
+	7 Patron of the Ancients
+	6 Penny Dreadful
+	6 Pickpocket
+	6 Pioneer of Wild Places
+	7 Pocket Aces
+	15 Postmark Bullet
+	7 Preacher of Stray Souls
+	15 Prolific Thief
+	6 Public Hanging
+	15 Qilan Archer
+	6 Qilan Explorer
+	6 Qilan Raiders
+	6 Qilan Seer
+	7 Qilan Stormers
+	6 Qilan Wanderer
+	6 Qilan Warrior
+	15 Quelling Tavern
+	7 Rain of Blood
+	15 Ravenous Chupacabra
+	15 Recoil
+	6 Reforge
+	6 Refund
+	6 Resolute Scarecrow
+	7 Ride into the Sunset
+	6 Roxite's Revenge
+	7 Roxite of Nightrail
+	6 Sandbluff Assailant
+	6 Sandbluff Barflies
+	6 Sandbluff Confiscator
+	6 Sandbluff Duelist
+	6 Sandbluff Enforcers
+	15 Sandbluff Inciter
+	6 Sandbluff Irregular
+	15 Sandbluff Slinger
+	6 Sandbluff Training
+	7 Sareng, the Dealer
+	15 Scoundrel's Aetherlock
+	6 Scout Ahead
+	15 Shredding Sword
+	6 Silence of the Drifter
+	15 Slighted Spirit
+	7 Slinger's Showdown
+	15 Slinger's Storm
+	6 Solemn Deputy
+	6 Songs of the Howlers
+	7 Sparkling Jackalope
+	15 Spectral Hunter
+	15 Spectral Slinger
+	6 Spirit Guidance
+	15 Spirit of Infamy
+	4 Spirit of the Falls
+	15 Staking Hand
+	15 Stand Your Ground
+	6 Stealer of Secrets
+	7 Stickup
+	15 Stolen Cache
+	4 Stormcall Thunderbird
+	6 Straw Soldiers
+	6 Street Smarts
+	7 Sunrise Bluffs
+	7 Sunrise Prairie
+	7 Sunrise River
+	7 Sunrise Ruins
+	7 Sunrise Woods
+	6 Sunset Cliffs Hunter
+	6 Sunset Cliffs Lawman
+	6 Sunset Cliffs Patron
+	15 Tailwind Griffin
+	6 Take Aim
+	15 Tales of the Lingering
+	7 Tavern Brawl
+	4 Terror of Sunset Cliffs
+	4 The Aetherite Saloon
+	4 The Wicker Lord
+	6 Threaten
+	6 Thunder Crow
+	7 Tireless Explorer
+	6 Tracker of Wild Places
+	15 Trailbloomer
+	7 Train Heist
+	6 Tumblewalker
+	6 Ulek Crusher
+	6 Ulek Elder
+	15 Ulek Guardian
+	15 Ulek Wayfinder
+	6 Ulek Windrider
+	7 Unassuming Swineherd
+	6 Uncharted Frontier
+	15 Uncommon Grit
+	15 Uncovered Mine
+	4 Unified Ceremony
+	7 Vengeful Agent
+	7 Vessel of Lost Souls
+	6 Victims of Graygulch
+	15 Vivid Hallucination
+	15 Walker of Wild Places
+	15 Walking with Ancients
+	6 Wanted
+	15 Wardens of the Ulek
+	15 Warning Shot
+	7 Wasting Soul
+	6 Wave of Goblins
+	7 Weaver of the Winds
+	6 Whirling Thoughts
+	15 Wild Bounties
+	15 Window Shopping
+	7 Winning Hand
+	6 Worn Saddle
+	4 Wu, the Shackled

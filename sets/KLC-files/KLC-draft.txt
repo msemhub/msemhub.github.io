@@ -1,0 +1,1525 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abandoned Forge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Abandoned Hideout",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Abandoned Laboratory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Abandoned Preserve",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Abandoned Shores",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Agent of Vitu-Ghazi",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Anguished Unmaking",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Bestial Mob",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Blood Fugue",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Boneforged Arms",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Breaking News",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Bundan Firebrand // Kanlan Jaded",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "49",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/49a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/49a_front.jpg"
+			}
+		},
+		{
+			"name": "Bundan Firebrand // Kanlan Jaded",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "49",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/49a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/49a_front.jpg"
+			}
+		},
+		{
+			"name": "Burned-Mind Seer",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Callous Ritualist // Heartless Angel",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "33",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/33a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/33a_front.jpg"
+			}
+		},
+		{
+			"name": "Callous Ritualist // Heartless Angel",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "33",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/33a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/33a_front.jpg"
+			}
+		},
+		{
+			"name": "Choking Despair",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Chronic Traitor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Cloudsnatch",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Courier Eagle",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Creeping Terror",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Danawan Wanderer // Punan Trailblazer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human",
+			"collector_number": "18",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/18a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/18a_front.jpg"
+			}
+		},
+		{
+			"name": "Danawan Wanderer // Punan Trailblazer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human",
+			"collector_number": "18",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/18a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/18a_front.jpg"
+			}
+		},
+		{
+			"name": "Dancing Flames",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Dead of Night",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Deformed Vagrant",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Mutant Rogue",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Descent of the Stars",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Distant Thunder",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Doctored Trail",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Emberling",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Embrace Samang",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Ephemeral Support",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Essence of Nurture",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Evanescier Greypelt",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Illusion Bear",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Evanescier Priest",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Illusion Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Fertile Soil",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Fleeting Memory",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Illusion",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Flickercloak",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Flood of Information",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Foul Drifter",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elemental",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Fractal Findings",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Gnuge-District Hoarder",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Grete-District Hermit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Grete-District Strider",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Guardian's Resolve",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Helix Entity",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Highspire Informant",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Hold Fast",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Hollow Hooligan",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Illusion Rogue",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Horizon Gazer // Weathered Pilgrim",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "23",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/23a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/23a_front.jpg"
+			}
+		},
+		{
+			"name": "Horizon Gazer // Weathered Pilgrim",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "23",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/23a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/23a_front.jpg"
+			}
+		},
+		{
+			"name": "Insightful Blow",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Kanlan Marauders",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Kin of the Rainforest // Desperate Ravager",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "73",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/73a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/73a_front.jpg"
+			}
+		},
+		{
+			"name": "Kin of the Rainforest // Desperate Ravager",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "73",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/73a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/73a_front.jpg"
+			}
+		},
+		{
+			"name": "Kofe-District Scholar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Landplate Elemental",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Leyline Tracer // Wanderer of Oblivion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "56",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/56a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/56a_front.jpg"
+			}
+		},
+		{
+			"name": "Leyline Tracer // Wanderer of Oblivion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "56",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/56a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/56a_front.jpg"
+			}
+		},
+		{
+			"name": "Lifecraft Aberration",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Mutant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Lifeshell Crab",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Crab",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Liguno, Who Transcends All",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Living Antimagic",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Looking Glass",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Loresprout",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Lost in Fugue",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Mass Pandemonium",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Miede-District Alchemist",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Miede-District Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Mongrel of Grenoui Hill",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Illusion Hound",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Moonshadow Remnant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Illusion Assassin",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Mystic's Mantle",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Orzhov Benefactor",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Paralyzing Ennui",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Past Unresolved",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Patient Ascetic // Graceful Angel",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "10",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/10a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/10a_front.jpg"
+			}
+		},
+		{
+			"name": "Patient Ascetic // Graceful Angel",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "10",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/10a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/10a_front.jpg"
+			}
+		},
+		{
+			"name": "Phantasmal Samaritan",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Illusion",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Precursors' Disdain",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Punan Mammoth",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elephant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Rakdos Drakeswarm",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Drake",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Reclusive Mermaid",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Reform Reality",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Remy, Last of Evanescier",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Revenge of the Disfigured",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Rheila Rachy",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Planeswalker — Rheila",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Saljan, Lord of the Disfigured",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Mutant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Sanctuary for the Forsaken",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Savants of the Ley // Tyrants of Bundan",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "79",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/79a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/79a_front.jpg"
+			}
+		},
+		{
+			"name": "Savants of the Ley // Tyrants of Bundan",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "79",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/KLC-files/img/79a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/79a_front.jpg"
+			}
+		},
+		{
+			"name": "Secrets Unearthed",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Skull of the World",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Solar Wisp",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Split-Second Decision",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Stalked Healer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Stay Determined",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Still the Pandemonium",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Strive for the Heavens",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Swell of Birth",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Tears of Samang",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "The Midwife",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Thomar, Fearbringer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Thomar's Sowing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Threshold Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Torches Raised",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Vitality Unbridled",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Wehre-District Patrollers",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Wheat from Chaff",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KLC-files/img/32.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Abandoned Forge
+	2 Abandoned Hideout
+	2 Abandoned Laboratory
+	2 Abandoned Preserve
+	2 Abandoned Shores
+	2 Anguished Unmaking
+	2 Bestial Mob
+	2 Callous Ritualist // Heartless Angel
+	2 Callous Ritualist // Heartless Angel
+	2 Dead of Night
+	2 Embrace Samang
+	2 Fleeting Memory
+	2 Flood of Information
+	2 Guardian's Resolve
+	2 Helix Entity
+	2 Landplate Elemental
+	1 Liguno, Who Transcends All
+	2 Living Antimagic
+	2 Mass Pandemonium
+	2 Orzhov Benefactor
+	2 Rakdos Drakeswarm
+	2 Reform Reality
+	1 Remy, Last of Evanescier
+	1 Rheila Rachy
+	1 Saljan, Lord of the Disfigured
+	2 Savants of the Ley // Tyrants of Bundan
+	2 Savants of the Ley // Tyrants of Bundan
+	1 Skull of the World
+	2 Stay Determined
+	2 Strive for the Heavens
+	2 Swell of Birth
+	2 Tears of Samang
+	1 The Midwife
+	1 Thomar, Fearbringer
+[uncommon(3)]
+	4 Blood Fugue
+	4 Boneforged Arms
+	4 Breaking News
+	4 Choking Despair
+	4 Chronic Traitor
+	4 Descent of the Stars
+	4 Doctored Trail
+	4 Ephemeral Support
+	4 Evanescier Greypelt
+	4 Fractal Findings
+	4 Grete-District Hermit
+	4 Hold Fast
+	4 Horizon Gazer // Weathered Pilgrim
+	4 Horizon Gazer // Weathered Pilgrim
+	4 Kofe-District Scholar
+	4 Leyline Tracer // Wanderer of Oblivion
+	4 Leyline Tracer // Wanderer of Oblivion
+	4 Lifecraft Aberration
+	4 Looking Glass
+	4 Lost in Fugue
+	4 Miede-District Enforcer
+	4 Moonshadow Remnant
+	4 Precursors' Disdain
+	4 Sanctuary for the Forsaken
+	4 Secrets Unearthed
+	4 Stalked Healer
+	4 Thomar's Sowing
+	4 Threshold Guardian
+	4 Torches Raised
+	4 Vitality Unbridled
+[common(7)]
+	8 Agent of Vitu-Ghazi
+	8 Bundan Firebrand // Kanlan Jaded
+	8 Bundan Firebrand // Kanlan Jaded
+	8 Burned-Mind Seer
+	8 Cloudsnatch
+	8 Courier Eagle
+	8 Creeping Terror
+	8 Danawan Wanderer // Punan Trailblazer
+	8 Danawan Wanderer // Punan Trailblazer
+	8 Dancing Flames
+	8 Deformed Vagrant
+	8 Distant Thunder
+	8 Emberling
+	8 Essence of Nurture
+	8 Evanescier Priest
+	8 Fertile Soil
+	8 Flickercloak
+	8 Foul Drifter
+	8 Gnuge-District Hoarder
+	8 Grete-District Strider
+	8 Highspire Informant
+	8 Hollow Hooligan
+	8 Insightful Blow
+	8 Kanlan Marauders
+	8 Kin of the Rainforest // Desperate Ravager
+	8 Kin of the Rainforest // Desperate Ravager
+	8 Lifeshell Crab
+	8 Loresprout
+	8 Miede-District Alchemist
+	8 Mongrel of Grenoui Hill
+	8 Mystic's Mantle
+	8 Paralyzing Ennui
+	8 Past Unresolved
+	8 Patient Ascetic // Graceful Angel
+	8 Patient Ascetic // Graceful Angel
+	8 Phantasmal Samaritan
+	8 Punan Mammoth
+	8 Reclusive Mermaid
+	8 Revenge of the Disfigured
+	8 Solar Wisp
+	8 Split-Second Decision
+	8 Still the Pandemonium
+	8 Wehre-District Patrollers
+	8 Wheat from Chaff
+[foil(1)]
+	2 Abandoned Forge
+	2 Abandoned Hideout
+	2 Abandoned Laboratory
+	2 Abandoned Preserve
+	2 Abandoned Shores
+	12 Agent of Vitu-Ghazi
+	2 Anguished Unmaking
+	2 Bestial Mob
+	6 Blood Fugue
+	6 Boneforged Arms
+	6 Breaking News
+	12 Bundan Firebrand // Kanlan Jaded
+	12 Bundan Firebrand // Kanlan Jaded
+	12 Burned-Mind Seer
+	2 Callous Ritualist // Heartless Angel
+	2 Callous Ritualist // Heartless Angel
+	6 Choking Despair
+	6 Chronic Traitor
+	12 Cloudsnatch
+	12 Courier Eagle
+	12 Creeping Terror
+	12 Danawan Wanderer // Punan Trailblazer
+	12 Danawan Wanderer // Punan Trailblazer
+	12 Dancing Flames
+	2 Dead of Night
+	12 Deformed Vagrant
+	6 Descent of the Stars
+	12 Distant Thunder
+	6 Doctored Trail
+	12 Emberling
+	2 Embrace Samang
+	6 Ephemeral Support
+	12 Essence of Nurture
+	6 Evanescier Greypelt
+	12 Evanescier Priest
+	12 Fertile Soil
+	2 Fleeting Memory
+	12 Flickercloak
+	2 Flood of Information
+	12 Foul Drifter
+	6 Fractal Findings
+	12 Gnuge-District Hoarder
+	6 Grete-District Hermit
+	12 Grete-District Strider
+	2 Guardian's Resolve
+	2 Helix Entity
+	12 Highspire Informant
+	6 Hold Fast
+	12 Hollow Hooligan
+	6 Horizon Gazer // Weathered Pilgrim
+	6 Horizon Gazer // Weathered Pilgrim
+	12 Insightful Blow
+	12 Kanlan Marauders
+	12 Kin of the Rainforest // Desperate Ravager
+	12 Kin of the Rainforest // Desperate Ravager
+	6 Kofe-District Scholar
+	2 Landplate Elemental
+	6 Leyline Tracer // Wanderer of Oblivion
+	6 Leyline Tracer // Wanderer of Oblivion
+	6 Lifecraft Aberration
+	12 Lifeshell Crab
+	1 Liguno, Who Transcends All
+	2 Living Antimagic
+	6 Looking Glass
+	12 Loresprout
+	6 Lost in Fugue
+	2 Mass Pandemonium
+	12 Miede-District Alchemist
+	6 Miede-District Enforcer
+	12 Mongrel of Grenoui Hill
+	6 Moonshadow Remnant
+	12 Mystic's Mantle
+	2 Orzhov Benefactor
+	12 Paralyzing Ennui
+	12 Past Unresolved
+	12 Patient Ascetic // Graceful Angel
+	12 Patient Ascetic // Graceful Angel
+	12 Phantasmal Samaritan
+	6 Precursors' Disdain
+	12 Punan Mammoth
+	2 Rakdos Drakeswarm
+	12 Reclusive Mermaid
+	2 Reform Reality
+	1 Remy, Last of Evanescier
+	12 Revenge of the Disfigured
+	1 Rheila Rachy
+	1 Saljan, Lord of the Disfigured
+	6 Sanctuary for the Forsaken
+	2 Savants of the Ley // Tyrants of Bundan
+	2 Savants of the Ley // Tyrants of Bundan
+	6 Secrets Unearthed
+	1 Skull of the World
+	12 Solar Wisp
+	12 Split-Second Decision
+	6 Stalked Healer
+	2 Stay Determined
+	12 Still the Pandemonium
+	2 Strive for the Heavens
+	2 Swell of Birth
+	2 Tears of Samang
+	1 The Midwife
+	1 Thomar, Fearbringer
+	6 Thomar's Sowing
+	6 Threshold Guardian
+	6 Torches Raised
+	6 Vitality Unbridled
+	12 Wehre-District Patrollers
+	12 Wheat from Chaff
+[wildcard(1)]
+	7 Abandoned Forge
+	7 Abandoned Hideout
+	7 Abandoned Laboratory
+	7 Abandoned Preserve
+	7 Abandoned Shores
+	6 Agent of Vitu-Ghazi
+	7 Anguished Unmaking
+	7 Bestial Mob
+	15 Blood Fugue
+	15 Boneforged Arms
+	15 Breaking News
+	6 Bundan Firebrand // Kanlan Jaded
+	6 Bundan Firebrand // Kanlan Jaded
+	6 Burned-Mind Seer
+	7 Callous Ritualist // Heartless Angel
+	7 Callous Ritualist // Heartless Angel
+	15 Choking Despair
+	15 Chronic Traitor
+	6 Cloudsnatch
+	6 Courier Eagle
+	6 Creeping Terror
+	6 Danawan Wanderer // Punan Trailblazer
+	6 Danawan Wanderer // Punan Trailblazer
+	6 Dancing Flames
+	7 Dead of Night
+	6 Deformed Vagrant
+	15 Descent of the Stars
+	6 Distant Thunder
+	15 Doctored Trail
+	6 Emberling
+	7 Embrace Samang
+	15 Ephemeral Support
+	6 Essence of Nurture
+	15 Evanescier Greypelt
+	6 Evanescier Priest
+	6 Fertile Soil
+	7 Fleeting Memory
+	6 Flickercloak
+	7 Flood of Information
+	6 Foul Drifter
+	15 Fractal Findings
+	6 Gnuge-District Hoarder
+	15 Grete-District Hermit
+	6 Grete-District Strider
+	7 Guardian's Resolve
+	7 Helix Entity
+	6 Highspire Informant
+	15 Hold Fast
+	6 Hollow Hooligan
+	15 Horizon Gazer // Weathered Pilgrim
+	15 Horizon Gazer // Weathered Pilgrim
+	6 Insightful Blow
+	6 Kanlan Marauders
+	6 Kin of the Rainforest // Desperate Ravager
+	6 Kin of the Rainforest // Desperate Ravager
+	15 Kofe-District Scholar
+	7 Landplate Elemental
+	15 Leyline Tracer // Wanderer of Oblivion
+	15 Leyline Tracer // Wanderer of Oblivion
+	15 Lifecraft Aberration
+	6 Lifeshell Crab
+	4 Liguno, Who Transcends All
+	7 Living Antimagic
+	15 Looking Glass
+	6 Loresprout
+	15 Lost in Fugue
+	7 Mass Pandemonium
+	6 Miede-District Alchemist
+	15 Miede-District Enforcer
+	6 Mongrel of Grenoui Hill
+	15 Moonshadow Remnant
+	6 Mystic's Mantle
+	7 Orzhov Benefactor
+	6 Paralyzing Ennui
+	6 Past Unresolved
+	6 Patient Ascetic // Graceful Angel
+	6 Patient Ascetic // Graceful Angel
+	6 Phantasmal Samaritan
+	15 Precursors' Disdain
+	6 Punan Mammoth
+	7 Rakdos Drakeswarm
+	6 Reclusive Mermaid
+	7 Reform Reality
+	4 Remy, Last of Evanescier
+	6 Revenge of the Disfigured
+	4 Rheila Rachy
+	4 Saljan, Lord of the Disfigured
+	15 Sanctuary for the Forsaken
+	7 Savants of the Ley // Tyrants of Bundan
+	7 Savants of the Ley // Tyrants of Bundan
+	15 Secrets Unearthed
+	4 Skull of the World
+	6 Solar Wisp
+	6 Split-Second Decision
+	15 Stalked Healer
+	7 Stay Determined
+	6 Still the Pandemonium
+	7 Strive for the Heavens
+	7 Swell of Birth
+	7 Tears of Samang
+	4 The Midwife
+	4 Thomar, Fearbringer
+	15 Thomar's Sowing
+	15 Threshold Guardian
+	15 Torches Raised
+	15 Vitality Unbridled
+	6 Wehre-District Patrollers
+	6 Wheat from Chaff

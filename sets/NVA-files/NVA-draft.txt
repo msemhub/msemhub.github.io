@@ -1,0 +1,3534 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Acolyte of Night",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Aerolius",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Aether Tradewinds",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Alpha Stag",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elk Elemental",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Ancestral Revision",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Beastkeeper Dryad",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Nymph",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Birth of Death",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Blessing of Bliss",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Blight Seed",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Blightcaller Shaman",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Blood Ritual",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Blood Tide",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Bloodriver",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Bloomhorn",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Rhino Elemental",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Blossoming Defense",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Breathgiving Roots",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Octopus Elemental",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Breeze Sylph",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Nymph",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Breezerider",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Monkey",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Brush Off",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Buzzing Flitter",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Captivate",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Charging Nymph",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Nymph Warrior",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Charming Nereid",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Child's Play",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Cloudbank",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Cloudchaser Kestrel",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Cloudfisher",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}{R}",
+			"type": "Creature — Merfolk Nymph",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Cloudshaper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Nymph",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Cloudstep Capuchin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Monkey Monk",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Cloudwing",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Drake Elemental",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Coralkeeper",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Corpsebed",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Corrupted Dancer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird Horror",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Corrupted Warlord",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Elemental Warrior",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Corruption's Hold",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Crackling Seaform",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Cradle of Corruption",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Swamp",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Crash Down",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Crashcaller Nereid",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Crush Their Throats",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Current Shaper",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Dawnsong",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Daybreak",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Dazzling Wave",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Deadeye Drowner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Deathmask Dancer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Deathmask Initiation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Deceitful Soul",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Deceitful Tutor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Deepwater Stinger",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Jellyfish",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Devious Naiad",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Devoted Dancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Nymph",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Divine Butcher",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Harpy Warrior",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Dodgy Infant",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Monkey",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Don the Deathmasks",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Doomsower",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Dreameater",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Drown",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Drowned Rusalka",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Drowned Weaver",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Nymph",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Dying Wishes",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Earthrend",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Eat Their Hearts",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Eldritch Undoing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Elrayin, the Manaroot",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Forest",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Elusive Monkey",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Monkey",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Embrace the Curse",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Envious Nereid",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Escyf, Fallen Sundancer",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Creature — Nymph",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Even Death May Die",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Instant",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Explore_NVA",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Eye of a Moment",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Fallweather Dancer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Nymph",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Feathered Warden",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Harpy Cleric",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Feeding Time",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "First Carvings",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Flowing Ox",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Ox Elemental",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Forest_NVA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Forsaken Sunseeker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Harpy",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Forserval",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Cat Elemental",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Frenzied Sylph",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Nymph",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Giant Growth",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Gift of Eternity",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Gifted Grace",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Gim-Chimya, the Invisible",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Monkey",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Glimpse of Beyond",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Glimpse the Sun",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Gone with the Wind",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Goreswimmers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Merfolk Horror",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Gorran Charge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Gorran Deathgreeter",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Elemental Shaman",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Gorran Explorer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Gorran Hunter",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Gorran Totem",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Gorru Deathmask",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Gorru Recluse",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Gorru Tracker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Gorru Wolftender",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Gravelocked Seeker",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Harpy Shaman",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Grip of the Deadwood",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Haunted Sunseeker",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Nymph Shaman",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Heart of the Deadwood",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Creature — Nymph",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Heat of Day",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Heretical Seer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Heretical Summons",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Honorwing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Harpy",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Horned Spy",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Idyllic Tutor",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Impetuous Impetus",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Infinite Dreams",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Island_NVA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Ka Soma, the Soulless",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Nymph",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Keeping the Wolfpack",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Koisoul Diver",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Lapidify",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Life Immemorial",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Lifecaller Dryad",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Nymph",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Light's Blessing",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Lightseeker Nymph",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Nymph",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Lightwrencher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Nymph Shaman",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Liquefaction",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Lost Dancer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Harpy",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Lost Shrieker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Harpy",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Lotus's Blessing",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Lotus Acolyte",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Nymph",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Lotusheart Gorran",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{B}",
+			"type": "Creature — Human Nymph",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Lotusworn Druid",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Lunar Boon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Lurking in the Reeds",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Master of the Glen",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Nymph",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Mele, the Onemother",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Melodae, the Favored",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Nymph",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Mistcharm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Mojara, the Sea's Claim",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Merfolk",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Monkey Trinket",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Monkeyshines",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Monstrous Nereid",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Merfolk Beast",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Moonlace",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Moonlight Agent",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Nymph Rogue",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Moonlight Stalker",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Harpy",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Mosecf, the Sunseeker's Path",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Plains",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Mother's Disciples",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Mother Night",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Mountain_NVA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Nadei the Wavecaller",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Merfolk",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Naiad Looter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Night's Guard",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Nightshade Shaman",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Nightshade Slayer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Nymph Shaman",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Not All Who Wander",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Instant",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Novean Sky Swallower",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}{U}",
+			"type": "Creature — Nymph Elemental",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Nymph's Greed",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Oakpoint",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elk Elemental",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Oppressive Rays",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Orria's Ward",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Monkey Warrior",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Orria Mirrorpelt",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Monkey",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Overflowing Knowledge",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Overgrown Beast",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Bear Elemental",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Overgrown Siren",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Nymph",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Overkill",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Painted Watcher",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Path to Mortality",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Peek Below",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Pelt's Refuge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Pelt Mystic",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Monkey Monk",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Petaldiver",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Pitchwater Singer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Plains_NVA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Planar Eviction",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Pond Tenders",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Nymph",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Predator's Hunger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Pride of Thorns",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Cat Elemental",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Primal Resurgence",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Primeval Expansion",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Primordial Gorran",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Shrike",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Harpy",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Prismweaver",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Nymph",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Pureheart Naiad",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Quickchange",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Ralora, Unforgiving Depths",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Mountain",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Raloran Adept",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Read the Entrails",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Reconsider",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Redeemed Daughter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Nymph",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Reinvigorate",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Relinquish",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Return to Light",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Revert to Dust",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Ride of the Hippogust",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Ride the Waves",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "River's Wrath",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Rotting Sunseeker",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Nymph Shaman",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Rotwood Dryad",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Nymph",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Runes of Ralora",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Rylei Wakebreaker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Sanguine Bond",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "School the Fish",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Schoolstrider",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Scion of Death",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{G}",
+			"type": "Creature — Incarnation",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Sea Of Skies Beyond",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Island",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Seafoam Charmer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Secrets of the Drowned",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Seedshrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Seeker's End",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Seeker Sword",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Seila, the Lost One",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Nymph",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Sever",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Shield Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Nymph",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Shifting Terrain",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Shimmerhold",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Shoring Naiad",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Skull-Crowned Chief",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Slippery Capuchin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Monkey",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Sneaking Capuchin",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Monkey",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Sneaking Peak",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Bear Elemental",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Soulflare Nymph",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}{W}",
+			"type": "Creature — Nymph",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Spark of Faith",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Spellbane Vulpine",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Fox Elemental",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Spiteful Growth",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Splendid Defiance",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Springcaller",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Nymph",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Starglare",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Stinging Hunter",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Striptide",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Sun's Own",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Nymph",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Suncaller Nymph",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Nymph",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Suncatcher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Sunfist Spirit",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}{W}",
+			"type": "Creature — Nymph",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Sunken Outcast",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Sunken Slasher",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Sunlight Dancer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Nymph",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Sunlit Diver",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Sunstage",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Sunwing",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Harpy",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Swamp_NVA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Swampedge Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Elemental",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Swirling Sylph",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Nymph",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Sylph Spawning",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Sylvan Explorer",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Nymph Scout",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Synapstorm",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Tangled Pathfinder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Nymph Scout",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Tangleveil Mystic",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Nymph",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Tempest Core",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Terra Novea",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}{G}{G}{G}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "The Sun Also Rises",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Thicketkeeper",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Nymph",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Thicketwalker",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Lizard Elemental",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "This Too Shall Pass",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Instant",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Thorn, Keeper of the Wilds",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Nymph",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Thunder Wave",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Thunderstride",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Too Clever By Half",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Toxic Gorran",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Twilight Walker",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Nymph",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Undine Coven",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Unholy Offering",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "United Fervor",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "United Force",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Vaporize",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Veiled Charmer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Venomous Gorran",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Voice of Ambition",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Web of the Lost",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Whirtex",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Whispers of the Dark",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Wightclaw",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Wildheart Gorran",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Willowing Wisp",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Nymph",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Windcaller Capuchin",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Monkey",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Yrodu, the Lotus Ablaze",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}{W}{W}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Crash Down_PRO_NVA",
+			"rarity": "special",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Dreameater_PRO_NVA",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Forserval_PRO_NVA",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Cat Elemental",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NVA-files/img/273.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Aerolius
+	1 Alpha Stag
+	2 Birth of Death
+	2 Blood Tide
+	2 Captivate
+	1 Cloudfisher
+	2 Coralkeeper
+	2 Corrupted Warlord
+	2 Cradle of Corruption
+	2 Deathmask Dancer
+	2 Divine Butcher
+	2 Doomsower
+	2 Dreameater
+	2 Drowned Weaver
+	2 Elrayin, the Manaroot
+	2 Escyf, Fallen Sundancer
+	1 Even Death May Die
+	2 Gift of Eternity
+	2 Gim-Chimya, the Invisible
+	2 Gravelocked Seeker
+	2 Haunted Sunseeker
+	1 Heart of the Deadwood
+	2 Idyllic Tutor
+	2 Impetuous Impetus
+	1 Infinite Dreams
+	2 Ka Soma, the Soulless
+	1 Koisoul Diver
+	2 Life Immemorial
+	2 Lotusheart Gorran
+	2 Lotusworn Druid
+	2 Master of the Glen
+	2 Mele, the Onemother
+	2 Melodae, the Favored
+	2 Mojara, the Sea's Claim
+	2 Moonlight Stalker
+	2 Mosecf, the Sunseeker's Path
+	1 Mother Night
+	2 Nadei the Wavecaller
+	1 Not All Who Wander
+	2 Novean Sky Swallower
+	2 Oakpoint
+	2 Orria Mirrorpelt
+	2 Overflowing Knowledge
+	2 Prismweaver
+	2 Ralora, Unforgiving Depths
+	2 Ride of the Hippogust
+	1 Rylei Wakebreaker
+	2 Sanguine Bond
+	2 Schoolstrider
+	2 Scion of Death
+	2 Sea Of Skies Beyond
+	2 Seila, the Lost One
+	2 Sneaking Capuchin
+	2 Soulflare Nymph
+	2 Spellbane Vulpine
+	1 Sunfist Spirit
+	2 Sunken Slasher
+	2 Swampedge Sentinel
+	2 Swirling Sylph
+	2 Tangleveil Mystic
+	1 Terra Novea
+	1 The Sun Also Rises
+	1 This Too Shall Pass
+	2 Thorn, Keeper of the Wilds
+	2 Thunderstride
+	1 Too Clever By Half
+	2 United Fervor
+	2 United Force
+	2 Veiled Charmer
+	1 Yrodu, the Lotus Ablaze
+[uncommon(3)]
+	4 Bloomhorn
+	4 Blossoming Defense
+	4 Breathgiving Roots
+	4 Charging Nymph
+	4 Charming Nereid
+	4 Cloudshaper
+	4 Cloudstep Capuchin
+	4 Cloudwing
+	4 Corrupted Dancer
+	4 Corruption's Hold
+	4 Crash Down
+	4 Dawnsong
+	4 Daybreak
+	4 Deadeye Drowner
+	4 Deathmask Initiation
+	4 Deceitful Tutor
+	4 Deepwater Stinger
+	4 Devious Naiad
+	4 Devoted Dancer
+	4 Dodgy Infant
+	4 Dying Wishes
+	4 Earthrend
+	4 Eat Their Hearts
+	4 Eldritch Undoing
+	4 Elusive Monkey
+	4 Envious Nereid
+	4 Eye of a Moment
+	4 Feeding Time
+	4 Forsaken Sunseeker
+	4 Forserval
+	4 Frenzied Sylph
+	4 Glimpse of Beyond
+	4 Goreswimmers
+	4 Gorran Charge
+	4 Gorru Recluse
+	4 Gorru Tracker
+	4 Gorru Wolftender
+	4 Honorwing
+	4 Keeping the Wolfpack
+	4 Lapidify
+	4 Lightseeker Nymph
+	4 Lightwrencher
+	4 Lost Shrieker
+	4 Lotus Acolyte
+	4 Lunar Boon
+	4 Mistcharm
+	4 Moonlace
+	4 Mother's Disciples
+	4 Naiad Looter
+	4 Nightshade Slayer
+	4 Orria's Ward
+	4 Overgrown Siren
+	4 Path to Mortality
+	4 Pelt's Refuge
+	4 Planar Eviction
+	4 Pride of Thorns
+	4 Primordial Gorran
+	4 Pureheart Naiad
+	4 Read the Entrails
+	4 Reconsider
+	4 Redeemed Daughter
+	4 Relinquish
+	4 Return to Light
+	4 River's Wrath
+	4 Seafoam Charmer
+	4 Secrets of the Drowned
+	4 Sever
+	4 Shield Warden
+	4 Shoring Naiad
+	4 Skull-Crowned Chief
+	4 Slippery Capuchin
+	4 Sneaking Peak
+	4 Spark of Faith
+	4 Splendid Defiance
+	4 Springcaller
+	4 Starglare
+	4 Sun's Own
+	4 Suncatcher
+	4 Sunlight Dancer
+	4 Sylph Spawning
+	4 Tangled Pathfinder
+	4 Undine Coven
+	4 Venomous Gorran
+	4 Whispers of the Dark
+	4 Wightclaw
+[common(7)]
+	8 Acolyte of Night
+	8 Aether Tradewinds
+	8 Ancestral Revision
+	8 Beastkeeper Dryad
+	8 Blessing of Bliss
+	8 Blight Seed
+	8 Blightcaller Shaman
+	8 Blood Ritual
+	8 Bloodriver
+	8 Breeze Sylph
+	8 Breezerider
+	8 Brush Off
+	8 Buzzing Flitter
+	8 Child's Play
+	8 Cloudbank
+	8 Cloudchaser Kestrel
+	8 Corpsebed
+	8 Crackling Seaform
+	8 Crashcaller Nereid
+	8 Crush Their Throats
+	8 Current Shaper
+	8 Dazzling Wave
+	8 Deceitful Soul
+	8 Don the Deathmasks
+	8 Drown
+	8 Drowned Rusalka
+	8 Embrace the Curse
+	8 Explore_NVA
+	8 Fallweather Dancer
+	8 Feathered Warden
+	8 First Carvings
+	8 Flowing Ox
+	8 Giant Growth
+	8 Gifted Grace
+	8 Glimpse the Sun
+	8 Gone with the Wind
+	8 Gorran Deathgreeter
+	8 Gorran Explorer
+	8 Gorran Hunter
+	8 Gorran Totem
+	8 Gorru Deathmask
+	8 Grip of the Deadwood
+	8 Heat of Day
+	8 Heretical Seer
+	8 Heretical Summons
+	8 Horned Spy
+	8 Lifecaller Dryad
+	8 Light's Blessing
+	8 Liquefaction
+	8 Lost Dancer
+	8 Lotus's Blessing
+	8 Lurking in the Reeds
+	8 Monkey Trinket
+	8 Monkeyshines
+	8 Monstrous Nereid
+	8 Moonlight Agent
+	8 Night's Guard
+	8 Nightshade Shaman
+	8 Nymph's Greed
+	8 Oppressive Rays
+	8 Overgrown Beast
+	8 Overkill
+	8 Painted Watcher
+	8 Peek Below
+	8 Pelt Mystic
+	8 Petaldiver
+	8 Pitchwater Singer
+	8 Pond Tenders
+	8 Predator's Hunger
+	8 Primal Resurgence
+	8 Primeval Expansion
+	8 Prismatic Shrike
+	8 Quickchange
+	8 Raloran Adept
+	8 Reinvigorate
+	8 Revert to Dust
+	8 Ride the Waves
+	8 Rotting Sunseeker
+	8 Rotwood Dryad
+	8 Runes of Ralora
+	8 School the Fish
+	8 Seedshrine
+	8 Seeker's End
+	8 Seeker Sword
+	8 Shifting Terrain
+	8 Shimmerhold
+	8 Spiteful Growth
+	8 Stinging Hunter
+	8 Striptide
+	8 Suncaller Nymph
+	8 Sunken Outcast
+	8 Sunlit Diver
+	8 Sunstage
+	8 Sunwing
+	8 Sylvan Explorer
+	8 Synapstorm
+	8 Tempest Core
+	8 Thicketkeeper
+	8 Thicketwalker
+	8 Thunder Wave
+	8 Toxic Gorran
+	8 Twilight Walker
+	8 Unholy Offering
+	8 Vaporize
+	8 Voice of Ambition
+	8 Web of the Lost
+	8 Whirtex
+	8 Wildheart Gorran
+	8 Willowing Wisp
+	8 Windcaller Capuchin
+[foil(1)]
+	12 Acolyte of Night
+	1 Aerolius
+	12 Aether Tradewinds
+	1 Alpha Stag
+	12 Ancestral Revision
+	12 Beastkeeper Dryad
+	2 Birth of Death
+	12 Blessing of Bliss
+	12 Blight Seed
+	12 Blightcaller Shaman
+	12 Blood Ritual
+	2 Blood Tide
+	12 Bloodriver
+	6 Bloomhorn
+	6 Blossoming Defense
+	6 Breathgiving Roots
+	12 Breeze Sylph
+	12 Breezerider
+	12 Brush Off
+	12 Buzzing Flitter
+	2 Captivate
+	6 Charging Nymph
+	6 Charming Nereid
+	12 Child's Play
+	12 Cloudbank
+	12 Cloudchaser Kestrel
+	1 Cloudfisher
+	6 Cloudshaper
+	6 Cloudstep Capuchin
+	6 Cloudwing
+	2 Coralkeeper
+	12 Corpsebed
+	6 Corrupted Dancer
+	2 Corrupted Warlord
+	6 Corruption's Hold
+	12 Crackling Seaform
+	2 Cradle of Corruption
+	6 Crash Down
+	12 Crashcaller Nereid
+	12 Crush Their Throats
+	12 Current Shaper
+	6 Dawnsong
+	6 Daybreak
+	12 Dazzling Wave
+	6 Deadeye Drowner
+	2 Deathmask Dancer
+	6 Deathmask Initiation
+	12 Deceitful Soul
+	6 Deceitful Tutor
+	6 Deepwater Stinger
+	6 Devious Naiad
+	6 Devoted Dancer
+	2 Divine Butcher
+	6 Dodgy Infant
+	12 Don the Deathmasks
+	2 Doomsower
+	2 Dreameater
+	12 Drown
+	12 Drowned Rusalka
+	2 Drowned Weaver
+	6 Dying Wishes
+	6 Earthrend
+	6 Eat Their Hearts
+	6 Eldritch Undoing
+	2 Elrayin, the Manaroot
+	6 Elusive Monkey
+	12 Embrace the Curse
+	6 Envious Nereid
+	2 Escyf, Fallen Sundancer
+	1 Even Death May Die
+	12 Explore_NVA
+	6 Eye of a Moment
+	12 Fallweather Dancer
+	12 Feathered Warden
+	6 Feeding Time
+	12 First Carvings
+	12 Flowing Ox
+	6 Forsaken Sunseeker
+	6 Forserval
+	6 Frenzied Sylph
+	12 Giant Growth
+	2 Gift of Eternity
+	12 Gifted Grace
+	2 Gim-Chimya, the Invisible
+	6 Glimpse of Beyond
+	12 Glimpse the Sun
+	12 Gone with the Wind
+	6 Goreswimmers
+	6 Gorran Charge
+	12 Gorran Deathgreeter
+	12 Gorran Explorer
+	12 Gorran Hunter
+	12 Gorran Totem
+	12 Gorru Deathmask
+	6 Gorru Recluse
+	6 Gorru Tracker
+	6 Gorru Wolftender
+	2 Gravelocked Seeker
+	12 Grip of the Deadwood
+	2 Haunted Sunseeker
+	1 Heart of the Deadwood
+	12 Heat of Day
+	12 Heretical Seer
+	12 Heretical Summons
+	6 Honorwing
+	12 Horned Spy
+	2 Idyllic Tutor
+	2 Impetuous Impetus
+	1 Infinite Dreams
+	2 Ka Soma, the Soulless
+	6 Keeping the Wolfpack
+	1 Koisoul Diver
+	6 Lapidify
+	2 Life Immemorial
+	12 Lifecaller Dryad
+	12 Light's Blessing
+	6 Lightseeker Nymph
+	6 Lightwrencher
+	12 Liquefaction
+	12 Lost Dancer
+	6 Lost Shrieker
+	12 Lotus's Blessing
+	6 Lotus Acolyte
+	2 Lotusheart Gorran
+	2 Lotusworn Druid
+	6 Lunar Boon
+	12 Lurking in the Reeds
+	2 Master of the Glen
+	2 Mele, the Onemother
+	2 Melodae, the Favored
+	6 Mistcharm
+	2 Mojara, the Sea's Claim
+	12 Monkey Trinket
+	12 Monkeyshines
+	12 Monstrous Nereid
+	6 Moonlace
+	12 Moonlight Agent
+	2 Moonlight Stalker
+	2 Mosecf, the Sunseeker's Path
+	6 Mother's Disciples
+	1 Mother Night
+	2 Nadei the Wavecaller
+	6 Naiad Looter
+	12 Night's Guard
+	12 Nightshade Shaman
+	6 Nightshade Slayer
+	1 Not All Who Wander
+	2 Novean Sky Swallower
+	12 Nymph's Greed
+	2 Oakpoint
+	12 Oppressive Rays
+	6 Orria's Ward
+	2 Orria Mirrorpelt
+	2 Overflowing Knowledge
+	12 Overgrown Beast
+	6 Overgrown Siren
+	12 Overkill
+	12 Painted Watcher
+	6 Path to Mortality
+	12 Peek Below
+	6 Pelt's Refuge
+	12 Pelt Mystic
+	12 Petaldiver
+	12 Pitchwater Singer
+	6 Planar Eviction
+	12 Pond Tenders
+	12 Predator's Hunger
+	6 Pride of Thorns
+	12 Primal Resurgence
+	12 Primeval Expansion
+	6 Primordial Gorran
+	12 Prismatic Shrike
+	2 Prismweaver
+	6 Pureheart Naiad
+	12 Quickchange
+	2 Ralora, Unforgiving Depths
+	12 Raloran Adept
+	6 Read the Entrails
+	6 Reconsider
+	6 Redeemed Daughter
+	12 Reinvigorate
+	6 Relinquish
+	6 Return to Light
+	12 Revert to Dust
+	2 Ride of the Hippogust
+	12 Ride the Waves
+	6 River's Wrath
+	12 Rotting Sunseeker
+	12 Rotwood Dryad
+	12 Runes of Ralora
+	1 Rylei Wakebreaker
+	2 Sanguine Bond
+	12 School the Fish
+	2 Schoolstrider
+	2 Scion of Death
+	2 Sea Of Skies Beyond
+	6 Seafoam Charmer
+	6 Secrets of the Drowned
+	12 Seedshrine
+	12 Seeker's End
+	12 Seeker Sword
+	2 Seila, the Lost One
+	6 Sever
+	6 Shield Warden
+	12 Shifting Terrain
+	12 Shimmerhold
+	6 Shoring Naiad
+	6 Skull-Crowned Chief
+	6 Slippery Capuchin
+	2 Sneaking Capuchin
+	6 Sneaking Peak
+	2 Soulflare Nymph
+	6 Spark of Faith
+	2 Spellbane Vulpine
+	12 Spiteful Growth
+	6 Splendid Defiance
+	6 Springcaller
+	6 Starglare
+	12 Stinging Hunter
+	12 Striptide
+	6 Sun's Own
+	12 Suncaller Nymph
+	6 Suncatcher
+	1 Sunfist Spirit
+	12 Sunken Outcast
+	2 Sunken Slasher
+	6 Sunlight Dancer
+	12 Sunlit Diver
+	12 Sunstage
+	12 Sunwing
+	2 Swampedge Sentinel
+	2 Swirling Sylph
+	6 Sylph Spawning
+	12 Sylvan Explorer
+	12 Synapstorm
+	6 Tangled Pathfinder
+	2 Tangleveil Mystic
+	12 Tempest Core
+	1 Terra Novea
+	1 The Sun Also Rises
+	12 Thicketkeeper
+	12 Thicketwalker
+	1 This Too Shall Pass
+	2 Thorn, Keeper of the Wilds
+	12 Thunder Wave
+	2 Thunderstride
+	1 Too Clever By Half
+	12 Toxic Gorran
+	12 Twilight Walker
+	6 Undine Coven
+	12 Unholy Offering
+	2 United Fervor
+	2 United Force
+	12 Vaporize
+	2 Veiled Charmer
+	6 Venomous Gorran
+	12 Voice of Ambition
+	12 Web of the Lost
+	12 Whirtex
+	6 Whispers of the Dark
+	6 Wightclaw
+	12 Wildheart Gorran
+	12 Willowing Wisp
+	12 Windcaller Capuchin
+	1 Yrodu, the Lotus Ablaze
+[wildcard(1)]
+	6 Acolyte of Night
+	4 Aerolius
+	6 Aether Tradewinds
+	4 Alpha Stag
+	6 Ancestral Revision
+	6 Beastkeeper Dryad
+	7 Birth of Death
+	6 Blessing of Bliss
+	6 Blight Seed
+	6 Blightcaller Shaman
+	6 Blood Ritual
+	7 Blood Tide
+	6 Bloodriver
+	15 Bloomhorn
+	15 Blossoming Defense
+	15 Breathgiving Roots
+	6 Breeze Sylph
+	6 Breezerider
+	6 Brush Off
+	6 Buzzing Flitter
+	7 Captivate
+	15 Charging Nymph
+	15 Charming Nereid
+	6 Child's Play
+	6 Cloudbank
+	6 Cloudchaser Kestrel
+	4 Cloudfisher
+	15 Cloudshaper
+	15 Cloudstep Capuchin
+	15 Cloudwing
+	7 Coralkeeper
+	6 Corpsebed
+	15 Corrupted Dancer
+	7 Corrupted Warlord
+	15 Corruption's Hold
+	6 Crackling Seaform
+	7 Cradle of Corruption
+	15 Crash Down
+	6 Crashcaller Nereid
+	6 Crush Their Throats
+	6 Current Shaper
+	15 Dawnsong
+	15 Daybreak
+	6 Dazzling Wave
+	15 Deadeye Drowner
+	7 Deathmask Dancer
+	15 Deathmask Initiation
+	6 Deceitful Soul
+	15 Deceitful Tutor
+	15 Deepwater Stinger
+	15 Devious Naiad
+	15 Devoted Dancer
+	7 Divine Butcher
+	15 Dodgy Infant
+	6 Don the Deathmasks
+	7 Doomsower
+	7 Dreameater
+	6 Drown
+	6 Drowned Rusalka
+	7 Drowned Weaver
+	15 Dying Wishes
+	15 Earthrend
+	15 Eat Their Hearts
+	15 Eldritch Undoing
+	7 Elrayin, the Manaroot
+	15 Elusive Monkey
+	6 Embrace the Curse
+	15 Envious Nereid
+	7 Escyf, Fallen Sundancer
+	4 Even Death May Die
+	6 Explore_NVA
+	15 Eye of a Moment
+	6 Fallweather Dancer
+	6 Feathered Warden
+	15 Feeding Time
+	6 First Carvings
+	6 Flowing Ox
+	15 Forsaken Sunseeker
+	15 Forserval
+	15 Frenzied Sylph
+	6 Giant Growth
+	7 Gift of Eternity
+	6 Gifted Grace
+	7 Gim-Chimya, the Invisible
+	15 Glimpse of Beyond
+	6 Glimpse the Sun
+	6 Gone with the Wind
+	15 Goreswimmers
+	15 Gorran Charge
+	6 Gorran Deathgreeter
+	6 Gorran Explorer
+	6 Gorran Hunter
+	6 Gorran Totem
+	6 Gorru Deathmask
+	15 Gorru Recluse
+	15 Gorru Tracker
+	15 Gorru Wolftender
+	7 Gravelocked Seeker
+	6 Grip of the Deadwood
+	7 Haunted Sunseeker
+	4 Heart of the Deadwood
+	6 Heat of Day
+	6 Heretical Seer
+	6 Heretical Summons
+	15 Honorwing
+	6 Horned Spy
+	7 Idyllic Tutor
+	7 Impetuous Impetus
+	4 Infinite Dreams
+	7 Ka Soma, the Soulless
+	15 Keeping the Wolfpack
+	4 Koisoul Diver
+	15 Lapidify
+	7 Life Immemorial
+	6 Lifecaller Dryad
+	6 Light's Blessing
+	15 Lightseeker Nymph
+	15 Lightwrencher
+	6 Liquefaction
+	6 Lost Dancer
+	15 Lost Shrieker
+	6 Lotus's Blessing
+	15 Lotus Acolyte
+	7 Lotusheart Gorran
+	7 Lotusworn Druid
+	15 Lunar Boon
+	6 Lurking in the Reeds
+	7 Master of the Glen
+	7 Mele, the Onemother
+	7 Melodae, the Favored
+	15 Mistcharm
+	7 Mojara, the Sea's Claim
+	6 Monkey Trinket
+	6 Monkeyshines
+	6 Monstrous Nereid
+	15 Moonlace
+	6 Moonlight Agent
+	7 Moonlight Stalker
+	7 Mosecf, the Sunseeker's Path
+	15 Mother's Disciples
+	4 Mother Night
+	7 Nadei the Wavecaller
+	15 Naiad Looter
+	6 Night's Guard
+	6 Nightshade Shaman
+	15 Nightshade Slayer
+	4 Not All Who Wander
+	7 Novean Sky Swallower
+	6 Nymph's Greed
+	7 Oakpoint
+	6 Oppressive Rays
+	15 Orria's Ward
+	7 Orria Mirrorpelt
+	7 Overflowing Knowledge
+	6 Overgrown Beast
+	15 Overgrown Siren
+	6 Overkill
+	6 Painted Watcher
+	15 Path to Mortality
+	6 Peek Below
+	15 Pelt's Refuge
+	6 Pelt Mystic
+	6 Petaldiver
+	6 Pitchwater Singer
+	15 Planar Eviction
+	6 Pond Tenders
+	6 Predator's Hunger
+	15 Pride of Thorns
+	6 Primal Resurgence
+	6 Primeval Expansion
+	15 Primordial Gorran
+	6 Prismatic Shrike
+	7 Prismweaver
+	15 Pureheart Naiad
+	6 Quickchange
+	7 Ralora, Unforgiving Depths
+	6 Raloran Adept
+	15 Read the Entrails
+	15 Reconsider
+	15 Redeemed Daughter
+	6 Reinvigorate
+	15 Relinquish
+	15 Return to Light
+	6 Revert to Dust
+	7 Ride of the Hippogust
+	6 Ride the Waves
+	15 River's Wrath
+	6 Rotting Sunseeker
+	6 Rotwood Dryad
+	6 Runes of Ralora
+	4 Rylei Wakebreaker
+	7 Sanguine Bond
+	6 School the Fish
+	7 Schoolstrider
+	7 Scion of Death
+	7 Sea Of Skies Beyond
+	15 Seafoam Charmer
+	15 Secrets of the Drowned
+	6 Seedshrine
+	6 Seeker's End
+	6 Seeker Sword
+	7 Seila, the Lost One
+	15 Sever
+	15 Shield Warden
+	6 Shifting Terrain
+	6 Shimmerhold
+	15 Shoring Naiad
+	15 Skull-Crowned Chief
+	15 Slippery Capuchin
+	7 Sneaking Capuchin
+	15 Sneaking Peak
+	7 Soulflare Nymph
+	15 Spark of Faith
+	7 Spellbane Vulpine
+	6 Spiteful Growth
+	15 Splendid Defiance
+	15 Springcaller
+	15 Starglare
+	6 Stinging Hunter
+	6 Striptide
+	15 Sun's Own
+	6 Suncaller Nymph
+	15 Suncatcher
+	4 Sunfist Spirit
+	6 Sunken Outcast
+	7 Sunken Slasher
+	15 Sunlight Dancer
+	6 Sunlit Diver
+	6 Sunstage
+	6 Sunwing
+	7 Swampedge Sentinel
+	7 Swirling Sylph
+	15 Sylph Spawning
+	6 Sylvan Explorer
+	6 Synapstorm
+	15 Tangled Pathfinder
+	7 Tangleveil Mystic
+	6 Tempest Core
+	4 Terra Novea
+	4 The Sun Also Rises
+	6 Thicketkeeper
+	6 Thicketwalker
+	4 This Too Shall Pass
+	7 Thorn, Keeper of the Wilds
+	6 Thunder Wave
+	7 Thunderstride
+	4 Too Clever By Half
+	6 Toxic Gorran
+	6 Twilight Walker
+	15 Undine Coven
+	6 Unholy Offering
+	7 United Fervor
+	7 United Force
+	6 Vaporize
+	7 Veiled Charmer
+	15 Venomous Gorran
+	6 Voice of Ambition
+	6 Web of the Lost
+	6 Whirtex
+	15 Whispers of the Dark
+	15 Wightclaw
+	6 Wildheart Gorran
+	6 Willowing Wisp
+	6 Windcaller Capuchin
+	4 Yrodu, the Lotus Ablaze

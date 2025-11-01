@@ -1,0 +1,3472 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Admonish",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Aeren Hellfire",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Ageless Wanderer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Allure of Alratha",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Alratha, Pearl of the Sand Sea",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Alrathan Outcast",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Alrathan Scholar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Alrathan Vizier",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Ancestral Facsimile",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Enchantment Creature — Illusion Snake",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Ancient Tablet",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Ancient Tome",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Riddle Artifact",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Approach the Dark Tomb",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Archaeologist's Discovery",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Armed Vendor",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Merchant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Azure Archaeologist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Bandit's Blade",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Blackhearted Sphinx",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Bloodstained Altar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Bloodstained Calamity",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Calamity Apparition",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Sand Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Calamity Harbinger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}{R}{R}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Calamity Scholar",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Cave Spider",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Charging Brute",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Ciel, the Raider King_RVO",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Planeswalker — Ciel",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Ciel's Cavalry",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Cold Shoulder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Collapsing Ridges",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Collected Malice",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Riddle Sorcery",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Colossal Greatwurm",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Confront the Riddlemaster",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Consult Ancient Knowledge",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Conto Sika, Ruined Glory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Cosmic Calamity",
+			"rarity": "mythic",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Crest",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Dafiqi Falconer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Daring Escapade",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Dark Apprentice",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Dark Behemoth",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Riddle Artifact Creature — Construct",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Darna, Dark Overseer",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Darna's Atrocity",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{B}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Darna's Confluence",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Darna's Grimoire",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Daunt",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Death Rites",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Decisive Arcanist",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Deduce",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Descend Upon the Tomb",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Desert's Hearth",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Desert Bloom",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Riddle Enchantment",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Desert Marauder",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Desert Surveyors",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Destined Calamity",
+			"rarity": "mythic",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Disgruntled Student",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Dismissive Pyromancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Dreammender Sphinx",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Drysand Mole",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Mole Beast",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Dthan, Who Bloodies the Sands",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Dthan's Confluence",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Dthan's Daggers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Duel Amongst Dunes",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Dunetreader Tortoise",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Turtle",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Ecological Refuge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Elise, Maktali Prodigy",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Elusive Sage",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "End of Days_RVO",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Enraged Fangwurm",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Enroll",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Eternal Duneborn",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Eve, the Mastermind",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Planeswalker — Eve",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Eve's Scheme",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Eve's Spiritstalker",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Cat",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Exhaust",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Faithful Priest",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Ferocity of the Sands",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Fierce Raider",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Fiery Burst",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Final Hour",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Flamecaller's Command",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Forest_RVO",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Freeborn Healer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "From Far and Near",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Ghostly Hounds",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment Creature — Dog Spirit",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Giant's Remains",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Artifact — Clue",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Gilded Elephant",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elephant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Grave Robbery",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Guardian of Mysteries",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Enchantment Artifact",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Guide of Heroes",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Haggler's Hound",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dog",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Harbinger of Falling Skies",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Harmonic Charm",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Harsh Trek",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Heat Blast",
+			"rarity": "common",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Heavy Sandstorm",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Heinous Acts",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Herald of Earth",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment Creature — Hydra Sphinx",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Herald of Flame",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment Creature — Dragon Sphinx",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Herald of Shadow",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment Creature — Demon Sphinx",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Herald of Suns",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment Creature — Angel Sphinx",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Hero's Command",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Hero of Aer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Honorable Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Horizon Prophet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Huntsman's Guile",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Riddle Enchantment — Aura",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Illuminated Firebird",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Imposing Sphinx",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Inescapable Blaze",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Instant",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Inquisitive Student",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Into the Scorpion Den",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Riddle Sorcery",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Island_RVO",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Kilani, Awakened Colossus",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Leave for Dead",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Library Infiltrator",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Living Library",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Horror Construct",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Living Sandstorm",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment Creature — Sand Wolf",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Lofty Denial",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Lone Freelancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Lonesome Traveler",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Lost and Alone",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Love Letters",
+			"rarity": "rare",
+			"mana_cost": "{X}",
+			"type": "Artifact",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Mage's Command",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Mage Studies",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Maktali, the Great Library",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Maktali Archivist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Maktali Visionary",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Marauder's Broadsword",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Masked Lancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Master of Ancient Ways",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Master of Dark Arts",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Merchant's Outpost",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Merchant's Sidearm",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Merciful Sphinx",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Mindwave Rod",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Monstrous Calamity",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Moonlight Strix",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Mountain_RVO",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Mystic Khopesh",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Naiala, the Informant",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Planeswalker — Naiala",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Naiala's Guide",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment Creature — Bird",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Nature Charm",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Negate_RVO",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Nightfall Sphinx",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Nimble Sandstorm",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment Creature — Sand Elemental",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Oasis' Grandeur",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Oasis Cattle",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Ox",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Oasiscrafting",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Observer of Aeons",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Enchantment Artifact Creature — Sand",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Open the Tomb",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Outer Wall Guard",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Outpost Merchant",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Merchant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Painful Rites",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Palaisun, Maktali's Opus",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Clue",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Path of Fire",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Peacemaker Dove",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Phantasmal Owl",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment Creature — Bird",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Pilgrim's Packbeast",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Pillar of Training",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Pious Relicseekers",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Plague Calamity",
+			"rarity": "mythic",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Plains_RVO",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Prism Protector",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Protect the Treasure",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Prowling Beastmaster",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Prying Inquiry_RVO",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Puzzlemaster's Priest",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Qalam Surveyor",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Qalami Barbarian",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Reckless Dunerider",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Regrow Anew",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Relentless Sphinx",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Remnant of Lost Times",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Clue Construct",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Restoration Effort",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Restored Automaton",
+			"rarity": "rare",
+			"mana_cost": "{X}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Reytha, the Sandstorm",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Reytha's Discovery",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Riddle-Eater",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment Creature — Sand Wurm",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Riddlemaster's Bane",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Road to Alratha",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Roaming Spirit",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Jellyfish Spirit",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Roland, Philosopher King",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Wizard Noble",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Roland's Confluence",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Royal Falconer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Ruin Guardian",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Ruin Wanderer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Ruins' Reward",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Ruinshell Crab",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Crab",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Sand Scorpion",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Scorpion",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Sand Twister",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Sandstone Construct",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Sandstorm Charm",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Sandswim Titan",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Riddle Enchantment Creature — Sand Shark",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Sandwurm's Command",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Sandwurm's Might",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Scavenging Sandwurm",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Enchantment Creature — Sand Wurm",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Scholar's Assistant",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Scholar of Necromancy",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Scorch_RVO",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Screeching Duneborn",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Search the Archives",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Searing Sandwurm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Wurm",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Secrets of the Orrery",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Secrets of the Tower",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Riddle Sorcery",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Seeker of Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Seeking Horizons",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Seer of Clear Skies",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Sethis, All-Seeing",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Legendary Enchantment Creature — Elder Sphinx",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Settle Down",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Shifting Sands",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Silent Wayfarer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Sinister Charm",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Sink Beneath the Sands",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Skelephant",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Skeleton Elephant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Smashing Brute",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Soul of the Sands",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment Creature — Sand Elemental",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Sparkmage Prodigy",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Spectral Wings",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Sphinx's Advice",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Sphinx's Authority",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Sphinx's Grandeur",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Sphinx's Sight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Sphinx of Insight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Spiny Lizard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Lizard",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Spirit of the Mountains",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Riddle Enchantment Creature — Bird Spirit",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Spirit of the Sands",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Riddle Enchantment Creature — Spirit",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Spirits' Descent",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Spiritual Charm",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Splitting Image",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Spoiled Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Stargazing",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Stegosaurhouse",
+			"rarity": "common",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Stormcalling",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Riddle Instant",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Summoned Skeleton",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Sunken Grave",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Sunless Sky",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Surging Wurm",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Swamp_RVO",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Swaying Sands",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Swiftwing Sphinx",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Tara, Duneblessed",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Planeswalker — Tara",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Tara's Confluence",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Tara's Lament",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Riddle Instant",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Telani Scammer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Merchant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Territorial Fangwurm",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Snake",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "The Duneborn Host",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{G}",
+			"type": "Legendary Creature — Zombie Warrior",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "The Sun Rises",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Riddle Instant",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Thief's Command",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Titanic Hardshell",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Crab",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Tomb Robber's Grit",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Tormentor of Graves",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Enchantment Creature — Sphinx",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Trade Route Bandit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Trail of Bones",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Trained Reptile",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Lizard",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Travel by Starlight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Traveling Scholar",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Trial Recruitment",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Tribal Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Turn Up",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Unlikely Growth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Unnerving Assistant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Verdant Oasis",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Vicious Stinger",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Scorpion",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Voidbringer",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Riddle Enchantment Creature — Spirit",
+			"collector_number": "1337",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/1337.jpg"
+			}
+		},
+		{
+			"name": "Wall of Sand",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Riddle Artifact Creature — Sand Wall",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Warrior of Far-Off Sands",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Way of the Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Wayfarer's Amulet",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Winged Stinger",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Worn Study",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Ylda, the Wild Soul",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Shapeshifter",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Ylda's Confluence",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Young Prophet",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/RVO-files/img/38.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Admonish
+	2 Alratha, Pearl of the Sand Sea
+	1 Alrathan Outcast
+	1 Bloodstained Calamity
+	1 Ciel, the Raider King_RVO
+	2 Colossal Greatwurm
+	2 Confront the Riddlemaster
+	2 Consult Ancient Knowledge
+	2 Conto Sika, Ruined Glory
+	1 Cosmic Calamity
+	2 Dafiqi Falconer
+	2 Darna, Dark Overseer
+	2 Darna's Confluence
+	2 Decisive Arcanist
+	2 Descend Upon the Tomb
+	1 Destined Calamity
+	2 Dthan, Who Bloodies the Sands
+	2 Dthan's Confluence
+	2 Elise, Maktali Prodigy
+	2 End of Days_RVO
+	2 Enraged Fangwurm
+	2 Eternal Duneborn
+	1 Eve, the Mastermind
+	2 Eve's Scheme
+	2 Eve's Spiritstalker
+	2 Fiery Burst
+	2 Final Hour
+	2 Guardian of Mysteries
+	2 Harbinger of Falling Skies
+	2 Herald of Earth
+	2 Herald of Flame
+	2 Herald of Shadow
+	2 Herald of Suns
+	2 Illuminated Firebird
+	2 Imposing Sphinx
+	2 Kilani, Awakened Colossus
+	2 Library Infiltrator
+	2 Love Letters
+	2 Maktali, the Great Library
+	1 Master of Ancient Ways
+	1 Master of Dark Arts
+	2 Mindwave Rod
+	1 Monstrous Calamity
+	1 Naiala, the Informant
+	2 Oasis' Grandeur
+	1 Observer of Aeons
+	1 Palaisun, Maktali's Opus
+	1 Plague Calamity
+	2 Restoration Effort
+	2 Restored Automaton
+	2 Reytha, the Sandstorm
+	2 Reytha's Discovery
+	2 Riddle-Eater
+	2 Roland, Philosopher King
+	2 Roland's Confluence
+	1 Ruinshell Crab
+	2 Search the Archives
+	1 Sethis, All-Seeing
+	2 Smashing Brute
+	2 Sphinx's Grandeur
+	2 Splitting Image
+	2 Stargazing
+	2 Sunless Sky
+	2 Swiftwing Sphinx
+	1 Tara, Duneblessed
+	2 Tara's Confluence
+	2 The Duneborn Host
+	2 Trial Recruitment
+	2 Worn Study
+	2 Ylda, the Wild Soul
+	2 Ylda's Confluence
+[uncommon(3)]
+	4 Ageless Wanderer
+	4 Alrathan Scholar
+	4 Alrathan Vizier
+	4 Ancient Tablet
+	4 Approach the Dark Tomb
+	4 Azure Archaeologist
+	4 Blackhearted Sphinx
+	4 Bloodstained Altar
+	4 Calamity Harbinger
+	4 Cold Shoulder
+	4 Collapsing Ridges
+	4 Dark Apprentice
+	4 Darna's Atrocity
+	4 Death Rites
+	4 Dismissive Pyromancer
+	4 Dreammender Sphinx
+	4 Dthan's Daggers
+	4 Ecological Refuge
+	4 Exhaust
+	4 Faithful Priest
+	4 Fierce Raider
+	4 Flamecaller's Command
+	4 From Far and Near
+	4 Ghostly Hounds
+	4 Giant's Remains
+	4 Guide of Heroes
+	4 Hero's Command
+	4 Hero of Aer
+	4 Honorable Mentor
+	4 Horizon Prophet
+	4 Inescapable Blaze
+	4 Living Library
+	4 Lone Freelancer
+	4 Lonesome Traveler
+	4 Mage's Command
+	4 Mage Studies
+	4 Maktali Archivist
+	4 Marauder's Broadsword
+	4 Masked Lancer
+	4 Merchant's Outpost
+	4 Merciful Sphinx
+	4 Moonlight Strix
+	4 Nightfall Sphinx
+	4 Path of Fire
+	4 Phantasmal Owl
+	4 Pillar of Training
+	4 Protect the Treasure
+	4 Prying Inquiry_RVO
+	4 Relentless Sphinx
+	4 Riddlemaster's Bane
+	4 Road to Alratha
+	4 Ruin Wanderer
+	4 Sandwurm's Command
+	4 Sandwurm's Might
+	4 Scorch_RVO
+	4 Searing Sandwurm
+	4 Secrets of the Orrery
+	4 Seeker of Ruins
+	4 Seer of Clear Skies
+	4 Shifting Sands
+	4 Silent Wayfarer
+	4 Sphinx's Authority
+	4 Sphinx's Sight
+	4 Sphinx of Insight
+	4 Spiny Lizard
+	4 Spoiled Oracle
+	4 Summoned Skeleton
+	4 Surging Wurm
+	4 Swaying Sands
+	4 Thief's Command
+	4 Tormentor of Graves
+	4 Trained Reptile
+	4 Travel by Starlight
+	4 Tribal Guard
+	4 Unlikely Growth
+	4 Unnerving Assistant
+	4 Verdant Oasis
+	4 Winged Stinger
+	4 Young Prophet
+[common(7)]
+	8 Aeren Hellfire
+	8 Allure of Alratha
+	8 Ancestral Facsimile
+	8 Archaeologist's Discovery
+	8 Armed Vendor
+	8 Bandit's Blade
+	8 Calamity Apparition
+	8 Calamity Scholar
+	8 Cave Spider
+	8 Charging Brute
+	8 Ciel's Cavalry
+	8 Crest
+	8 Daring Escapade
+	8 Darna's Grimoire
+	8 Daunt
+	8 Deduce
+	8 Desert's Hearth
+	8 Desert Marauder
+	8 Desert Surveyors
+	8 Disgruntled Student
+	8 Drysand Mole
+	8 Duel Amongst Dunes
+	8 Dunetreader Tortoise
+	8 Elusive Sage
+	8 Enroll
+	8 Ferocity of the Sands
+	8 Freeborn Healer
+	8 Gilded Elephant
+	8 Grave Robbery
+	8 Haggler's Hound
+	8 Harmonic Charm
+	8 Harsh Trek
+	8 Heat Blast
+	8 Heavy Sandstorm
+	8 Heinous Acts
+	8 Inquisitive Student
+	8 Leave for Dead
+	8 Living Sandstorm
+	8 Lofty Denial
+	8 Lost and Alone
+	8 Maktali Visionary
+	8 Merchant's Sidearm
+	8 Mystic Khopesh
+	8 Naiala's Guide
+	8 Nature Charm
+	8 Negate_RVO
+	8 Nimble Sandstorm
+	8 Oasis Cattle
+	8 Oasiscrafting
+	8 Open the Tomb
+	8 Outer Wall Guard
+	8 Outpost Merchant
+	8 Painful Rites
+	8 Peacemaker Dove
+	8 Pilgrim's Packbeast
+	8 Pious Relicseekers
+	8 Prism Protector
+	8 Prowling Beastmaster
+	8 Puzzlemaster's Priest
+	8 Qalam Surveyor
+	8 Qalami Barbarian
+	8 Reckless Dunerider
+	8 Regrow Anew
+	8 Remnant of Lost Times
+	8 Roaming Spirit
+	8 Royal Falconer
+	8 Ruin Guardian
+	8 Ruins' Reward
+	8 Sand Scorpion
+	8 Sand Twister
+	8 Sandstone Construct
+	8 Sandstorm Charm
+	8 Scavenging Sandwurm
+	8 Scholar's Assistant
+	8 Scholar of Necromancy
+	8 Screeching Duneborn
+	8 Seeking Horizons
+	8 Settle Down
+	8 Sinister Charm
+	8 Sink Beneath the Sands
+	8 Skelephant
+	8 Soul of the Sands
+	8 Sparkmage Prodigy
+	8 Spectral Wings
+	8 Sphinx's Advice
+	8 Spirits' Descent
+	8 Spiritual Charm
+	8 Stegosaurhouse
+	8 Sunken Grave
+	8 Telani Scammer
+	8 Territorial Fangwurm
+	8 Titanic Hardshell
+	8 Tomb Robber's Grit
+	8 Trade Route Bandit
+	8 Trail of Bones
+	8 Traveling Scholar
+	8 Turn Up
+	8 Vicious Stinger
+	8 Warrior of Far-Off Sands
+	8 Way of the Warrior
+	8 Wayfarer's Amulet
+[foil(1)]
+	2 Admonish
+	12 Aeren Hellfire
+	6 Ageless Wanderer
+	12 Allure of Alratha
+	2 Alratha, Pearl of the Sand Sea
+	1 Alrathan Outcast
+	6 Alrathan Scholar
+	6 Alrathan Vizier
+	12 Ancestral Facsimile
+	6 Ancient Tablet
+	6 Approach the Dark Tomb
+	12 Archaeologist's Discovery
+	12 Armed Vendor
+	6 Azure Archaeologist
+	12 Bandit's Blade
+	6 Blackhearted Sphinx
+	6 Bloodstained Altar
+	1 Bloodstained Calamity
+	12 Calamity Apparition
+	6 Calamity Harbinger
+	12 Calamity Scholar
+	12 Cave Spider
+	12 Charging Brute
+	1 Ciel, the Raider King_RVO
+	12 Ciel's Cavalry
+	6 Cold Shoulder
+	6 Collapsing Ridges
+	2 Colossal Greatwurm
+	2 Confront the Riddlemaster
+	2 Consult Ancient Knowledge
+	2 Conto Sika, Ruined Glory
+	1 Cosmic Calamity
+	12 Crest
+	2 Dafiqi Falconer
+	12 Daring Escapade
+	6 Dark Apprentice
+	2 Darna, Dark Overseer
+	6 Darna's Atrocity
+	2 Darna's Confluence
+	12 Darna's Grimoire
+	12 Daunt
+	6 Death Rites
+	2 Decisive Arcanist
+	12 Deduce
+	2 Descend Upon the Tomb
+	12 Desert's Hearth
+	12 Desert Marauder
+	12 Desert Surveyors
+	1 Destined Calamity
+	12 Disgruntled Student
+	6 Dismissive Pyromancer
+	6 Dreammender Sphinx
+	12 Drysand Mole
+	2 Dthan, Who Bloodies the Sands
+	2 Dthan's Confluence
+	6 Dthan's Daggers
+	12 Duel Amongst Dunes
+	12 Dunetreader Tortoise
+	6 Ecological Refuge
+	2 Elise, Maktali Prodigy
+	12 Elusive Sage
+	2 End of Days_RVO
+	2 Enraged Fangwurm
+	12 Enroll
+	2 Eternal Duneborn
+	1 Eve, the Mastermind
+	2 Eve's Scheme
+	2 Eve's Spiritstalker
+	6 Exhaust
+	6 Faithful Priest
+	12 Ferocity of the Sands
+	6 Fierce Raider
+	2 Fiery Burst
+	2 Final Hour
+	6 Flamecaller's Command
+	12 Freeborn Healer
+	6 From Far and Near
+	6 Ghostly Hounds
+	6 Giant's Remains
+	12 Gilded Elephant
+	12 Grave Robbery
+	2 Guardian of Mysteries
+	6 Guide of Heroes
+	12 Haggler's Hound
+	2 Harbinger of Falling Skies
+	12 Harmonic Charm
+	12 Harsh Trek
+	12 Heat Blast
+	12 Heavy Sandstorm
+	12 Heinous Acts
+	2 Herald of Earth
+	2 Herald of Flame
+	2 Herald of Shadow
+	2 Herald of Suns
+	6 Hero's Command
+	6 Hero of Aer
+	6 Honorable Mentor
+	6 Horizon Prophet
+	2 Illuminated Firebird
+	2 Imposing Sphinx
+	6 Inescapable Blaze
+	12 Inquisitive Student
+	2 Kilani, Awakened Colossus
+	12 Leave for Dead
+	2 Library Infiltrator
+	6 Living Library
+	12 Living Sandstorm
+	12 Lofty Denial
+	6 Lone Freelancer
+	6 Lonesome Traveler
+	12 Lost and Alone
+	2 Love Letters
+	6 Mage's Command
+	6 Mage Studies
+	2 Maktali, the Great Library
+	6 Maktali Archivist
+	12 Maktali Visionary
+	6 Marauder's Broadsword
+	6 Masked Lancer
+	1 Master of Ancient Ways
+	1 Master of Dark Arts
+	6 Merchant's Outpost
+	12 Merchant's Sidearm
+	6 Merciful Sphinx
+	2 Mindwave Rod
+	1 Monstrous Calamity
+	6 Moonlight Strix
+	12 Mystic Khopesh
+	1 Naiala, the Informant
+	12 Naiala's Guide
+	12 Nature Charm
+	12 Negate_RVO
+	6 Nightfall Sphinx
+	12 Nimble Sandstorm
+	2 Oasis' Grandeur
+	12 Oasis Cattle
+	12 Oasiscrafting
+	1 Observer of Aeons
+	12 Open the Tomb
+	12 Outer Wall Guard
+	12 Outpost Merchant
+	12 Painful Rites
+	1 Palaisun, Maktali's Opus
+	6 Path of Fire
+	12 Peacemaker Dove
+	6 Phantasmal Owl
+	12 Pilgrim's Packbeast
+	6 Pillar of Training
+	12 Pious Relicseekers
+	1 Plague Calamity
+	12 Prism Protector
+	6 Protect the Treasure
+	12 Prowling Beastmaster
+	6 Prying Inquiry_RVO
+	12 Puzzlemaster's Priest
+	12 Qalam Surveyor
+	12 Qalami Barbarian
+	12 Reckless Dunerider
+	12 Regrow Anew
+	6 Relentless Sphinx
+	12 Remnant of Lost Times
+	2 Restoration Effort
+	2 Restored Automaton
+	2 Reytha, the Sandstorm
+	2 Reytha's Discovery
+	2 Riddle-Eater
+	6 Riddlemaster's Bane
+	6 Road to Alratha
+	12 Roaming Spirit
+	2 Roland, Philosopher King
+	2 Roland's Confluence
+	12 Royal Falconer
+	12 Ruin Guardian
+	6 Ruin Wanderer
+	12 Ruins' Reward
+	1 Ruinshell Crab
+	12 Sand Scorpion
+	12 Sand Twister
+	12 Sandstone Construct
+	12 Sandstorm Charm
+	6 Sandwurm's Command
+	6 Sandwurm's Might
+	12 Scavenging Sandwurm
+	12 Scholar's Assistant
+	12 Scholar of Necromancy
+	6 Scorch_RVO
+	12 Screeching Duneborn
+	2 Search the Archives
+	6 Searing Sandwurm
+	6 Secrets of the Orrery
+	6 Seeker of Ruins
+	12 Seeking Horizons
+	6 Seer of Clear Skies
+	1 Sethis, All-Seeing
+	12 Settle Down
+	6 Shifting Sands
+	6 Silent Wayfarer
+	12 Sinister Charm
+	12 Sink Beneath the Sands
+	12 Skelephant
+	2 Smashing Brute
+	12 Soul of the Sands
+	12 Sparkmage Prodigy
+	12 Spectral Wings
+	12 Sphinx's Advice
+	6 Sphinx's Authority
+	2 Sphinx's Grandeur
+	6 Sphinx's Sight
+	6 Sphinx of Insight
+	6 Spiny Lizard
+	12 Spirits' Descent
+	12 Spiritual Charm
+	2 Splitting Image
+	6 Spoiled Oracle
+	2 Stargazing
+	12 Stegosaurhouse
+	6 Summoned Skeleton
+	12 Sunken Grave
+	2 Sunless Sky
+	6 Surging Wurm
+	6 Swaying Sands
+	2 Swiftwing Sphinx
+	1 Tara, Duneblessed
+	2 Tara's Confluence
+	12 Telani Scammer
+	12 Territorial Fangwurm
+	2 The Duneborn Host
+	6 Thief's Command
+	12 Titanic Hardshell
+	12 Tomb Robber's Grit
+	6 Tormentor of Graves
+	12 Trade Route Bandit
+	12 Trail of Bones
+	6 Trained Reptile
+	6 Travel by Starlight
+	12 Traveling Scholar
+	2 Trial Recruitment
+	6 Tribal Guard
+	12 Turn Up
+	6 Unlikely Growth
+	6 Unnerving Assistant
+	6 Verdant Oasis
+	12 Vicious Stinger
+	12 Warrior of Far-Off Sands
+	12 Way of the Warrior
+	12 Wayfarer's Amulet
+	6 Winged Stinger
+	2 Worn Study
+	2 Ylda, the Wild Soul
+	2 Ylda's Confluence
+	6 Young Prophet
+[wildcard(1)]
+	7 Admonish
+	6 Aeren Hellfire
+	15 Ageless Wanderer
+	6 Allure of Alratha
+	7 Alratha, Pearl of the Sand Sea
+	4 Alrathan Outcast
+	15 Alrathan Scholar
+	15 Alrathan Vizier
+	6 Ancestral Facsimile
+	15 Ancient Tablet
+	15 Approach the Dark Tomb
+	6 Archaeologist's Discovery
+	6 Armed Vendor
+	15 Azure Archaeologist
+	6 Bandit's Blade
+	15 Blackhearted Sphinx
+	15 Bloodstained Altar
+	4 Bloodstained Calamity
+	6 Calamity Apparition
+	15 Calamity Harbinger
+	6 Calamity Scholar
+	6 Cave Spider
+	6 Charging Brute
+	4 Ciel, the Raider King_RVO
+	6 Ciel's Cavalry
+	15 Cold Shoulder
+	15 Collapsing Ridges
+	7 Colossal Greatwurm
+	7 Confront the Riddlemaster
+	7 Consult Ancient Knowledge
+	7 Conto Sika, Ruined Glory
+	4 Cosmic Calamity
+	6 Crest
+	7 Dafiqi Falconer
+	6 Daring Escapade
+	15 Dark Apprentice
+	7 Darna, Dark Overseer
+	15 Darna's Atrocity
+	7 Darna's Confluence
+	6 Darna's Grimoire
+	6 Daunt
+	15 Death Rites
+	7 Decisive Arcanist
+	6 Deduce
+	7 Descend Upon the Tomb
+	6 Desert's Hearth
+	6 Desert Marauder
+	6 Desert Surveyors
+	4 Destined Calamity
+	6 Disgruntled Student
+	15 Dismissive Pyromancer
+	15 Dreammender Sphinx
+	6 Drysand Mole
+	7 Dthan, Who Bloodies the Sands
+	7 Dthan's Confluence
+	15 Dthan's Daggers
+	6 Duel Amongst Dunes
+	6 Dunetreader Tortoise
+	15 Ecological Refuge
+	7 Elise, Maktali Prodigy
+	6 Elusive Sage
+	7 End of Days_RVO
+	7 Enraged Fangwurm
+	6 Enroll
+	7 Eternal Duneborn
+	4 Eve, the Mastermind
+	7 Eve's Scheme
+	7 Eve's Spiritstalker
+	15 Exhaust
+	15 Faithful Priest
+	6 Ferocity of the Sands
+	15 Fierce Raider
+	7 Fiery Burst
+	7 Final Hour
+	15 Flamecaller's Command
+	6 Freeborn Healer
+	15 From Far and Near
+	15 Ghostly Hounds
+	15 Giant's Remains
+	6 Gilded Elephant
+	6 Grave Robbery
+	7 Guardian of Mysteries
+	15 Guide of Heroes
+	6 Haggler's Hound
+	7 Harbinger of Falling Skies
+	6 Harmonic Charm
+	6 Harsh Trek
+	6 Heat Blast
+	6 Heavy Sandstorm
+	6 Heinous Acts
+	7 Herald of Earth
+	7 Herald of Flame
+	7 Herald of Shadow
+	7 Herald of Suns
+	15 Hero's Command
+	15 Hero of Aer
+	15 Honorable Mentor
+	15 Horizon Prophet
+	7 Illuminated Firebird
+	7 Imposing Sphinx
+	15 Inescapable Blaze
+	6 Inquisitive Student
+	7 Kilani, Awakened Colossus
+	6 Leave for Dead
+	7 Library Infiltrator
+	15 Living Library
+	6 Living Sandstorm
+	6 Lofty Denial
+	15 Lone Freelancer
+	15 Lonesome Traveler
+	6 Lost and Alone
+	7 Love Letters
+	15 Mage's Command
+	15 Mage Studies
+	7 Maktali, the Great Library
+	15 Maktali Archivist
+	6 Maktali Visionary
+	15 Marauder's Broadsword
+	15 Masked Lancer
+	4 Master of Ancient Ways
+	4 Master of Dark Arts
+	15 Merchant's Outpost
+	6 Merchant's Sidearm
+	15 Merciful Sphinx
+	7 Mindwave Rod
+	4 Monstrous Calamity
+	15 Moonlight Strix
+	6 Mystic Khopesh
+	4 Naiala, the Informant
+	6 Naiala's Guide
+	6 Nature Charm
+	6 Negate_RVO
+	15 Nightfall Sphinx
+	6 Nimble Sandstorm
+	7 Oasis' Grandeur
+	6 Oasis Cattle
+	6 Oasiscrafting
+	4 Observer of Aeons
+	6 Open the Tomb
+	6 Outer Wall Guard
+	6 Outpost Merchant
+	6 Painful Rites
+	4 Palaisun, Maktali's Opus
+	15 Path of Fire
+	6 Peacemaker Dove
+	15 Phantasmal Owl
+	6 Pilgrim's Packbeast
+	15 Pillar of Training
+	6 Pious Relicseekers
+	4 Plague Calamity
+	6 Prism Protector
+	15 Protect the Treasure
+	6 Prowling Beastmaster
+	15 Prying Inquiry_RVO
+	6 Puzzlemaster's Priest
+	6 Qalam Surveyor
+	6 Qalami Barbarian
+	6 Reckless Dunerider
+	6 Regrow Anew
+	15 Relentless Sphinx
+	6 Remnant of Lost Times
+	7 Restoration Effort
+	7 Restored Automaton
+	7 Reytha, the Sandstorm
+	7 Reytha's Discovery
+	7 Riddle-Eater
+	15 Riddlemaster's Bane
+	15 Road to Alratha
+	6 Roaming Spirit
+	7 Roland, Philosopher King
+	7 Roland's Confluence
+	6 Royal Falconer
+	6 Ruin Guardian
+	15 Ruin Wanderer
+	6 Ruins' Reward
+	4 Ruinshell Crab
+	6 Sand Scorpion
+	6 Sand Twister
+	6 Sandstone Construct
+	6 Sandstorm Charm
+	15 Sandwurm's Command
+	15 Sandwurm's Might
+	6 Scavenging Sandwurm
+	6 Scholar's Assistant
+	6 Scholar of Necromancy
+	15 Scorch_RVO
+	6 Screeching Duneborn
+	7 Search the Archives
+	15 Searing Sandwurm
+	15 Secrets of the Orrery
+	15 Seeker of Ruins
+	6 Seeking Horizons
+	15 Seer of Clear Skies
+	4 Sethis, All-Seeing
+	6 Settle Down
+	15 Shifting Sands
+	15 Silent Wayfarer
+	6 Sinister Charm
+	6 Sink Beneath the Sands
+	6 Skelephant
+	7 Smashing Brute
+	6 Soul of the Sands
+	6 Sparkmage Prodigy
+	6 Spectral Wings
+	6 Sphinx's Advice
+	15 Sphinx's Authority
+	7 Sphinx's Grandeur
+	15 Sphinx's Sight
+	15 Sphinx of Insight
+	15 Spiny Lizard
+	6 Spirits' Descent
+	6 Spiritual Charm
+	7 Splitting Image
+	15 Spoiled Oracle
+	7 Stargazing
+	6 Stegosaurhouse
+	15 Summoned Skeleton
+	6 Sunken Grave
+	7 Sunless Sky
+	15 Surging Wurm
+	15 Swaying Sands
+	7 Swiftwing Sphinx
+	4 Tara, Duneblessed
+	7 Tara's Confluence
+	6 Telani Scammer
+	6 Territorial Fangwurm
+	7 The Duneborn Host
+	15 Thief's Command
+	6 Titanic Hardshell
+	6 Tomb Robber's Grit
+	15 Tormentor of Graves
+	6 Trade Route Bandit
+	6 Trail of Bones
+	15 Trained Reptile
+	15 Travel by Starlight
+	6 Traveling Scholar
+	7 Trial Recruitment
+	15 Tribal Guard
+	6 Turn Up
+	15 Unlikely Growth
+	15 Unnerving Assistant
+	15 Verdant Oasis
+	6 Vicious Stinger
+	6 Warrior of Far-Off Sands
+	6 Way of the Warrior
+	6 Wayfarer's Amulet
+	15 Winged Stinger
+	7 Worn Study
+	7 Ylda, the Wild Soul
+	7 Ylda's Confluence
+	15 Young Prophet

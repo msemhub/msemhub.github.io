@@ -1,0 +1,3431 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Acclaimed Leadership",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Adavene, Dean of the Arts",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}{U}",
+			"type": "Legendary Creature — Bird Wizard",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Aetherdrain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Ambushing Alligator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Crocodile",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Ancestor's Calling",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Antonin Lazaire",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Planeswalker — Lazaire",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Arcane Saxophone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Art Studio",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Artisan's Fountain",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Artisan's Sorrow",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Aspiring Rascals // Marshback Knights",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "43",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/EAU-files/img/43a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/43a_front.jpg"
+			}
+		},
+		{
+			"name": "Aspiring Rascals // Marshback Knights",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "43",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/EAU-files/img/43a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/43a_front.jpg"
+			}
+		},
+		{
+			"name": "Automated Maestromancer",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct Bard",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Avatar of Plume de Val",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Avatar",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Aven Acoustimancer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Bird Bard",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Aven Traveller",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Scout",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Balloon Dragoon",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Band of Irregulars",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Banish",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Bayou Courier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Beautiful Crescendo",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Belittle",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Bewildering Sight",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Bite Down",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Bitterheart Bokor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Blazing Volley",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Blessed Mausoleum",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Blessings of the Parish",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Bloomcrawler",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Spider",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Bog Rebirth",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Bogborn Charger",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Devil",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Bogborn Exorcist",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Devil Cleric",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Bogchomper Juggernaut",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Crocodile Juggernaut",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Boghex Witch",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Bogsnatcher Drake",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Bogstalker Snake",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Snake",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Bogsworn Club",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Bokor's Recruitment",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Book Return",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Bouquet Singer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Bard",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Brash Hunter // Grisly Rougarou",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "134",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/EAU-files/img/134a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/134a_front.jpg"
+			}
+		},
+		{
+			"name": "Brash Hunter // Grisly Rougarou",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "134",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/EAU-files/img/134a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/134a_front.jpg"
+			}
+		},
+		{
+			"name": "Burning Revelations",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Captivating Jester",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Cataclysmic Preacher",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Chilling Musician",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Bard",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Coat in Petals",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Commune with Kantra",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Coordinated Commotion",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Coveted Stallion",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Horse",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Creeping Pianist",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Bard",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Croakfolk Troubadour",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Frog Bard",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Crown of Spores",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Curse of Bleeding",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Curse of Encroaching Waters",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Curse of Haunting",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Curse of Impotence",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Curse of Tracking",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Curse of Uncertainty",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Curse of Vulnerability",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Curse of Waning Wealth",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Curse of the Petrified",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Cypress, the Wayfarer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Planeswalker — Cypress",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Damning Flames",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Dangerous Territory",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Dazzling Festivities",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Defector of the Clergy",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Determined Evangelist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Disrupting Storms",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Divination_EAU",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Dramatic Artist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Human Bard",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Eerie Bayou",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Elaborate Transportation",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Elegant Strike",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Encore of the Phoenix",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Enthralling Actor",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Actor",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Erollin, Eccentric Collector",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Frog Noble",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Exciting Band",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Bard",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Explorer's Fate",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Faradia, Honored Sovereign",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Faradia's Collector",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Faradia's Favored",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Zombie Cleric",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Faradia's Grace",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Faradia's Outrage",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Fervent Strike",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Festival Rioters",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Festival Songstress",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Fleshcarver Knife",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Fool's Errand",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Forest_EAU",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Forlorn Ruin",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Fungal Whomper",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Fungus",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Gift of the Bayou",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Gift of the Phoenix",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Gilded Lotus_EAU",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Glamorous Aerialist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Glamorous Festivities",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Gleaming Gallant",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Glorious Celebration",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Greater Swooprat",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Bat",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Grim Festivities",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Grindlesnap",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Crocodile Hydra",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Grisly Hunger",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Helena, the Awakener",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Helena",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Helena's Exaltation",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Helena's Rebuff",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Herald of Festivities",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Phoenix",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Heroic Crusader // Faradia's Ascendant",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "16",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/EAU-files/img/16a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/16a_front.jpg"
+			}
+		},
+		{
+			"name": "Heroic Crusader // Faradia's Ascendant",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "16",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/EAU-files/img/16a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/16a_front.jpg"
+			}
+		},
+		{
+			"name": "Hunter's Mark",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Improvising Automaton",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct Bard",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Inspiring Band",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Intoxicating Melody",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Irrigation Trawler",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Island_EAU",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Jeama, Zoulev Queen",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Enchantment Creature — Spirit",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Kantra's Envoy",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Kantra of Avarice",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Kantra of Bounty",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Kantra of Fortitude",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Kantra of Healing",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{W}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Kantra of Old Majik",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Kantra of Plagues",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Kantra of the Third Eye",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Lakeside Park",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Lazaire's Altar",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Lazaire's Conjuring",
+			"rarity": "mythic",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Lonely Devil",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Devil Scout",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Lord's Voyage",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Lost in Admiration",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Lotus Debutante",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Noble",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Lotus Feaster",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Frog Noble",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Lotus Studies",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Luminescent Croaker",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Frog",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Manhunter Kantra",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Mark of the Scaleblight",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Marsh's Veil",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Marshcroaker Coaching",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Marshcroaker Drake",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Frog Drake",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Minister of Zealots",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Mountain_EAU",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Murmurs of the Bayou",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Mushroom Lagoon",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Mushroom Merchant // Overgrowth Host",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "191",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/EAU-files/img/191a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/191a_front.jpg"
+			}
+		},
+		{
+			"name": "Mushroom Merchant // Overgrowth Host",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "191",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/EAU-files/img/191a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/191a_front.jpg"
+			}
+		},
+		{
+			"name": "Negate_EAU",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "New Alores Charmer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "New Alores Fiddler",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Nimbus Glider",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Occult Tutor",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Ontarachie Apex",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Ontarachie Bushwhack",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Ontarachie Dryad",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Ontarachie Emissary",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Ontarachie Forager",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Lizard Scout",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Ontarachie Hunter // Scaleblight Cutthroat",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "103",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/EAU-files/img/103a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/103a_front.jpg"
+			}
+		},
+		{
+			"name": "Ontarachie Hunter // Scaleblight Cutthroat",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "103",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/EAU-files/img/103a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/103a_front.jpg"
+			}
+		},
+		{
+			"name": "Ontarachie Vagabond",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fungus Scout",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Opt_EAU",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Oracle's Ploy",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Ornate Incense",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Overgrowth Guardian",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Overgrowth Instigator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Fungus Berserker",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Overwhelming Guilt",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Parish's Command",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Parish Custodian",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Parish Paragon",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Passionate Congregation",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Plains_EAU",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Planar Traversal",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Plume de Val Singer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Portside Smuggler",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Prayer Hall",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Pretentious Performer",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Prized Marshcroaker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Frog",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Prophetic Prism_EAU",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Proselytize",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Pyrodancer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Radiant Outburst",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Rallying Rector",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Ranidaphobia",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Reclaim the Devout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Reformed Devil",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Devil Warrior",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Rejoicing Aristocrats",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Remarkable Hunter",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Crocodile",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Returned Bokor",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Ritzy Parlor",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "River Dabbler",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Plant Bird",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Riverboat Assault",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Instant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Riverguide Harpist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Bard",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Royal Domain",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Scaleblight Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Crocodile Warrior",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Scuttling Bogbuster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Crab",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Sensational Festivities",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Serpentdancer Kantra",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Shaman of the First Pact",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Shelled Muckdweller",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Crab Beast",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Shock and Awe",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Sin Broker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Cleric",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Smite the Monstrous",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Smooth Musician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Human Bard",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Solemn Offering",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Soul Trapper",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Soul of New Alores",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Souldebt Collector",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Spite Caster",
+			"rarity": "common",
+			"mana_cost": "{6}{B}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Splendid Leap",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Sporecrafter's Gift",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Sporeflow Mantle",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Sporeflow Propagator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fungus Soldier",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Sporeflow Protector",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fungus Warrior",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Sporeflow Repulsion",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Sporegraft",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Starving Swooprat",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bat",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Stinghopper",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Fungus Frog",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Storehouse Collapse",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Stratusform Seraph",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel Elemental",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Streetside Entertainer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Bard",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Sudden Conversion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Sunlit Plaza",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Swamp_EAU",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Tear to Shreds",
+			"rarity": "common",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Tempted by Lotuses",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Tenacious Brawler",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Terror of the Ontarachie",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Shrimp Horror",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Thespian Soldier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Tomb Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Trufflefrog",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Frog",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Turtleback Guide",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fungus Advisor",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Twirling Duet",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Uncouth Ancestor",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Undying Watcher",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Fungus Zombie",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Unicorn of the Vale",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Unicorn",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Vacated Bar",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Vibrant Rapture",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Vindictive Abbot",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Vivid March",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Wade Through",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Wailing Chorus",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Bard",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Wanderspore Terrapin",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Fungus Turtle",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Whispers of the Ontarachie",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Wild Festivities",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Wild Instincts",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Witch's Invocation",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Witch of Shifting Waters",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Woopip Bruiser",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Fungus Assassin",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Woopip Chef",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fungus Shaman",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Woopip Decomposition",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Woopip Elder",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Fungus Druid",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Woopip Sproutling",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fungus Soldier",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Woopip Wanderer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Fungus Scout",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Young Swooprat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bat",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Zealous Scaleblight",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Crocodile Cleric",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Zoulev Altar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Zoulev Envoy",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Zoulev Offering",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Zoulev Rebuff",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Zoulev Rites",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Zoulev Ritualist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/EAU-files/img/210.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Adavene, Dean of the Arts
+	1 Antonin Lazaire
+	2 Aspiring Rascals // Marshback Knights
+	2 Aspiring Rascals // Marshback Knights
+	2 Automated Maestromancer
+	1 Avatar of Plume de Val
+	2 Banish
+	2 Bogborn Charger
+	2 Bogborn Exorcist
+	1 Boghex Witch
+	2 Brash Hunter // Grisly Rougarou
+	2 Brash Hunter // Grisly Rougarou
+	2 Burning Revelations
+	2 Curse of Bleeding
+	2 Curse of Tracking
+	2 Curse of Uncertainty
+	1 Cypress, the Wayfarer
+	2 Dazzling Festivities
+	2 Defector of the Clergy
+	1 Encore of the Phoenix
+	2 Enthralling Actor
+	1 Erollin, Eccentric Collector
+	2 Exciting Band
+	2 Explorer's Fate
+	1 Faradia, Honored Sovereign
+	2 Faradia's Grace
+	2 Fungal Whomper
+	2 Gilded Lotus_EAU
+	2 Glamorous Festivities
+	2 Grim Festivities
+	2 Grindlesnap
+	2 Grisly Hunger
+	1 Helena, the Awakener
+	2 Helena's Rebuff
+	1 Herald of Festivities
+	2 Heroic Crusader // Faradia's Ascendant
+	2 Heroic Crusader // Faradia's Ascendant
+	2 Hunter's Mark
+	2 Jeama, Zoulev Queen
+	1 Kantra of Bounty
+	2 Kantra of Old Majik
+	1 Kantra of Plagues
+	2 Kantra of the Third Eye
+	2 Lazaire's Altar
+	1 Lazaire's Conjuring
+	2 Mark of the Scaleblight
+	2 Marshcroaker Coaching
+	2 Minister of Zealots
+	2 Mushroom Merchant // Overgrowth Host
+	2 Mushroom Merchant // Overgrowth Host
+	2 Occult Tutor
+	2 Ontarachie Apex
+	2 Ontarachie Dryad
+	2 Ontarachie Hunter // Scaleblight Cutthroat
+	2 Ontarachie Hunter // Scaleblight Cutthroat
+	2 Ontarachie Vagabond
+	2 Parish Paragon
+	1 Planar Traversal
+	2 Pretentious Performer
+	2 Rejoicing Aristocrats
+	2 Returned Bokor
+	2 Royal Domain
+	2 Sensational Festivities
+	2 Shaman of the First Pact
+	1 Soul of New Alores
+	2 Sporeflow Protector
+	2 Vibrant Rapture
+	2 Vivid March
+	2 Wade Through
+	2 Wild Festivities
+	2 Witch's Invocation
+	2 Witch of Shifting Waters
+	2 Zoulev Rites
+[uncommon(3)]
+	4 Acclaimed Leadership
+	4 Aetherdrain
+	4 Ambushing Alligator
+	4 Arcane Saxophone
+	4 Art Studio
+	4 Artisan's Fountain
+	4 Aven Acoustimancer
+	4 Band of Irregulars
+	4 Bayou Courier
+	4 Beautiful Crescendo
+	4 Bitterheart Bokor
+	4 Blessed Mausoleum
+	4 Bouquet Singer
+	4 Captivating Jester
+	4 Curse of Encroaching Waters
+	4 Curse of Impotence
+	4 Curse of Vulnerability
+	4 Curse of Waning Wealth
+	4 Curse of the Petrified
+	4 Dangerous Territory
+	4 Determined Evangelist
+	4 Dramatic Artist
+	4 Eerie Bayou
+	4 Faradia's Collector
+	4 Faradia's Favored
+	4 Faradia's Outrage
+	4 Festival Songstress
+	4 Fool's Errand
+	4 Forlorn Ruin
+	4 Gift of the Bayou
+	4 Greater Swooprat
+	4 Irrigation Trawler
+	4 Kantra of Avarice
+	4 Kantra of Healing
+	4 Lakeside Park
+	4 Lord's Voyage
+	4 Lotus Debutante
+	4 Manhunter Kantra
+	4 Marshcroaker Drake
+	4 Mushroom Lagoon
+	4 Ontarachie Emissary
+	4 Oracle's Ploy
+	4 Overgrowth Instigator
+	4 Parish's Command
+	4 Plume de Val Singer
+	4 Prayer Hall
+	4 Prized Marshcroaker
+	4 Radiant Outburst
+	4 Reclaim the Devout
+	4 Ritzy Parlor
+	4 Riverboat Assault
+	4 Riverguide Harpist
+	4 Scuttling Bogbuster
+	4 Serpentdancer Kantra
+	4 Sin Broker
+	4 Smooth Musician
+	4 Solemn Offering
+	4 Soul Trapper
+	4 Splendid Leap
+	4 Sporeflow Propagator
+	4 Storehouse Collapse
+	4 Sudden Conversion
+	4 Sunlit Plaza
+	4 Tempted by Lotuses
+	4 Tenacious Brawler
+	4 Terror of the Ontarachie
+	4 Tomb Keeper
+	4 Twirling Duet
+	4 Unicorn of the Vale
+	4 Vacated Bar
+	4 Whispers of the Ontarachie
+	4 Woopip Bruiser
+	4 Woopip Chef
+	4 Woopip Wanderer
+	4 Young Swooprat
+	4 Zealous Scaleblight
+	4 Zoulev Altar
+	4 Zoulev Offering
+	4 Zoulev Rebuff
+	4 Zoulev Ritualist
+[common(7)]
+	8 Ancestor's Calling
+	8 Artisan's Sorrow
+	8 Aven Traveller
+	8 Balloon Dragoon
+	8 Belittle
+	8 Bewildering Sight
+	8 Bite Down
+	8 Blazing Volley
+	8 Blessings of the Parish
+	8 Bloomcrawler
+	8 Bog Rebirth
+	8 Bogchomper Juggernaut
+	8 Bogsnatcher Drake
+	8 Bogstalker Snake
+	8 Bogsworn Club
+	8 Bokor's Recruitment
+	8 Book Return
+	8 Cataclysmic Preacher
+	8 Chilling Musician
+	8 Coat in Petals
+	8 Commune with Kantra
+	8 Coordinated Commotion
+	8 Coveted Stallion
+	8 Creeping Pianist
+	8 Croakfolk Troubadour
+	8 Crown of Spores
+	8 Curse of Haunting
+	8 Damning Flames
+	8 Disrupting Storms
+	8 Divination_EAU
+	8 Elaborate Transportation
+	8 Elegant Strike
+	8 Fervent Strike
+	8 Festival Rioters
+	8 Fleshcarver Knife
+	8 Gift of the Phoenix
+	8 Glamorous Aerialist
+	8 Gleaming Gallant
+	8 Glorious Celebration
+	8 Helena's Exaltation
+	8 Improvising Automaton
+	8 Inspiring Band
+	8 Intoxicating Melody
+	8 Kantra's Envoy
+	8 Kantra of Fortitude
+	8 Lonely Devil
+	8 Lost in Admiration
+	8 Lotus Feaster
+	8 Lotus Studies
+	8 Luminescent Croaker
+	8 Marsh's Veil
+	8 Murmurs of the Bayou
+	8 Negate_EAU
+	8 New Alores Charmer
+	8 New Alores Fiddler
+	8 Nimbus Glider
+	8 Ontarachie Bushwhack
+	8 Ontarachie Forager
+	8 Opt_EAU
+	8 Ornate Incense
+	8 Overgrowth Guardian
+	8 Overwhelming Guilt
+	8 Parish Custodian
+	8 Passionate Congregation
+	8 Portside Smuggler
+	8 Prophetic Prism_EAU
+	8 Proselytize
+	8 Pyrodancer
+	8 Rallying Rector
+	8 Ranidaphobia
+	8 Reformed Devil
+	8 Remarkable Hunter
+	8 River Dabbler
+	8 Scaleblight Warrior
+	8 Shelled Muckdweller
+	8 Shock and Awe
+	8 Smite the Monstrous
+	8 Souldebt Collector
+	8 Spite Caster
+	8 Sporecrafter's Gift
+	8 Sporeflow Mantle
+	8 Sporeflow Repulsion
+	8 Sporegraft
+	8 Starving Swooprat
+	8 Stinghopper
+	8 Stratusform Seraph
+	8 Streetside Entertainer
+	8 Tear to Shreds
+	8 Thespian Soldier
+	8 Trufflefrog
+	8 Turtleback Guide
+	8 Uncouth Ancestor
+	8 Undying Watcher
+	8 Vindictive Abbot
+	8 Wailing Chorus
+	8 Wanderspore Terrapin
+	8 Wild Instincts
+	8 Woopip Decomposition
+	8 Woopip Elder
+	8 Woopip Sproutling
+	8 Zoulev Envoy
+[foil(1)]
+	6 Acclaimed Leadership
+	1 Adavene, Dean of the Arts
+	6 Aetherdrain
+	6 Ambushing Alligator
+	12 Ancestor's Calling
+	1 Antonin Lazaire
+	6 Arcane Saxophone
+	6 Art Studio
+	6 Artisan's Fountain
+	12 Artisan's Sorrow
+	2 Aspiring Rascals // Marshback Knights
+	2 Aspiring Rascals // Marshback Knights
+	2 Automated Maestromancer
+	1 Avatar of Plume de Val
+	6 Aven Acoustimancer
+	12 Aven Traveller
+	12 Balloon Dragoon
+	6 Band of Irregulars
+	2 Banish
+	6 Bayou Courier
+	6 Beautiful Crescendo
+	12 Belittle
+	12 Bewildering Sight
+	12 Bite Down
+	6 Bitterheart Bokor
+	12 Blazing Volley
+	6 Blessed Mausoleum
+	12 Blessings of the Parish
+	12 Bloomcrawler
+	12 Bog Rebirth
+	2 Bogborn Charger
+	2 Bogborn Exorcist
+	12 Bogchomper Juggernaut
+	1 Boghex Witch
+	12 Bogsnatcher Drake
+	12 Bogstalker Snake
+	12 Bogsworn Club
+	12 Bokor's Recruitment
+	12 Book Return
+	6 Bouquet Singer
+	2 Brash Hunter // Grisly Rougarou
+	2 Brash Hunter // Grisly Rougarou
+	2 Burning Revelations
+	6 Captivating Jester
+	12 Cataclysmic Preacher
+	12 Chilling Musician
+	12 Coat in Petals
+	12 Commune with Kantra
+	12 Coordinated Commotion
+	12 Coveted Stallion
+	12 Creeping Pianist
+	12 Croakfolk Troubadour
+	12 Crown of Spores
+	2 Curse of Bleeding
+	6 Curse of Encroaching Waters
+	12 Curse of Haunting
+	6 Curse of Impotence
+	2 Curse of Tracking
+	2 Curse of Uncertainty
+	6 Curse of Vulnerability
+	6 Curse of Waning Wealth
+	6 Curse of the Petrified
+	1 Cypress, the Wayfarer
+	12 Damning Flames
+	6 Dangerous Territory
+	2 Dazzling Festivities
+	2 Defector of the Clergy
+	6 Determined Evangelist
+	12 Disrupting Storms
+	12 Divination_EAU
+	6 Dramatic Artist
+	6 Eerie Bayou
+	12 Elaborate Transportation
+	12 Elegant Strike
+	1 Encore of the Phoenix
+	2 Enthralling Actor
+	1 Erollin, Eccentric Collector
+	2 Exciting Band
+	2 Explorer's Fate
+	1 Faradia, Honored Sovereign
+	6 Faradia's Collector
+	6 Faradia's Favored
+	2 Faradia's Grace
+	6 Faradia's Outrage
+	12 Fervent Strike
+	12 Festival Rioters
+	6 Festival Songstress
+	12 Fleshcarver Knife
+	6 Fool's Errand
+	6 Forlorn Ruin
+	2 Fungal Whomper
+	6 Gift of the Bayou
+	12 Gift of the Phoenix
+	2 Gilded Lotus_EAU
+	12 Glamorous Aerialist
+	2 Glamorous Festivities
+	12 Gleaming Gallant
+	12 Glorious Celebration
+	6 Greater Swooprat
+	2 Grim Festivities
+	2 Grindlesnap
+	2 Grisly Hunger
+	1 Helena, the Awakener
+	12 Helena's Exaltation
+	2 Helena's Rebuff
+	1 Herald of Festivities
+	2 Heroic Crusader // Faradia's Ascendant
+	2 Heroic Crusader // Faradia's Ascendant
+	2 Hunter's Mark
+	12 Improvising Automaton
+	12 Inspiring Band
+	12 Intoxicating Melody
+	6 Irrigation Trawler
+	2 Jeama, Zoulev Queen
+	12 Kantra's Envoy
+	6 Kantra of Avarice
+	1 Kantra of Bounty
+	12 Kantra of Fortitude
+	6 Kantra of Healing
+	2 Kantra of Old Majik
+	1 Kantra of Plagues
+	2 Kantra of the Third Eye
+	6 Lakeside Park
+	2 Lazaire's Altar
+	1 Lazaire's Conjuring
+	12 Lonely Devil
+	6 Lord's Voyage
+	12 Lost in Admiration
+	6 Lotus Debutante
+	12 Lotus Feaster
+	12 Lotus Studies
+	12 Luminescent Croaker
+	6 Manhunter Kantra
+	2 Mark of the Scaleblight
+	12 Marsh's Veil
+	2 Marshcroaker Coaching
+	6 Marshcroaker Drake
+	2 Minister of Zealots
+	12 Murmurs of the Bayou
+	6 Mushroom Lagoon
+	2 Mushroom Merchant // Overgrowth Host
+	2 Mushroom Merchant // Overgrowth Host
+	12 Negate_EAU
+	12 New Alores Charmer
+	12 New Alores Fiddler
+	12 Nimbus Glider
+	2 Occult Tutor
+	2 Ontarachie Apex
+	12 Ontarachie Bushwhack
+	2 Ontarachie Dryad
+	6 Ontarachie Emissary
+	12 Ontarachie Forager
+	2 Ontarachie Hunter // Scaleblight Cutthroat
+	2 Ontarachie Hunter // Scaleblight Cutthroat
+	2 Ontarachie Vagabond
+	12 Opt_EAU
+	6 Oracle's Ploy
+	12 Ornate Incense
+	12 Overgrowth Guardian
+	6 Overgrowth Instigator
+	12 Overwhelming Guilt
+	6 Parish's Command
+	12 Parish Custodian
+	2 Parish Paragon
+	12 Passionate Congregation
+	1 Planar Traversal
+	6 Plume de Val Singer
+	12 Portside Smuggler
+	6 Prayer Hall
+	2 Pretentious Performer
+	6 Prized Marshcroaker
+	12 Prophetic Prism_EAU
+	12 Proselytize
+	12 Pyrodancer
+	6 Radiant Outburst
+	12 Rallying Rector
+	12 Ranidaphobia
+	6 Reclaim the Devout
+	12 Reformed Devil
+	2 Rejoicing Aristocrats
+	12 Remarkable Hunter
+	2 Returned Bokor
+	6 Ritzy Parlor
+	12 River Dabbler
+	6 Riverboat Assault
+	6 Riverguide Harpist
+	2 Royal Domain
+	12 Scaleblight Warrior
+	6 Scuttling Bogbuster
+	2 Sensational Festivities
+	6 Serpentdancer Kantra
+	2 Shaman of the First Pact
+	12 Shelled Muckdweller
+	12 Shock and Awe
+	6 Sin Broker
+	12 Smite the Monstrous
+	6 Smooth Musician
+	6 Solemn Offering
+	6 Soul Trapper
+	1 Soul of New Alores
+	12 Souldebt Collector
+	12 Spite Caster
+	6 Splendid Leap
+	12 Sporecrafter's Gift
+	12 Sporeflow Mantle
+	6 Sporeflow Propagator
+	2 Sporeflow Protector
+	12 Sporeflow Repulsion
+	12 Sporegraft
+	12 Starving Swooprat
+	12 Stinghopper
+	6 Storehouse Collapse
+	12 Stratusform Seraph
+	12 Streetside Entertainer
+	6 Sudden Conversion
+	6 Sunlit Plaza
+	12 Tear to Shreds
+	6 Tempted by Lotuses
+	6 Tenacious Brawler
+	6 Terror of the Ontarachie
+	12 Thespian Soldier
+	6 Tomb Keeper
+	12 Trufflefrog
+	12 Turtleback Guide
+	6 Twirling Duet
+	12 Uncouth Ancestor
+	12 Undying Watcher
+	6 Unicorn of the Vale
+	6 Vacated Bar
+	2 Vibrant Rapture
+	12 Vindictive Abbot
+	2 Vivid March
+	2 Wade Through
+	12 Wailing Chorus
+	12 Wanderspore Terrapin
+	6 Whispers of the Ontarachie
+	2 Wild Festivities
+	12 Wild Instincts
+	2 Witch's Invocation
+	2 Witch of Shifting Waters
+	6 Woopip Bruiser
+	6 Woopip Chef
+	12 Woopip Decomposition
+	12 Woopip Elder
+	12 Woopip Sproutling
+	6 Woopip Wanderer
+	6 Young Swooprat
+	6 Zealous Scaleblight
+	6 Zoulev Altar
+	12 Zoulev Envoy
+	6 Zoulev Offering
+	6 Zoulev Rebuff
+	2 Zoulev Rites
+	6 Zoulev Ritualist
+[wildcard(1)]
+	15 Acclaimed Leadership
+	4 Adavene, Dean of the Arts
+	15 Aetherdrain
+	15 Ambushing Alligator
+	6 Ancestor's Calling
+	4 Antonin Lazaire
+	15 Arcane Saxophone
+	15 Art Studio
+	15 Artisan's Fountain
+	6 Artisan's Sorrow
+	7 Aspiring Rascals // Marshback Knights
+	7 Aspiring Rascals // Marshback Knights
+	7 Automated Maestromancer
+	4 Avatar of Plume de Val
+	15 Aven Acoustimancer
+	6 Aven Traveller
+	6 Balloon Dragoon
+	15 Band of Irregulars
+	7 Banish
+	15 Bayou Courier
+	15 Beautiful Crescendo
+	6 Belittle
+	6 Bewildering Sight
+	6 Bite Down
+	15 Bitterheart Bokor
+	6 Blazing Volley
+	15 Blessed Mausoleum
+	6 Blessings of the Parish
+	6 Bloomcrawler
+	6 Bog Rebirth
+	7 Bogborn Charger
+	7 Bogborn Exorcist
+	6 Bogchomper Juggernaut
+	4 Boghex Witch
+	6 Bogsnatcher Drake
+	6 Bogstalker Snake
+	6 Bogsworn Club
+	6 Bokor's Recruitment
+	6 Book Return
+	15 Bouquet Singer
+	7 Brash Hunter // Grisly Rougarou
+	7 Brash Hunter // Grisly Rougarou
+	7 Burning Revelations
+	15 Captivating Jester
+	6 Cataclysmic Preacher
+	6 Chilling Musician
+	6 Coat in Petals
+	6 Commune with Kantra
+	6 Coordinated Commotion
+	6 Coveted Stallion
+	6 Creeping Pianist
+	6 Croakfolk Troubadour
+	6 Crown of Spores
+	7 Curse of Bleeding
+	15 Curse of Encroaching Waters
+	6 Curse of Haunting
+	15 Curse of Impotence
+	7 Curse of Tracking
+	7 Curse of Uncertainty
+	15 Curse of Vulnerability
+	15 Curse of Waning Wealth
+	15 Curse of the Petrified
+	4 Cypress, the Wayfarer
+	6 Damning Flames
+	15 Dangerous Territory
+	7 Dazzling Festivities
+	7 Defector of the Clergy
+	15 Determined Evangelist
+	6 Disrupting Storms
+	6 Divination_EAU
+	15 Dramatic Artist
+	15 Eerie Bayou
+	6 Elaborate Transportation
+	6 Elegant Strike
+	4 Encore of the Phoenix
+	7 Enthralling Actor
+	4 Erollin, Eccentric Collector
+	7 Exciting Band
+	7 Explorer's Fate
+	4 Faradia, Honored Sovereign
+	15 Faradia's Collector
+	15 Faradia's Favored
+	7 Faradia's Grace
+	15 Faradia's Outrage
+	6 Fervent Strike
+	6 Festival Rioters
+	15 Festival Songstress
+	6 Fleshcarver Knife
+	15 Fool's Errand
+	15 Forlorn Ruin
+	7 Fungal Whomper
+	15 Gift of the Bayou
+	6 Gift of the Phoenix
+	7 Gilded Lotus_EAU
+	6 Glamorous Aerialist
+	7 Glamorous Festivities
+	6 Gleaming Gallant
+	6 Glorious Celebration
+	15 Greater Swooprat
+	7 Grim Festivities
+	7 Grindlesnap
+	7 Grisly Hunger
+	4 Helena, the Awakener
+	6 Helena's Exaltation
+	7 Helena's Rebuff
+	4 Herald of Festivities
+	7 Heroic Crusader // Faradia's Ascendant
+	7 Heroic Crusader // Faradia's Ascendant
+	7 Hunter's Mark
+	6 Improvising Automaton
+	6 Inspiring Band
+	6 Intoxicating Melody
+	15 Irrigation Trawler
+	7 Jeama, Zoulev Queen
+	6 Kantra's Envoy
+	15 Kantra of Avarice
+	4 Kantra of Bounty
+	6 Kantra of Fortitude
+	15 Kantra of Healing
+	7 Kantra of Old Majik
+	4 Kantra of Plagues
+	7 Kantra of the Third Eye
+	15 Lakeside Park
+	7 Lazaire's Altar
+	4 Lazaire's Conjuring
+	6 Lonely Devil
+	15 Lord's Voyage
+	6 Lost in Admiration
+	15 Lotus Debutante
+	6 Lotus Feaster
+	6 Lotus Studies
+	6 Luminescent Croaker
+	15 Manhunter Kantra
+	7 Mark of the Scaleblight
+	6 Marsh's Veil
+	7 Marshcroaker Coaching
+	15 Marshcroaker Drake
+	7 Minister of Zealots
+	6 Murmurs of the Bayou
+	15 Mushroom Lagoon
+	7 Mushroom Merchant // Overgrowth Host
+	7 Mushroom Merchant // Overgrowth Host
+	6 Negate_EAU
+	6 New Alores Charmer
+	6 New Alores Fiddler
+	6 Nimbus Glider
+	7 Occult Tutor
+	7 Ontarachie Apex
+	6 Ontarachie Bushwhack
+	7 Ontarachie Dryad
+	15 Ontarachie Emissary
+	6 Ontarachie Forager
+	7 Ontarachie Hunter // Scaleblight Cutthroat
+	7 Ontarachie Hunter // Scaleblight Cutthroat
+	7 Ontarachie Vagabond
+	6 Opt_EAU
+	15 Oracle's Ploy
+	6 Ornate Incense
+	6 Overgrowth Guardian
+	15 Overgrowth Instigator
+	6 Overwhelming Guilt
+	15 Parish's Command
+	6 Parish Custodian
+	7 Parish Paragon
+	6 Passionate Congregation
+	4 Planar Traversal
+	15 Plume de Val Singer
+	6 Portside Smuggler
+	15 Prayer Hall
+	7 Pretentious Performer
+	15 Prized Marshcroaker
+	6 Prophetic Prism_EAU
+	6 Proselytize
+	6 Pyrodancer
+	15 Radiant Outburst
+	6 Rallying Rector
+	6 Ranidaphobia
+	15 Reclaim the Devout
+	6 Reformed Devil
+	7 Rejoicing Aristocrats
+	6 Remarkable Hunter
+	7 Returned Bokor
+	15 Ritzy Parlor
+	6 River Dabbler
+	15 Riverboat Assault
+	15 Riverguide Harpist
+	7 Royal Domain
+	6 Scaleblight Warrior
+	15 Scuttling Bogbuster
+	7 Sensational Festivities
+	15 Serpentdancer Kantra
+	7 Shaman of the First Pact
+	6 Shelled Muckdweller
+	6 Shock and Awe
+	15 Sin Broker
+	6 Smite the Monstrous
+	15 Smooth Musician
+	15 Solemn Offering
+	15 Soul Trapper
+	4 Soul of New Alores
+	6 Souldebt Collector
+	6 Spite Caster
+	15 Splendid Leap
+	6 Sporecrafter's Gift
+	6 Sporeflow Mantle
+	15 Sporeflow Propagator
+	7 Sporeflow Protector
+	6 Sporeflow Repulsion
+	6 Sporegraft
+	6 Starving Swooprat
+	6 Stinghopper
+	15 Storehouse Collapse
+	6 Stratusform Seraph
+	6 Streetside Entertainer
+	15 Sudden Conversion
+	15 Sunlit Plaza
+	6 Tear to Shreds
+	15 Tempted by Lotuses
+	15 Tenacious Brawler
+	15 Terror of the Ontarachie
+	6 Thespian Soldier
+	15 Tomb Keeper
+	6 Trufflefrog
+	6 Turtleback Guide
+	15 Twirling Duet
+	6 Uncouth Ancestor
+	6 Undying Watcher
+	15 Unicorn of the Vale
+	15 Vacated Bar
+	7 Vibrant Rapture
+	6 Vindictive Abbot
+	7 Vivid March
+	7 Wade Through
+	6 Wailing Chorus
+	6 Wanderspore Terrapin
+	15 Whispers of the Ontarachie
+	7 Wild Festivities
+	6 Wild Instincts
+	7 Witch's Invocation
+	7 Witch of Shifting Waters
+	15 Woopip Bruiser
+	15 Woopip Chef
+	6 Woopip Decomposition
+	6 Woopip Elder
+	6 Woopip Sproutling
+	15 Woopip Wanderer
+	15 Young Swooprat
+	15 Zealous Scaleblight
+	15 Zoulev Altar
+	6 Zoulev Envoy
+	15 Zoulev Offering
+	15 Zoulev Rebuff
+	7 Zoulev Rites
+	15 Zoulev Ritualist

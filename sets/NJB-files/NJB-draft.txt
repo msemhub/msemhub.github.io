@@ -1,0 +1,3837 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abandon the Past",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Adept Lieutenant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Adventurous Impulse_NJB",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Aerie Aria",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Aftermath of the Surge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Air of Vernal Tidings",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Altar of Twisted Piety",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Apogee Cranes",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Apostle of the Elders",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Armament Exhibition",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Arrogant Orator",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Ascetic of the Folded Fan",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Autumn Symphony",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Bai of the Royal Gardens",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Ballad of the Forgotten",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Bandit's Dagger",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Baptism by Fire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Bastion Ranger",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Archer",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Bearer of Vile Incense",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Bian Lian Opera",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Birth of the Yaozu",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Blackblood Feaster",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Bloodfell Caves_NJB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Blossoming Sands_NJB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Bonk",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Budding Couturier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Burning of Xiangyin Temple",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Cai Lan, the Puppeteer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Called Shot",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Celebrations of Ferocity",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Ceremonial Jian",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Cerulean Sovereign",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Chamber of Penance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Chaparral Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Archer",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Char Brewer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Cheng, Wild Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}{G}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Chiseled Familiar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Fox",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Chiu, Hand of the Pack",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Chords of Conflict",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Chronicles of the Kitsune",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Cohorts of the Grove",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Consign to Old Diyu",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Cou Ling of the Lunar Den",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Crooning Eulogist",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Bard",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Da'Lang, Timberheart",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Wolf",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Dance of Dragons",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Dare to Dream",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Dazzling Duelist",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Demon of Hubris",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Descendant of Shimaru",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Dewdrop Oracle",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Diao of the Opal Infantry",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Dignitary's Rickshaw",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Dirge of the Damned",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Dismal Backwater_NJB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Draconic Cinderlance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Dragon Emperor's Chariot",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Duan's Aeriform Ribbons",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Eaveshoppers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Edgeland Savant",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Effigy of Ivory Fire",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Elder General Hatsuo",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Elder Soothsayer Chian",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Emperor Dan Te Mogui",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Entropic Inferno",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Erratic Visionary",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Expedite",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Exquisite Slash",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Fables of the Ill-Fated",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Fang Luo, the Astral Tide",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Dragon Spirit",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Fervid Dragonheart",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Festival Celebrants",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human Actor",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Festival Centrum",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Festival Decorator",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Bard",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Filigree Fan Dance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Flame Juggler",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "For the Court of the Queen",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Forbidden Shiangshi Arts",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Forerunner of the Briar",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Forest_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/296.jpg"
+			}
+		},
+		{
+			"name": "Forest_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/295.jpg"
+			}
+		},
+		{
+			"name": "Forest_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/297.jpg"
+			}
+		},
+		{
+			"name": "Forest_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/294.jpg"
+			}
+		},
+		{
+			"name": "Foster the Future",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Fox of a Brisk Autumn",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Fox of a Glistening Glen",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Fox of a New Era",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Fox of a Radiant Meadow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Fox of an Amber Dawn",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Fox of the Juniper Vale",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Fox",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Fox of the River Run",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Fox",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Frisky Denmates",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Fox",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Gao'Wu, Humble Sibyl",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Gashing Panther",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Gemscale Drake",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Gilded Sell-Sword",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Glorious Wingwright",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Grim Bounty",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Grotesque Defiler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Gui, the Brinebearer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Turtle Beast",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Guzheng Instructor",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Ha'Eng, Profane Scribe",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Hang Up Your Lanterns",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Hao'Tai, the Reverent",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Harmonic Recruit",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Harmony of Blossoms",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Heping, Grand Pacifist",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Planeswalker — Heping",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Heping's Acolyte",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Herald of the Dragon Army",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Herbal Remedy",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Hero's Journey",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Heyu, Depthlurker",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Crocodile Turtle",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Horizon Glider",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Hydrolyze",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Imperious Aristocrat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Ing'Wei, Azure Empress",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Planeswalker — Ing'Wei",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Ing'Wei's Admonition",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Island_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "Island_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Island_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Island_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Jadeplate Armor",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Jeering Kit",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Fox",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Jindao, the World Eye",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Snake",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Jiu, Daughter of the Sun",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Fox Spirit",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Journeying Packmaster",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Judgment of Hao'Tai",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Jungle Hollow_NJB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Juyu Offering Pool",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Kai'Jun, the Eradicator",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Kai'Long, the Call of the Dark",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Kai'Oro, Grave Betrayer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Kai'Zhou, the Purifier",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Demon",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Kaleidoscale Drake",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Kan'Gi, High Tactician",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Kanghyae Forum",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Keen Redtail",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Fox",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Kiri, Corporeal Conduit",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Fox Spirit",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Kiyoko of the Silver Mist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Planeswalker — Kiyoko",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Kuoshu Martial Arts",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Lady of the Nymphaeas",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Lamplight Tender",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Leave the Den",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Li's Moonblades",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Lijing, the Great Partisan",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Elder Fox Spirit",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Lin, the Opportunist",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Lizhao, Last Breath of the Yenzu",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Elder Demon",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Lizhao's Soulblade",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Lu'She Temple Customs",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Lunar Flock",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Lunar Shachuan",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Ma'Long, the Skystorm // Boxue, Imperial Ally",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "228",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/NJB-files/img/228a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/228a_front.jpg"
+			}
+		},
+		{
+			"name": "Ma'Long, the Skystorm // Boxue, Imperial Ally",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "228",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/NJB-files/img/228a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/228a_front.jpg"
+			}
+		},
+		{
+			"name": "Memorial Plaza",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Mercenary of the Folded Fan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Mieng of the Pyre Waltz",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Mighty Xioshu",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elk Bear",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Mire Sculptor",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Mischievous Maolu",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Mountain_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/290.jpg"
+			}
+		},
+		{
+			"name": "Mountain_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/291.jpg"
+			}
+		},
+		{
+			"name": "Mountain_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/292.jpg"
+			}
+		},
+		{
+			"name": "Mountain_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/293.jpg"
+			}
+		},
+		{
+			"name": "Nichang Yuyi",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Nightblade Umbra",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Nonpareil of the Abyss",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Kraken",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Ode to the Red Wind",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Old Lord Xiusheng",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "One Last Dance",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Ornamental Longbow",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Ornate Legionnaire",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Oshin, Reef Warden",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Drake",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Oshu of the Bosk",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Legendary Creature — Beast",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Outcast of the Folded Fan",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Pacifism_NJB",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Pack Savagery",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Painting Dolls",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Panya, Who Dares to Dream",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Mouse Warrior",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Papier-Mâché Marvel",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Parasol Twirler",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Path of the Outsider",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Peacetime Murals",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Pious Flutist_NJB",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Plains_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Plains_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Plains_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Plains_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Pon's Apprentice",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Prince Crab",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Crab",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Processional Junk",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Prophetic Prismite",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Pup of a Marigold Burrow",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Fox",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Qiyan, Great Progenitor",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{G}{G}",
+			"type": "Legendary Creature — Elder Hydra",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Qulai, Orchard Shepherd",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Fox Spirit",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Rampaging Xiangshe",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Rapacious Regent",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Read the Tides",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Red-Crowned Admiral",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Reflecting Pool Drifter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Rest and Relaxation",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Restless Oppressor",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Roadside Performer",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Ruchong Awakening",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Rugged Highlands_NJB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Russet Denmother",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Sable Evangelist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Sage of the Jade Baton",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Bard",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Sanguine Muralist",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Savage Convergence",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Scar Tattooist",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Scatter Memories as Ashes",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Scholar of the Staff",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Monkey Warrior",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Scorching Dragonfire",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Scoured Barrens_NJB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Scourge of the Sun",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Scribe of the Sky Scrolls",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Seal the Gateway",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Serum Peddler",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Seto's Private Collection",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Seto San, Divine Heroine",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Planeswalker — Seto",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Sheersilk Robes",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Shifu of Xiangyin Temple",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Shigurei, Vassal of the Depths",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Legendary Creature — Kraken",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Shrine of Elder Lords",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Shuilong Technique",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Skirmish Scars_NJB",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Slapdash Matrimony",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Song of Wind and Fire",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Soul Engulfer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Spawn of Qiyan",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Spear Flourish",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Spirited Florist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Sponsor of the Folded Fan",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Stand in Opposition",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Stroke of Fortune",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Suitor of the Glade",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Sun Yun, Master of Man",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Swamp_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/288.jpg"
+			}
+		},
+		{
+			"name": "Swamp_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/289.jpg"
+			}
+		},
+		{
+			"name": "Swamp_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Swamp_NJB",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/287.jpg"
+			}
+		},
+		{
+			"name": "Swiftblade Ren",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Swiftwater Cliffs_NJB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Sword Dance",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Tale of Tranquility",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "The Art of War",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "The Blood Sun Sets",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "The Great War Ends",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "The Mythical Zhiwu",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Legendary Creature — Plant Beast",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "The Orange Orchard",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "The People's Anthem",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "The Royal Vignettes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Theatre of Cruelty",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Thornwood Falls_NJB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Those Lost to the Waves",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Thriving Viper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Till the Queen's Gardens",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Timberland Hymn",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Tranquil Cove_NJB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Traveler's Trial",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Trawl the Annals",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Tree of Tragedies",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Plant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Trophy Collector_NJB",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Tseng, the Shooting Star",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Tzelin, Cabal Liturgist",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Ushi Yun, the Curator",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Vassal of the Wild",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Verdant Druid",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Vinehorn Stag",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Violent Devotion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Viridian Townships",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Visit from Aunti",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Vulpine Verse",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Walk the Ancestral Path",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Wang Xi, Wishes on the Wind",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Drake",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Warlord of Wun Su",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Monkey Warrior",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Warped Landscape_NJB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Wealth of the Flood",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Wei Ji, Life's Rhythm",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Planeswalker — Ji",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Whispers of the Dead",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Wilderkin Zealot",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Wildlife Sketches",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Wind-Scarred Crag_NJB",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Wun Su, War's Muse",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Monkey Warrior",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Xie'e Amphitheatre",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Xiejuan and Hao Lu",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Cat Human",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Xihuo, the Onyx Flame",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Xueyang San",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Ya'Ling, the Rune-Drake",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Drake",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Yenzu Blood Pact",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Yenzu Disciple",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Yenzu Melodrama",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Yenzu Nightblade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Yenzu Puppeteering",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Yenzu Ritual Vessel",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Yujei, Zephyr Melodist",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Zihao, Song of the Glade",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Druid Bard",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Zou Meili, Cruel Justice",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Planeswalker — Zou",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/NJB-files/img/255.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Autumn Symphony
+	2 Bai of the Royal Gardens
+	2 Birth of the Yaozu
+	2 Cai Lan, the Puppeteer
+	2 Cheng, Wild Tyrant
+	2 Chiu, Hand of the Pack
+	2 Chronicles of the Kitsune
+	2 Cou Ling of the Lunar Den
+	2 Da'Lang, Timberheart
+	2 Dance of Dragons
+	2 Diao of the Opal Infantry
+	2 Dragon Emperor's Chariot
+	2 Duan's Aeriform Ribbons
+	2 Elder General Hatsuo
+	2 Elder Soothsayer Chian
+	2 Emperor Dan Te Mogui
+	1 Entropic Inferno
+	2 Fang Luo, the Astral Tide
+	1 Forbidden Shiangshi Arts
+	1 Foster the Future
+	2 Gao'Wu, Humble Sibyl
+	1 Gui, the Brinebearer
+	2 Ha'Eng, Profane Scribe
+	1 Hang Up Your Lanterns
+	1 Hao'Tai, the Reverent
+	1 Heping, Grand Pacifist
+	2 Heyu, Depthlurker
+	1 Ing'Wei, Azure Empress
+	2 Jindao, the World Eye
+	2 Jiu, Daughter of the Sun
+	2 Judgment of Hao'Tai
+	2 Juyu Offering Pool
+	2 Kai'Jun, the Eradicator
+	2 Kai'Long, the Call of the Dark
+	2 Kai'Oro, Grave Betrayer
+	2 Kai'Zhou, the Purifier
+	2 Kan'Gi, High Tactician
+	2 Kiri, Corporeal Conduit
+	1 Kiyoko of the Silver Mist
+	2 Li's Moonblades
+	1 Lijing, the Great Partisan
+	2 Lin, the Opportunist
+	1 Lizhao, Last Breath of the Yenzu
+	1 Ma'Long, the Skystorm // Boxue, Imperial Ally
+	1 Ma'Long, the Skystorm // Boxue, Imperial Ally
+	2 Mieng of the Pyre Waltz
+	2 Nichang Yuyi
+	2 Old Lord Xiusheng
+	2 Oshin, Reef Warden
+	2 Oshu of the Bosk
+	2 Painting Dolls
+	1 Panya, Who Dares to Dream
+	2 Papier-Mâché Marvel
+	1 Qiyan, Great Progenitor
+	2 Qulai, Orchard Shepherd
+	2 Ruchong Awakening
+	2 Savage Convergence
+	1 Seto San, Divine Heroine
+	2 Shigurei, Vassal of the Depths
+	2 Shrine of Elder Lords
+	2 Shuilong Technique
+	2 Sun Yun, Master of Man
+	1 Swiftblade Ren
+	2 The Art of War
+	2 The Blood Sun Sets
+	2 The Great War Ends
+	2 The Mythical Zhiwu
+	2 The Orange Orchard
+	2 Till the Queen's Gardens
+	2 Tseng, the Shooting Star
+	2 Tzelin, Cabal Liturgist
+	2 Ushi Yun, the Curator
+	1 Wang Xi, Wishes on the Wind
+	1 Wei Ji, Life's Rhythm
+	2 Wildlife Sketches
+	2 Wun Su, War's Muse
+	2 Xie'e Amphitheatre
+	2 Xiejuan and Hao Lu
+	2 Xihuo, the Onyx Flame
+	2 Xueyang San
+	2 Ya'Ling, the Rune-Drake
+	2 Yenzu Blood Pact
+	2 Yujei, Zephyr Melodist
+	2 Zihao, Song of the Glade
+	1 Zou Meili, Cruel Justice
+[uncommon(3)]
+	4 Adept Lieutenant
+	4 Aftermath of the Surge
+	4 Altar of Twisted Piety
+	4 Ascetic of the Folded Fan
+	4 Bandit's Dagger
+	4 Baptism by Fire
+	4 Bian Lian Opera
+	4 Blackblood Feaster
+	4 Bonk
+	4 Budding Couturier
+	4 Celebrations of Ferocity
+	4 Cerulean Sovereign
+	4 Chamber of Penance
+	4 Chaparral Hunter
+	4 Chiseled Familiar
+	4 Consign to Old Diyu
+	4 Demon of Hubris
+	4 Dignitary's Rickshaw
+	4 Draconic Cinderlance
+	4 Eaveshoppers
+	4 Effigy of Ivory Fire
+	4 Fables of the Ill-Fated
+	4 Fervid Dragonheart
+	4 Festival Centrum
+	4 Filigree Fan Dance
+	4 For the Court of the Queen
+	4 Forerunner of the Briar
+	4 Fox of a Brisk Autumn
+	4 Fox of a Glistening Glen
+	4 Fox of a Radiant Meadow
+	4 Frisky Denmates
+	4 Gemscale Drake
+	4 Glorious Wingwright
+	4 Grotesque Defiler
+	4 Heping's Acolyte
+	4 Hydrolyze
+	4 Imperious Aristocrat
+	4 Kanghyae Forum
+	4 Keen Redtail
+	4 Lady of the Nymphaeas
+	4 Leave the Den
+	4 Lu'She Temple Customs
+	4 Lunar Shachuan
+	4 Memorial Plaza
+	4 Mercenary of the Folded Fan
+	4 Mire Sculptor
+	4 Nonpareil of the Abyss
+	4 Pack Savagery
+	4 Path of the Outsider
+	4 Peacetime Murals
+	4 Pious Flutist_NJB
+	4 Pon's Apprentice
+	4 Pup of a Marigold Burrow
+	4 Rampaging Xiangshe
+	4 Rapacious Regent
+	4 Red-Crowned Admiral
+	4 Reflecting Pool Drifter
+	4 Sable Evangelist
+	4 Sage of the Jade Baton
+	4 Scholar of the Staff
+	4 Seal the Gateway
+	4 Seto's Private Collection
+	4 Shifu of Xiangyin Temple
+	4 Skirmish Scars_NJB
+	4 Song of Wind and Fire
+	4 Soul Engulfer
+	4 Spawn of Qiyan
+	4 Spirited Florist
+	4 Stand in Opposition
+	4 The People's Anthem
+	4 The Royal Vignettes
+	4 Those Lost to the Waves
+	4 Thriving Viper
+	4 Timberland Hymn
+	4 Trawl the Annals
+	4 Vassal of the Wild
+	4 Verdant Druid
+	4 Viridian Townships
+	4 Vulpine Verse
+	4 Whispers of the Dead
+	4 Wilderkin Zealot
+	4 Yenzu Melodrama
+	4 Yenzu Nightblade
+[common(7)]
+	8 Abandon the Past
+	8 Adventurous Impulse_NJB
+	8 Aerie Aria
+	8 Air of Vernal Tidings
+	8 Apogee Cranes
+	8 Apostle of the Elders
+	8 Armament Exhibition
+	8 Arrogant Orator
+	8 Ballad of the Forgotten
+	8 Bastion Ranger
+	8 Bearer of Vile Incense
+	8 Bloodfell Caves_NJB
+	8 Blossoming Sands_NJB
+	8 Burning of Xiangyin Temple
+	8 Called Shot
+	8 Ceremonial Jian
+	8 Char Brewer
+	8 Chords of Conflict
+	8 Cohorts of the Grove
+	8 Crooning Eulogist
+	8 Dare to Dream
+	8 Dazzling Duelist
+	8 Descendant of Shimaru
+	8 Dewdrop Oracle
+	8 Dirge of the Damned
+	8 Dismal Backwater_NJB
+	8 Edgeland Savant
+	8 Erratic Visionary
+	8 Expedite
+	8 Exquisite Slash
+	8 Festival Celebrants
+	8 Festival Decorator
+	8 Flame Juggler
+	8 Fox of a New Era
+	8 Fox of an Amber Dawn
+	8 Fox of the Juniper Vale
+	8 Fox of the River Run
+	8 Gashing Panther
+	8 Gilded Sell-Sword
+	8 Grim Bounty
+	8 Guzheng Instructor
+	8 Harmonic Recruit
+	8 Harmony of Blossoms
+	8 Herald of the Dragon Army
+	8 Herbal Remedy
+	8 Hero's Journey
+	8 Horizon Glider
+	8 Ing'Wei's Admonition
+	8 Jadeplate Armor
+	8 Jeering Kit
+	8 Journeying Packmaster
+	8 Jungle Hollow_NJB
+	8 Kaleidoscale Drake
+	8 Kuoshu Martial Arts
+	8 Lamplight Tender
+	8 Lizhao's Soulblade
+	8 Lunar Flock
+	8 Mighty Xioshu
+	8 Mischievous Maolu
+	8 Nightblade Umbra
+	8 Ode to the Red Wind
+	8 One Last Dance
+	8 Ornamental Longbow
+	8 Ornate Legionnaire
+	8 Outcast of the Folded Fan
+	8 Pacifism_NJB
+	8 Parasol Twirler
+	8 Prince Crab
+	8 Processional Junk
+	8 Prophetic Prismite
+	8 Read the Tides
+	8 Rest and Relaxation
+	8 Restless Oppressor
+	8 Roadside Performer
+	8 Rugged Highlands_NJB
+	8 Russet Denmother
+	8 Sanguine Muralist
+	8 Scar Tattooist
+	8 Scatter Memories as Ashes
+	8 Scorching Dragonfire
+	8 Scoured Barrens_NJB
+	8 Scourge of the Sun
+	8 Scribe of the Sky Scrolls
+	8 Serum Peddler
+	8 Sheersilk Robes
+	8 Slapdash Matrimony
+	8 Spear Flourish
+	8 Sponsor of the Folded Fan
+	8 Stroke of Fortune
+	8 Suitor of the Glade
+	8 Swiftwater Cliffs_NJB
+	8 Sword Dance
+	8 Tale of Tranquility
+	8 Theatre of Cruelty
+	8 Thornwood Falls_NJB
+	8 Tranquil Cove_NJB
+	8 Traveler's Trial
+	8 Tree of Tragedies
+	8 Trophy Collector_NJB
+	8 Vinehorn Stag
+	8 Violent Devotion
+	8 Visit from Aunti
+	8 Walk the Ancestral Path
+	8 Warlord of Wun Su
+	8 Warped Landscape_NJB
+	8 Wealth of the Flood
+	8 Wind-Scarred Crag_NJB
+	8 Yenzu Disciple
+	8 Yenzu Puppeteering
+	8 Yenzu Ritual Vessel
+[foil(1)]
+	12 Abandon the Past
+	6 Adept Lieutenant
+	12 Adventurous Impulse_NJB
+	12 Aerie Aria
+	6 Aftermath of the Surge
+	12 Air of Vernal Tidings
+	6 Altar of Twisted Piety
+	12 Apogee Cranes
+	12 Apostle of the Elders
+	12 Armament Exhibition
+	12 Arrogant Orator
+	6 Ascetic of the Folded Fan
+	1 Autumn Symphony
+	2 Bai of the Royal Gardens
+	12 Ballad of the Forgotten
+	6 Bandit's Dagger
+	6 Baptism by Fire
+	12 Bastion Ranger
+	12 Bearer of Vile Incense
+	6 Bian Lian Opera
+	2 Birth of the Yaozu
+	6 Blackblood Feaster
+	12 Bloodfell Caves_NJB
+	12 Blossoming Sands_NJB
+	6 Bonk
+	6 Budding Couturier
+	12 Burning of Xiangyin Temple
+	2 Cai Lan, the Puppeteer
+	12 Called Shot
+	6 Celebrations of Ferocity
+	12 Ceremonial Jian
+	6 Cerulean Sovereign
+	6 Chamber of Penance
+	6 Chaparral Hunter
+	12 Char Brewer
+	2 Cheng, Wild Tyrant
+	6 Chiseled Familiar
+	2 Chiu, Hand of the Pack
+	12 Chords of Conflict
+	2 Chronicles of the Kitsune
+	12 Cohorts of the Grove
+	6 Consign to Old Diyu
+	2 Cou Ling of the Lunar Den
+	12 Crooning Eulogist
+	2 Da'Lang, Timberheart
+	2 Dance of Dragons
+	12 Dare to Dream
+	12 Dazzling Duelist
+	6 Demon of Hubris
+	12 Descendant of Shimaru
+	12 Dewdrop Oracle
+	2 Diao of the Opal Infantry
+	6 Dignitary's Rickshaw
+	12 Dirge of the Damned
+	12 Dismal Backwater_NJB
+	6 Draconic Cinderlance
+	2 Dragon Emperor's Chariot
+	2 Duan's Aeriform Ribbons
+	6 Eaveshoppers
+	12 Edgeland Savant
+	6 Effigy of Ivory Fire
+	2 Elder General Hatsuo
+	2 Elder Soothsayer Chian
+	2 Emperor Dan Te Mogui
+	1 Entropic Inferno
+	12 Erratic Visionary
+	12 Expedite
+	12 Exquisite Slash
+	6 Fables of the Ill-Fated
+	2 Fang Luo, the Astral Tide
+	6 Fervid Dragonheart
+	12 Festival Celebrants
+	6 Festival Centrum
+	12 Festival Decorator
+	6 Filigree Fan Dance
+	12 Flame Juggler
+	6 For the Court of the Queen
+	1 Forbidden Shiangshi Arts
+	6 Forerunner of the Briar
+	1 Foster the Future
+	6 Fox of a Brisk Autumn
+	6 Fox of a Glistening Glen
+	12 Fox of a New Era
+	6 Fox of a Radiant Meadow
+	12 Fox of an Amber Dawn
+	12 Fox of the Juniper Vale
+	12 Fox of the River Run
+	6 Frisky Denmates
+	2 Gao'Wu, Humble Sibyl
+	12 Gashing Panther
+	6 Gemscale Drake
+	12 Gilded Sell-Sword
+	6 Glorious Wingwright
+	12 Grim Bounty
+	6 Grotesque Defiler
+	1 Gui, the Brinebearer
+	12 Guzheng Instructor
+	2 Ha'Eng, Profane Scribe
+	1 Hang Up Your Lanterns
+	1 Hao'Tai, the Reverent
+	12 Harmonic Recruit
+	12 Harmony of Blossoms
+	1 Heping, Grand Pacifist
+	6 Heping's Acolyte
+	12 Herald of the Dragon Army
+	12 Herbal Remedy
+	12 Hero's Journey
+	2 Heyu, Depthlurker
+	12 Horizon Glider
+	6 Hydrolyze
+	6 Imperious Aristocrat
+	1 Ing'Wei, Azure Empress
+	12 Ing'Wei's Admonition
+	12 Jadeplate Armor
+	12 Jeering Kit
+	2 Jindao, the World Eye
+	2 Jiu, Daughter of the Sun
+	12 Journeying Packmaster
+	2 Judgment of Hao'Tai
+	12 Jungle Hollow_NJB
+	2 Juyu Offering Pool
+	2 Kai'Jun, the Eradicator
+	2 Kai'Long, the Call of the Dark
+	2 Kai'Oro, Grave Betrayer
+	2 Kai'Zhou, the Purifier
+	12 Kaleidoscale Drake
+	2 Kan'Gi, High Tactician
+	6 Kanghyae Forum
+	6 Keen Redtail
+	2 Kiri, Corporeal Conduit
+	1 Kiyoko of the Silver Mist
+	12 Kuoshu Martial Arts
+	6 Lady of the Nymphaeas
+	12 Lamplight Tender
+	6 Leave the Den
+	2 Li's Moonblades
+	1 Lijing, the Great Partisan
+	2 Lin, the Opportunist
+	1 Lizhao, Last Breath of the Yenzu
+	12 Lizhao's Soulblade
+	6 Lu'She Temple Customs
+	12 Lunar Flock
+	6 Lunar Shachuan
+	1 Ma'Long, the Skystorm // Boxue, Imperial Ally
+	1 Ma'Long, the Skystorm // Boxue, Imperial Ally
+	6 Memorial Plaza
+	6 Mercenary of the Folded Fan
+	2 Mieng of the Pyre Waltz
+	12 Mighty Xioshu
+	6 Mire Sculptor
+	12 Mischievous Maolu
+	2 Nichang Yuyi
+	12 Nightblade Umbra
+	6 Nonpareil of the Abyss
+	12 Ode to the Red Wind
+	2 Old Lord Xiusheng
+	12 One Last Dance
+	12 Ornamental Longbow
+	12 Ornate Legionnaire
+	2 Oshin, Reef Warden
+	2 Oshu of the Bosk
+	12 Outcast of the Folded Fan
+	12 Pacifism_NJB
+	6 Pack Savagery
+	2 Painting Dolls
+	1 Panya, Who Dares to Dream
+	2 Papier-Mâché Marvel
+	12 Parasol Twirler
+	6 Path of the Outsider
+	6 Peacetime Murals
+	6 Pious Flutist_NJB
+	6 Pon's Apprentice
+	12 Prince Crab
+	12 Processional Junk
+	12 Prophetic Prismite
+	6 Pup of a Marigold Burrow
+	1 Qiyan, Great Progenitor
+	2 Qulai, Orchard Shepherd
+	6 Rampaging Xiangshe
+	6 Rapacious Regent
+	12 Read the Tides
+	6 Red-Crowned Admiral
+	6 Reflecting Pool Drifter
+	12 Rest and Relaxation
+	12 Restless Oppressor
+	12 Roadside Performer
+	2 Ruchong Awakening
+	12 Rugged Highlands_NJB
+	12 Russet Denmother
+	6 Sable Evangelist
+	6 Sage of the Jade Baton
+	12 Sanguine Muralist
+	2 Savage Convergence
+	12 Scar Tattooist
+	12 Scatter Memories as Ashes
+	6 Scholar of the Staff
+	12 Scorching Dragonfire
+	12 Scoured Barrens_NJB
+	12 Scourge of the Sun
+	12 Scribe of the Sky Scrolls
+	6 Seal the Gateway
+	12 Serum Peddler
+	6 Seto's Private Collection
+	1 Seto San, Divine Heroine
+	12 Sheersilk Robes
+	6 Shifu of Xiangyin Temple
+	2 Shigurei, Vassal of the Depths
+	2 Shrine of Elder Lords
+	2 Shuilong Technique
+	6 Skirmish Scars_NJB
+	12 Slapdash Matrimony
+	6 Song of Wind and Fire
+	6 Soul Engulfer
+	6 Spawn of Qiyan
+	12 Spear Flourish
+	6 Spirited Florist
+	12 Sponsor of the Folded Fan
+	6 Stand in Opposition
+	12 Stroke of Fortune
+	12 Suitor of the Glade
+	2 Sun Yun, Master of Man
+	1 Swiftblade Ren
+	12 Swiftwater Cliffs_NJB
+	12 Sword Dance
+	12 Tale of Tranquility
+	2 The Art of War
+	2 The Blood Sun Sets
+	2 The Great War Ends
+	2 The Mythical Zhiwu
+	2 The Orange Orchard
+	6 The People's Anthem
+	6 The Royal Vignettes
+	12 Theatre of Cruelty
+	12 Thornwood Falls_NJB
+	6 Those Lost to the Waves
+	6 Thriving Viper
+	2 Till the Queen's Gardens
+	6 Timberland Hymn
+	12 Tranquil Cove_NJB
+	12 Traveler's Trial
+	6 Trawl the Annals
+	12 Tree of Tragedies
+	12 Trophy Collector_NJB
+	2 Tseng, the Shooting Star
+	2 Tzelin, Cabal Liturgist
+	2 Ushi Yun, the Curator
+	6 Vassal of the Wild
+	6 Verdant Druid
+	12 Vinehorn Stag
+	12 Violent Devotion
+	6 Viridian Townships
+	12 Visit from Aunti
+	6 Vulpine Verse
+	12 Walk the Ancestral Path
+	1 Wang Xi, Wishes on the Wind
+	12 Warlord of Wun Su
+	12 Warped Landscape_NJB
+	12 Wealth of the Flood
+	1 Wei Ji, Life's Rhythm
+	6 Whispers of the Dead
+	6 Wilderkin Zealot
+	2 Wildlife Sketches
+	12 Wind-Scarred Crag_NJB
+	2 Wun Su, War's Muse
+	2 Xie'e Amphitheatre
+	2 Xiejuan and Hao Lu
+	2 Xihuo, the Onyx Flame
+	2 Xueyang San
+	2 Ya'Ling, the Rune-Drake
+	2 Yenzu Blood Pact
+	12 Yenzu Disciple
+	6 Yenzu Melodrama
+	6 Yenzu Nightblade
+	12 Yenzu Puppeteering
+	12 Yenzu Ritual Vessel
+	2 Yujei, Zephyr Melodist
+	2 Zihao, Song of the Glade
+	1 Zou Meili, Cruel Justice
+[wildcard(1)]
+	6 Abandon the Past
+	15 Adept Lieutenant
+	6 Adventurous Impulse_NJB
+	6 Aerie Aria
+	15 Aftermath of the Surge
+	6 Air of Vernal Tidings
+	15 Altar of Twisted Piety
+	6 Apogee Cranes
+	6 Apostle of the Elders
+	6 Armament Exhibition
+	6 Arrogant Orator
+	15 Ascetic of the Folded Fan
+	4 Autumn Symphony
+	7 Bai of the Royal Gardens
+	6 Ballad of the Forgotten
+	15 Bandit's Dagger
+	15 Baptism by Fire
+	6 Bastion Ranger
+	6 Bearer of Vile Incense
+	15 Bian Lian Opera
+	7 Birth of the Yaozu
+	15 Blackblood Feaster
+	6 Bloodfell Caves_NJB
+	6 Blossoming Sands_NJB
+	15 Bonk
+	15 Budding Couturier
+	6 Burning of Xiangyin Temple
+	7 Cai Lan, the Puppeteer
+	6 Called Shot
+	15 Celebrations of Ferocity
+	6 Ceremonial Jian
+	15 Cerulean Sovereign
+	15 Chamber of Penance
+	15 Chaparral Hunter
+	6 Char Brewer
+	7 Cheng, Wild Tyrant
+	15 Chiseled Familiar
+	7 Chiu, Hand of the Pack
+	6 Chords of Conflict
+	7 Chronicles of the Kitsune
+	6 Cohorts of the Grove
+	15 Consign to Old Diyu
+	7 Cou Ling of the Lunar Den
+	6 Crooning Eulogist
+	7 Da'Lang, Timberheart
+	7 Dance of Dragons
+	6 Dare to Dream
+	6 Dazzling Duelist
+	15 Demon of Hubris
+	6 Descendant of Shimaru
+	6 Dewdrop Oracle
+	7 Diao of the Opal Infantry
+	15 Dignitary's Rickshaw
+	6 Dirge of the Damned
+	6 Dismal Backwater_NJB
+	15 Draconic Cinderlance
+	7 Dragon Emperor's Chariot
+	7 Duan's Aeriform Ribbons
+	15 Eaveshoppers
+	6 Edgeland Savant
+	15 Effigy of Ivory Fire
+	7 Elder General Hatsuo
+	7 Elder Soothsayer Chian
+	7 Emperor Dan Te Mogui
+	4 Entropic Inferno
+	6 Erratic Visionary
+	6 Expedite
+	6 Exquisite Slash
+	15 Fables of the Ill-Fated
+	7 Fang Luo, the Astral Tide
+	15 Fervid Dragonheart
+	6 Festival Celebrants
+	15 Festival Centrum
+	6 Festival Decorator
+	15 Filigree Fan Dance
+	6 Flame Juggler
+	15 For the Court of the Queen
+	4 Forbidden Shiangshi Arts
+	15 Forerunner of the Briar
+	4 Foster the Future
+	15 Fox of a Brisk Autumn
+	15 Fox of a Glistening Glen
+	6 Fox of a New Era
+	15 Fox of a Radiant Meadow
+	6 Fox of an Amber Dawn
+	6 Fox of the Juniper Vale
+	6 Fox of the River Run
+	15 Frisky Denmates
+	7 Gao'Wu, Humble Sibyl
+	6 Gashing Panther
+	15 Gemscale Drake
+	6 Gilded Sell-Sword
+	15 Glorious Wingwright
+	6 Grim Bounty
+	15 Grotesque Defiler
+	4 Gui, the Brinebearer
+	6 Guzheng Instructor
+	7 Ha'Eng, Profane Scribe
+	4 Hang Up Your Lanterns
+	4 Hao'Tai, the Reverent
+	6 Harmonic Recruit
+	6 Harmony of Blossoms
+	4 Heping, Grand Pacifist
+	15 Heping's Acolyte
+	6 Herald of the Dragon Army
+	6 Herbal Remedy
+	6 Hero's Journey
+	7 Heyu, Depthlurker
+	6 Horizon Glider
+	15 Hydrolyze
+	15 Imperious Aristocrat
+	4 Ing'Wei, Azure Empress
+	6 Ing'Wei's Admonition
+	6 Jadeplate Armor
+	6 Jeering Kit
+	7 Jindao, the World Eye
+	7 Jiu, Daughter of the Sun
+	6 Journeying Packmaster
+	7 Judgment of Hao'Tai
+	6 Jungle Hollow_NJB
+	7 Juyu Offering Pool
+	7 Kai'Jun, the Eradicator
+	7 Kai'Long, the Call of the Dark
+	7 Kai'Oro, Grave Betrayer
+	7 Kai'Zhou, the Purifier
+	6 Kaleidoscale Drake
+	7 Kan'Gi, High Tactician
+	15 Kanghyae Forum
+	15 Keen Redtail
+	7 Kiri, Corporeal Conduit
+	4 Kiyoko of the Silver Mist
+	6 Kuoshu Martial Arts
+	15 Lady of the Nymphaeas
+	6 Lamplight Tender
+	15 Leave the Den
+	7 Li's Moonblades
+	4 Lijing, the Great Partisan
+	7 Lin, the Opportunist
+	4 Lizhao, Last Breath of the Yenzu
+	6 Lizhao's Soulblade
+	15 Lu'She Temple Customs
+	6 Lunar Flock
+	15 Lunar Shachuan
+	4 Ma'Long, the Skystorm // Boxue, Imperial Ally
+	4 Ma'Long, the Skystorm // Boxue, Imperial Ally
+	15 Memorial Plaza
+	15 Mercenary of the Folded Fan
+	7 Mieng of the Pyre Waltz
+	6 Mighty Xioshu
+	15 Mire Sculptor
+	6 Mischievous Maolu
+	7 Nichang Yuyi
+	6 Nightblade Umbra
+	15 Nonpareil of the Abyss
+	6 Ode to the Red Wind
+	7 Old Lord Xiusheng
+	6 One Last Dance
+	6 Ornamental Longbow
+	6 Ornate Legionnaire
+	7 Oshin, Reef Warden
+	7 Oshu of the Bosk
+	6 Outcast of the Folded Fan
+	6 Pacifism_NJB
+	15 Pack Savagery
+	7 Painting Dolls
+	4 Panya, Who Dares to Dream
+	7 Papier-Mâché Marvel
+	6 Parasol Twirler
+	15 Path of the Outsider
+	15 Peacetime Murals
+	15 Pious Flutist_NJB
+	15 Pon's Apprentice
+	6 Prince Crab
+	6 Processional Junk
+	6 Prophetic Prismite
+	15 Pup of a Marigold Burrow
+	4 Qiyan, Great Progenitor
+	7 Qulai, Orchard Shepherd
+	15 Rampaging Xiangshe
+	15 Rapacious Regent
+	6 Read the Tides
+	15 Red-Crowned Admiral
+	15 Reflecting Pool Drifter
+	6 Rest and Relaxation
+	6 Restless Oppressor
+	6 Roadside Performer
+	7 Ruchong Awakening
+	6 Rugged Highlands_NJB
+	6 Russet Denmother
+	15 Sable Evangelist
+	15 Sage of the Jade Baton
+	6 Sanguine Muralist
+	7 Savage Convergence
+	6 Scar Tattooist
+	6 Scatter Memories as Ashes
+	15 Scholar of the Staff
+	6 Scorching Dragonfire
+	6 Scoured Barrens_NJB
+	6 Scourge of the Sun
+	6 Scribe of the Sky Scrolls
+	15 Seal the Gateway
+	6 Serum Peddler
+	15 Seto's Private Collection
+	4 Seto San, Divine Heroine
+	6 Sheersilk Robes
+	15 Shifu of Xiangyin Temple
+	7 Shigurei, Vassal of the Depths
+	7 Shrine of Elder Lords
+	7 Shuilong Technique
+	15 Skirmish Scars_NJB
+	6 Slapdash Matrimony
+	15 Song of Wind and Fire
+	15 Soul Engulfer
+	15 Spawn of Qiyan
+	6 Spear Flourish
+	15 Spirited Florist
+	6 Sponsor of the Folded Fan
+	15 Stand in Opposition
+	6 Stroke of Fortune
+	6 Suitor of the Glade
+	7 Sun Yun, Master of Man
+	4 Swiftblade Ren
+	6 Swiftwater Cliffs_NJB
+	6 Sword Dance
+	6 Tale of Tranquility
+	7 The Art of War
+	7 The Blood Sun Sets
+	7 The Great War Ends
+	7 The Mythical Zhiwu
+	7 The Orange Orchard
+	15 The People's Anthem
+	15 The Royal Vignettes
+	6 Theatre of Cruelty
+	6 Thornwood Falls_NJB
+	15 Those Lost to the Waves
+	15 Thriving Viper
+	7 Till the Queen's Gardens
+	15 Timberland Hymn
+	6 Tranquil Cove_NJB
+	6 Traveler's Trial
+	15 Trawl the Annals
+	6 Tree of Tragedies
+	6 Trophy Collector_NJB
+	7 Tseng, the Shooting Star
+	7 Tzelin, Cabal Liturgist
+	7 Ushi Yun, the Curator
+	15 Vassal of the Wild
+	15 Verdant Druid
+	6 Vinehorn Stag
+	6 Violent Devotion
+	15 Viridian Townships
+	6 Visit from Aunti
+	15 Vulpine Verse
+	6 Walk the Ancestral Path
+	4 Wang Xi, Wishes on the Wind
+	6 Warlord of Wun Su
+	6 Warped Landscape_NJB
+	6 Wealth of the Flood
+	4 Wei Ji, Life's Rhythm
+	15 Whispers of the Dead
+	15 Wilderkin Zealot
+	7 Wildlife Sketches
+	6 Wind-Scarred Crag_NJB
+	7 Wun Su, War's Muse
+	7 Xie'e Amphitheatre
+	7 Xiejuan and Hao Lu
+	7 Xihuo, the Onyx Flame
+	7 Xueyang San
+	7 Ya'Ling, the Rune-Drake
+	7 Yenzu Blood Pact
+	6 Yenzu Disciple
+	15 Yenzu Melodrama
+	15 Yenzu Nightblade
+	6 Yenzu Puppeteering
+	6 Yenzu Ritual Vessel
+	7 Yujei, Zephyr Melodist
+	7 Zihao, Song of the Glade
+	4 Zou Meili, Cruel Justice

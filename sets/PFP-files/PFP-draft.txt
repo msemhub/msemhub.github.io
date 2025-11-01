@@ -1,0 +1,2901 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abandoned Memorial",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Alexei, Instigator of Terror",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Mutant Noble",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "All Who Wander",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "All or Nothing",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Arcor-Staff Adherent",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Arcor Diamond",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Arctic Mine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Artisan's Masterpiece",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Assassin's Warning",
+			"rarity": "common",
+			"mana_cost": "{2}{U/B}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Awash in Despair",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Balanced Blade",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Baneblade Stalker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Battered Steel",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Bearer of the Lantern",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Belligerent's Augur",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Warrior Druid",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Blade of Fretport",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Blade of the Long Night",
+			"rarity": "uncommon",
+			"mana_cost": "{R/W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Boneweary Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Burning Heels",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Callow Survivors",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/W}{G/W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Canal Lurker",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Carve a Path",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Chained Wildborn",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Mutant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Chapel Defendant",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Chapel Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Cleric of Fervor",
+			"rarity": "rare",
+			"mana_cost": "{3}{R/W}{R/W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Cold Embrace of Steel",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Comfort the Fallen",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Compelling Pariah",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Mutant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Conspiracy of Ravens",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Coppergild Mercenary",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Crumbling Precipice",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Crystal Cavern",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Crystal Puncture",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Cull the Citizenry",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Cult of Trinity's Fall",
+			"rarity": "rare",
+			"mana_cost": "{1}{B/G}{B/G}",
+			"type": "Enchantment",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Dashing Rogue",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Daunting Skyline",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Days of Decay",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Debt Dignitary",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Noble",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Decrepit Crags",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Delusional Noble",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Disassociate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Discordant Bell",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Dispossessed Noble",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Noble",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Dockside Healer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Dockyard Stalker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Dockyard Swindling",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Dregs of Order",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Drown in Nightmares",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Dwindling Peace",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Dwindling Stores",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/G}",
+			"type": "Enchantment",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Elixir of Immortality",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Empty the Streets",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Evade the Authorities",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Exhaustive Toil",
+			"rarity": "rare",
+			"mana_cost": "{W/B}{W/B}",
+			"type": "Enchantment",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Exquisite Heist",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Failing Port",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "False-Cure Smuggler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Fate Transfer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Fearful Observer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Fervent Arbiter",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Festering Waif",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Feverish Noble",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Figures in the Mist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Flee the City",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Flesh to Rot",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Flintlock Pioneer",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Flush With Arcor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Forest_PFP",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Consequences",
+			"rarity": "common",
+			"mana_cost": "{R/W}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Sins",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Steppe",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Frenzied Watchkeeper",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Fretport's Fade",
+			"rarity": "rare",
+			"mana_cost": "{1}{B/R}{B/R}",
+			"type": "Enchantment",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Fretport's Heedless",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Fretport's Lament",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Fretport Anarchists",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Fretport Bounty Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Fretport Froppers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Fretport Gravetender",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Fretport Mob",
+			"rarity": "common",
+			"mana_cost": "{R/G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Fretport Warden",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Gabryel's Devout",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Glimpse of Innocence",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Grace of the Trinity",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Grim Courtyard",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Grim Gravetender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Haphazard Militia",
+			"rarity": "rare",
+			"mana_cost": "{1}{G/W}{G/W}",
+			"type": "Creature — Human Citizen Soldier",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Harried Apothecary",
+			"rarity": "common",
+			"mana_cost": "{W/B}{W/B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Harriet, Liberated Wildborn",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Mutant Noble",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Hateful Gaze",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Hazy Lagoon",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Heedless Lovers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/G}{B/G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Helene Trant",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Planeswalker — Helene",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Hide from Horrors",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Hired Blades",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Hollow Survivor",
+			"rarity": "rare",
+			"mana_cost": "{3}{G/U}{G/U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Honor's Refuge",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Soldier Flagbearer",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Ill Fated Travels",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Inciting Bard",
+			"rarity": "rare",
+			"mana_cost": "{1}{R/G}{R/G}",
+			"type": "Creature — Human Citizen Bard",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Indomitable Mercenary",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Influential Wildborn",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Mutant Citizen",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Inkwell Daggers",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Inspired Blade",
+			"rarity": "common",
+			"mana_cost": "{1}{G/U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Invalidate",
+			"rarity": "uncommon",
+			"mana_cost": "{W/U}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Iron Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Island_PFP",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Judge's Decree",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Kalemn Weller",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Kalemn",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Kasienka, Raven's Regarded",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Kasienka's Veteran",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Keenheart Blade",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Keeper of the Banner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Noble Soldier",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Left Bereft",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Let Loose",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Lion's Vanguard",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Loss of Focus",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Lurking Terrors",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Madelon, Merchant's Heir",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Martyr's Sacrifice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Masquerading Bohemian",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Noble",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Mass Executions",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Master of Disorientation",
+			"rarity": "rare",
+			"mana_cost": "{2}{U/R}{U/R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Mental Fracture",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Merchant's District",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Merchant's Guile",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Mettlesome Watchkeeper",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Mob Rallier",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Morning Passages",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Morose Bohemian",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Noble",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Mountain_PFP",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Mourn the Lost",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Murmuring Falls",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Nataila, Raven's Repented",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Naturalize_PFP",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Nomad's Township",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Pale Flotsam",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Persecution Official",
+			"rarity": "rare",
+			"mana_cost": "{W/U}{W/U}",
+			"type": "Creature — Human Noble",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Phosphorescent Ravine",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Plague Mask",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Plains_PFP",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Political Opportunist",
+			"rarity": "common",
+			"mana_cost": "{U/R}{U/R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Postulate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Prayers of Defiance",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Prayers of Judgement",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Prayers of Release",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Precarious Ledgers",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Prophet of Pacifism",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Mutant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Purge the Harbor",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Purging Watchkeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Rallying Horn",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Rampant Summit",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Raven's Standard",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Ready for Battle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Resource Management",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Resplendent Bearing",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Resplendent Substratum",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Revelry Reverie",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Rickety Guildhall",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Right to Challenge",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Riot Queller",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Rising Riots",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Ruined Citadel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Scatter Riches",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Sedate Tundra",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Seek Salvation",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Selective Prophecies",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Serene Prayer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Serene Trail",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Sewer Pack",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Shared Reminiscence",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Shifting Glade",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Sickening Madness",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Sign in Blood_PFP",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Silence Dissent",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Silverblood Aspirant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Noble",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Stalwart Physicker",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Steadfast Heart",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Strength of the Devout",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Swamp_PFP",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Sycophantic Aristocrat",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "The Raven Queen of Fretport",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Thespian's Finale",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "To Say Farewell",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Track Prey",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Traumatic Memories",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Unassuming Waif",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Unbeholden to Death",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Unjust Sentence",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Unquenched Greed",
+			"rarity": "uncommon",
+			"mana_cost": "{U/R}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Untested Initiates",
+			"rarity": "common",
+			"mana_cost": "{1}{B/G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Untested Recruit",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Untouched Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Valeriya, Watchkeeper Veteran",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Noble Soldier",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Valeriya's Militant",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Valor of the Desperate",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Vassal of Virulence",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Venomtongue Archer",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Human Archer",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Vibrant Rainforest",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Vigilante's Cowl",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Voice of Warryn",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Wary Watchkeeper",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Watchkeeper's Prerogative",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Watchkeeper's Retort",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Watchkeeper's Stand",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Watchkeeper Deserter",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Wayward Afflicted",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Weary Watchkeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Weathered Veteran",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Weight of Sin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Whiplash",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Whisper Collector",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Wildborn Courtesan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Mutant Citizen",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Wildborn Merchant",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Human Mutant Noble",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Wisdom in Reflection",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/U}",
+			"type": "Instant",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Withering Beggar",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Worship in Vain",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Zealous Bloodletter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Forest_PRO_PFP",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Island_PRO_PFP",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Mountain_PRO_PFP",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Plains_PRO_PFP",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Swamp_PRO_PFP",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Vassal of Virulence_PRO_PFP",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/PFP-files/img/220.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Abandoned Memorial
+	2 Alexei, Instigator of Terror
+	2 All or Nothing
+	2 Arctic Mine
+	1 Balanced Blade
+	2 Canal Lurker
+	2 Carve a Path
+	2 Cleric of Fervor
+	2 Cold Embrace of Steel
+	2 Compelling Pariah
+	2 Coppergild Mercenary
+	2 Crumbling Precipice
+	2 Crystal Cavern
+	2 Cult of Trinity's Fall
+	2 Days of Decay
+	1 Dregs of Order
+	2 Empty the Streets
+	2 Exhaustive Toil
+	2 Exquisite Heist
+	2 Fearful Observer
+	2 Fervent Arbiter
+	1 Flesh to Rot
+	2 Flintlock Pioneer
+	2 Flush With Arcor
+	2 Forgotten Steppe
+	2 Frenzied Watchkeeper
+	2 Fretport's Fade
+	1 Fretport's Lament
+	2 Gabryel's Devout
+	2 Haphazard Militia
+	2 Harriet, Liberated Wildborn
+	1 Helene Trant
+	2 Hide from Horrors
+	2 Hollow Survivor
+	2 Honor's Refuge
+	2 Ill Fated Travels
+	2 Inciting Bard
+	2 Inkwell Daggers
+	2 Judge's Decree
+	1 Kalemn Weller
+	2 Kasienka, Raven's Regarded
+	2 Keenheart Blade
+	2 Left Bereft
+	2 Lion's Vanguard
+	2 Madelon, Merchant's Heir
+	2 Masquerading Bohemian
+	1 Mass Executions
+	2 Master of Disorientation
+	2 Mob Rallier
+	2 Murmuring Falls
+	2 Nataila, Raven's Repented
+	2 Nomad's Township
+	2 Persecution Official
+	2 Prayers of Defiance
+	2 Rampant Summit
+	2 Raven's Standard
+	2 Resource Management
+	2 Resplendent Substratum
+	2 Right to Challenge
+	1 Scatter Riches
+	2 Sedate Tundra
+	1 Seek Salvation
+	1 Selective Prophecies
+	2 Serene Prayer
+	2 Sewer Pack
+	1 Shared Reminiscence
+	2 Shifting Glade
+	2 The Raven Queen of Fretport
+	2 Thespian's Finale
+	2 Valeriya, Watchkeeper Veteran
+	2 Vassal of Virulence
+	2 Watchkeeper Deserter
+	2 Wildborn Merchant
+	1 Worship in Vain
+[uncommon(3)]
+	4 Arcor Diamond
+	4 Bearer of the Lantern
+	4 Belligerent's Augur
+	4 Blade of the Long Night
+	4 Burning Heels
+	4 Callow Survivors
+	4 Chapel Warden
+	4 Comfort the Fallen
+	4 Conspiracy of Ravens
+	4 Crystal Puncture
+	4 Cull the Citizenry
+	4 Daunting Skyline
+	4 Debt Dignitary
+	4 Decrepit Crags
+	4 Delusional Noble
+	4 Disassociate
+	4 Discordant Bell
+	4 Dwindling Peace
+	4 Dwindling Stores
+	4 Elixir of Immortality
+	4 False-Cure Smuggler
+	4 Fate Transfer
+	4 Figures in the Mist
+	4 Fretport's Heedless
+	4 Fretport Anarchists
+	4 Fretport Froppers
+	4 Fretport Gravetender
+	4 Grim Courtyard
+	4 Grim Gravetender
+	4 Hateful Gaze
+	4 Hazy Lagoon
+	4 Heedless Lovers
+	4 Hired Blades
+	4 Invalidate
+	4 Iron Warden
+	4 Keeper of the Banner
+	4 Martyr's Sacrifice
+	4 Merchant's District
+	4 Morning Passages
+	4 Pale Flotsam
+	4 Phosphorescent Ravine
+	4 Postulate
+	4 Prayers of Judgement
+	4 Precarious Ledgers
+	4 Prophet of Pacifism
+	4 Purge the Harbor
+	4 Purging Watchkeeper
+	4 Ready for Battle
+	4 Resplendent Bearing
+	4 Rickety Guildhall
+	4 Riot Queller
+	4 Ruined Citadel
+	4 Serene Trail
+	4 Silence Dissent
+	4 Silverblood Aspirant
+	4 To Say Farewell
+	4 Track Prey
+	4 Unassuming Waif
+	4 Unbeholden to Death
+	4 Unquenched Greed
+	4 Untouched Duelist
+	4 Vibrant Rainforest
+	4 Vigilante's Cowl
+	4 Watchkeeper's Prerogative
+	4 Weary Watchkeeper
+	4 Weight of Sin
+	4 Whiplash
+	4 Wildborn Courtesan
+	4 Wisdom in Reflection
+	4 Zealous Bloodletter
+[common(7)]
+	8 All Who Wander
+	8 Arcor-Staff Adherent
+	8 Artisan's Masterpiece
+	8 Assassin's Warning
+	8 Awash in Despair
+	8 Baneblade Stalker
+	8 Battered Steel
+	8 Blade of Fretport
+	8 Boneweary Warrior
+	8 Chained Wildborn
+	8 Chapel Defendant
+	8 Dashing Rogue
+	8 Dispossessed Noble
+	8 Dockside Healer
+	8 Dockyard Stalker
+	8 Dockyard Swindling
+	8 Drown in Nightmares
+	8 Evade the Authorities
+	8 Failing Port
+	8 Festering Waif
+	8 Feverish Noble
+	8 Flee the City
+	8 Forgotten Consequences
+	8 Forgotten Sins
+	8 Fretport Bounty Hunter
+	8 Fretport Mob
+	8 Fretport Warden
+	8 Glimpse of Innocence
+	8 Grace of the Trinity
+	8 Harried Apothecary
+	8 Indomitable Mercenary
+	8 Influential Wildborn
+	8 Inspired Blade
+	8 Kasienka's Veteran
+	8 Let Loose
+	8 Loss of Focus
+	8 Lurking Terrors
+	8 Mental Fracture
+	8 Merchant's Guile
+	8 Mettlesome Watchkeeper
+	8 Morose Bohemian
+	8 Mourn the Lost
+	8 Naturalize_PFP
+	8 Plague Mask
+	8 Political Opportunist
+	8 Prayers of Release
+	8 Rallying Horn
+	8 Revelry Reverie
+	8 Rising Riots
+	8 Sickening Madness
+	8 Sign in Blood_PFP
+	8 Stalwart Physicker
+	8 Steadfast Heart
+	8 Strength of the Devout
+	8 Sycophantic Aristocrat
+	8 Traumatic Memories
+	8 Unjust Sentence
+	8 Untested Initiates
+	8 Untested Recruit
+	8 Valeriya's Militant
+	8 Valor of the Desperate
+	8 Venomtongue Archer
+	8 Voice of Warryn
+	8 Wary Watchkeeper
+	8 Watchkeeper's Retort
+	8 Watchkeeper's Stand
+	8 Wayward Afflicted
+	8 Weathered Veteran
+	8 Whisper Collector
+	8 Withering Beggar
+[foil(1)]
+	2 Abandoned Memorial
+	2 Alexei, Instigator of Terror
+	12 All Who Wander
+	2 All or Nothing
+	12 Arcor-Staff Adherent
+	6 Arcor Diamond
+	2 Arctic Mine
+	12 Artisan's Masterpiece
+	12 Assassin's Warning
+	12 Awash in Despair
+	1 Balanced Blade
+	12 Baneblade Stalker
+	12 Battered Steel
+	6 Bearer of the Lantern
+	6 Belligerent's Augur
+	12 Blade of Fretport
+	6 Blade of the Long Night
+	12 Boneweary Warrior
+	6 Burning Heels
+	6 Callow Survivors
+	2 Canal Lurker
+	2 Carve a Path
+	12 Chained Wildborn
+	12 Chapel Defendant
+	6 Chapel Warden
+	2 Cleric of Fervor
+	2 Cold Embrace of Steel
+	6 Comfort the Fallen
+	2 Compelling Pariah
+	6 Conspiracy of Ravens
+	2 Coppergild Mercenary
+	2 Crumbling Precipice
+	2 Crystal Cavern
+	6 Crystal Puncture
+	6 Cull the Citizenry
+	2 Cult of Trinity's Fall
+	12 Dashing Rogue
+	6 Daunting Skyline
+	2 Days of Decay
+	6 Debt Dignitary
+	6 Decrepit Crags
+	6 Delusional Noble
+	6 Disassociate
+	6 Discordant Bell
+	12 Dispossessed Noble
+	12 Dockside Healer
+	12 Dockyard Stalker
+	12 Dockyard Swindling
+	1 Dregs of Order
+	12 Drown in Nightmares
+	6 Dwindling Peace
+	6 Dwindling Stores
+	6 Elixir of Immortality
+	2 Empty the Streets
+	12 Evade the Authorities
+	2 Exhaustive Toil
+	2 Exquisite Heist
+	12 Failing Port
+	6 False-Cure Smuggler
+	6 Fate Transfer
+	2 Fearful Observer
+	2 Fervent Arbiter
+	12 Festering Waif
+	12 Feverish Noble
+	6 Figures in the Mist
+	12 Flee the City
+	1 Flesh to Rot
+	2 Flintlock Pioneer
+	2 Flush With Arcor
+	12 Forgotten Consequences
+	12 Forgotten Sins
+	2 Forgotten Steppe
+	2 Frenzied Watchkeeper
+	2 Fretport's Fade
+	6 Fretport's Heedless
+	1 Fretport's Lament
+	6 Fretport Anarchists
+	12 Fretport Bounty Hunter
+	6 Fretport Froppers
+	6 Fretport Gravetender
+	12 Fretport Mob
+	12 Fretport Warden
+	2 Gabryel's Devout
+	12 Glimpse of Innocence
+	12 Grace of the Trinity
+	6 Grim Courtyard
+	6 Grim Gravetender
+	2 Haphazard Militia
+	12 Harried Apothecary
+	2 Harriet, Liberated Wildborn
+	6 Hateful Gaze
+	6 Hazy Lagoon
+	6 Heedless Lovers
+	1 Helene Trant
+	2 Hide from Horrors
+	6 Hired Blades
+	2 Hollow Survivor
+	2 Honor's Refuge
+	2 Ill Fated Travels
+	2 Inciting Bard
+	12 Indomitable Mercenary
+	12 Influential Wildborn
+	2 Inkwell Daggers
+	12 Inspired Blade
+	6 Invalidate
+	6 Iron Warden
+	2 Judge's Decree
+	1 Kalemn Weller
+	2 Kasienka, Raven's Regarded
+	12 Kasienka's Veteran
+	2 Keenheart Blade
+	6 Keeper of the Banner
+	2 Left Bereft
+	12 Let Loose
+	2 Lion's Vanguard
+	12 Loss of Focus
+	12 Lurking Terrors
+	2 Madelon, Merchant's Heir
+	6 Martyr's Sacrifice
+	2 Masquerading Bohemian
+	1 Mass Executions
+	2 Master of Disorientation
+	12 Mental Fracture
+	6 Merchant's District
+	12 Merchant's Guile
+	12 Mettlesome Watchkeeper
+	2 Mob Rallier
+	6 Morning Passages
+	12 Morose Bohemian
+	12 Mourn the Lost
+	2 Murmuring Falls
+	2 Nataila, Raven's Repented
+	12 Naturalize_PFP
+	2 Nomad's Township
+	6 Pale Flotsam
+	2 Persecution Official
+	6 Phosphorescent Ravine
+	12 Plague Mask
+	12 Political Opportunist
+	6 Postulate
+	2 Prayers of Defiance
+	6 Prayers of Judgement
+	12 Prayers of Release
+	6 Precarious Ledgers
+	6 Prophet of Pacifism
+	6 Purge the Harbor
+	6 Purging Watchkeeper
+	12 Rallying Horn
+	2 Rampant Summit
+	2 Raven's Standard
+	6 Ready for Battle
+	2 Resource Management
+	6 Resplendent Bearing
+	2 Resplendent Substratum
+	12 Revelry Reverie
+	6 Rickety Guildhall
+	2 Right to Challenge
+	6 Riot Queller
+	12 Rising Riots
+	6 Ruined Citadel
+	1 Scatter Riches
+	2 Sedate Tundra
+	1 Seek Salvation
+	1 Selective Prophecies
+	2 Serene Prayer
+	6 Serene Trail
+	2 Sewer Pack
+	1 Shared Reminiscence
+	2 Shifting Glade
+	12 Sickening Madness
+	12 Sign in Blood_PFP
+	6 Silence Dissent
+	6 Silverblood Aspirant
+	12 Stalwart Physicker
+	12 Steadfast Heart
+	12 Strength of the Devout
+	12 Sycophantic Aristocrat
+	2 The Raven Queen of Fretport
+	2 Thespian's Finale
+	6 To Say Farewell
+	6 Track Prey
+	12 Traumatic Memories
+	6 Unassuming Waif
+	6 Unbeholden to Death
+	12 Unjust Sentence
+	6 Unquenched Greed
+	12 Untested Initiates
+	12 Untested Recruit
+	6 Untouched Duelist
+	2 Valeriya, Watchkeeper Veteran
+	12 Valeriya's Militant
+	12 Valor of the Desperate
+	2 Vassal of Virulence
+	12 Venomtongue Archer
+	6 Vibrant Rainforest
+	6 Vigilante's Cowl
+	12 Voice of Warryn
+	12 Wary Watchkeeper
+	6 Watchkeeper's Prerogative
+	12 Watchkeeper's Retort
+	12 Watchkeeper's Stand
+	2 Watchkeeper Deserter
+	12 Wayward Afflicted
+	6 Weary Watchkeeper
+	12 Weathered Veteran
+	6 Weight of Sin
+	6 Whiplash
+	12 Whisper Collector
+	6 Wildborn Courtesan
+	2 Wildborn Merchant
+	6 Wisdom in Reflection
+	12 Withering Beggar
+	1 Worship in Vain
+	6 Zealous Bloodletter
+[wildcard(1)]
+	7 Abandoned Memorial
+	7 Alexei, Instigator of Terror
+	6 All Who Wander
+	7 All or Nothing
+	6 Arcor-Staff Adherent
+	15 Arcor Diamond
+	7 Arctic Mine
+	6 Artisan's Masterpiece
+	6 Assassin's Warning
+	6 Awash in Despair
+	4 Balanced Blade
+	6 Baneblade Stalker
+	6 Battered Steel
+	15 Bearer of the Lantern
+	15 Belligerent's Augur
+	6 Blade of Fretport
+	15 Blade of the Long Night
+	6 Boneweary Warrior
+	15 Burning Heels
+	15 Callow Survivors
+	7 Canal Lurker
+	7 Carve a Path
+	6 Chained Wildborn
+	6 Chapel Defendant
+	15 Chapel Warden
+	7 Cleric of Fervor
+	7 Cold Embrace of Steel
+	15 Comfort the Fallen
+	7 Compelling Pariah
+	15 Conspiracy of Ravens
+	7 Coppergild Mercenary
+	7 Crumbling Precipice
+	7 Crystal Cavern
+	15 Crystal Puncture
+	15 Cull the Citizenry
+	7 Cult of Trinity's Fall
+	6 Dashing Rogue
+	15 Daunting Skyline
+	7 Days of Decay
+	15 Debt Dignitary
+	15 Decrepit Crags
+	15 Delusional Noble
+	15 Disassociate
+	15 Discordant Bell
+	6 Dispossessed Noble
+	6 Dockside Healer
+	6 Dockyard Stalker
+	6 Dockyard Swindling
+	4 Dregs of Order
+	6 Drown in Nightmares
+	15 Dwindling Peace
+	15 Dwindling Stores
+	15 Elixir of Immortality
+	7 Empty the Streets
+	6 Evade the Authorities
+	7 Exhaustive Toil
+	7 Exquisite Heist
+	6 Failing Port
+	15 False-Cure Smuggler
+	15 Fate Transfer
+	7 Fearful Observer
+	7 Fervent Arbiter
+	6 Festering Waif
+	6 Feverish Noble
+	15 Figures in the Mist
+	6 Flee the City
+	4 Flesh to Rot
+	7 Flintlock Pioneer
+	7 Flush With Arcor
+	6 Forgotten Consequences
+	6 Forgotten Sins
+	7 Forgotten Steppe
+	7 Frenzied Watchkeeper
+	7 Fretport's Fade
+	15 Fretport's Heedless
+	4 Fretport's Lament
+	15 Fretport Anarchists
+	6 Fretport Bounty Hunter
+	15 Fretport Froppers
+	15 Fretport Gravetender
+	6 Fretport Mob
+	6 Fretport Warden
+	7 Gabryel's Devout
+	6 Glimpse of Innocence
+	6 Grace of the Trinity
+	15 Grim Courtyard
+	15 Grim Gravetender
+	7 Haphazard Militia
+	6 Harried Apothecary
+	7 Harriet, Liberated Wildborn
+	15 Hateful Gaze
+	15 Hazy Lagoon
+	15 Heedless Lovers
+	4 Helene Trant
+	7 Hide from Horrors
+	15 Hired Blades
+	7 Hollow Survivor
+	7 Honor's Refuge
+	7 Ill Fated Travels
+	7 Inciting Bard
+	6 Indomitable Mercenary
+	6 Influential Wildborn
+	7 Inkwell Daggers
+	6 Inspired Blade
+	15 Invalidate
+	15 Iron Warden
+	7 Judge's Decree
+	4 Kalemn Weller
+	7 Kasienka, Raven's Regarded
+	6 Kasienka's Veteran
+	7 Keenheart Blade
+	15 Keeper of the Banner
+	7 Left Bereft
+	6 Let Loose
+	7 Lion's Vanguard
+	6 Loss of Focus
+	6 Lurking Terrors
+	7 Madelon, Merchant's Heir
+	15 Martyr's Sacrifice
+	7 Masquerading Bohemian
+	4 Mass Executions
+	7 Master of Disorientation
+	6 Mental Fracture
+	15 Merchant's District
+	6 Merchant's Guile
+	6 Mettlesome Watchkeeper
+	7 Mob Rallier
+	15 Morning Passages
+	6 Morose Bohemian
+	6 Mourn the Lost
+	7 Murmuring Falls
+	7 Nataila, Raven's Repented
+	6 Naturalize_PFP
+	7 Nomad's Township
+	15 Pale Flotsam
+	7 Persecution Official
+	15 Phosphorescent Ravine
+	6 Plague Mask
+	6 Political Opportunist
+	15 Postulate
+	7 Prayers of Defiance
+	15 Prayers of Judgement
+	6 Prayers of Release
+	15 Precarious Ledgers
+	15 Prophet of Pacifism
+	15 Purge the Harbor
+	15 Purging Watchkeeper
+	6 Rallying Horn
+	7 Rampant Summit
+	7 Raven's Standard
+	15 Ready for Battle
+	7 Resource Management
+	15 Resplendent Bearing
+	7 Resplendent Substratum
+	6 Revelry Reverie
+	15 Rickety Guildhall
+	7 Right to Challenge
+	15 Riot Queller
+	6 Rising Riots
+	15 Ruined Citadel
+	4 Scatter Riches
+	7 Sedate Tundra
+	4 Seek Salvation
+	4 Selective Prophecies
+	7 Serene Prayer
+	15 Serene Trail
+	7 Sewer Pack
+	4 Shared Reminiscence
+	7 Shifting Glade
+	6 Sickening Madness
+	6 Sign in Blood_PFP
+	15 Silence Dissent
+	15 Silverblood Aspirant
+	6 Stalwart Physicker
+	6 Steadfast Heart
+	6 Strength of the Devout
+	6 Sycophantic Aristocrat
+	7 The Raven Queen of Fretport
+	7 Thespian's Finale
+	15 To Say Farewell
+	15 Track Prey
+	6 Traumatic Memories
+	15 Unassuming Waif
+	15 Unbeholden to Death
+	6 Unjust Sentence
+	15 Unquenched Greed
+	6 Untested Initiates
+	6 Untested Recruit
+	15 Untouched Duelist
+	7 Valeriya, Watchkeeper Veteran
+	6 Valeriya's Militant
+	6 Valor of the Desperate
+	7 Vassal of Virulence
+	6 Venomtongue Archer
+	15 Vibrant Rainforest
+	15 Vigilante's Cowl
+	6 Voice of Warryn
+	6 Wary Watchkeeper
+	15 Watchkeeper's Prerogative
+	6 Watchkeeper's Retort
+	6 Watchkeeper's Stand
+	7 Watchkeeper Deserter
+	6 Wayward Afflicted
+	15 Weary Watchkeeper
+	6 Weathered Veteran
+	15 Weight of Sin
+	15 Whiplash
+	6 Whisper Collector
+	15 Wildborn Courtesan
+	7 Wildborn Merchant
+	15 Wisdom in Reflection
+	6 Withering Beggar
+	4 Worship in Vain
+	15 Zealous Bloodletter

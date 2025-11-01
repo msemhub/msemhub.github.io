@@ -1,0 +1,3742 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abandoned by the Gods",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Abyssal Crypt",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Aegis Hero",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Agent of Deception",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Akroan Siege Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Akroan Truespear",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Amalgam of Havoc",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Enchantment Creature — Chimera",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Anax's Endeavor",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Ancient Vitality",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Anvilwrought Colossus",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Anvilwrought Pegasus",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Pegasus",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Archon of Sunrise",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment Creature — Archon",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Asphodel Gravedealer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Astral Capricine",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Enchantment Creature — Goat",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Astral Cerberus",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Enchantment Creature — Dog",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Astral Leech",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment Creature — Leech",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Astral Leucrocota",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment Creature — Beast",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Astral Man-o'-War",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Enchantment Creature — Jellyfish",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Athletic Skill",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Athreos, Patron of Silence",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Augurwing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Autumnal Boscage",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Battlewise Paragon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Human Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Behold the Horizon",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Beseech the War Gods",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Beyond Death",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Blessing of Autumn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Blood-Cantor of Mogis",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment Creature — Minotaur Shaman",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Boon of Courage",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Brawnsurge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Cave of Pleonexia",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Celestial Hieromancer",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment Creature — Human Wizard",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Chained Minotaur",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Minotaur",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Champion of Keranos",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Minotaur Wizard",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Chieftain of Slaughter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Cinderhoof Minotaur",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Minotaur Shaman",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Climactic Conflict",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Conscript Reinforcements",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Contender's Zeal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Cosmic Catastrophe",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Cryptic Reef",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Curio Siren",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Siren",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Dawnbringer Vanguard",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Daystrider Pegasus",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment Creature — Pegasus",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Dekatian Philosopher",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Deluge Giant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Giant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Descend into Dream",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Destined Confrontation",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Devourer of Dread",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Dire Harpies of Odunos",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Harpy",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Disciple of Passage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Centaur Cleric",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Draconic Symphony",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Drown in Sorrow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Echoshaping",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Eidolon of the Arena",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Emberhound",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Dog",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Endless Hydra",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Enigmazoa",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Jellyfish Beast",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Enopraxia, Cure-Witch",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Gorgon Cleric",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Enopraxia's Endeavor",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Envoy of Karametra",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Creature — Boar",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Ephara, Patron of Enlightenment",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Ephara's Watcher",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment Creature — Bird",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Equinautilus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Horse Nautilus",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Erebos, the Imminent End",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Erebos's Benefaction",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Erebos's Whipslang",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Snake",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Errant Cyclops",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Cyclops",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Extract the Truth",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Fallspeaker Satyr",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Satyr Druid Archer",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Fatefire",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Felhide Marauder",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Felhide Sacrament",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Feral Persuader",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Manticore",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Festive Euphoria",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Fiendish Psychopomp",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Flamespeaker's Craft",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Floodspeaker Triton",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Forbid from the Sky",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Forest_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/289.jpg"
+			}
+		},
+		{
+			"name": "Forest_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/288.jpg"
+			}
+		},
+		{
+			"name": "Forest_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/290.jpg"
+			}
+		},
+		{
+			"name": "Forest_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/291.jpg"
+			}
+		},
+		{
+			"name": "Forge Adept",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Fortress Arena",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Gigascorpion",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Creature — Scorpion",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Gilded Ram",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Goat",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Glimpse the Gorgon",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Goldengrain Alseid",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Nymph",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Grandeur of Nyx",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Greedstoker Demon",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Grim Procession",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Guidance of Iroas",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Guidance of Karametra",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Guidance of Keranos",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Guidance of Pharika",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Guidance of Phenax",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Halcyon Hoplite",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Hand of Phenax",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Hekaton Dismantler",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Heliod, the Ceaseless Dawn",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Heliod's Benefaction",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Heliod's Stag",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment Creature — Elk",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Hellebore Gargantua",
+			"rarity": "common",
+			"mana_cost": "{7}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Hero's Statue",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Heroes' Adversary",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Horn of Seasons",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Ilysian Bounty",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Impaling Sunbeam",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Influence of Kruphix",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Intense Revelation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Iroas, Patron of Triumph",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Iroas's Charioteer",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Island_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Island_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Island_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Island_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Jagged Cairn",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Journey's End_TTR",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Karametra, Patron of Plenty",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Karametra's Touch",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Kardox, Hero of Skophos",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Minotaur Warrior",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Keepsake of Binding",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Keranos, Patron of Epiphany",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Keranos's Ideosphinx",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Klothys, Patron of Fate",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Klothys's Lookout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Satyr Scout",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Kragma Eviscerator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Kruphix, Patron of Mystery",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Kydele, World Oracle",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Enchantment Creature — Demigod",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Lagonna-Band Mentor",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Centaur Advisor",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Lampad of Anathemas",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment Creature — Nymph",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Leina Tower Sentry",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Lenkastra, Omniprophet",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Enchantment Creature — Demigod",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Leonin Insurgent",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Lightning Strike_TTR",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Makodonis, Prime Exemplar",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Makodonis",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Mantle of the Returned",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Maul",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Megalokraken",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Kraken Leviathan",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Meletian Trireme",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Meletis Oracle",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Meletis Stargazer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Meletis Stratomancer",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Memento Gorgon",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Gorgon",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Mesmerize",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Military Authority",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Minotaur Rampager",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Minotaur Berserker",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Minotaur Skullsmasher",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Mira and Kalisti of Akros",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Mire Triton",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Merfolk",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Miserable Portent",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Misquantify",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Mogis, Patron of Malice",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Molten Mire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Moment of Triumph",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Monstriform",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Instant",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Morningheart Griffin",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Moss Viper",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Snake",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Mountain_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Mountain_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "Mountain_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Mountain_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/287.jpg"
+			}
+		},
+		{
+			"name": "Necrodromos",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Soldier",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Nemesis Eidolon",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Nessian Recluse",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Nestraider",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Nightpiercer Unicorn",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Unicorn",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Nykthos Enchantress",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Nylea, the Wild Chase",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Nylea's Benefaction",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Nylea's Tracker",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment Creature — Wolf",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Nyx-Eater Basilisk",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Basilisk",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Nyxborn Cockatrice",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment Creature — Cockatrice",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Nyxborn Octopus",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Octopus",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Nyxfall",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Olantin Pearlreader",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Omendiver",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Horse Fish",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Ominous Quag",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Oread of Rising Chaos",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment Creature — Nymph",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Oreskos Warden",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat Cleric",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Pantheon Breaker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Paradise Chimera",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Chimera",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Pay Up_TTR",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Perceive Eons",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Perplexing Visions",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Phalanx Beetle",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Pharika, Patron of Malady",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Pharika's Herbalist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment Creature — Centaur Druid",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Phenax, Patron of Deceit",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Pheres-Band Courser",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Centaur Warrior",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Philosophical Conundrum",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Phoberos Fearmonger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Minotaur Warlock",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Phoberos Ragehorn",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Phoenix of Agonas",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Plains_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Plains_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Plains_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Plains_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Polis's Demise",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Priest of Nylea",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Primordial Artisan",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Pristine Delta",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Progenitor of Mysteries",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Chimera",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Prognosticate",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Prophet's Paranoia",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Protean Jar",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Purehorn Rescuer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Unicorn",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Purphoros, the Fervid Flame",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Purphoros's Benefaction",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Purphoros's Gemback",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Creature — Ox",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Pyromanticore",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Manticore",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Reckless Impulse",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Returned Minotaur",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Minotaur",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Rise of Heroes",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Rite of Afflictions",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Rush to Revelry",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Sacred Lynx",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment Creature — Cat",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Sage of Dilemmas",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Satyr Instigator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment Creature — Satyr Shaman",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Satyr Trailblazer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Satyr Scout",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Satyr Vigormage",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Satyr Shaman",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Scrying Pool",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Serene Harmony",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Serpentine Woods",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Servant of Athreos",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment Creature — Skeleton",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Setessan Armaments",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Setessan Avenger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid Warrior",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Sheltered Haven",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Shimmershell",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Crab Oyster",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Shrewd-Eye Sphinx",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Somber River Bearer",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Spawn of Keranos",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Splendid Scenery",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Springstep Dryad",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Nymph Dryad",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Stalker of Myth",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment Creature — Chimera",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Starlight Veil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Storm-Eye Salamander",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Salamander",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Stormsea Naiad",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Nymph",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Struck by Epiphany",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Stunning Cascade",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Sun-Blessed Hoplite",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Swamp_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Swamp_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Swamp_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Swamp_TTR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Sway of the Rivers",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Swift Response",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Sylvan Strength",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Talonwing Dragon",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Taranika's Endeavor",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Thassa, the Implacable Tide",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Thassa's Benefaction",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Thassa's Shoreguards",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Soldier",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Thassa's Tidebringer",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "The Anguilahydra",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Legendary Enchantment Creature — Fish Hydra",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Thornbriar Caryatid",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Thrasios's Endeavor",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Three-Headed Thrash",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Tidal Cacophony",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Titanic Fathomclaw",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Crab",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Titanic Might",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Tizerus Bats",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bat",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Tombweaver",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment Creature — Spider",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Torch of Phoenixfire",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Tormentor Harpy",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Harpy Horror",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Treacherous Den",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Tremor Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Elemental Giant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Trifold Atrocity",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Chimera",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Triton's Invocation",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Tykron of the Agnomachi",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Cat Soldier",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Typhoon Terror",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Uncharted Haven",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Undeniable Prophecy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Underworld Myrmex",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Unlikely Tandem",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Valeri Kripac",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Valeri",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Vigorbreath Scourge",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Vivien's Endeavor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Vivien the Sagittar",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Planeswalker — Vivien",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Voracious Asvosydna",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Badger",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Vulturous Harpy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Harpy",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Watch of the Dead",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Waterfront Market",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Whirling Gyre",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Whispering Canal",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Wild-Trail Chimera",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Chimera",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Wings of Tizerus",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Wretched Catoblepas",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Beast",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Zygos, Underworld Scourge",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Enchantment Creature — Skeleton",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Zygos's Decimators",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Skeleton Soldier",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Grandeur of Nyx_PRO_TTR",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TTR-files/img/293.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Abandoned by the Gods
+	2 Anax's Endeavor
+	2 Anvilwrought Colossus
+	2 Archon of Sunrise
+	2 Astral Capricine
+	2 Astral Cerberus
+	2 Astral Leech
+	2 Astral Leucrocota
+	2 Astral Man-o'-War
+	1 Athreos, Patron of Silence
+	2 Autumnal Boscage
+	1 Beyond Death
+	2 Celestial Hieromancer
+	2 Cinderhoof Minotaur
+	2 Climactic Conflict
+	2 Endless Hydra
+	2 Enopraxia's Endeavor
+	1 Ephara, Patron of Enlightenment
+	1 Erebos, the Imminent End
+	2 Festive Euphoria
+	1 Grandeur of Nyx
+	2 Greedstoker Demon
+	2 Hand of Phenax
+	2 Hekaton Dismantler
+	1 Heliod, the Ceaseless Dawn
+	1 Iroas, Patron of Triumph
+	2 Iroas's Charioteer
+	1 Karametra, Patron of Plenty
+	2 Kardox, Hero of Skophos
+	1 Keranos, Patron of Epiphany
+	2 Keranos's Ideosphinx
+	1 Klothys, Patron of Fate
+	1 Kruphix, Patron of Mystery
+	2 Kydele, World Oracle
+	2 Lenkastra, Omniprophet
+	1 Makodonis, Prime Exemplar
+	2 Megalokraken
+	2 Meletis Stargazer
+	2 Minotaur Skullsmasher
+	2 Mira and Kalisti of Akros
+	1 Mogis, Patron of Malice
+	2 Molten Mire
+	2 Monstriform
+	1 Nylea, the Wild Chase
+	2 Nyxfall
+	2 Olantin Pearlreader
+	2 Perceive Eons
+	1 Pharika, Patron of Malady
+	1 Phenax, Patron of Deceit
+	2 Phoberos Ragehorn
+	2 Phoenix of Agonas
+	2 Polis's Demise
+	2 Primordial Artisan
+	2 Protean Jar
+	1 Purphoros, the Fervid Flame
+	2 Rise of Heroes
+	2 Sacred Lynx
+	2 Satyr Vigormage
+	2 Setessan Armaments
+	2 Somber River Bearer
+	2 Splendid Scenery
+	2 Sway of the Rivers
+	2 Talonwing Dragon
+	2 Taranika's Endeavor
+	1 Thassa, the Implacable Tide
+	2 The Anguilahydra
+	2 Thrasios's Endeavor
+	2 Titanic Might
+	2 Tombweaver
+	2 Triton's Invocation
+	2 Tykron of the Agnomachi
+	2 Typhoon Terror
+	2 Unlikely Tandem
+	1 Valeri Kripac
+	2 Vivien's Endeavor
+	1 Vivien the Sagittar
+	2 Waterfront Market
+	2 Whispering Canal
+	2 Wings of Tizerus
+	2 Zygos, Underworld Scourge
+[uncommon(3)]
+	4 Agent of Deception
+	4 Akroan Siege Captain
+	4 Augurwing
+	4 Battlewise Paragon
+	4 Blessing of Autumn
+	4 Boon of Courage
+	4 Brawnsurge
+	4 Cave of Pleonexia
+	4 Chained Minotaur
+	4 Chieftain of Slaughter
+	4 Conscript Reinforcements
+	4 Contender's Zeal
+	4 Daystrider Pegasus
+	4 Dekatian Philosopher
+	4 Deluge Giant
+	4 Devourer of Dread
+	4 Dire Harpies of Odunos
+	4 Disciple of Passage
+	4 Draconic Symphony
+	4 Drown in Sorrow
+	4 Echoshaping
+	4 Enopraxia, Cure-Witch
+	4 Equinautilus
+	4 Fatefire
+	4 Feral Persuader
+	4 Fiendish Psychopomp
+	4 Forge Adept
+	4 Gigascorpion
+	4 Gilded Ram
+	4 Guidance of Iroas
+	4 Guidance of Karametra
+	4 Guidance of Keranos
+	4 Guidance of Pharika
+	4 Guidance of Phenax
+	4 Halcyon Hoplite
+	4 Heroes' Adversary
+	4 Horn of Seasons
+	4 Influence of Kruphix
+	4 Intense Revelation
+	4 Journey's End_TTR
+	4 Karametra's Touch
+	4 Keepsake of Binding
+	4 Klothys's Lookout
+	4 Kragma Eviscerator
+	4 Lampad of Anathemas
+	4 Mantle of the Returned
+	4 Meletian Trireme
+	4 Mire Triton
+	4 Misquantify
+	4 Nestraider
+	4 Nykthos Enchantress
+	4 Nyx-Eater Basilisk
+	4 Oread of Rising Chaos
+	4 Pantheon Breaker
+	4 Paradise Chimera
+	4 Pay Up_TTR
+	4 Perplexing Visions
+	4 Phalanx Beetle
+	4 Pharika's Herbalist
+	4 Phoberos Fearmonger
+	4 Priest of Nylea
+	4 Progenitor of Mysteries
+	4 Purehorn Rescuer
+	4 Pyromanticore
+	4 Satyr Instigator
+	4 Setessan Avenger
+	4 Shrewd-Eye Sphinx
+	4 Stalker of Myth
+	4 Starlight Veil
+	4 Storm-Eye Salamander
+	4 Thassa's Shoreguards
+	4 Titanic Fathomclaw
+	4 Tremor Titan
+	4 Undeniable Prophecy
+	4 Vigorbreath Scourge
+	4 Vulturous Harpy
+	4 Watch of the Dead
+	4 Wild-Trail Chimera
+	4 Wretched Catoblepas
+	4 Zygos's Decimators
+[common(7)]
+	8 Abyssal Crypt
+	8 Aegis Hero
+	8 Akroan Truespear
+	8 Amalgam of Havoc
+	8 Ancient Vitality
+	8 Anvilwrought Pegasus
+	8 Asphodel Gravedealer
+	8 Athletic Skill
+	8 Behold the Horizon
+	8 Beseech the War Gods
+	8 Blood-Cantor of Mogis
+	8 Champion of Keranos
+	8 Cosmic Catastrophe
+	8 Cryptic Reef
+	8 Curio Siren
+	8 Dawnbringer Vanguard
+	8 Descend into Dream
+	8 Destined Confrontation
+	8 Eidolon of the Arena
+	8 Emberhound
+	8 Enigmazoa
+	8 Envoy of Karametra
+	8 Ephara's Watcher
+	8 Erebos's Benefaction
+	8 Erebos's Whipslang
+	8 Errant Cyclops
+	8 Extract the Truth
+	8 Fallspeaker Satyr
+	8 Felhide Marauder
+	8 Felhide Sacrament
+	8 Flamespeaker's Craft
+	8 Floodspeaker Triton
+	8 Forbid from the Sky
+	8 Fortress Arena
+	8 Glimpse the Gorgon
+	8 Goldengrain Alseid
+	8 Grim Procession
+	8 Heliod's Benefaction
+	8 Heliod's Stag
+	8 Hellebore Gargantua
+	8 Hero's Statue
+	8 Ilysian Bounty
+	8 Impaling Sunbeam
+	8 Jagged Cairn
+	8 Lagonna-Band Mentor
+	8 Leina Tower Sentry
+	8 Leonin Insurgent
+	8 Lightning Strike_TTR
+	8 Maul
+	8 Meletis Oracle
+	8 Meletis Stratomancer
+	8 Memento Gorgon
+	8 Mesmerize
+	8 Military Authority
+	8 Minotaur Rampager
+	8 Miserable Portent
+	8 Moment of Triumph
+	8 Morningheart Griffin
+	8 Moss Viper
+	8 Necrodromos
+	8 Nemesis Eidolon
+	8 Nessian Recluse
+	8 Nightpiercer Unicorn
+	8 Nylea's Benefaction
+	8 Nylea's Tracker
+	8 Nyxborn Cockatrice
+	8 Nyxborn Octopus
+	8 Omendiver
+	8 Ominous Quag
+	8 Oreskos Warden
+	8 Pheres-Band Courser
+	8 Philosophical Conundrum
+	8 Pristine Delta
+	8 Prognosticate
+	8 Prophet's Paranoia
+	8 Purphoros's Benefaction
+	8 Purphoros's Gemback
+	8 Reckless Impulse
+	8 Returned Minotaur
+	8 Rite of Afflictions
+	8 Rush to Revelry
+	8 Sage of Dilemmas
+	8 Satyr Trailblazer
+	8 Scrying Pool
+	8 Serene Harmony
+	8 Serpentine Woods
+	8 Servant of Athreos
+	8 Sheltered Haven
+	8 Shimmershell
+	8 Spawn of Keranos
+	8 Springstep Dryad
+	8 Stormsea Naiad
+	8 Struck by Epiphany
+	8 Stunning Cascade
+	8 Sun-Blessed Hoplite
+	8 Swift Response
+	8 Sylvan Strength
+	8 Thassa's Benefaction
+	8 Thassa's Tidebringer
+	8 Thornbriar Caryatid
+	8 Three-Headed Thrash
+	8 Tidal Cacophony
+	8 Tizerus Bats
+	8 Torch of Phoenixfire
+	8 Tormentor Harpy
+	8 Treacherous Den
+	8 Trifold Atrocity
+	8 Uncharted Haven
+	8 Underworld Myrmex
+	8 Voracious Asvosydna
+	8 Whirling Gyre
+[foil(1)]
+	2 Abandoned by the Gods
+	12 Abyssal Crypt
+	12 Aegis Hero
+	6 Agent of Deception
+	6 Akroan Siege Captain
+	12 Akroan Truespear
+	12 Amalgam of Havoc
+	2 Anax's Endeavor
+	12 Ancient Vitality
+	2 Anvilwrought Colossus
+	12 Anvilwrought Pegasus
+	2 Archon of Sunrise
+	12 Asphodel Gravedealer
+	2 Astral Capricine
+	2 Astral Cerberus
+	2 Astral Leech
+	2 Astral Leucrocota
+	2 Astral Man-o'-War
+	12 Athletic Skill
+	1 Athreos, Patron of Silence
+	6 Augurwing
+	2 Autumnal Boscage
+	6 Battlewise Paragon
+	12 Behold the Horizon
+	12 Beseech the War Gods
+	1 Beyond Death
+	6 Blessing of Autumn
+	12 Blood-Cantor of Mogis
+	6 Boon of Courage
+	6 Brawnsurge
+	6 Cave of Pleonexia
+	2 Celestial Hieromancer
+	6 Chained Minotaur
+	12 Champion of Keranos
+	6 Chieftain of Slaughter
+	2 Cinderhoof Minotaur
+	2 Climactic Conflict
+	6 Conscript Reinforcements
+	6 Contender's Zeal
+	12 Cosmic Catastrophe
+	12 Cryptic Reef
+	12 Curio Siren
+	12 Dawnbringer Vanguard
+	6 Daystrider Pegasus
+	6 Dekatian Philosopher
+	6 Deluge Giant
+	12 Descend into Dream
+	12 Destined Confrontation
+	6 Devourer of Dread
+	6 Dire Harpies of Odunos
+	6 Disciple of Passage
+	6 Draconic Symphony
+	6 Drown in Sorrow
+	6 Echoshaping
+	12 Eidolon of the Arena
+	12 Emberhound
+	2 Endless Hydra
+	12 Enigmazoa
+	6 Enopraxia, Cure-Witch
+	2 Enopraxia's Endeavor
+	12 Envoy of Karametra
+	1 Ephara, Patron of Enlightenment
+	12 Ephara's Watcher
+	6 Equinautilus
+	1 Erebos, the Imminent End
+	12 Erebos's Benefaction
+	12 Erebos's Whipslang
+	12 Errant Cyclops
+	12 Extract the Truth
+	12 Fallspeaker Satyr
+	6 Fatefire
+	12 Felhide Marauder
+	12 Felhide Sacrament
+	6 Feral Persuader
+	2 Festive Euphoria
+	6 Fiendish Psychopomp
+	12 Flamespeaker's Craft
+	12 Floodspeaker Triton
+	12 Forbid from the Sky
+	6 Forge Adept
+	12 Fortress Arena
+	6 Gigascorpion
+	6 Gilded Ram
+	12 Glimpse the Gorgon
+	12 Goldengrain Alseid
+	1 Grandeur of Nyx
+	2 Greedstoker Demon
+	12 Grim Procession
+	6 Guidance of Iroas
+	6 Guidance of Karametra
+	6 Guidance of Keranos
+	6 Guidance of Pharika
+	6 Guidance of Phenax
+	6 Halcyon Hoplite
+	2 Hand of Phenax
+	2 Hekaton Dismantler
+	1 Heliod, the Ceaseless Dawn
+	12 Heliod's Benefaction
+	12 Heliod's Stag
+	12 Hellebore Gargantua
+	12 Hero's Statue
+	6 Heroes' Adversary
+	6 Horn of Seasons
+	12 Ilysian Bounty
+	12 Impaling Sunbeam
+	6 Influence of Kruphix
+	6 Intense Revelation
+	1 Iroas, Patron of Triumph
+	2 Iroas's Charioteer
+	12 Jagged Cairn
+	6 Journey's End_TTR
+	1 Karametra, Patron of Plenty
+	6 Karametra's Touch
+	2 Kardox, Hero of Skophos
+	6 Keepsake of Binding
+	1 Keranos, Patron of Epiphany
+	2 Keranos's Ideosphinx
+	1 Klothys, Patron of Fate
+	6 Klothys's Lookout
+	6 Kragma Eviscerator
+	1 Kruphix, Patron of Mystery
+	2 Kydele, World Oracle
+	12 Lagonna-Band Mentor
+	6 Lampad of Anathemas
+	12 Leina Tower Sentry
+	2 Lenkastra, Omniprophet
+	12 Leonin Insurgent
+	12 Lightning Strike_TTR
+	1 Makodonis, Prime Exemplar
+	6 Mantle of the Returned
+	12 Maul
+	2 Megalokraken
+	6 Meletian Trireme
+	12 Meletis Oracle
+	2 Meletis Stargazer
+	12 Meletis Stratomancer
+	12 Memento Gorgon
+	12 Mesmerize
+	12 Military Authority
+	12 Minotaur Rampager
+	2 Minotaur Skullsmasher
+	2 Mira and Kalisti of Akros
+	6 Mire Triton
+	12 Miserable Portent
+	6 Misquantify
+	1 Mogis, Patron of Malice
+	2 Molten Mire
+	12 Moment of Triumph
+	2 Monstriform
+	12 Morningheart Griffin
+	12 Moss Viper
+	12 Necrodromos
+	12 Nemesis Eidolon
+	12 Nessian Recluse
+	6 Nestraider
+	12 Nightpiercer Unicorn
+	6 Nykthos Enchantress
+	1 Nylea, the Wild Chase
+	12 Nylea's Benefaction
+	12 Nylea's Tracker
+	6 Nyx-Eater Basilisk
+	12 Nyxborn Cockatrice
+	12 Nyxborn Octopus
+	2 Nyxfall
+	2 Olantin Pearlreader
+	12 Omendiver
+	12 Ominous Quag
+	6 Oread of Rising Chaos
+	12 Oreskos Warden
+	6 Pantheon Breaker
+	6 Paradise Chimera
+	6 Pay Up_TTR
+	2 Perceive Eons
+	6 Perplexing Visions
+	6 Phalanx Beetle
+	1 Pharika, Patron of Malady
+	6 Pharika's Herbalist
+	1 Phenax, Patron of Deceit
+	12 Pheres-Band Courser
+	12 Philosophical Conundrum
+	6 Phoberos Fearmonger
+	2 Phoberos Ragehorn
+	2 Phoenix of Agonas
+	2 Polis's Demise
+	6 Priest of Nylea
+	2 Primordial Artisan
+	12 Pristine Delta
+	6 Progenitor of Mysteries
+	12 Prognosticate
+	12 Prophet's Paranoia
+	2 Protean Jar
+	6 Purehorn Rescuer
+	1 Purphoros, the Fervid Flame
+	12 Purphoros's Benefaction
+	12 Purphoros's Gemback
+	6 Pyromanticore
+	12 Reckless Impulse
+	12 Returned Minotaur
+	2 Rise of Heroes
+	12 Rite of Afflictions
+	12 Rush to Revelry
+	2 Sacred Lynx
+	12 Sage of Dilemmas
+	6 Satyr Instigator
+	12 Satyr Trailblazer
+	2 Satyr Vigormage
+	12 Scrying Pool
+	12 Serene Harmony
+	12 Serpentine Woods
+	12 Servant of Athreos
+	2 Setessan Armaments
+	6 Setessan Avenger
+	12 Sheltered Haven
+	12 Shimmershell
+	6 Shrewd-Eye Sphinx
+	2 Somber River Bearer
+	12 Spawn of Keranos
+	2 Splendid Scenery
+	12 Springstep Dryad
+	6 Stalker of Myth
+	6 Starlight Veil
+	6 Storm-Eye Salamander
+	12 Stormsea Naiad
+	12 Struck by Epiphany
+	12 Stunning Cascade
+	12 Sun-Blessed Hoplite
+	2 Sway of the Rivers
+	12 Swift Response
+	12 Sylvan Strength
+	2 Talonwing Dragon
+	2 Taranika's Endeavor
+	1 Thassa, the Implacable Tide
+	12 Thassa's Benefaction
+	6 Thassa's Shoreguards
+	12 Thassa's Tidebringer
+	2 The Anguilahydra
+	12 Thornbriar Caryatid
+	2 Thrasios's Endeavor
+	12 Three-Headed Thrash
+	12 Tidal Cacophony
+	6 Titanic Fathomclaw
+	2 Titanic Might
+	12 Tizerus Bats
+	2 Tombweaver
+	12 Torch of Phoenixfire
+	12 Tormentor Harpy
+	12 Treacherous Den
+	6 Tremor Titan
+	12 Trifold Atrocity
+	2 Triton's Invocation
+	2 Tykron of the Agnomachi
+	2 Typhoon Terror
+	12 Uncharted Haven
+	6 Undeniable Prophecy
+	12 Underworld Myrmex
+	2 Unlikely Tandem
+	1 Valeri Kripac
+	6 Vigorbreath Scourge
+	2 Vivien's Endeavor
+	1 Vivien the Sagittar
+	12 Voracious Asvosydna
+	6 Vulturous Harpy
+	6 Watch of the Dead
+	2 Waterfront Market
+	12 Whirling Gyre
+	2 Whispering Canal
+	6 Wild-Trail Chimera
+	2 Wings of Tizerus
+	6 Wretched Catoblepas
+	2 Zygos, Underworld Scourge
+	6 Zygos's Decimators
+[wildcard(1)]
+	7 Abandoned by the Gods
+	6 Abyssal Crypt
+	6 Aegis Hero
+	15 Agent of Deception
+	15 Akroan Siege Captain
+	6 Akroan Truespear
+	6 Amalgam of Havoc
+	7 Anax's Endeavor
+	6 Ancient Vitality
+	7 Anvilwrought Colossus
+	6 Anvilwrought Pegasus
+	7 Archon of Sunrise
+	6 Asphodel Gravedealer
+	7 Astral Capricine
+	7 Astral Cerberus
+	7 Astral Leech
+	7 Astral Leucrocota
+	7 Astral Man-o'-War
+	6 Athletic Skill
+	4 Athreos, Patron of Silence
+	15 Augurwing
+	7 Autumnal Boscage
+	15 Battlewise Paragon
+	6 Behold the Horizon
+	6 Beseech the War Gods
+	4 Beyond Death
+	15 Blessing of Autumn
+	6 Blood-Cantor of Mogis
+	15 Boon of Courage
+	15 Brawnsurge
+	15 Cave of Pleonexia
+	7 Celestial Hieromancer
+	15 Chained Minotaur
+	6 Champion of Keranos
+	15 Chieftain of Slaughter
+	7 Cinderhoof Minotaur
+	7 Climactic Conflict
+	15 Conscript Reinforcements
+	15 Contender's Zeal
+	6 Cosmic Catastrophe
+	6 Cryptic Reef
+	6 Curio Siren
+	6 Dawnbringer Vanguard
+	15 Daystrider Pegasus
+	15 Dekatian Philosopher
+	15 Deluge Giant
+	6 Descend into Dream
+	6 Destined Confrontation
+	15 Devourer of Dread
+	15 Dire Harpies of Odunos
+	15 Disciple of Passage
+	15 Draconic Symphony
+	15 Drown in Sorrow
+	15 Echoshaping
+	6 Eidolon of the Arena
+	6 Emberhound
+	7 Endless Hydra
+	6 Enigmazoa
+	15 Enopraxia, Cure-Witch
+	7 Enopraxia's Endeavor
+	6 Envoy of Karametra
+	4 Ephara, Patron of Enlightenment
+	6 Ephara's Watcher
+	15 Equinautilus
+	4 Erebos, the Imminent End
+	6 Erebos's Benefaction
+	6 Erebos's Whipslang
+	6 Errant Cyclops
+	6 Extract the Truth
+	6 Fallspeaker Satyr
+	15 Fatefire
+	6 Felhide Marauder
+	6 Felhide Sacrament
+	15 Feral Persuader
+	7 Festive Euphoria
+	15 Fiendish Psychopomp
+	6 Flamespeaker's Craft
+	6 Floodspeaker Triton
+	6 Forbid from the Sky
+	15 Forge Adept
+	6 Fortress Arena
+	15 Gigascorpion
+	15 Gilded Ram
+	6 Glimpse the Gorgon
+	6 Goldengrain Alseid
+	4 Grandeur of Nyx
+	7 Greedstoker Demon
+	6 Grim Procession
+	15 Guidance of Iroas
+	15 Guidance of Karametra
+	15 Guidance of Keranos
+	15 Guidance of Pharika
+	15 Guidance of Phenax
+	15 Halcyon Hoplite
+	7 Hand of Phenax
+	7 Hekaton Dismantler
+	4 Heliod, the Ceaseless Dawn
+	6 Heliod's Benefaction
+	6 Heliod's Stag
+	6 Hellebore Gargantua
+	6 Hero's Statue
+	15 Heroes' Adversary
+	15 Horn of Seasons
+	6 Ilysian Bounty
+	6 Impaling Sunbeam
+	15 Influence of Kruphix
+	15 Intense Revelation
+	4 Iroas, Patron of Triumph
+	7 Iroas's Charioteer
+	6 Jagged Cairn
+	15 Journey's End_TTR
+	4 Karametra, Patron of Plenty
+	15 Karametra's Touch
+	7 Kardox, Hero of Skophos
+	15 Keepsake of Binding
+	4 Keranos, Patron of Epiphany
+	7 Keranos's Ideosphinx
+	4 Klothys, Patron of Fate
+	15 Klothys's Lookout
+	15 Kragma Eviscerator
+	4 Kruphix, Patron of Mystery
+	7 Kydele, World Oracle
+	6 Lagonna-Band Mentor
+	15 Lampad of Anathemas
+	6 Leina Tower Sentry
+	7 Lenkastra, Omniprophet
+	6 Leonin Insurgent
+	6 Lightning Strike_TTR
+	4 Makodonis, Prime Exemplar
+	15 Mantle of the Returned
+	6 Maul
+	7 Megalokraken
+	15 Meletian Trireme
+	6 Meletis Oracle
+	7 Meletis Stargazer
+	6 Meletis Stratomancer
+	6 Memento Gorgon
+	6 Mesmerize
+	6 Military Authority
+	6 Minotaur Rampager
+	7 Minotaur Skullsmasher
+	7 Mira and Kalisti of Akros
+	15 Mire Triton
+	6 Miserable Portent
+	15 Misquantify
+	4 Mogis, Patron of Malice
+	7 Molten Mire
+	6 Moment of Triumph
+	7 Monstriform
+	6 Morningheart Griffin
+	6 Moss Viper
+	6 Necrodromos
+	6 Nemesis Eidolon
+	6 Nessian Recluse
+	15 Nestraider
+	6 Nightpiercer Unicorn
+	15 Nykthos Enchantress
+	4 Nylea, the Wild Chase
+	6 Nylea's Benefaction
+	6 Nylea's Tracker
+	15 Nyx-Eater Basilisk
+	6 Nyxborn Cockatrice
+	6 Nyxborn Octopus
+	7 Nyxfall
+	7 Olantin Pearlreader
+	6 Omendiver
+	6 Ominous Quag
+	15 Oread of Rising Chaos
+	6 Oreskos Warden
+	15 Pantheon Breaker
+	15 Paradise Chimera
+	15 Pay Up_TTR
+	7 Perceive Eons
+	15 Perplexing Visions
+	15 Phalanx Beetle
+	4 Pharika, Patron of Malady
+	15 Pharika's Herbalist
+	4 Phenax, Patron of Deceit
+	6 Pheres-Band Courser
+	6 Philosophical Conundrum
+	15 Phoberos Fearmonger
+	7 Phoberos Ragehorn
+	7 Phoenix of Agonas
+	7 Polis's Demise
+	15 Priest of Nylea
+	7 Primordial Artisan
+	6 Pristine Delta
+	15 Progenitor of Mysteries
+	6 Prognosticate
+	6 Prophet's Paranoia
+	7 Protean Jar
+	15 Purehorn Rescuer
+	4 Purphoros, the Fervid Flame
+	6 Purphoros's Benefaction
+	6 Purphoros's Gemback
+	15 Pyromanticore
+	6 Reckless Impulse
+	6 Returned Minotaur
+	7 Rise of Heroes
+	6 Rite of Afflictions
+	6 Rush to Revelry
+	7 Sacred Lynx
+	6 Sage of Dilemmas
+	15 Satyr Instigator
+	6 Satyr Trailblazer
+	7 Satyr Vigormage
+	6 Scrying Pool
+	6 Serene Harmony
+	6 Serpentine Woods
+	6 Servant of Athreos
+	7 Setessan Armaments
+	15 Setessan Avenger
+	6 Sheltered Haven
+	6 Shimmershell
+	15 Shrewd-Eye Sphinx
+	7 Somber River Bearer
+	6 Spawn of Keranos
+	7 Splendid Scenery
+	6 Springstep Dryad
+	15 Stalker of Myth
+	15 Starlight Veil
+	15 Storm-Eye Salamander
+	6 Stormsea Naiad
+	6 Struck by Epiphany
+	6 Stunning Cascade
+	6 Sun-Blessed Hoplite
+	7 Sway of the Rivers
+	6 Swift Response
+	6 Sylvan Strength
+	7 Talonwing Dragon
+	7 Taranika's Endeavor
+	4 Thassa, the Implacable Tide
+	6 Thassa's Benefaction
+	15 Thassa's Shoreguards
+	6 Thassa's Tidebringer
+	7 The Anguilahydra
+	6 Thornbriar Caryatid
+	7 Thrasios's Endeavor
+	6 Three-Headed Thrash
+	6 Tidal Cacophony
+	15 Titanic Fathomclaw
+	7 Titanic Might
+	6 Tizerus Bats
+	7 Tombweaver
+	6 Torch of Phoenixfire
+	6 Tormentor Harpy
+	6 Treacherous Den
+	15 Tremor Titan
+	6 Trifold Atrocity
+	7 Triton's Invocation
+	7 Tykron of the Agnomachi
+	7 Typhoon Terror
+	6 Uncharted Haven
+	15 Undeniable Prophecy
+	6 Underworld Myrmex
+	7 Unlikely Tandem
+	4 Valeri Kripac
+	15 Vigorbreath Scourge
+	7 Vivien's Endeavor
+	4 Vivien the Sagittar
+	6 Voracious Asvosydna
+	15 Vulturous Harpy
+	15 Watch of the Dead
+	7 Waterfront Market
+	6 Whirling Gyre
+	7 Whispering Canal
+	15 Wild-Trail Chimera
+	7 Wings of Tizerus
+	15 Wretched Catoblepas
+	7 Zygos, Underworld Scourge
+	15 Zygos's Decimators

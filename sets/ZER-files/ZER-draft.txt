@@ -1,0 +1,3140 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abyssal Stalker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Adaptive Servitor",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Shapeshifter",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Adept of Waves",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Aegis Champion",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Aeon's Hand Cutthroat",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Aiel's Fury",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Aiel Tazan",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Aiel",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Aldrane, Insane Necromancer",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Zombie Cleric",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Ancient Grizzly",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Ancient Saber",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Ancient Statue",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Anurafication",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Apprentice Summoner",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Arcanum Owl",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Arden, Mirrormage",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Aspect of Rage",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Incarnation",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Assassinate",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Astral Dynamo",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Atdrik Ravager",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Audacious Knight",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Automated Blademaster",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Backup Forces",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Battle Tactics",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Battlefield Priest",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Blade of the Many",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Bladesinger",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Blood Fiend",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Bloodfire Phoenix",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Bloodfont Ritualist",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Vampire Cleric",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Bloodrage Gladiator",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Bloodstone Halls",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Brain Static",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Brave the Frontier",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Captain's Call",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Carved Dagger",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Caustic Lurker",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Channel Enmity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Charbelcher",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Commune With Nature",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Concenter",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Consort of Blood",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Convergence Colossus",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Convergent Might",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Copse Watcher",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Corrupted Strength",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Crude Tablet",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Crumbling Vestige",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Damned Deal",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Daril, Agent of Time",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Daril",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Daril's Timewalker",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Illusion",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Dauntless Piker",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Daybreak Justicar",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Death Strike",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Depths of Solitude",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Divine Ascension",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Dominion Crown",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Dracosoul",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Due Judgement",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Edge of Madness",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Elegant Fireslinger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Ember Salvo",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Ensnaring Vines",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Envoy of Growth",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Erase from Existence",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Eternal Oak",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Exclude",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Fates Foretold",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Fell the Haughty",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Feral Atdrik",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Fervent Sergeant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Festering Shambler",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Rat",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Focus Thoughts",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Forbidden Truths",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Forced Sprouting",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Forest_ZER",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Freezing Maelstrom",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Galeforce",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Gavis's Dragoons",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Gavis the Stalwart",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Gavis",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Goblin Cutpurses",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Goblin Squire",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Soldier",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Goldhill Enforcer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Goldhill Guardian",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Gossamer Veil",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Wall",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Grave Revenant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Zombie Beast",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Harm's Way",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Harrier's Falcon",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Harvest Moon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Hav'za, Itavan Warchief",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Healer's Knack",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Heavens Above",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Hill of Souls",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Illusionary Steed",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Pegasus Illusion",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "In Arms",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Infernal Invocation",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Inferno Forerunner",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Ironsmash Wrecker",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dwarf",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Island_ZER",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Itava Outrider",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Itava Scourge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Itava Warshrieker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Javelin",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Kalime Charger",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Kotis, Promised General",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Spirit Soldier",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Kusore, Essence Spinner",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Leech Soul",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Library Specter",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Life's Harbinger",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Life's Will",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Lifespinner Spider",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Lightning Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Living Fissures",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Lord of Swarms",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Maelstrom Griffin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Magister of Impotence",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Advisor",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Magma Hoof Giant",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Magmatic Ravager",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Magus Aspirant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Maligned Brute",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Mana Prism",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Master Spellwright",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Mausoleum Revenant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Mavisa, Wayfinder",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Planeswalker — Mavisa",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Mavisa's Familar",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Meteorain",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Might of All",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Mighty Swing",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Mind Crash",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Mindbreaker Sphinx",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Mindwinder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Mist Lurker",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Creature — Beast",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Mistwake Hydra",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Monstrous Guise",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Moonlit Shore",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Morbid Plunder",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Mountain_ZER",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Move Unseen",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Murderous Rampage",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Natia Nomad",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Natia Shaman",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Shaman",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Nimbus Fae",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Faerie Wizard",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Northwind Master",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Djinn Monk",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Ophelia's Neophyte",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Vampire Warrior",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Oracle Crab",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Crab",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Overwhelming Force",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Paladin's Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Palloren Vulture",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird Zombie",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Plains_ZER",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Planar Processor",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Predatory Feast",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Prey Upon",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Priest of Profanities",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie Cleric",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Primal Evocation",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Prophetic Flame",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Pull the Strings",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Pummel",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Puppetize",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Pyrostorm",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Radiant Justicar",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Recall to Mind",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Redo",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Rejuvenation",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Revenant Shade",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Shade",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Rise from the Grave",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Roar of War",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Rot Rebirth",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Rouse from Below",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Rule of Nature",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Runic Wall",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Wall",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Rush of Thought",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Sagi's Revenant",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Sagi Aysan",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Planeswalker — Sagi",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Sanctum",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Sanguine Mortifier",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Vampire Wizard",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Scaled Wurm",
+			"rarity": "common",
+			"mana_cost": "{7}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Scourge of the Skies",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Scrapper Construct",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Sea Strider",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Seabreen Nullmage",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Seabreen Protector",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Soldier",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Searshot Dragon",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Seismic Spike",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Shieldmaster's Blessing",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Shifting Allegiances",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Shredding Gale",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Sink into Despair",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Skavi Behemoth",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Skeleton Shield",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Skysovereign Griffin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Griffin",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Sleight of Hand",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Soul Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Soulight Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Spawn of Nazgur",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Speculate",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Spell Shackle",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Sphinx Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Spider Broodmother",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Spirit Drain",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Spirit Pendant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Stalwart Angel",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Steel Swarmer",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Insect",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Steeled Resolve",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Stillness",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Stoneskin",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Sudden Ambush",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Sunwright Scion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Surging Charge",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Swamp_ZER",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Swordmaster's Blessing",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Tactical Maneuvers",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Tainted Grounds",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Thought Grifter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Thought Siphon",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Trail of Rebirth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Travian Archsage",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Twice-Lived Dead",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Unhallowed Concordat",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Unstable Borer",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Juggernaut",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Valley Falls",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Valley Mists",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Vampiric Thirst",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Vanishing Stroke",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Vengeant Souls",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Venomous Assault",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Verdant Sanctum",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Verendas Brawler",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Verendas Spiritwalker",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Voracious Ghoul",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Wailing Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Waketide Serpent",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Wayfarer's Lantern",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Wellspring of Life",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Whispernight Assassin",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Spirit Rogue",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Whitetail Sparrow",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Whitetusk Charger",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Elephant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Wild Fervor",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Wild Ravine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Wildwood Keeper",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Wispbreath Drake",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Drake Elemental",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Wyrmwood Enchantress",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Young Tempter",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Zephyr Rider",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/ZER-files/img/40.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Abyssal Stalker
+	2 Adaptive Servitor
+	2 Aegis Champion
+	2 Aiel's Fury
+	1 Aiel Tazan
+	2 Aldrane, Insane Necromancer
+	2 Ancient Saber
+	2 Apprentice Summoner
+	2 Arden, Mirrormage
+	2 Aspect of Rage
+	2 Astral Dynamo
+	1 Blade of the Many
+	2 Blood Fiend
+	2 Bloodfire Phoenix
+	2 Bloodstone Halls
+	2 Concenter
+	1 Convergence Colossus
+	1 Convergent Might
+	1 Daril, Agent of Time
+	2 Daril's Timewalker
+	2 Death Strike
+	2 Dominion Crown
+	2 Erase from Existence
+	1 Eternal Oak
+	2 Fell the Haughty
+	2 Gavis's Dragoons
+	1 Gavis the Stalwart
+	2 Goldhill Guardian
+	2 Hav'za, Itavan Warchief
+	2 Infernal Invocation
+	2 Kotis, Promised General
+	2 Kusore, Essence Spinner
+	1 Life's Will
+	2 Magister of Impotence
+	1 Master Spellwright
+	1 Mavisa, Wayfinder
+	2 Mavisa's Familar
+	2 Might of All
+	2 Mind Crash
+	2 Mindbreaker Sphinx
+	2 Mistwake Hydra
+	2 Moonlit Shore
+	2 Overwhelming Force
+	2 Planar Processor
+	1 Primal Evocation
+	2 Puppetize
+	2 Pyrostorm
+	1 Radiant Justicar
+	2 Rejuvenation
+	2 Roar of War
+	2 Rule of Nature
+	2 Sagi's Revenant
+	1 Sagi Aysan
+	2 Sanguine Mortifier
+	1 Scourge of the Skies
+	2 Seabreen Nullmage
+	2 Searshot Dragon
+	2 Shifting Allegiances
+	2 Skavi Behemoth
+	2 Spawn of Nazgur
+	2 Spell Shackle
+	2 Stalwart Angel
+	2 Sudden Ambush
+	1 Thought Siphon
+	2 Travian Archsage
+	1 Unhallowed Concordat
+	2 Valley Falls
+	2 Venomous Assault
+	2 Verdant Sanctum
+	2 Waketide Serpent
+	2 Wild Ravine
+	2 Wyrmwood Enchantress
+[uncommon(3)]
+	4 Anurafication
+	4 Atdrik Ravager
+	4 Automated Blademaster
+	4 Backup Forces
+	4 Bloodfont Ritualist
+	4 Channel Enmity
+	4 Consort of Blood
+	4 Crude Tablet
+	4 Dauntless Piker
+	4 Daybreak Justicar
+	4 Dracosoul
+	4 Elegant Fireslinger
+	4 Fates Foretold
+	4 Fervent Sergeant
+	4 Forbidden Truths
+	4 Freezing Maelstrom
+	4 Grave Revenant
+	4 Harm's Way
+	4 Harvest Moon
+	4 Hill of Souls
+	4 In Arms
+	4 Itava Scourge
+	4 Javelin
+	4 Living Fissures
+	4 Lord of Swarms
+	4 Maelstrom Griffin
+	4 Magmatic Ravager
+	4 Magus Aspirant
+	4 Maligned Brute
+	4 Mana Prism
+	4 Mausoleum Revenant
+	4 Mindwinder
+	4 Mist Lurker
+	4 Murderous Rampage
+	4 Nimbus Fae
+	4 Paladin's Blade
+	4 Priest of Profanities
+	4 Recall to Mind
+	4 Redo
+	4 Rise from the Grave
+	4 Rot Rebirth
+	4 Rush of Thought
+	4 Scrapper Construct
+	4 Skeleton Shield
+	4 Skysovereign Griffin
+	4 Soul Flame
+	4 Soulight Captain
+	4 Sphinx Mentor
+	4 Spider Broodmother
+	4 Spirit Pendant
+	4 Steel Swarmer
+	4 Sunwright Scion
+	4 Tainted Grounds
+	4 Thought Grifter
+	4 Trail of Rebirth
+	4 Unstable Borer
+	4 Vanishing Stroke
+	4 Vengeant Souls
+	4 Verendas Brawler
+	4 Wailing Soul
+	4 Wellspring of Life
+[common(7)]
+	8 Adept of Waves
+	8 Aeon's Hand Cutthroat
+	8 Ancient Grizzly
+	8 Ancient Statue
+	8 Arcanum Owl
+	8 Assassinate
+	8 Audacious Knight
+	8 Battle Tactics
+	8 Battlefield Priest
+	8 Bladesinger
+	8 Bloodrage Gladiator
+	8 Brain Static
+	8 Brave the Frontier
+	8 Captain's Call
+	8 Carved Dagger
+	8 Caustic Lurker
+	8 Charbelcher
+	8 Commune With Nature
+	8 Copse Watcher
+	8 Corrupted Strength
+	8 Crumbling Vestige
+	8 Damned Deal
+	8 Depths of Solitude
+	8 Divine Ascension
+	8 Due Judgement
+	8 Edge of Madness
+	8 Ember Salvo
+	8 Ensnaring Vines
+	8 Envoy of Growth
+	8 Exclude
+	8 Feral Atdrik
+	8 Festering Shambler
+	8 Focus Thoughts
+	8 Forced Sprouting
+	8 Galeforce
+	8 Goblin Cutpurses
+	8 Goblin Squire
+	8 Goldhill Enforcer
+	8 Gossamer Veil
+	8 Harrier's Falcon
+	8 Healer's Knack
+	8 Heavens Above
+	8 Illusionary Steed
+	8 Inferno Forerunner
+	8 Ironsmash Wrecker
+	8 Itava Outrider
+	8 Itava Warshrieker
+	8 Kalime Charger
+	8 Leech Soul
+	8 Library Specter
+	8 Life's Harbinger
+	8 Lifespinner Spider
+	8 Lightning Strike
+	8 Magma Hoof Giant
+	8 Meteorain
+	8 Mighty Swing
+	8 Monstrous Guise
+	8 Morbid Plunder
+	8 Move Unseen
+	8 Natia Nomad
+	8 Natia Shaman
+	8 Northwind Master
+	8 Ophelia's Neophyte
+	8 Oracle Crab
+	8 Palloren Vulture
+	8 Predatory Feast
+	8 Prey Upon
+	8 Prophetic Flame
+	8 Pull the Strings
+	8 Pummel
+	8 Revenant Shade
+	8 Rouse from Below
+	8 Runic Wall
+	8 Sanctum
+	8 Scaled Wurm
+	8 Sea Strider
+	8 Seabreen Protector
+	8 Seismic Spike
+	8 Shieldmaster's Blessing
+	8 Shredding Gale
+	8 Sink into Despair
+	8 Sleight of Hand
+	8 Speculate
+	8 Spirit Drain
+	8 Steeled Resolve
+	8 Stillness
+	8 Stoneskin
+	8 Surging Charge
+	8 Swordmaster's Blessing
+	8 Tactical Maneuvers
+	8 Twice-Lived Dead
+	8 Valley Mists
+	8 Vampiric Thirst
+	8 Verendas Spiritwalker
+	8 Voracious Ghoul
+	8 Wayfarer's Lantern
+	8 Whispernight Assassin
+	8 Whitetail Sparrow
+	8 Whitetusk Charger
+	8 Wild Fervor
+	8 Wildwood Keeper
+	8 Wispbreath Drake
+	8 Young Tempter
+	8 Zephyr Rider
+[foil(1)]
+	1 Abyssal Stalker
+	2 Adaptive Servitor
+	12 Adept of Waves
+	2 Aegis Champion
+	12 Aeon's Hand Cutthroat
+	2 Aiel's Fury
+	1 Aiel Tazan
+	2 Aldrane, Insane Necromancer
+	12 Ancient Grizzly
+	2 Ancient Saber
+	12 Ancient Statue
+	6 Anurafication
+	2 Apprentice Summoner
+	12 Arcanum Owl
+	2 Arden, Mirrormage
+	2 Aspect of Rage
+	12 Assassinate
+	2 Astral Dynamo
+	6 Atdrik Ravager
+	12 Audacious Knight
+	6 Automated Blademaster
+	6 Backup Forces
+	12 Battle Tactics
+	12 Battlefield Priest
+	1 Blade of the Many
+	12 Bladesinger
+	2 Blood Fiend
+	2 Bloodfire Phoenix
+	6 Bloodfont Ritualist
+	12 Bloodrage Gladiator
+	2 Bloodstone Halls
+	12 Brain Static
+	12 Brave the Frontier
+	12 Captain's Call
+	12 Carved Dagger
+	12 Caustic Lurker
+	6 Channel Enmity
+	12 Charbelcher
+	12 Commune With Nature
+	2 Concenter
+	6 Consort of Blood
+	1 Convergence Colossus
+	1 Convergent Might
+	12 Copse Watcher
+	12 Corrupted Strength
+	6 Crude Tablet
+	12 Crumbling Vestige
+	12 Damned Deal
+	1 Daril, Agent of Time
+	2 Daril's Timewalker
+	6 Dauntless Piker
+	6 Daybreak Justicar
+	2 Death Strike
+	12 Depths of Solitude
+	12 Divine Ascension
+	2 Dominion Crown
+	6 Dracosoul
+	12 Due Judgement
+	12 Edge of Madness
+	6 Elegant Fireslinger
+	12 Ember Salvo
+	12 Ensnaring Vines
+	12 Envoy of Growth
+	2 Erase from Existence
+	1 Eternal Oak
+	12 Exclude
+	6 Fates Foretold
+	2 Fell the Haughty
+	12 Feral Atdrik
+	6 Fervent Sergeant
+	12 Festering Shambler
+	12 Focus Thoughts
+	6 Forbidden Truths
+	12 Forced Sprouting
+	6 Freezing Maelstrom
+	12 Galeforce
+	2 Gavis's Dragoons
+	1 Gavis the Stalwart
+	12 Goblin Cutpurses
+	12 Goblin Squire
+	12 Goldhill Enforcer
+	2 Goldhill Guardian
+	12 Gossamer Veil
+	6 Grave Revenant
+	6 Harm's Way
+	12 Harrier's Falcon
+	6 Harvest Moon
+	2 Hav'za, Itavan Warchief
+	12 Healer's Knack
+	12 Heavens Above
+	6 Hill of Souls
+	12 Illusionary Steed
+	6 In Arms
+	2 Infernal Invocation
+	12 Inferno Forerunner
+	12 Ironsmash Wrecker
+	12 Itava Outrider
+	6 Itava Scourge
+	12 Itava Warshrieker
+	6 Javelin
+	12 Kalime Charger
+	2 Kotis, Promised General
+	2 Kusore, Essence Spinner
+	12 Leech Soul
+	12 Library Specter
+	12 Life's Harbinger
+	1 Life's Will
+	12 Lifespinner Spider
+	12 Lightning Strike
+	6 Living Fissures
+	6 Lord of Swarms
+	6 Maelstrom Griffin
+	2 Magister of Impotence
+	12 Magma Hoof Giant
+	6 Magmatic Ravager
+	6 Magus Aspirant
+	6 Maligned Brute
+	6 Mana Prism
+	1 Master Spellwright
+	6 Mausoleum Revenant
+	1 Mavisa, Wayfinder
+	2 Mavisa's Familar
+	12 Meteorain
+	2 Might of All
+	12 Mighty Swing
+	2 Mind Crash
+	2 Mindbreaker Sphinx
+	6 Mindwinder
+	6 Mist Lurker
+	2 Mistwake Hydra
+	12 Monstrous Guise
+	2 Moonlit Shore
+	12 Morbid Plunder
+	12 Move Unseen
+	6 Murderous Rampage
+	12 Natia Nomad
+	12 Natia Shaman
+	6 Nimbus Fae
+	12 Northwind Master
+	12 Ophelia's Neophyte
+	12 Oracle Crab
+	2 Overwhelming Force
+	6 Paladin's Blade
+	12 Palloren Vulture
+	2 Planar Processor
+	12 Predatory Feast
+	12 Prey Upon
+	6 Priest of Profanities
+	1 Primal Evocation
+	12 Prophetic Flame
+	12 Pull the Strings
+	12 Pummel
+	2 Puppetize
+	2 Pyrostorm
+	1 Radiant Justicar
+	6 Recall to Mind
+	6 Redo
+	2 Rejuvenation
+	12 Revenant Shade
+	6 Rise from the Grave
+	2 Roar of War
+	6 Rot Rebirth
+	12 Rouse from Below
+	2 Rule of Nature
+	12 Runic Wall
+	6 Rush of Thought
+	2 Sagi's Revenant
+	1 Sagi Aysan
+	12 Sanctum
+	2 Sanguine Mortifier
+	12 Scaled Wurm
+	1 Scourge of the Skies
+	6 Scrapper Construct
+	12 Sea Strider
+	2 Seabreen Nullmage
+	12 Seabreen Protector
+	2 Searshot Dragon
+	12 Seismic Spike
+	12 Shieldmaster's Blessing
+	2 Shifting Allegiances
+	12 Shredding Gale
+	12 Sink into Despair
+	2 Skavi Behemoth
+	6 Skeleton Shield
+	6 Skysovereign Griffin
+	12 Sleight of Hand
+	6 Soul Flame
+	6 Soulight Captain
+	2 Spawn of Nazgur
+	12 Speculate
+	2 Spell Shackle
+	6 Sphinx Mentor
+	6 Spider Broodmother
+	12 Spirit Drain
+	6 Spirit Pendant
+	2 Stalwart Angel
+	6 Steel Swarmer
+	12 Steeled Resolve
+	12 Stillness
+	12 Stoneskin
+	2 Sudden Ambush
+	6 Sunwright Scion
+	12 Surging Charge
+	12 Swordmaster's Blessing
+	12 Tactical Maneuvers
+	6 Tainted Grounds
+	6 Thought Grifter
+	1 Thought Siphon
+	6 Trail of Rebirth
+	2 Travian Archsage
+	12 Twice-Lived Dead
+	1 Unhallowed Concordat
+	6 Unstable Borer
+	2 Valley Falls
+	12 Valley Mists
+	12 Vampiric Thirst
+	6 Vanishing Stroke
+	6 Vengeant Souls
+	2 Venomous Assault
+	2 Verdant Sanctum
+	6 Verendas Brawler
+	12 Verendas Spiritwalker
+	12 Voracious Ghoul
+	6 Wailing Soul
+	2 Waketide Serpent
+	12 Wayfarer's Lantern
+	6 Wellspring of Life
+	12 Whispernight Assassin
+	12 Whitetail Sparrow
+	12 Whitetusk Charger
+	12 Wild Fervor
+	2 Wild Ravine
+	12 Wildwood Keeper
+	12 Wispbreath Drake
+	2 Wyrmwood Enchantress
+	12 Young Tempter
+	12 Zephyr Rider
+[wildcard(1)]
+	4 Abyssal Stalker
+	7 Adaptive Servitor
+	6 Adept of Waves
+	7 Aegis Champion
+	6 Aeon's Hand Cutthroat
+	7 Aiel's Fury
+	4 Aiel Tazan
+	7 Aldrane, Insane Necromancer
+	6 Ancient Grizzly
+	7 Ancient Saber
+	6 Ancient Statue
+	15 Anurafication
+	7 Apprentice Summoner
+	6 Arcanum Owl
+	7 Arden, Mirrormage
+	7 Aspect of Rage
+	6 Assassinate
+	7 Astral Dynamo
+	15 Atdrik Ravager
+	6 Audacious Knight
+	15 Automated Blademaster
+	15 Backup Forces
+	6 Battle Tactics
+	6 Battlefield Priest
+	4 Blade of the Many
+	6 Bladesinger
+	7 Blood Fiend
+	7 Bloodfire Phoenix
+	15 Bloodfont Ritualist
+	6 Bloodrage Gladiator
+	7 Bloodstone Halls
+	6 Brain Static
+	6 Brave the Frontier
+	6 Captain's Call
+	6 Carved Dagger
+	6 Caustic Lurker
+	15 Channel Enmity
+	6 Charbelcher
+	6 Commune With Nature
+	7 Concenter
+	15 Consort of Blood
+	4 Convergence Colossus
+	4 Convergent Might
+	6 Copse Watcher
+	6 Corrupted Strength
+	15 Crude Tablet
+	6 Crumbling Vestige
+	6 Damned Deal
+	4 Daril, Agent of Time
+	7 Daril's Timewalker
+	15 Dauntless Piker
+	15 Daybreak Justicar
+	7 Death Strike
+	6 Depths of Solitude
+	6 Divine Ascension
+	7 Dominion Crown
+	15 Dracosoul
+	6 Due Judgement
+	6 Edge of Madness
+	15 Elegant Fireslinger
+	6 Ember Salvo
+	6 Ensnaring Vines
+	6 Envoy of Growth
+	7 Erase from Existence
+	4 Eternal Oak
+	6 Exclude
+	15 Fates Foretold
+	7 Fell the Haughty
+	6 Feral Atdrik
+	15 Fervent Sergeant
+	6 Festering Shambler
+	6 Focus Thoughts
+	15 Forbidden Truths
+	6 Forced Sprouting
+	15 Freezing Maelstrom
+	6 Galeforce
+	7 Gavis's Dragoons
+	4 Gavis the Stalwart
+	6 Goblin Cutpurses
+	6 Goblin Squire
+	6 Goldhill Enforcer
+	7 Goldhill Guardian
+	6 Gossamer Veil
+	15 Grave Revenant
+	15 Harm's Way
+	6 Harrier's Falcon
+	15 Harvest Moon
+	7 Hav'za, Itavan Warchief
+	6 Healer's Knack
+	6 Heavens Above
+	15 Hill of Souls
+	6 Illusionary Steed
+	15 In Arms
+	7 Infernal Invocation
+	6 Inferno Forerunner
+	6 Ironsmash Wrecker
+	6 Itava Outrider
+	15 Itava Scourge
+	6 Itava Warshrieker
+	15 Javelin
+	6 Kalime Charger
+	7 Kotis, Promised General
+	7 Kusore, Essence Spinner
+	6 Leech Soul
+	6 Library Specter
+	6 Life's Harbinger
+	4 Life's Will
+	6 Lifespinner Spider
+	6 Lightning Strike
+	15 Living Fissures
+	15 Lord of Swarms
+	15 Maelstrom Griffin
+	7 Magister of Impotence
+	6 Magma Hoof Giant
+	15 Magmatic Ravager
+	15 Magus Aspirant
+	15 Maligned Brute
+	15 Mana Prism
+	4 Master Spellwright
+	15 Mausoleum Revenant
+	4 Mavisa, Wayfinder
+	7 Mavisa's Familar
+	6 Meteorain
+	7 Might of All
+	6 Mighty Swing
+	7 Mind Crash
+	7 Mindbreaker Sphinx
+	15 Mindwinder
+	15 Mist Lurker
+	7 Mistwake Hydra
+	6 Monstrous Guise
+	7 Moonlit Shore
+	6 Morbid Plunder
+	6 Move Unseen
+	15 Murderous Rampage
+	6 Natia Nomad
+	6 Natia Shaman
+	15 Nimbus Fae
+	6 Northwind Master
+	6 Ophelia's Neophyte
+	6 Oracle Crab
+	7 Overwhelming Force
+	15 Paladin's Blade
+	6 Palloren Vulture
+	7 Planar Processor
+	6 Predatory Feast
+	6 Prey Upon
+	15 Priest of Profanities
+	4 Primal Evocation
+	6 Prophetic Flame
+	6 Pull the Strings
+	6 Pummel
+	7 Puppetize
+	7 Pyrostorm
+	4 Radiant Justicar
+	15 Recall to Mind
+	15 Redo
+	7 Rejuvenation
+	6 Revenant Shade
+	15 Rise from the Grave
+	7 Roar of War
+	15 Rot Rebirth
+	6 Rouse from Below
+	7 Rule of Nature
+	6 Runic Wall
+	15 Rush of Thought
+	7 Sagi's Revenant
+	4 Sagi Aysan
+	6 Sanctum
+	7 Sanguine Mortifier
+	6 Scaled Wurm
+	4 Scourge of the Skies
+	15 Scrapper Construct
+	6 Sea Strider
+	7 Seabreen Nullmage
+	6 Seabreen Protector
+	7 Searshot Dragon
+	6 Seismic Spike
+	6 Shieldmaster's Blessing
+	7 Shifting Allegiances
+	6 Shredding Gale
+	6 Sink into Despair
+	7 Skavi Behemoth
+	15 Skeleton Shield
+	15 Skysovereign Griffin
+	6 Sleight of Hand
+	15 Soul Flame
+	15 Soulight Captain
+	7 Spawn of Nazgur
+	6 Speculate
+	7 Spell Shackle
+	15 Sphinx Mentor
+	15 Spider Broodmother
+	6 Spirit Drain
+	15 Spirit Pendant
+	7 Stalwart Angel
+	15 Steel Swarmer
+	6 Steeled Resolve
+	6 Stillness
+	6 Stoneskin
+	7 Sudden Ambush
+	15 Sunwright Scion
+	6 Surging Charge
+	6 Swordmaster's Blessing
+	6 Tactical Maneuvers
+	15 Tainted Grounds
+	15 Thought Grifter
+	4 Thought Siphon
+	15 Trail of Rebirth
+	7 Travian Archsage
+	6 Twice-Lived Dead
+	4 Unhallowed Concordat
+	15 Unstable Borer
+	7 Valley Falls
+	6 Valley Mists
+	6 Vampiric Thirst
+	15 Vanishing Stroke
+	15 Vengeant Souls
+	7 Venomous Assault
+	7 Verdant Sanctum
+	15 Verendas Brawler
+	6 Verendas Spiritwalker
+	6 Voracious Ghoul
+	15 Wailing Soul
+	7 Waketide Serpent
+	6 Wayfarer's Lantern
+	15 Wellspring of Life
+	6 Whispernight Assassin
+	6 Whitetail Sparrow
+	6 Whitetusk Charger
+	6 Wild Fervor
+	7 Wild Ravine
+	6 Wildwood Keeper
+	6 Wispbreath Drake
+	7 Wyrmwood Enchantress
+	6 Young Tempter
+	6 Zephyr Rider

@@ -1,0 +1,3296 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abandoned Sanctuary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Achieve Greatness",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Admirer of the Lost",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Aerial Adept",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Albino Drake",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Allure of the Dark Grove",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Ambush Viper",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "An and En, Destined Souls",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Ancient Crab",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Crab",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Anointed General",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Apothecary's Remedy",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Artful Coercion",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Ash Breather",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Assassin's Shuriken",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Bane of the Folded Fan",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Barterer of Passage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Bathophobia",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Battering Swine",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Boar",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Battle Acumen",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Beckon from the Depths",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Blades of the Many",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Blooming Future",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Bone Pit Raptor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Zombie Lizard",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Branch Prowler",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Brass Dragon",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Dragon Construct",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Brazen Chimera",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Chimera",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Breath of Fresh Air",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Breath of Hao'Tai",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Bringer of the Pack",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Wolf Spirit",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Brothers in Arms",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Brutal Descent",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Call to Attention",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Caress the Fleets",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Charmer of the Folded Fan",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Chian, Augury Adept",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Chiu of the Wild Realm",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Chords of Order",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Coax Under",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Collared Kugsha",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Hound",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Come Crashing Down",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Consult the Dewdrops",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Consuming Flame",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Contort Reality",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Cou Ling of Many Tails",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Courageous Charge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Crane Legionnaire",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Crimson Hellmaw",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Zombie Dragon",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Da'Lang, Forest Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Wolf",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Dancing Blades",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Deep in Thought",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Demystifying Tide",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Deranged Apothecary",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Descend into Insanity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Desecrate Antiquities",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Diao, Dragoon Captain",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Diseased Prophet",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Disinter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Draconic Bulwark",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Dragon's Twisted Shadow",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Dragon Grip",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Emissary of the Wicked",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Empowering Chant",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Endangered Rhino",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Rhino",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Engulfing Incubus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Entangled Roots",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Ethereal Guidance",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Fallen Forest Wolf",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Fei'Xing the Marvelous",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Drake",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Fell the Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Ferocity of Hao'Tai",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Fetid Nibbler",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Rat",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Firebelly Toad",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Frog",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Flame Ascetic",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Fleshwrithe Ghoul",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Folded Fan Recruit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Foolhardy Huo",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "For Glory",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Foraging Chipmunk",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Chipmunk",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Forest_GNJ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Forlorn Murklurker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Form of the Demon",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Four-Headed Shredder",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Chimera",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Fox of the Fallen Forest",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fox Spirit",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Fox of the Orange Orchard",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fox Spirit",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Fox of the Sunset Legion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Fox Spirit",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Frilled Drakeling",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Gao'Wu, Master Soothsayer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Gaze of the Golden Fox",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "General of the Folded Fan",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Gilded Figurehead",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Gliding Serpent",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Guawu the Untamed",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Beast",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Hao'Tai, the Ancient One",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Hatsuo, Honored General",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Heping, Master Arbitrator",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Planeswalker — Heping",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Hostile Hermit",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Infuse the Apparatus",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Ing'Wei of the Flood Realm",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Inspiring Effigy",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Idol",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Inundated Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Invoke the Wild",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Island_GNJ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Isle Conservator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Jiayin, the Harmonious",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Dryad",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Jindao, the Coiled Prophet",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Snake",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Join the Flock",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Juvenile Boa",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Kai'Jun, the Annihilator",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Kai'Long, Dark Immolator",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Kai'Shi, Anguished One",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Demon Wizard",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Keeper of Blue Incense",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Kicking Crane Technique",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Kiora, Empress of the Flood",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Planeswalker — Kiora",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Kiri, Cloudwalker",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Fox Spirit",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Kiss of the Dryad",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Kou, Primal Shepherd",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Dryad",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Kugoja, Perished Conduit",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Zombie Wizard",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Lavatongue Lizard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Leafmantle Dryad",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Lei, Yak Herder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Lijing, the True Divinity",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Fox Spirit",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Lizhao, Lord of the Yaogu",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Loamwrecker",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Lizard",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Lord's Call",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Lost Among the Lilies",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Lumbering Stoneshell",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Lurking Hippo",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Hippo",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Magnificent Liturgy",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Maiden of the Daffodils",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Manic Illusionist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Master of Tranquility",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Mastery of the Silken Strand",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Meadow Macaque",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Monkey",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Merciless Xun Huang",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Monkey Warrior",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Miasma Spewer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Lizard Beast",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Midnight Predator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Mieng, Who Dances With Dragons",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Moonlight Stag",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Mother of Cranes",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Mother of Owls",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Mountain_GNJ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Mull Over",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Negate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Neutralize",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Nightcloak Ritualist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Nurturing Knowledge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Obscure Apostle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Orchard Botanist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Oshin, Keeper of the Shoal",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Drake",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Overzealous Tutor",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Pan, Honored Sergeant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Peakblazer Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Pecking Order",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Peddler of Commonwares",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Pious Flutist",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Pitiless Judgment",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Plains_GNJ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Plodding Moose",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Pon, Twister of Forms",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Preacher of the Yenzu",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Demon Wizard",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Put to Rest",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Qiyan, Serpent of Seven Heads",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Hydra",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Quell Mutiny",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Rabid Rodent",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Rat",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Radiant Maleficence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Ravaging Ghoul",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Read the Bones",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Recalibrate",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Resurrection Plea",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Reverent Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Rise from the Depths",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Roaring Dracowyrm",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Wurm",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Ruinous Glutton",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Zombie Beast",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Rummage Through Remains",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Runewart Hog",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Boar",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Ruthless Predator",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Sacred Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Sanguine Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Demon Wizard",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Savage Congregation",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Savage Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Scribal Puppeteer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Seng, Fevered Fanatic",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Zombie Wizard",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Shadow Infestation",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Shigurei, the Floodbringer",
+			"rarity": "mythic",
+			"mana_cost": "{7}{U}{U}",
+			"type": "Legendary Creature — Kraken",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Shimmering Seadragon",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Shock Blast",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Shojiro, the Wavewaker",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Legendary Creature — Octopus",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Shredskin Sky Horror",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Zombie Drake",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Sightless Blight",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Silken Spinner",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Simian Stick Fighter",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Monkey Warrior",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Skeletal Shredwing",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Zombie Lizard",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Slicing Legion",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Sonwu, the Mighty",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Ape",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Soulless Decree",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Spear of the Folded Fan",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Spidery Grasp",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Spire Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Spitfire",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Statuary Forge",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Student of the Crane",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Succumb",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Sun Yun, Master of Self",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Superiority Complex",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Surging Stream",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Swamp_GNJ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Technique of Hao'Tai",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Temperate Gazebo",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Wall",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Temple Cranes",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Test the Winds",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "The Charmer's Curse",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "The Dragon's Madness",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "The First Idol",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact Creature — Golem",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "The Mad Sage's Scroll",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Tomb Scavenger",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Trophy Collector",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Tseng, Warden of the Peak",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Twin Lis of the Divine Realm",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Twisted Mist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Tyrannic Judgment",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Tzelin of the Demon Realm",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Undead Archivist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Undead Banneret",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Undeath Comes",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Unleash the Beasts",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Unsettled Rivalry",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Unyielding Presence",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Vanishing Memory",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Vial of Dragonfire",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Vigorous Stag",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Volcanic Whelp",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Walk the Traveled Path",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Wander Ashore",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Warchief of the Folded Fan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Warrior's Meditation",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Warrior's Perspective",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Warrior of the Folded Fan",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Way of Kindred Mind",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Welkin Tern",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Whitepeak Channeler",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Whitepeak Predator",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Wicked Rites",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Wild Germination",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Wisdom of Hao'Tai",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Wretched Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Wun Su, Guru of the Staff",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Creature — Monkey Warrior",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Xiejuan, the Regal Beast",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Cat",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Xiong Mao, Survivalist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Planeswalker — Xiong Mao",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Xiusheng's Teachings",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Xiusheng of the Dragon Realm",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Yawning Crane",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Young Dragonheart",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Yujei, Crane Companion",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Zhehan, the Mediator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GNJ-files/img/255.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Achieve Greatness
+	2 Admirer of the Lost
+	2 Artful Coercion
+	2 Assassin's Shuriken
+	2 Bane of the Folded Fan
+	2 Brutal Descent
+	2 Call to Attention
+	2 Chian, Augury Adept
+	1 Chiu of the Wild Realm
+	2 Coax Under
+	2 Cou Ling of Many Tails
+	2 Crimson Hellmaw
+	2 Desecrate Antiquities
+	2 Diao, Dragoon Captain
+	2 Gao'Wu, Master Soothsayer
+	2 General of the Folded Fan
+	1 Hao'Tai, the Ancient One
+	2 Hatsuo, Honored General
+	1 Heping, Master Arbitrator
+	1 Infuse the Apparatus
+	1 Ing'Wei of the Flood Realm
+	2 Inspiring Effigy
+	2 Inundated Sanctuary
+	2 Jiayin, the Harmonious
+	2 Jindao, the Coiled Prophet
+	2 Kai'Jun, the Annihilator
+	2 Kai'Long, Dark Immolator
+	1 Kiora, Empress of the Flood
+	2 Kiri, Cloudwalker
+	2 Kou, Primal Shepherd
+	2 Kugoja, Perished Conduit
+	1 Lijing, the True Divinity
+	1 Lizhao, Lord of the Yaogu
+	2 Loamwrecker
+	2 Mieng, Who Dances With Dragons
+	2 Mull Over
+	2 Oshin, Keeper of the Shoal
+	2 Overzealous Tutor
+	2 Pecking Order
+	2 Pon, Twister of Forms
+	1 Qiyan, Serpent of Seven Heads
+	2 Quell Mutiny
+	2 Recalibrate
+	2 Rise from the Depths
+	2 Rummage Through Remains
+	2 Sacred Sanctuary
+	2 Savage Congregation
+	2 Savage Sanctuary
+	2 Seng, Fevered Fanatic
+	1 Shigurei, the Floodbringer
+	2 Shojiro, the Wavewaker
+	2 Sonwu, the Mighty
+	2 Spire Sanctuary
+	2 Sun Yun, Master of Self
+	2 The First Idol
+	2 Tseng, Warden of the Peak
+	1 Twin Lis of the Divine Realm
+	1 Tyrannic Judgment
+	1 Tzelin of the Demon Realm
+	2 Undeath Comes
+	2 Way of Kindred Mind
+	2 Wild Germination
+	2 Wretched Sanctuary
+	2 Wun Su, Guru of the Staff
+	2 Xiejuan, the Regal Beast
+	1 Xiong Mao, Survivalist
+	1 Xiusheng of the Dragon Realm
+	2 Yujei, Crane Companion
+[uncommon(3)]
+	4 Aerial Adept
+	4 Albino Drake
+	4 An and En, Destined Souls
+	4 Anointed General
+	4 Barterer of Passage
+	4 Battle Acumen
+	4 Blades of the Many
+	4 Bone Pit Raptor
+	4 Brazen Chimera
+	4 Bringer of the Pack
+	4 Brothers in Arms
+	4 Chords of Order
+	4 Courageous Charge
+	4 Crane Legionnaire
+	4 Da'Lang, Forest Guardian
+	4 Deep in Thought
+	4 Descend into Insanity
+	4 Disinter
+	4 Dragon Grip
+	4 Emissary of the Wicked
+	4 Engulfing Incubus
+	4 Entangled Roots
+	4 Fallen Forest Wolf
+	4 Fei'Xing the Marvelous
+	4 Fell the Beast
+	4 Firebelly Toad
+	4 Fleshwrithe Ghoul
+	4 Foolhardy Huo
+	4 Fox of the Sunset Legion
+	4 Guawu the Untamed
+	4 Hostile Hermit
+	4 Invoke the Wild
+	4 Isle Conservator
+	4 Join the Flock
+	4 Kai'Shi, Anguished One
+	4 Kiss of the Dryad
+	4 Lavatongue Lizard
+	4 Leafmantle Dryad
+	4 Lei, Yak Herder
+	4 Lord's Call
+	4 Lost Among the Lilies
+	4 Lurking Hippo
+	4 Manic Illusionist
+	4 Master of Tranquility
+	4 Merciless Xun Huang
+	4 Miasma Spewer
+	4 Midnight Predator
+	4 Mother of Owls
+	4 Neutralize
+	4 Nightcloak Ritualist
+	4 Nurturing Knowledge
+	4 Obscure Apostle
+	4 Orchard Botanist
+	4 Pan, Honored Sergeant
+	4 Peakblazer Dragon
+	4 Pitiless Judgment
+	4 Rabid Rodent
+	4 Radiant Maleficence
+	4 Reverent Flame
+	4 Ruinous Glutton
+	4 Sanguine Oracle
+	4 Scribal Puppeteer
+	4 Shock Blast
+	4 Soulless Decree
+	4 Spear of the Folded Fan
+	4 Surging Stream
+	4 Temperate Gazebo
+	4 The Charmer's Curse
+	4 Twisted Mist
+	4 Undead Archivist
+	4 Undead Banneret
+	4 Unleash the Beasts
+	4 Unsettled Rivalry
+	4 Vanishing Memory
+	4 Vigorous Stag
+	4 Warchief of the Folded Fan
+	4 Warrior's Perspective
+	4 Wicked Rites
+	4 Yawning Crane
+	4 Zhehan, the Mediator
+[common(7)]
+	8 Abandoned Sanctuary
+	8 Allure of the Dark Grove
+	8 Ambush Viper
+	8 Ancient Crab
+	8 Apothecary's Remedy
+	8 Ash Breather
+	8 Bathophobia
+	8 Battering Swine
+	8 Beckon from the Depths
+	8 Blooming Future
+	8 Branch Prowler
+	8 Brass Dragon
+	8 Breath of Fresh Air
+	8 Breath of Hao'Tai
+	8 Caress the Fleets
+	8 Charmer of the Folded Fan
+	8 Collared Kugsha
+	8 Come Crashing Down
+	8 Consult the Dewdrops
+	8 Consuming Flame
+	8 Contort Reality
+	8 Dancing Blades
+	8 Demystifying Tide
+	8 Deranged Apothecary
+	8 Diseased Prophet
+	8 Draconic Bulwark
+	8 Dragon's Twisted Shadow
+	8 Empowering Chant
+	8 Endangered Rhino
+	8 Ethereal Guidance
+	8 Ferocity of Hao'Tai
+	8 Fetid Nibbler
+	8 Flame Ascetic
+	8 Folded Fan Recruit
+	8 For Glory
+	8 Foraging Chipmunk
+	8 Forlorn Murklurker
+	8 Form of the Demon
+	8 Four-Headed Shredder
+	8 Fox of the Fallen Forest
+	8 Fox of the Orange Orchard
+	8 Frilled Drakeling
+	8 Gaze of the Golden Fox
+	8 Gilded Figurehead
+	8 Gliding Serpent
+	8 Juvenile Boa
+	8 Keeper of Blue Incense
+	8 Kicking Crane Technique
+	8 Lumbering Stoneshell
+	8 Magnificent Liturgy
+	8 Maiden of the Daffodils
+	8 Mastery of the Silken Strand
+	8 Meadow Macaque
+	8 Moonlight Stag
+	8 Mother of Cranes
+	8 Negate
+	8 Peddler of Commonwares
+	8 Pious Flutist
+	8 Plodding Moose
+	8 Preacher of the Yenzu
+	8 Put to Rest
+	8 Ravaging Ghoul
+	8 Read the Bones
+	8 Resurrection Plea
+	8 Roaring Dracowyrm
+	8 Runewart Hog
+	8 Ruthless Predator
+	8 Shadow Infestation
+	8 Shimmering Seadragon
+	8 Shredskin Sky Horror
+	8 Sightless Blight
+	8 Silken Spinner
+	8 Simian Stick Fighter
+	8 Skeletal Shredwing
+	8 Slicing Legion
+	8 Spidery Grasp
+	8 Spitfire
+	8 Statuary Forge
+	8 Student of the Crane
+	8 Succumb
+	8 Superiority Complex
+	8 Technique of Hao'Tai
+	8 Temple Cranes
+	8 Test the Winds
+	8 The Dragon's Madness
+	8 The Mad Sage's Scroll
+	8 Tomb Scavenger
+	8 Trophy Collector
+	8 Unyielding Presence
+	8 Vial of Dragonfire
+	8 Volcanic Whelp
+	8 Walk the Traveled Path
+	8 Wander Ashore
+	8 Warrior's Meditation
+	8 Warrior of the Folded Fan
+	8 Welkin Tern
+	8 Whitepeak Channeler
+	8 Whitepeak Predator
+	8 Wisdom of Hao'Tai
+	8 Xiusheng's Teachings
+	8 Young Dragonheart
+[foil(1)]
+	12 Abandoned Sanctuary
+	2 Achieve Greatness
+	2 Admirer of the Lost
+	6 Aerial Adept
+	6 Albino Drake
+	12 Allure of the Dark Grove
+	12 Ambush Viper
+	6 An and En, Destined Souls
+	12 Ancient Crab
+	6 Anointed General
+	12 Apothecary's Remedy
+	2 Artful Coercion
+	12 Ash Breather
+	2 Assassin's Shuriken
+	2 Bane of the Folded Fan
+	6 Barterer of Passage
+	12 Bathophobia
+	12 Battering Swine
+	6 Battle Acumen
+	12 Beckon from the Depths
+	6 Blades of the Many
+	12 Blooming Future
+	6 Bone Pit Raptor
+	12 Branch Prowler
+	12 Brass Dragon
+	6 Brazen Chimera
+	12 Breath of Fresh Air
+	12 Breath of Hao'Tai
+	6 Bringer of the Pack
+	6 Brothers in Arms
+	2 Brutal Descent
+	2 Call to Attention
+	12 Caress the Fleets
+	12 Charmer of the Folded Fan
+	2 Chian, Augury Adept
+	1 Chiu of the Wild Realm
+	6 Chords of Order
+	2 Coax Under
+	12 Collared Kugsha
+	12 Come Crashing Down
+	12 Consult the Dewdrops
+	12 Consuming Flame
+	12 Contort Reality
+	2 Cou Ling of Many Tails
+	6 Courageous Charge
+	6 Crane Legionnaire
+	2 Crimson Hellmaw
+	6 Da'Lang, Forest Guardian
+	12 Dancing Blades
+	6 Deep in Thought
+	12 Demystifying Tide
+	12 Deranged Apothecary
+	6 Descend into Insanity
+	2 Desecrate Antiquities
+	2 Diao, Dragoon Captain
+	12 Diseased Prophet
+	6 Disinter
+	12 Draconic Bulwark
+	12 Dragon's Twisted Shadow
+	6 Dragon Grip
+	6 Emissary of the Wicked
+	12 Empowering Chant
+	12 Endangered Rhino
+	6 Engulfing Incubus
+	6 Entangled Roots
+	12 Ethereal Guidance
+	6 Fallen Forest Wolf
+	6 Fei'Xing the Marvelous
+	6 Fell the Beast
+	12 Ferocity of Hao'Tai
+	12 Fetid Nibbler
+	6 Firebelly Toad
+	12 Flame Ascetic
+	6 Fleshwrithe Ghoul
+	12 Folded Fan Recruit
+	6 Foolhardy Huo
+	12 For Glory
+	12 Foraging Chipmunk
+	12 Forlorn Murklurker
+	12 Form of the Demon
+	12 Four-Headed Shredder
+	12 Fox of the Fallen Forest
+	12 Fox of the Orange Orchard
+	6 Fox of the Sunset Legion
+	12 Frilled Drakeling
+	2 Gao'Wu, Master Soothsayer
+	12 Gaze of the Golden Fox
+	2 General of the Folded Fan
+	12 Gilded Figurehead
+	12 Gliding Serpent
+	6 Guawu the Untamed
+	1 Hao'Tai, the Ancient One
+	2 Hatsuo, Honored General
+	1 Heping, Master Arbitrator
+	6 Hostile Hermit
+	1 Infuse the Apparatus
+	1 Ing'Wei of the Flood Realm
+	2 Inspiring Effigy
+	2 Inundated Sanctuary
+	6 Invoke the Wild
+	6 Isle Conservator
+	2 Jiayin, the Harmonious
+	2 Jindao, the Coiled Prophet
+	6 Join the Flock
+	12 Juvenile Boa
+	2 Kai'Jun, the Annihilator
+	2 Kai'Long, Dark Immolator
+	6 Kai'Shi, Anguished One
+	12 Keeper of Blue Incense
+	12 Kicking Crane Technique
+	1 Kiora, Empress of the Flood
+	2 Kiri, Cloudwalker
+	6 Kiss of the Dryad
+	2 Kou, Primal Shepherd
+	2 Kugoja, Perished Conduit
+	6 Lavatongue Lizard
+	6 Leafmantle Dryad
+	6 Lei, Yak Herder
+	1 Lijing, the True Divinity
+	1 Lizhao, Lord of the Yaogu
+	2 Loamwrecker
+	6 Lord's Call
+	6 Lost Among the Lilies
+	12 Lumbering Stoneshell
+	6 Lurking Hippo
+	12 Magnificent Liturgy
+	12 Maiden of the Daffodils
+	6 Manic Illusionist
+	6 Master of Tranquility
+	12 Mastery of the Silken Strand
+	12 Meadow Macaque
+	6 Merciless Xun Huang
+	6 Miasma Spewer
+	6 Midnight Predator
+	2 Mieng, Who Dances With Dragons
+	12 Moonlight Stag
+	12 Mother of Cranes
+	6 Mother of Owls
+	2 Mull Over
+	12 Negate
+	6 Neutralize
+	6 Nightcloak Ritualist
+	6 Nurturing Knowledge
+	6 Obscure Apostle
+	6 Orchard Botanist
+	2 Oshin, Keeper of the Shoal
+	2 Overzealous Tutor
+	6 Pan, Honored Sergeant
+	6 Peakblazer Dragon
+	2 Pecking Order
+	12 Peddler of Commonwares
+	12 Pious Flutist
+	6 Pitiless Judgment
+	12 Plodding Moose
+	2 Pon, Twister of Forms
+	12 Preacher of the Yenzu
+	12 Put to Rest
+	1 Qiyan, Serpent of Seven Heads
+	2 Quell Mutiny
+	6 Rabid Rodent
+	6 Radiant Maleficence
+	12 Ravaging Ghoul
+	12 Read the Bones
+	2 Recalibrate
+	12 Resurrection Plea
+	6 Reverent Flame
+	2 Rise from the Depths
+	12 Roaring Dracowyrm
+	6 Ruinous Glutton
+	2 Rummage Through Remains
+	12 Runewart Hog
+	12 Ruthless Predator
+	2 Sacred Sanctuary
+	6 Sanguine Oracle
+	2 Savage Congregation
+	2 Savage Sanctuary
+	6 Scribal Puppeteer
+	2 Seng, Fevered Fanatic
+	12 Shadow Infestation
+	1 Shigurei, the Floodbringer
+	12 Shimmering Seadragon
+	6 Shock Blast
+	2 Shojiro, the Wavewaker
+	12 Shredskin Sky Horror
+	12 Sightless Blight
+	12 Silken Spinner
+	12 Simian Stick Fighter
+	12 Skeletal Shredwing
+	12 Slicing Legion
+	2 Sonwu, the Mighty
+	6 Soulless Decree
+	6 Spear of the Folded Fan
+	12 Spidery Grasp
+	2 Spire Sanctuary
+	12 Spitfire
+	12 Statuary Forge
+	12 Student of the Crane
+	12 Succumb
+	2 Sun Yun, Master of Self
+	12 Superiority Complex
+	6 Surging Stream
+	12 Technique of Hao'Tai
+	6 Temperate Gazebo
+	12 Temple Cranes
+	12 Test the Winds
+	6 The Charmer's Curse
+	12 The Dragon's Madness
+	2 The First Idol
+	12 The Mad Sage's Scroll
+	12 Tomb Scavenger
+	12 Trophy Collector
+	2 Tseng, Warden of the Peak
+	1 Twin Lis of the Divine Realm
+	6 Twisted Mist
+	1 Tyrannic Judgment
+	1 Tzelin of the Demon Realm
+	6 Undead Archivist
+	6 Undead Banneret
+	2 Undeath Comes
+	6 Unleash the Beasts
+	6 Unsettled Rivalry
+	12 Unyielding Presence
+	6 Vanishing Memory
+	12 Vial of Dragonfire
+	6 Vigorous Stag
+	12 Volcanic Whelp
+	12 Walk the Traveled Path
+	12 Wander Ashore
+	6 Warchief of the Folded Fan
+	12 Warrior's Meditation
+	6 Warrior's Perspective
+	12 Warrior of the Folded Fan
+	2 Way of Kindred Mind
+	12 Welkin Tern
+	12 Whitepeak Channeler
+	12 Whitepeak Predator
+	6 Wicked Rites
+	2 Wild Germination
+	12 Wisdom of Hao'Tai
+	2 Wretched Sanctuary
+	2 Wun Su, Guru of the Staff
+	2 Xiejuan, the Regal Beast
+	1 Xiong Mao, Survivalist
+	12 Xiusheng's Teachings
+	1 Xiusheng of the Dragon Realm
+	6 Yawning Crane
+	12 Young Dragonheart
+	2 Yujei, Crane Companion
+	6 Zhehan, the Mediator
+[wildcard(1)]
+	6 Abandoned Sanctuary
+	7 Achieve Greatness
+	7 Admirer of the Lost
+	15 Aerial Adept
+	15 Albino Drake
+	6 Allure of the Dark Grove
+	6 Ambush Viper
+	15 An and En, Destined Souls
+	6 Ancient Crab
+	15 Anointed General
+	6 Apothecary's Remedy
+	7 Artful Coercion
+	6 Ash Breather
+	7 Assassin's Shuriken
+	7 Bane of the Folded Fan
+	15 Barterer of Passage
+	6 Bathophobia
+	6 Battering Swine
+	15 Battle Acumen
+	6 Beckon from the Depths
+	15 Blades of the Many
+	6 Blooming Future
+	15 Bone Pit Raptor
+	6 Branch Prowler
+	6 Brass Dragon
+	15 Brazen Chimera
+	6 Breath of Fresh Air
+	6 Breath of Hao'Tai
+	15 Bringer of the Pack
+	15 Brothers in Arms
+	7 Brutal Descent
+	7 Call to Attention
+	6 Caress the Fleets
+	6 Charmer of the Folded Fan
+	7 Chian, Augury Adept
+	4 Chiu of the Wild Realm
+	15 Chords of Order
+	7 Coax Under
+	6 Collared Kugsha
+	6 Come Crashing Down
+	6 Consult the Dewdrops
+	6 Consuming Flame
+	6 Contort Reality
+	7 Cou Ling of Many Tails
+	15 Courageous Charge
+	15 Crane Legionnaire
+	7 Crimson Hellmaw
+	15 Da'Lang, Forest Guardian
+	6 Dancing Blades
+	15 Deep in Thought
+	6 Demystifying Tide
+	6 Deranged Apothecary
+	15 Descend into Insanity
+	7 Desecrate Antiquities
+	7 Diao, Dragoon Captain
+	6 Diseased Prophet
+	15 Disinter
+	6 Draconic Bulwark
+	6 Dragon's Twisted Shadow
+	15 Dragon Grip
+	15 Emissary of the Wicked
+	6 Empowering Chant
+	6 Endangered Rhino
+	15 Engulfing Incubus
+	15 Entangled Roots
+	6 Ethereal Guidance
+	15 Fallen Forest Wolf
+	15 Fei'Xing the Marvelous
+	15 Fell the Beast
+	6 Ferocity of Hao'Tai
+	6 Fetid Nibbler
+	15 Firebelly Toad
+	6 Flame Ascetic
+	15 Fleshwrithe Ghoul
+	6 Folded Fan Recruit
+	15 Foolhardy Huo
+	6 For Glory
+	6 Foraging Chipmunk
+	6 Forlorn Murklurker
+	6 Form of the Demon
+	6 Four-Headed Shredder
+	6 Fox of the Fallen Forest
+	6 Fox of the Orange Orchard
+	15 Fox of the Sunset Legion
+	6 Frilled Drakeling
+	7 Gao'Wu, Master Soothsayer
+	6 Gaze of the Golden Fox
+	7 General of the Folded Fan
+	6 Gilded Figurehead
+	6 Gliding Serpent
+	15 Guawu the Untamed
+	4 Hao'Tai, the Ancient One
+	7 Hatsuo, Honored General
+	4 Heping, Master Arbitrator
+	15 Hostile Hermit
+	4 Infuse the Apparatus
+	4 Ing'Wei of the Flood Realm
+	7 Inspiring Effigy
+	7 Inundated Sanctuary
+	15 Invoke the Wild
+	15 Isle Conservator
+	7 Jiayin, the Harmonious
+	7 Jindao, the Coiled Prophet
+	15 Join the Flock
+	6 Juvenile Boa
+	7 Kai'Jun, the Annihilator
+	7 Kai'Long, Dark Immolator
+	15 Kai'Shi, Anguished One
+	6 Keeper of Blue Incense
+	6 Kicking Crane Technique
+	4 Kiora, Empress of the Flood
+	7 Kiri, Cloudwalker
+	15 Kiss of the Dryad
+	7 Kou, Primal Shepherd
+	7 Kugoja, Perished Conduit
+	15 Lavatongue Lizard
+	15 Leafmantle Dryad
+	15 Lei, Yak Herder
+	4 Lijing, the True Divinity
+	4 Lizhao, Lord of the Yaogu
+	7 Loamwrecker
+	15 Lord's Call
+	15 Lost Among the Lilies
+	6 Lumbering Stoneshell
+	15 Lurking Hippo
+	6 Magnificent Liturgy
+	6 Maiden of the Daffodils
+	15 Manic Illusionist
+	15 Master of Tranquility
+	6 Mastery of the Silken Strand
+	6 Meadow Macaque
+	15 Merciless Xun Huang
+	15 Miasma Spewer
+	15 Midnight Predator
+	7 Mieng, Who Dances With Dragons
+	6 Moonlight Stag
+	6 Mother of Cranes
+	15 Mother of Owls
+	7 Mull Over
+	6 Negate
+	15 Neutralize
+	15 Nightcloak Ritualist
+	15 Nurturing Knowledge
+	15 Obscure Apostle
+	15 Orchard Botanist
+	7 Oshin, Keeper of the Shoal
+	7 Overzealous Tutor
+	15 Pan, Honored Sergeant
+	15 Peakblazer Dragon
+	7 Pecking Order
+	6 Peddler of Commonwares
+	6 Pious Flutist
+	15 Pitiless Judgment
+	6 Plodding Moose
+	7 Pon, Twister of Forms
+	6 Preacher of the Yenzu
+	6 Put to Rest
+	4 Qiyan, Serpent of Seven Heads
+	7 Quell Mutiny
+	15 Rabid Rodent
+	15 Radiant Maleficence
+	6 Ravaging Ghoul
+	6 Read the Bones
+	7 Recalibrate
+	6 Resurrection Plea
+	15 Reverent Flame
+	7 Rise from the Depths
+	6 Roaring Dracowyrm
+	15 Ruinous Glutton
+	7 Rummage Through Remains
+	6 Runewart Hog
+	6 Ruthless Predator
+	7 Sacred Sanctuary
+	15 Sanguine Oracle
+	7 Savage Congregation
+	7 Savage Sanctuary
+	15 Scribal Puppeteer
+	7 Seng, Fevered Fanatic
+	6 Shadow Infestation
+	4 Shigurei, the Floodbringer
+	6 Shimmering Seadragon
+	15 Shock Blast
+	7 Shojiro, the Wavewaker
+	6 Shredskin Sky Horror
+	6 Sightless Blight
+	6 Silken Spinner
+	6 Simian Stick Fighter
+	6 Skeletal Shredwing
+	6 Slicing Legion
+	7 Sonwu, the Mighty
+	15 Soulless Decree
+	15 Spear of the Folded Fan
+	6 Spidery Grasp
+	7 Spire Sanctuary
+	6 Spitfire
+	6 Statuary Forge
+	6 Student of the Crane
+	6 Succumb
+	7 Sun Yun, Master of Self
+	6 Superiority Complex
+	15 Surging Stream
+	6 Technique of Hao'Tai
+	15 Temperate Gazebo
+	6 Temple Cranes
+	6 Test the Winds
+	15 The Charmer's Curse
+	6 The Dragon's Madness
+	7 The First Idol
+	6 The Mad Sage's Scroll
+	6 Tomb Scavenger
+	6 Trophy Collector
+	7 Tseng, Warden of the Peak
+	4 Twin Lis of the Divine Realm
+	15 Twisted Mist
+	4 Tyrannic Judgment
+	4 Tzelin of the Demon Realm
+	15 Undead Archivist
+	15 Undead Banneret
+	7 Undeath Comes
+	15 Unleash the Beasts
+	15 Unsettled Rivalry
+	6 Unyielding Presence
+	15 Vanishing Memory
+	6 Vial of Dragonfire
+	15 Vigorous Stag
+	6 Volcanic Whelp
+	6 Walk the Traveled Path
+	6 Wander Ashore
+	15 Warchief of the Folded Fan
+	6 Warrior's Meditation
+	15 Warrior's Perspective
+	6 Warrior of the Folded Fan
+	7 Way of Kindred Mind
+	6 Welkin Tern
+	6 Whitepeak Channeler
+	6 Whitepeak Predator
+	15 Wicked Rites
+	7 Wild Germination
+	6 Wisdom of Hao'Tai
+	7 Wretched Sanctuary
+	7 Wun Su, Guru of the Staff
+	7 Xiejuan, the Regal Beast
+	4 Xiong Mao, Survivalist
+	6 Xiusheng's Teachings
+	4 Xiusheng of the Dragon Realm
+	15 Yawning Crane
+	6 Young Dragonheart
+	7 Yujei, Crane Companion
+	15 Zhehan, the Mediator

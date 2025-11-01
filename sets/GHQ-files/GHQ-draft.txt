@@ -1,0 +1,3828 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abandoned Den",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Aegis Expertise",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Ancient Studies",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Arctic Pack",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Ascetic of Imbalance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Monk",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Aspect of Focus",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Astrid, Disgruntled Princess",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Attuned Prodigy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Awoken Soul",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Battle Roarer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bear Warrior",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Bear Necessities",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Bear in Mind",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Bearhide Cloak",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Bearhide Initiate",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Beat Down",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Bellowing Giant",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Bereave",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Bestial Harmony",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Bjarndyr Bruiser",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Bear Warrior",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Bjarndyr Mender",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Bear Monk",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Bjarndyr Militant",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bear Warrior",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Bjarndyr Outfitter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Bear Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Bjarndyr Sergeant",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Bear Warrior",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Bjarndyr Venerable",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Bear Monk",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Blood Hunter's Spear",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Bloodguard's Hand",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Bloodhunter Orca",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Whale",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Bloodshed Devotee",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Bloodsworn Provoker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Blossoming Defense_GHQ",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Blow Away",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Brain Feeding // Mind Bleeding",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/90a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/90a_front.jpg"
+			}
+		},
+		{
+			"name": "Brain Feeding // Mind Bleeding",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/90a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/90a_front.jpg"
+			}
+		},
+		{
+			"name": "Breathless Gasp",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Bristled Wolverine",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Wolverine",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Byway Bruiser",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Cancel_GHQ",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Cane Dancer",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Casualty of War",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Centered Acolyte",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Chains of Subdual",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Charmed Sage",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Cinder Arrows",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Cogent Recruiter",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Conviction",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Copse Crusher",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Crash of Hooves",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Crippling Apparition",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Cryptic Ritual",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Culi-Sae Exonerator",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Culi-Sae Mesmer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Culi-Sae Partisan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Culi-Sae Transfigurer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Curio Connoisseur",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fox Rogue",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Dark Harvester",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Dawn Siege",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Deathless Ghoul",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Demand Submission // Command Respect",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/180a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/180a_front.jpg"
+			}
+		},
+		{
+			"name": "Demand Submission // Command Respect",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/180a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/180a_front.jpg"
+			}
+		},
+		{
+			"name": "Demolish",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Departed Evangel",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Monk",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Devastating Blow",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Dire Betrayal // Betrayer's Mantle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/137a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/137a_front.jpg"
+			}
+		},
+		{
+			"name": "Dire Betrayal // Betrayer's Mantle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/137a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/137a_front.jpg"
+			}
+		},
+		{
+			"name": "Dissenting Vikings",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Dragon Queen's Den",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Dragon Queen's Disciple",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Monk",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Dragon Queen's Hoard",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Dragon Queen's Pupil",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Monk",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Dragonfire Longboat",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Ship Vehicle",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Efface",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Engrave",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Ephemeral Visions // Eternal Blindness",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/56a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/56a_front.jpg"
+			}
+		},
+		{
+			"name": "Ephemeral Visions // Eternal Blindness",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/56a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/56a_front.jpg"
+			}
+		},
+		{
+			"name": "Equanimity",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Fateful Journey",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Fiery Reckoning",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Flailing Terror",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Fleecy Lynx",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Flesh Shredder",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Beast",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Forest_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Forest_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Forest_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Forest Fellowship",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Experiment",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Zombie",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Frigid Behemoth",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Giant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Frost Walker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Frosted Adder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Frostfield Swordsman",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Fox Soldier",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Furor of the Bitten",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Gale Murmurer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Ghastly Ferry",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Ship Vehicle",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Ghoulsaber",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Gilded Yak",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Yak",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Glacier Tortoise",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Great Gray Wolf",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Greenheart Den",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Greenheart Squirrel",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Squirrel",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Grizzly Matriarch",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Hat Trick // Okus Pokus",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/61a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/61a_front.jpg"
+			}
+		},
+		{
+			"name": "Hat Trick // Okus Pokus",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/61a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/61a_front.jpg"
+			}
+		},
+		{
+			"name": "Haunted Hermit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Heartless Host",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Hearty Karv",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Ship Vehicle",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Hemley Eggfeather",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Planeswalker — Hemley",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Hibernation Den",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Highlands Advocate",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bear Druid",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Highlands Champion",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Bear Warrior",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Host of Haloes",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Howl of the Hunted // Hall of the Haunted",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/21a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/21a_front.jpg"
+			}
+		},
+		{
+			"name": "Howl of the Hunted // Hall of the Haunted",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/21a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/21a_front.jpg"
+			}
+		},
+		{
+			"name": "Humble Fieldhand",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Fox Citizen",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Hungering Horde",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Ice Over",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Icefang Wurm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Icy Manipulator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Imperial Chimera",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Chimera",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Inborn Instincts",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Intrepid Shieldmate",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Invocation Circle",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Island_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Island_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Island_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Issbarren Creeper",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Issbarren Phoenix",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Issbarren Warden",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bear Monk",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Issbarrens Banishment",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Join the Pack",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Keeper of Twisted Light",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Lands Untrodden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Last Dusk",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Leech-Ridden Corpse",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Leopard Seal",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Seal",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Light a Fire // Brimr, Forged in the Flames",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "219",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/219a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/219a_front.jpg"
+			}
+		},
+		{
+			"name": "Light a Fire // Brimr, Forged in the Flames",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "219",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/219a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/219a_front.jpg"
+			}
+		},
+		{
+			"name": "Lose Composure",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Lumbering Egil",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Planeswalker — Okus",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Lumbering Mammoth",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elephant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Mammoth Crab",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Crab",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Marked Scent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Marred Marauder",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Merciless Oaf",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Midnight Gaze",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Mirin, Held by the Heavens",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Fox Angel",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Model of Perfection // Ship of Fools",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/67a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/67a_front.jpg"
+			}
+		},
+		{
+			"name": "Model of Perfection // Ship of Fools",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/67a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/67a_front.jpg"
+			}
+		},
+		{
+			"name": "Monument to the Fallen Man",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Moonlight Curator",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Mortal Resurrection // Immortal Ascension",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/26a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/26a_front.jpg"
+			}
+		},
+		{
+			"name": "Mortal Resurrection // Immortal Ascension",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/26a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/26a_front.jpg"
+			}
+		},
+		{
+			"name": "Mountain_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Mountain_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Mountain_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Mountain Bighorn",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Sheep",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Murderlust",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Nature's Claim",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Neckbreaker Viking",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Oaken Longbow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Peasant Crusher",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Phantasmal Possession",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Pillager's Sloop",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Ship Vehicle",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Pinion Peaks",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Plains_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Plains_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Plains_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Play the Coward",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Powdercoat Leopard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Primal Caribou",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elk",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Raider's Den",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Rakkiri Archer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Fox Archer",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Rakkiri Aspirant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Fox Soldier",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Rakkiri Dissident",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Fox Soldier",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Rakkiri Initiate",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Fox Soldier",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Rakkiri Pathblazer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Fox Scout",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Rakkiri Piker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Fox Soldier",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Ravaging Tyrant",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Recover",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Redleather Armorer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bear Monk",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Redtail Fencer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fox Soldier",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Rend Asunder",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Reticent Possessor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Rewrite Fate",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Rimecraft Owl",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Ripclaw Drake",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Rotfeeder Slime",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Ruthless Conscript",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Saffrisa, Heir Apparent",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Saffrisa's Touch",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Sanctifier Spirit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Sanitarium Skeleton",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Scornful Flames",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Seek Haven",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Seismic Passage",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Sentinel of the Highlands",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Bear Warrior",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Seto San, Forlorn Savior",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Seto",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Shambling Gutless",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Shipway Whale",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Shorecrash Octopus",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Octopus",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Short Sword",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Shredding Blizzard",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Sinful Burial // Pious Judgment",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/114a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/114a_front.jpg"
+			}
+		},
+		{
+			"name": "Sinful Burial // Pious Judgment",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/114a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/114a_front.jpg"
+			}
+		},
+		{
+			"name": "Sinner's Purge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Skeigr, Skhorvall Flagship",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Ship Vehicle",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Skhorvall Behemoth",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Skhorvall Eternal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Skhorvall Patrol",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Warrior Scout",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Skhorvall Raider",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Skhorvall Warleader",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Sly Snow-Fox",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Fox",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Soul Release",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Soul Stroke",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Soulsmoke Adept",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Spirits of the Shrine",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Spiritual Heir",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Splintering Hail",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Staff of Equilibrium",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Starlit Raze // Scarlet Haze",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/159a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/159a_front.jpg"
+			}
+		},
+		{
+			"name": "Starlit Raze // Scarlet Haze",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/159a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/159a_front.jpg"
+			}
+		},
+		{
+			"name": "Steelcrusher Viking",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Steward of the Code",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bear Monk",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Stoic Muse",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Student's Pilgrimage // Master's Honor",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/36a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/36a_front.jpg"
+			}
+		},
+		{
+			"name": "Student's Pilgrimage // Master's Honor",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/36a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/36a_front.jpg"
+			}
+		},
+		{
+			"name": "Sullen Bonecrusher",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Swamp_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Swamp_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Swamp_GHQ",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Syrina, the Dragon Queen",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Syrina's Brood",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Dragon Spirit",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Tawny Lemmings",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Lemming",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Tear Loose // Heartstrings",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/122a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/122a_front.jpg"
+			}
+		},
+		{
+			"name": "Tear Loose // Heartstrings",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/122a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/122a_front.jpg"
+			}
+		},
+		{
+			"name": "Temple Instructor",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Temple Recluse",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Monk",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "The Ever-Pestilent",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "The Issbarrens",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Third Legion General",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Fox Soldier",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Third Legion Rider",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Fox Soldier",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Thoughtless Malice // Malicious Thoughts",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/162a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/162a_front.jpg"
+			}
+		},
+		{
+			"name": "Thoughtless Malice // Malicious Thoughts",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/162a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/162a_front.jpg"
+			}
+		},
+		{
+			"name": "Thunderhoof Mammoth",
+			"rarity": "rare",
+			"mana_cost": "{8}{G}{G}",
+			"type": "Creature — Elephant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "To the Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Touch of Shadow // Taste of Light",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/79a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/79a_front.jpg"
+			}
+		},
+		{
+			"name": "Touch of Shadow // Taste of Light",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/79a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/79a_front.jpg"
+			}
+		},
+		{
+			"name": "Transcendent Arts",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Treacherous Conditions",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Tundra Forager",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Wolverine",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Tundra Turtle",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Turbulent Journey",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Twilight Delirium",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Unburdened Rage",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Unending Voracity",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Viking Greataxe",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Viking Packleader",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Viork Woods Butcher",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Viork Woods Savage",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Virtuous Angel",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Vitality Reclaimer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Bear Monk",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Wake of the Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Wanton Cleave",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "War-Torn Tundra",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "War Spirit",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Warfield Excavator",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Warfury Dragon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Warring Ways // Glory Days",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/40a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/40a_front.jpg"
+			}
+		},
+		{
+			"name": "Warring Ways // Glory Days",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/GHQ-files/img/40a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/40a_front.jpg"
+			}
+		},
+		{
+			"name": "Wave of Ice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Wayfaring Pilgrim",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Weathered Skiff",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Ship Vehicle",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Weeping Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Weirding Wings",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Whispered Wishes",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Wild Bearmaster",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Bear Warrior",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Wily Ermine",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Weasel",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Windwhip",
+			"rarity": "common",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Winter Widow",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Withered Elk",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie Elk",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Woolly Moose",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Moose",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Xiong Mao, the Intrepid",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Planeswalker — Xiong Mao",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/GHQ-files/img/225.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Astrid, Disgruntled Princess
+	2 Bestial Harmony
+	2 Bjarndyr Sergeant
+	2 Blood Hunter's Spear
+	2 Bloodguard's Hand
+	2 Byway Bruiser
+	2 Cane Dancer
+	2 Casualty of War
+	1 Centered Acolyte
+	2 Chains of Subdual
+	2 Cogent Recruiter
+	2 Crippling Apparition
+	2 Cryptic Ritual
+	2 Culi-Sae Exonerator
+	2 Departed Evangel
+	1 Dragon Queen's Disciple
+	2 Equanimity
+	2 Fateful Journey
+	2 Fiery Reckoning
+	2 Flailing Terror
+	2 Forest Fellowship
+	2 Gale Murmurer
+	2 Ghastly Ferry
+	2 Grizzly Matriarch
+	1 Hat Trick // Okus Pokus
+	1 Hat Trick // Okus Pokus
+	1 Hemley Eggfeather
+	1 Highlands Champion
+	1 Imperial Chimera
+	2 Inborn Instincts
+	2 Invocation Circle
+	2 Issbarren Warden
+	1 Light a Fire // Brimr, Forged in the Flames
+	1 Light a Fire // Brimr, Forged in the Flames
+	1 Lumbering Egil
+	1 Mirin, Held by the Heavens
+	2 Model of Perfection // Ship of Fools
+	2 Model of Perfection // Ship of Fools
+	2 Monument to the Fallen Man
+	2 Play the Coward
+	2 Rakkiri Dissident
+	1 Ravaging Tyrant
+	2 Redtail Fencer
+	2 Rend Asunder
+	1 Saffrisa, Heir Apparent
+	2 Seismic Passage
+	2 Sentinel of the Highlands
+	1 Seto San, Forlorn Savior
+	2 Shipway Whale
+	2 Skeigr, Skhorvall Flagship
+	2 Skhorvall Behemoth
+	2 Spirits of the Shrine
+	2 Staff of Equilibrium
+	2 Starlit Raze // Scarlet Haze
+	2 Starlit Raze // Scarlet Haze
+	1 Syrina, the Dragon Queen
+	2 Syrina's Brood
+	2 Tear Loose // Heartstrings
+	2 Tear Loose // Heartstrings
+	2 The Issbarrens
+	2 Thunderhoof Mammoth
+	2 Treacherous Conditions
+	2 Twilight Delirium
+	1 Unburdened Rage
+	2 Viork Woods Savage
+	2 Virtuous Angel
+	2 Warfield Excavator
+	2 Warfury Dragon
+	2 Warring Ways // Glory Days
+	2 Warring Ways // Glory Days
+	2 Wild Bearmaster
+	2 Winter Widow
+	2 Withered Elk
+	1 Xiong Mao, the Intrepid
+[uncommon(3)]
+	4 Abandoned Den
+	4 Ancient Studies
+	4 Arctic Pack
+	4 Ascetic of Imbalance
+	4 Attuned Prodigy
+	4 Battle Roarer
+	4 Bear in Mind
+	4 Bjarndyr Mender
+	4 Bjarndyr Outfitter
+	4 Bjarndyr Venerable
+	4 Bloodshed Devotee
+	4 Bloodsworn Provoker
+	4 Blossoming Defense_GHQ
+	4 Blow Away
+	4 Brain Feeding // Mind Bleeding
+	4 Brain Feeding // Mind Bleeding
+	4 Charmed Sage
+	4 Copse Crusher
+	4 Culi-Sae Mesmer
+	4 Culi-Sae Partisan
+	4 Curio Connoisseur
+	4 Dark Harvester
+	4 Dawn Siege
+	4 Deathless Ghoul
+	4 Dire Betrayal // Betrayer's Mantle
+	4 Dire Betrayal // Betrayer's Mantle
+	4 Dragon Queen's Den
+	4 Engrave
+	4 Ephemeral Visions // Eternal Blindness
+	4 Ephemeral Visions // Eternal Blindness
+	4 Frost Walker
+	4 Frosted Adder
+	4 Ghoulsaber
+	4 Glacier Tortoise
+	4 Greenheart Den
+	4 Hearty Karv
+	4 Hibernation Den
+	4 Howl of the Hunted // Hall of the Haunted
+	4 Howl of the Hunted // Hall of the Haunted
+	4 Hungering Horde
+	4 Icefang Wurm
+	4 Icy Manipulator
+	4 Issbarren Creeper
+	4 Issbarren Phoenix
+	4 Keeper of Twisted Light
+	4 Lands Untrodden
+	4 Marked Scent
+	4 Mortal Resurrection // Immortal Ascension
+	4 Mortal Resurrection // Immortal Ascension
+	4 Mountain Bighorn
+	4 Murderlust
+	4 Oaken Longbow
+	4 Phantasmal Possession
+	4 Pillager's Sloop
+	4 Powdercoat Leopard
+	4 Raider's Den
+	4 Rakkiri Aspirant
+	4 Rakkiri Initiate
+	4 Rakkiri Piker
+	4 Reticent Possessor
+	4 Rimecraft Owl
+	4 Ruthless Conscript
+	4 Saffrisa's Touch
+	4 Sanctifier Spirit
+	4 Shorecrash Octopus
+	4 Sinner's Purge
+	4 Skhorvall Eternal
+	4 Skhorvall Warleader
+	4 Sly Snow-Fox
+	4 Soul Stroke
+	4 Splintering Hail
+	4 Sullen Bonecrusher
+	4 Tawny Lemmings
+	4 The Ever-Pestilent
+	4 Third Legion General
+	4 To the Hunt
+	4 Transcendent Arts
+	4 Tundra Forager
+	4 Turbulent Journey
+	4 Viking Packleader
+	4 Vitality Reclaimer
+	4 Wake of the Beast
+	4 Wave of Ice
+	4 Wayfaring Pilgrim
+	4 Weeping Soul
+[common(7)]
+	8 Aegis Expertise
+	8 Aspect of Focus
+	8 Awoken Soul
+	8 Bear Necessities
+	8 Bearhide Cloak
+	8 Bearhide Initiate
+	8 Beat Down
+	8 Bellowing Giant
+	8 Bereave
+	8 Bjarndyr Bruiser
+	8 Bjarndyr Militant
+	8 Bloodhunter Orca
+	8 Breathless Gasp
+	8 Bristled Wolverine
+	8 Cancel_GHQ
+	8 Cinder Arrows
+	8 Conviction
+	8 Crash of Hooves
+	8 Culi-Sae Transfigurer
+	8 Demand Submission // Command Respect
+	8 Demand Submission // Command Respect
+	8 Demolish
+	8 Devastating Blow
+	8 Dissenting Vikings
+	8 Dragon Queen's Hoard
+	8 Dragon Queen's Pupil
+	8 Dragonfire Longboat
+	8 Efface
+	8 Fleecy Lynx
+	8 Flesh Shredder
+	8 Forgotten Experiment
+	8 Frigid Behemoth
+	8 Frostfield Swordsman
+	8 Furor of the Bitten
+	8 Gilded Yak
+	8 Great Gray Wolf
+	8 Greenheart Squirrel
+	8 Haunted Hermit
+	8 Heartless Host
+	8 Highlands Advocate
+	8 Host of Haloes
+	8 Humble Fieldhand
+	8 Ice Over
+	8 Intrepid Shieldmate
+	8 Issbarrens Banishment
+	8 Join the Pack
+	8 Last Dusk
+	8 Leech-Ridden Corpse
+	8 Leopard Seal
+	8 Lose Composure
+	8 Lumbering Mammoth
+	8 Mammoth Crab
+	8 Marred Marauder
+	8 Merciless Oaf
+	8 Midnight Gaze
+	8 Moonlight Curator
+	8 Nature's Claim
+	8 Neckbreaker Viking
+	8 Peasant Crusher
+	8 Pinion Peaks
+	8 Primal Caribou
+	8 Rakkiri Archer
+	8 Rakkiri Pathblazer
+	8 Recover
+	8 Redleather Armorer
+	8 Rewrite Fate
+	8 Ripclaw Drake
+	8 Rotfeeder Slime
+	8 Sanitarium Skeleton
+	8 Scornful Flames
+	8 Seek Haven
+	8 Shambling Gutless
+	8 Short Sword
+	8 Shredding Blizzard
+	8 Sinful Burial // Pious Judgment
+	8 Sinful Burial // Pious Judgment
+	8 Skhorvall Patrol
+	8 Skhorvall Raider
+	8 Soul Release
+	8 Soulsmoke Adept
+	8 Spiritual Heir
+	8 Steelcrusher Viking
+	8 Steward of the Code
+	8 Stoic Muse
+	8 Student's Pilgrimage // Master's Honor
+	8 Student's Pilgrimage // Master's Honor
+	8 Temple Instructor
+	8 Temple Recluse
+	8 Third Legion Rider
+	8 Thoughtless Malice // Malicious Thoughts
+	8 Thoughtless Malice // Malicious Thoughts
+	8 Touch of Shadow // Taste of Light
+	8 Touch of Shadow // Taste of Light
+	8 Tundra Turtle
+	8 Unending Voracity
+	8 Viking Greataxe
+	8 Viork Woods Butcher
+	8 Wanton Cleave
+	8 War-Torn Tundra
+	8 War Spirit
+	8 Weathered Skiff
+	8 Weirding Wings
+	8 Whispered Wishes
+	8 Wily Ermine
+	8 Windwhip
+	8 Woolly Moose
+[foil(1)]
+	6 Abandoned Den
+	12 Aegis Expertise
+	6 Ancient Studies
+	6 Arctic Pack
+	6 Ascetic of Imbalance
+	12 Aspect of Focus
+	2 Astrid, Disgruntled Princess
+	6 Attuned Prodigy
+	12 Awoken Soul
+	6 Battle Roarer
+	12 Bear Necessities
+	6 Bear in Mind
+	12 Bearhide Cloak
+	12 Bearhide Initiate
+	12 Beat Down
+	12 Bellowing Giant
+	12 Bereave
+	2 Bestial Harmony
+	12 Bjarndyr Bruiser
+	6 Bjarndyr Mender
+	12 Bjarndyr Militant
+	6 Bjarndyr Outfitter
+	2 Bjarndyr Sergeant
+	6 Bjarndyr Venerable
+	2 Blood Hunter's Spear
+	2 Bloodguard's Hand
+	12 Bloodhunter Orca
+	6 Bloodshed Devotee
+	6 Bloodsworn Provoker
+	6 Blossoming Defense_GHQ
+	6 Blow Away
+	6 Brain Feeding // Mind Bleeding
+	6 Brain Feeding // Mind Bleeding
+	12 Breathless Gasp
+	12 Bristled Wolverine
+	2 Byway Bruiser
+	12 Cancel_GHQ
+	2 Cane Dancer
+	2 Casualty of War
+	1 Centered Acolyte
+	2 Chains of Subdual
+	6 Charmed Sage
+	12 Cinder Arrows
+	2 Cogent Recruiter
+	12 Conviction
+	6 Copse Crusher
+	12 Crash of Hooves
+	2 Crippling Apparition
+	2 Cryptic Ritual
+	2 Culi-Sae Exonerator
+	6 Culi-Sae Mesmer
+	6 Culi-Sae Partisan
+	12 Culi-Sae Transfigurer
+	6 Curio Connoisseur
+	6 Dark Harvester
+	6 Dawn Siege
+	6 Deathless Ghoul
+	12 Demand Submission // Command Respect
+	12 Demand Submission // Command Respect
+	12 Demolish
+	2 Departed Evangel
+	12 Devastating Blow
+	6 Dire Betrayal // Betrayer's Mantle
+	6 Dire Betrayal // Betrayer's Mantle
+	12 Dissenting Vikings
+	6 Dragon Queen's Den
+	1 Dragon Queen's Disciple
+	12 Dragon Queen's Hoard
+	12 Dragon Queen's Pupil
+	12 Dragonfire Longboat
+	12 Efface
+	6 Engrave
+	6 Ephemeral Visions // Eternal Blindness
+	6 Ephemeral Visions // Eternal Blindness
+	2 Equanimity
+	2 Fateful Journey
+	2 Fiery Reckoning
+	2 Flailing Terror
+	12 Fleecy Lynx
+	12 Flesh Shredder
+	2 Forest Fellowship
+	12 Forgotten Experiment
+	12 Frigid Behemoth
+	6 Frost Walker
+	6 Frosted Adder
+	12 Frostfield Swordsman
+	12 Furor of the Bitten
+	2 Gale Murmurer
+	2 Ghastly Ferry
+	6 Ghoulsaber
+	12 Gilded Yak
+	6 Glacier Tortoise
+	12 Great Gray Wolf
+	6 Greenheart Den
+	12 Greenheart Squirrel
+	2 Grizzly Matriarch
+	1 Hat Trick // Okus Pokus
+	1 Hat Trick // Okus Pokus
+	12 Haunted Hermit
+	12 Heartless Host
+	6 Hearty Karv
+	1 Hemley Eggfeather
+	6 Hibernation Den
+	12 Highlands Advocate
+	1 Highlands Champion
+	12 Host of Haloes
+	6 Howl of the Hunted // Hall of the Haunted
+	6 Howl of the Hunted // Hall of the Haunted
+	12 Humble Fieldhand
+	6 Hungering Horde
+	12 Ice Over
+	6 Icefang Wurm
+	6 Icy Manipulator
+	1 Imperial Chimera
+	2 Inborn Instincts
+	12 Intrepid Shieldmate
+	2 Invocation Circle
+	6 Issbarren Creeper
+	6 Issbarren Phoenix
+	2 Issbarren Warden
+	12 Issbarrens Banishment
+	12 Join the Pack
+	6 Keeper of Twisted Light
+	6 Lands Untrodden
+	12 Last Dusk
+	12 Leech-Ridden Corpse
+	12 Leopard Seal
+	1 Light a Fire // Brimr, Forged in the Flames
+	1 Light a Fire // Brimr, Forged in the Flames
+	12 Lose Composure
+	1 Lumbering Egil
+	12 Lumbering Mammoth
+	12 Mammoth Crab
+	6 Marked Scent
+	12 Marred Marauder
+	12 Merciless Oaf
+	12 Midnight Gaze
+	1 Mirin, Held by the Heavens
+	2 Model of Perfection // Ship of Fools
+	2 Model of Perfection // Ship of Fools
+	2 Monument to the Fallen Man
+	12 Moonlight Curator
+	6 Mortal Resurrection // Immortal Ascension
+	6 Mortal Resurrection // Immortal Ascension
+	6 Mountain Bighorn
+	6 Murderlust
+	12 Nature's Claim
+	12 Neckbreaker Viking
+	6 Oaken Longbow
+	12 Peasant Crusher
+	6 Phantasmal Possession
+	6 Pillager's Sloop
+	12 Pinion Peaks
+	2 Play the Coward
+	6 Powdercoat Leopard
+	12 Primal Caribou
+	6 Raider's Den
+	12 Rakkiri Archer
+	6 Rakkiri Aspirant
+	2 Rakkiri Dissident
+	6 Rakkiri Initiate
+	12 Rakkiri Pathblazer
+	6 Rakkiri Piker
+	1 Ravaging Tyrant
+	12 Recover
+	12 Redleather Armorer
+	2 Redtail Fencer
+	2 Rend Asunder
+	6 Reticent Possessor
+	12 Rewrite Fate
+	6 Rimecraft Owl
+	12 Ripclaw Drake
+	12 Rotfeeder Slime
+	6 Ruthless Conscript
+	1 Saffrisa, Heir Apparent
+	6 Saffrisa's Touch
+	6 Sanctifier Spirit
+	12 Sanitarium Skeleton
+	12 Scornful Flames
+	12 Seek Haven
+	2 Seismic Passage
+	2 Sentinel of the Highlands
+	1 Seto San, Forlorn Savior
+	12 Shambling Gutless
+	2 Shipway Whale
+	6 Shorecrash Octopus
+	12 Short Sword
+	12 Shredding Blizzard
+	12 Sinful Burial // Pious Judgment
+	12 Sinful Burial // Pious Judgment
+	6 Sinner's Purge
+	2 Skeigr, Skhorvall Flagship
+	2 Skhorvall Behemoth
+	6 Skhorvall Eternal
+	12 Skhorvall Patrol
+	12 Skhorvall Raider
+	6 Skhorvall Warleader
+	6 Sly Snow-Fox
+	12 Soul Release
+	6 Soul Stroke
+	12 Soulsmoke Adept
+	2 Spirits of the Shrine
+	12 Spiritual Heir
+	6 Splintering Hail
+	2 Staff of Equilibrium
+	2 Starlit Raze // Scarlet Haze
+	2 Starlit Raze // Scarlet Haze
+	12 Steelcrusher Viking
+	12 Steward of the Code
+	12 Stoic Muse
+	12 Student's Pilgrimage // Master's Honor
+	12 Student's Pilgrimage // Master's Honor
+	6 Sullen Bonecrusher
+	1 Syrina, the Dragon Queen
+	2 Syrina's Brood
+	6 Tawny Lemmings
+	2 Tear Loose // Heartstrings
+	2 Tear Loose // Heartstrings
+	12 Temple Instructor
+	12 Temple Recluse
+	6 The Ever-Pestilent
+	2 The Issbarrens
+	6 Third Legion General
+	12 Third Legion Rider
+	12 Thoughtless Malice // Malicious Thoughts
+	12 Thoughtless Malice // Malicious Thoughts
+	2 Thunderhoof Mammoth
+	6 To the Hunt
+	12 Touch of Shadow // Taste of Light
+	12 Touch of Shadow // Taste of Light
+	6 Transcendent Arts
+	2 Treacherous Conditions
+	6 Tundra Forager
+	12 Tundra Turtle
+	6 Turbulent Journey
+	2 Twilight Delirium
+	1 Unburdened Rage
+	12 Unending Voracity
+	12 Viking Greataxe
+	6 Viking Packleader
+	12 Viork Woods Butcher
+	2 Viork Woods Savage
+	2 Virtuous Angel
+	6 Vitality Reclaimer
+	6 Wake of the Beast
+	12 Wanton Cleave
+	12 War-Torn Tundra
+	12 War Spirit
+	2 Warfield Excavator
+	2 Warfury Dragon
+	2 Warring Ways // Glory Days
+	2 Warring Ways // Glory Days
+	6 Wave of Ice
+	6 Wayfaring Pilgrim
+	12 Weathered Skiff
+	6 Weeping Soul
+	12 Weirding Wings
+	12 Whispered Wishes
+	2 Wild Bearmaster
+	12 Wily Ermine
+	12 Windwhip
+	2 Winter Widow
+	2 Withered Elk
+	12 Woolly Moose
+	1 Xiong Mao, the Intrepid
+[wildcard(1)]
+	15 Abandoned Den
+	6 Aegis Expertise
+	15 Ancient Studies
+	15 Arctic Pack
+	15 Ascetic of Imbalance
+	6 Aspect of Focus
+	7 Astrid, Disgruntled Princess
+	15 Attuned Prodigy
+	6 Awoken Soul
+	15 Battle Roarer
+	6 Bear Necessities
+	15 Bear in Mind
+	6 Bearhide Cloak
+	6 Bearhide Initiate
+	6 Beat Down
+	6 Bellowing Giant
+	6 Bereave
+	7 Bestial Harmony
+	6 Bjarndyr Bruiser
+	15 Bjarndyr Mender
+	6 Bjarndyr Militant
+	15 Bjarndyr Outfitter
+	7 Bjarndyr Sergeant
+	15 Bjarndyr Venerable
+	7 Blood Hunter's Spear
+	7 Bloodguard's Hand
+	6 Bloodhunter Orca
+	15 Bloodshed Devotee
+	15 Bloodsworn Provoker
+	15 Blossoming Defense_GHQ
+	15 Blow Away
+	15 Brain Feeding // Mind Bleeding
+	15 Brain Feeding // Mind Bleeding
+	6 Breathless Gasp
+	6 Bristled Wolverine
+	7 Byway Bruiser
+	6 Cancel_GHQ
+	7 Cane Dancer
+	7 Casualty of War
+	4 Centered Acolyte
+	7 Chains of Subdual
+	15 Charmed Sage
+	6 Cinder Arrows
+	7 Cogent Recruiter
+	6 Conviction
+	15 Copse Crusher
+	6 Crash of Hooves
+	7 Crippling Apparition
+	7 Cryptic Ritual
+	7 Culi-Sae Exonerator
+	15 Culi-Sae Mesmer
+	15 Culi-Sae Partisan
+	6 Culi-Sae Transfigurer
+	15 Curio Connoisseur
+	15 Dark Harvester
+	15 Dawn Siege
+	15 Deathless Ghoul
+	6 Demand Submission // Command Respect
+	6 Demand Submission // Command Respect
+	6 Demolish
+	7 Departed Evangel
+	6 Devastating Blow
+	15 Dire Betrayal // Betrayer's Mantle
+	15 Dire Betrayal // Betrayer's Mantle
+	6 Dissenting Vikings
+	15 Dragon Queen's Den
+	4 Dragon Queen's Disciple
+	6 Dragon Queen's Hoard
+	6 Dragon Queen's Pupil
+	6 Dragonfire Longboat
+	6 Efface
+	15 Engrave
+	15 Ephemeral Visions // Eternal Blindness
+	15 Ephemeral Visions // Eternal Blindness
+	7 Equanimity
+	7 Fateful Journey
+	7 Fiery Reckoning
+	7 Flailing Terror
+	6 Fleecy Lynx
+	6 Flesh Shredder
+	7 Forest Fellowship
+	6 Forgotten Experiment
+	6 Frigid Behemoth
+	15 Frost Walker
+	15 Frosted Adder
+	6 Frostfield Swordsman
+	6 Furor of the Bitten
+	7 Gale Murmurer
+	7 Ghastly Ferry
+	15 Ghoulsaber
+	6 Gilded Yak
+	15 Glacier Tortoise
+	6 Great Gray Wolf
+	15 Greenheart Den
+	6 Greenheart Squirrel
+	7 Grizzly Matriarch
+	4 Hat Trick // Okus Pokus
+	4 Hat Trick // Okus Pokus
+	6 Haunted Hermit
+	6 Heartless Host
+	15 Hearty Karv
+	4 Hemley Eggfeather
+	15 Hibernation Den
+	6 Highlands Advocate
+	4 Highlands Champion
+	6 Host of Haloes
+	15 Howl of the Hunted // Hall of the Haunted
+	15 Howl of the Hunted // Hall of the Haunted
+	6 Humble Fieldhand
+	15 Hungering Horde
+	6 Ice Over
+	15 Icefang Wurm
+	15 Icy Manipulator
+	4 Imperial Chimera
+	7 Inborn Instincts
+	6 Intrepid Shieldmate
+	7 Invocation Circle
+	15 Issbarren Creeper
+	15 Issbarren Phoenix
+	7 Issbarren Warden
+	6 Issbarrens Banishment
+	6 Join the Pack
+	15 Keeper of Twisted Light
+	15 Lands Untrodden
+	6 Last Dusk
+	6 Leech-Ridden Corpse
+	6 Leopard Seal
+	4 Light a Fire // Brimr, Forged in the Flames
+	4 Light a Fire // Brimr, Forged in the Flames
+	6 Lose Composure
+	4 Lumbering Egil
+	6 Lumbering Mammoth
+	6 Mammoth Crab
+	15 Marked Scent
+	6 Marred Marauder
+	6 Merciless Oaf
+	6 Midnight Gaze
+	4 Mirin, Held by the Heavens
+	7 Model of Perfection // Ship of Fools
+	7 Model of Perfection // Ship of Fools
+	7 Monument to the Fallen Man
+	6 Moonlight Curator
+	15 Mortal Resurrection // Immortal Ascension
+	15 Mortal Resurrection // Immortal Ascension
+	15 Mountain Bighorn
+	15 Murderlust
+	6 Nature's Claim
+	6 Neckbreaker Viking
+	15 Oaken Longbow
+	6 Peasant Crusher
+	15 Phantasmal Possession
+	15 Pillager's Sloop
+	6 Pinion Peaks
+	7 Play the Coward
+	15 Powdercoat Leopard
+	6 Primal Caribou
+	15 Raider's Den
+	6 Rakkiri Archer
+	15 Rakkiri Aspirant
+	7 Rakkiri Dissident
+	15 Rakkiri Initiate
+	6 Rakkiri Pathblazer
+	15 Rakkiri Piker
+	4 Ravaging Tyrant
+	6 Recover
+	6 Redleather Armorer
+	7 Redtail Fencer
+	7 Rend Asunder
+	15 Reticent Possessor
+	6 Rewrite Fate
+	15 Rimecraft Owl
+	6 Ripclaw Drake
+	6 Rotfeeder Slime
+	15 Ruthless Conscript
+	4 Saffrisa, Heir Apparent
+	15 Saffrisa's Touch
+	15 Sanctifier Spirit
+	6 Sanitarium Skeleton
+	6 Scornful Flames
+	6 Seek Haven
+	7 Seismic Passage
+	7 Sentinel of the Highlands
+	4 Seto San, Forlorn Savior
+	6 Shambling Gutless
+	7 Shipway Whale
+	15 Shorecrash Octopus
+	6 Short Sword
+	6 Shredding Blizzard
+	6 Sinful Burial // Pious Judgment
+	6 Sinful Burial // Pious Judgment
+	15 Sinner's Purge
+	7 Skeigr, Skhorvall Flagship
+	7 Skhorvall Behemoth
+	15 Skhorvall Eternal
+	6 Skhorvall Patrol
+	6 Skhorvall Raider
+	15 Skhorvall Warleader
+	15 Sly Snow-Fox
+	6 Soul Release
+	15 Soul Stroke
+	6 Soulsmoke Adept
+	7 Spirits of the Shrine
+	6 Spiritual Heir
+	15 Splintering Hail
+	7 Staff of Equilibrium
+	7 Starlit Raze // Scarlet Haze
+	7 Starlit Raze // Scarlet Haze
+	6 Steelcrusher Viking
+	6 Steward of the Code
+	6 Stoic Muse
+	6 Student's Pilgrimage // Master's Honor
+	6 Student's Pilgrimage // Master's Honor
+	15 Sullen Bonecrusher
+	4 Syrina, the Dragon Queen
+	7 Syrina's Brood
+	15 Tawny Lemmings
+	7 Tear Loose // Heartstrings
+	7 Tear Loose // Heartstrings
+	6 Temple Instructor
+	6 Temple Recluse
+	15 The Ever-Pestilent
+	7 The Issbarrens
+	15 Third Legion General
+	6 Third Legion Rider
+	6 Thoughtless Malice // Malicious Thoughts
+	6 Thoughtless Malice // Malicious Thoughts
+	7 Thunderhoof Mammoth
+	15 To the Hunt
+	6 Touch of Shadow // Taste of Light
+	6 Touch of Shadow // Taste of Light
+	15 Transcendent Arts
+	7 Treacherous Conditions
+	15 Tundra Forager
+	6 Tundra Turtle
+	15 Turbulent Journey
+	7 Twilight Delirium
+	4 Unburdened Rage
+	6 Unending Voracity
+	6 Viking Greataxe
+	15 Viking Packleader
+	6 Viork Woods Butcher
+	7 Viork Woods Savage
+	7 Virtuous Angel
+	15 Vitality Reclaimer
+	15 Wake of the Beast
+	6 Wanton Cleave
+	6 War-Torn Tundra
+	6 War Spirit
+	7 Warfield Excavator
+	7 Warfury Dragon
+	7 Warring Ways // Glory Days
+	7 Warring Ways // Glory Days
+	15 Wave of Ice
+	15 Wayfaring Pilgrim
+	6 Weathered Skiff
+	15 Weeping Soul
+	6 Weirding Wings
+	6 Whispered Wishes
+	7 Wild Bearmaster
+	6 Wily Ermine
+	6 Windwhip
+	7 Winter Widow
+	7 Withered Elk
+	6 Woolly Moose
+	4 Xiong Mao, the Intrepid

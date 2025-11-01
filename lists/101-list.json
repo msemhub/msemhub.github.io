@@ -1,0 +1,779 @@
+﻿[
+    {
+        "card_name": "Happy Together",
+        "number": 10,
+        "shape": "normal",
+        "set": "101",
+        "position": "10"
+    },
+    {
+        "card_name": "Against the Waves",
+        "number": 20,
+        "shape": "normal",
+        "set": "101",
+        "position": "20"
+    },
+    {
+        "card_name": "Afterlife Heist",
+        "number": 38,
+        "shape": "normal",
+        "set": "101",
+        "position": "38"
+    },
+    {
+        "card_name": "Academy Renegade",
+        "number": 56,
+        "shape": "normal",
+        "set": "101",
+        "position": "56"
+    },
+    {
+        "card_name": "Apex's Oath",
+        "number": 74,
+        "shape": "normal",
+        "set": "101",
+        "position": "74"
+    },
+    {
+        "card_name": "Storytime",
+        "number": 16,
+        "shape": "normal",
+        "set": "101",
+        "position": "16"
+    },
+    {
+        "card_name": "Antimagic Formula",
+        "number": 21,
+        "shape": "normal",
+        "set": "101",
+        "position": "21"
+    },
+    {
+        "card_name": "Berbarus Unsealed",
+        "number": 39,
+        "shape": "normal",
+        "set": "101",
+        "position": "39"
+    },
+    {
+        "card_name": "Aquilifer Axelius",
+        "number": 57,
+        "shape": "normal",
+        "set": "101",
+        "position": "57"
+    },
+    {
+        "card_name": "Arpechian Champion",
+        "number": 75,
+        "shape": "normal",
+        "set": "101",
+        "position": "75"
+    },
+    {
+        "card_name": "Apotheosis",
+        "number": 2,
+        "shape": "normal",
+        "set": "101",
+        "position": "2"
+    },
+    {
+        "card_name": "Charting the Cosmos",
+        "number": 22,
+        "shape": "normal",
+        "set": "101",
+        "position": "22"
+    },
+    {
+        "card_name": "Curse-Blood Morrigan",
+        "number": 40,
+        "shape": "normal",
+        "set": "101",
+        "position": "40"
+    },
+    {
+        "card_name": "Bretala of Redsky",
+        "number": 58,
+        "shape": "normal",
+        "set": "101",
+        "position": "58"
+    },
+    {
+        "card_name": "Backwood Rangers",
+        "number": 76,
+        "shape": "normal",
+        "set": "101",
+        "position": "76"
+    },
+    {
+        "card_name": "Arbiter of the Scales",
+        "number": 3,
+        "shape": "normal",
+        "set": "101",
+        "position": "3"
+    },
+    {
+        "card_name": "Chronofracture",
+        "number": 23,
+        "shape": "normal",
+        "set": "101",
+        "position": "23"
+    },
+    {
+        "card_name": "Embrace Madness",
+        "number": 41,
+        "shape": "normal",
+        "set": "101",
+        "position": "41"
+    },
+    {
+        "card_name": "Calamitous Crash",
+        "number": 59,
+        "shape": "normal",
+        "set": "101",
+        "position": "59"
+    },
+    {
+        "card_name": "Caller of Hunger",
+        "number": 77,
+        "shape": "normal",
+        "set": "101",
+        "position": "77"
+    },
+    {
+        "card_name": "Autumn's Farewell",
+        "number": 4,
+        "shape": "normal",
+        "set": "101",
+        "position": "4"
+    },
+    {
+        "card_name": "Edge of the Water",
+        "number": 24,
+        "shape": "normal",
+        "set": "101",
+        "position": "24"
+    },
+    {
+        "card_name": "Glymna Blackrune",
+        "number": 42,
+        "shape": "normal",
+        "set": "101",
+        "position": "42"
+    },
+    {
+        "card_name": "Captain Mattias Ochre",
+        "number": 60,
+        "shape": "normal",
+        "set": "101",
+        "position": "60"
+    },
+    {
+        "card_name": "Chratteri Restoration",
+        "number": 78,
+        "shape": "normal",
+        "set": "101",
+        "position": "78"
+    },
+    {
+        "card_name": "Brave the Issbarrens",
+        "number": 5,
+        "shape": "normal",
+        "set": "101",
+        "position": "5"
+    },
+    {
+        "card_name": "Fish Out of Water",
+        "number": 25,
+        "shape": "normal",
+        "set": "101",
+        "position": "25"
+    },
+    {
+        "card_name": "Jara Champion",
+        "number": 43,
+        "shape": "normal",
+        "set": "101",
+        "position": "43"
+    },
+    {
+        "card_name": "Dragoncalling",
+        "number": 61,
+        "shape": "normal",
+        "set": "101",
+        "position": "61"
+    },
+    {
+        "card_name": "Chratteri Valiant",
+        "number": 79,
+        "shape": "normal",
+        "set": "101",
+        "position": "79"
+    },
+    {
+        "card_name": "Daring Skythief",
+        "number": 6,
+        "shape": "normal",
+        "set": "101",
+        "position": "6"
+    },
+    {
+        "card_name": "Gorbes Index",
+        "number": 26,
+        "shape": "normal",
+        "set": "101",
+        "position": "26"
+    },
+    {
+        "card_name": "Just Business",
+        "number": 44,
+        "shape": "normal",
+        "set": "101",
+        "position": "44"
+    },
+    {
+        "card_name": "Epic Score",
+        "number": 62,
+        "shape": "normal",
+        "set": "101",
+        "position": "62"
+    },
+    {
+        "card_name": "Daisy, the Heart of Chasmek",
+        "number": 80,
+        "shape": "normal",
+        "set": "101",
+        "position": "80"
+    },
+    {
+        "card_name": "Final Reckoning",
+        "number": 7,
+        "shape": "normal",
+        "set": "101",
+        "position": "7"
+    },
+    {
+        "card_name": "Legacy's Malediction",
+        "number": 27,
+        "shape": "normal",
+        "set": "101",
+        "position": "27"
+    },
+    {
+        "card_name": "The Lord of All Beyond",
+        "number": 45,
+        "shape": "normal",
+        "set": "101",
+        "position": "45"
+    },
+    {
+        "card_name": "Finale of Cinders",
+        "number": 63,
+        "shape": "normal",
+        "set": "101",
+        "position": "63"
+    },
+    {
+        "card_name": "Elder's Wisdom",
+        "number": 81,
+        "shape": "normal",
+        "set": "101",
+        "position": "81"
+    },
+    {
+        "card_name": "Golden Company Tactics",
+        "number": 8,
+        "shape": "normal",
+        "set": "101",
+        "position": "8"
+    },
+    {
+        "card_name": "Meadow's Melody",
+        "number": 28,
+        "shape": "normal",
+        "set": "101",
+        "position": "28"
+    },
+    {
+        "card_name": "Memento Mori",
+        "number": 46,
+        "shape": "normal",
+        "set": "101",
+        "position": "46"
+    },
+    {
+        "card_name": "Glorysinger",
+        "number": 64,
+        "shape": "normal",
+        "set": "101",
+        "position": "64"
+    },
+    {
+        "card_name": "Great and Small",
+        "number": 82,
+        "shape": "normal",
+        "set": "101",
+        "position": "82"
+    },
+    {
+        "card_name": "Golden Company Valiant",
+        "number": 9,
+        "shape": "normal",
+        "set": "101",
+        "position": "9"
+    },
+    {
+        "card_name": "Oscanthor, Trader's Ruin",
+        "number": 29,
+        "shape": "normal",
+        "set": "101",
+        "position": "29"
+    },
+    {
+        "card_name": "Puppeteering",
+        "number": 47,
+        "shape": "normal",
+        "set": "101",
+        "position": "47"
+    },
+    {
+        "card_name": "Jak, Daring Vanguard",
+        "number": 65,
+        "shape": "normal",
+        "set": "101",
+        "position": "65"
+    },
+    {
+        "card_name": "Greenwood Outrider",
+        "number": 83,
+        "shape": "normal",
+        "set": "101",
+        "position": "83"
+    },
+    {
+        "card_name": "Herald of Heroes",
+        "number": 11,
+        "shape": "normal",
+        "set": "101",
+        "position": "11"
+    },
+    {
+        "card_name": "Outsmart",
+        "number": 30,
+        "shape": "normal",
+        "set": "101",
+        "position": "30"
+    },
+    {
+        "card_name": "Rend the Mind",
+        "number": 48,
+        "shape": "normal",
+        "set": "101",
+        "position": "48"
+    },
+    {
+        "card_name": "Lady Ashtongue",
+        "number": 66,
+        "shape": "normal",
+        "set": "101",
+        "position": "66"
+    },
+    {
+        "card_name": "Hunter's Hideout",
+        "number": 84,
+        "shape": "normal",
+        "set": "101",
+        "position": "84"
+    },
+    {
+        "card_name": "In Memoriam",
+        "number": 12,
+        "shape": "normal",
+        "set": "101",
+        "position": "12"
+    },
+    {
+        "card_name": "Start Anew",
+        "number": 31,
+        "shape": "normal",
+        "set": "101",
+        "position": "31"
+    },
+    {
+        "card_name": "Seventh Circle Cultist",
+        "number": 49,
+        "shape": "normal",
+        "set": "101",
+        "position": "49"
+    },
+    {
+        "card_name": "Meteor Fall",
+        "number": 67,
+        "shape": "normal",
+        "set": "101",
+        "position": "67"
+    },
+    {
+        "card_name": "Lost to the Ages",
+        "number": 85,
+        "shape": "normal",
+        "set": "101",
+        "position": "85"
+    },
+    {
+        "card_name": "Magdel, Caller of Souls",
+        "number": 13,
+        "shape": "normal",
+        "set": "101",
+        "position": "13"
+    },
+    {
+        "card_name": "Tempus Fugit",
+        "number": 32,
+        "shape": "normal",
+        "set": "101",
+        "position": "32"
+    },
+    {
+        "card_name": "Sinister Heir",
+        "number": 50,
+        "shape": "normal",
+        "set": "101",
+        "position": "50"
+    },
+    {
+        "card_name": "Overclock",
+        "number": 68,
+        "shape": "normal",
+        "set": "101",
+        "position": "68"
+    },
+    {
+        "card_name": "Meadow Songstress",
+        "number": 86,
+        "shape": "normal",
+        "set": "101",
+        "position": "86"
+    },
+    {
+        "card_name": "Right to Rule",
+        "number": 14,
+        "shape": "normal",
+        "set": "101",
+        "position": "14"
+    },
+    {
+        "card_name": "Terror of Palta Gorge",
+        "number": 33,
+        "shape": "normal",
+        "set": "101",
+        "position": "33"
+    },
+    {
+        "card_name": "Ultim Nox",
+        "number": 51,
+        "shape": "normal",
+        "set": "101",
+        "position": "51"
+    },
+    {
+        "card_name": "Overwhelming Armies",
+        "number": 69,
+        "shape": "normal",
+        "set": "101",
+        "position": "69"
+    },
+    {
+        "card_name": "Mossy Companion",
+        "number": 87,
+        "shape": "normal",
+        "set": "101",
+        "position": "87"
+    },
+    {
+        "card_name": "The Start of Something",
+        "number": 15,
+        "shape": "normal",
+        "set": "101",
+        "position": "15"
+    },
+    {
+        "card_name": "Tianyuren Skycharter",
+        "number": 34,
+        "shape": "normal",
+        "set": "101",
+        "position": "34"
+    },
+    {
+        "card_name": "Villainy",
+        "number": 52,
+        "shape": "normal",
+        "set": "101",
+        "position": "52"
+    },
+    {
+        "card_name": "Regal Ignition",
+        "number": 70,
+        "shape": "normal",
+        "set": "101",
+        "position": "70"
+    },
+    {
+        "card_name": "Ol' Sycamore",
+        "number": 88,
+        "shape": "normal",
+        "set": "101",
+        "position": "88"
+    },
+    {
+        "card_name": "Titan's Will",
+        "number": 17,
+        "shape": "normal",
+        "set": "101",
+        "position": "17"
+    },
+    {
+        "card_name": "Tidal Spite",
+        "number": 35,
+        "shape": "normal",
+        "set": "101",
+        "position": "35"
+    },
+    {
+        "card_name": "Warden of the Dead",
+        "number": 53,
+        "shape": "normal",
+        "set": "101",
+        "position": "53"
+    },
+    {
+        "card_name": "Takeda Taro",
+        "number": 71,
+        "shape": "normal",
+        "set": "101",
+        "position": "71"
+    },
+    {
+        "card_name": "Remnant of the Wild",
+        "number": 89,
+        "shape": "normal",
+        "set": "101",
+        "position": "89"
+    },
+    {
+        "card_name": "Turela, Defiant Angel",
+        "number": 18,
+        "shape": "normal",
+        "set": "101",
+        "position": "18"
+    },
+    {
+        "card_name": "Unbound Academic",
+        "number": 36,
+        "shape": "normal",
+        "set": "101",
+        "position": "36"
+    },
+    {
+        "card_name": "Welcome Return",
+        "number": 54,
+        "shape": "normal",
+        "set": "101",
+        "position": "54"
+    },
+    {
+        "card_name": "Unceasing Flames",
+        "number": 72,
+        "shape": "normal",
+        "set": "101",
+        "position": "72"
+    },
+    {
+        "card_name": "Rujan, the Great Pumpkin",
+        "number": 90,
+        "shape": "normal",
+        "set": "101",
+        "position": "90"
+    },
+    {
+        "card_name": "Wandering Souls",
+        "number": 19,
+        "shape": "normal",
+        "set": "101",
+        "position": "19"
+    },
+    {
+        "card_name": "Vengeful Messenger",
+        "number": 37,
+        "shape": "normal",
+        "set": "101",
+        "position": "37"
+    },
+    {
+        "card_name": "Words of Eternity",
+        "number": 55,
+        "shape": "normal",
+        "set": "101",
+        "position": "55"
+    },
+    {
+        "card_name": "Warrior's Request",
+        "number": 73,
+        "shape": "normal",
+        "set": "101",
+        "position": "73"
+    },
+    {
+        "card_name": "Spring Renewal",
+        "number": 91,
+        "shape": "normal",
+        "set": "101",
+        "position": "91"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Emperor Tzhai",
+        "number": 92,
+        "shape": "normal",
+        "set": "101",
+        "position": "92"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Azamir, Wayward Titan",
+        "number": 1,
+        "shape": "normal",
+        "set": "101",
+        "position": "1"
+    },
+    {
+        "card_name": "Academic's Claymore",
+        "number": 93,
+        "shape": "normal",
+        "set": "101",
+        "position": "93"
+    },
+    {
+        "card_name": "The Aether Lens",
+        "number": 94,
+        "shape": "normal",
+        "set": "101",
+        "position": "94"
+    },
+    {
+        "card_name": "The Knowledge Hub",
+        "number": 95,
+        "shape": "normal",
+        "set": "101",
+        "position": "95"
+    },
+    {
+        "card_name": "Voidlife Orbs",
+        "number": 96,
+        "shape": "normal",
+        "set": "101",
+        "position": "96"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Crystal Garden",
+        "number": 97,
+        "shape": "normal",
+        "set": "101",
+        "position": "97"
+    },
+    {
+        "card_name": "Leyline Alignment Field",
+        "number": 98,
+        "shape": "normal",
+        "set": "101",
+        "position": "98"
+    },
+    {
+        "card_name": "Mirrorgate",
+        "number": 99,
+        "shape": "normal",
+        "set": "101",
+        "position": "99"
+    },
+    {
+        "card_name": "Overloaded Aethergate",
+        "number": 100,
+        "shape": "normal",
+        "set": "101",
+        "position": "100"
+    },
+    {
+        "card_name": "Titan's Palace",
+        "number": 101,
+        "shape": "normal",
+        "set": "101",
+        "position": "101"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

@@ -1,0 +1,1867 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Aghavaan's Corrupter",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Snake Wizard",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Aghavaan's Wound // Aghavaan Unleashed",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "130",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/IMP-files/img/130a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/130a_front.jpg"
+			}
+		},
+		{
+			"name": "Aghavaan's Wound // Aghavaan Unleashed",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "130",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/IMP-files/img/130a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/130a_front.jpg"
+			}
+		},
+		{
+			"name": "Ancient Ossuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Asharo's Handmaiden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Asharo's Yoroi",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Awakening the Dragon",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant — Inscription",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Ayashi, Winter Poet",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Planeswalker — Ayashi",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Azuma Hashiro, the Thronebreaker",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Creature — Demon Samurai",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Bind in Jade",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Blade of the Serpent",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Snake Rogue",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Celestial O-Yoroi",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Chalkira Duelist",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Clutch of the Coil",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Council's Will",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Cursed Scroll",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Day of the Emperor",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Disciple of Hashiro",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Discorporate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Dragon's Ire",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant — Inscription",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Dragon's Wake",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Dragonwall Fragment",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Dragonwall Samurai",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Dreadful Authority",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Elemental Loremaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Emperor's Retainer",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Emperor Kenshiro",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Empress Kogane",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Exemplar of Honor",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Fang of Mautakesh",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Snake Assassin",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Favor of the Court",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Festival of Fading Lights",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Festival of Roaring Dragons",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Festival of Timeless Day",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Festival of Winter's Night",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Final Rest",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Fireheart Channeler",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Flash of Steel",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Flow of the River",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Forest_IMP",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Giku Weaponsmith",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Harmony",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Hashiro's Infiltrator",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Heavenly Temple",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Hinasa Mystic",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Hone the Blade",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant — Inscription",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Ichi-no-Oni",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon Spirit",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Imperial Kensai",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Imperial Legion",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Imperial Marketplace",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Imperial Strategist",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Imperial Taxes",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Inner Thoughts",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant — Inscription",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Island_IMP",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Jidai Serpent",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Kenshiro's Cavalry",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Samurai Knight",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Kenshiro's Yoroi",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Kiyomi's Disciple",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Kiyomi's Yoroi",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Kogane's Swordmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Kogane's Yoroi",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Kowareta Scrounger",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Samurai Mercenary",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Kurayami Ronin",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Lady Kiyomi",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Legends Remembered",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Lord Asharo",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Lord Shigure",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Masamori Ranger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout Ranger",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Masked Impersonator",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Shapeshifter",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Masked Stalker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Masterwork Artisan",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Mautakesh Strangler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Snake Warrior",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Midnight's Pale Moon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Miyoga Dragonsoul",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Miyoga Firebird",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Mokuteki Ambusher",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Archer Samurai",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Mountain_IMP",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Oshiruko Cleansing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Palace of Heavenly Sovereigns",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Pierce the Storm",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Plains_IMP",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Protector of the Gates",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Raiun Bay Admiral",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Raiun Bay Junk",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Raiun Bay Merchant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Reversal of Fates",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Sage's Ashes",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Sakura Spirit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Sankataar Ambusher",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Snake Warrior",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Sankataar Assailant",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Snake Warrior",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Sankataar Coilborn",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Snake Warrior",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Sankataar Nightbringer",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Snake Assassin",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Sankataar Scourge",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Snake Warrior",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Sasori Ronin",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Scales of Aghavaan",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Snake Warrior",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Scorch",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Searing Script",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant — Inscription",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Seek the Future",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Seeker of Mysteries",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Sensei of the Seven Winds",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Serpent's Grasp",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Servant of the White Hand",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Sheraku Elite",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Shigure's Yoroi",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Shinrin Blademaster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Shinrin Sage",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Shinrin Spellhunter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Shroud of Hinasa",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant — Inscription",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Shrouded Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Silk Crane Adept",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Snake Cult Initiation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Soaring Dreams",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery — Inscription",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Soul Leak",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Stonesculpting",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Storm of Shadows",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant — Inscription",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Student of Shigure",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Sudden Seism",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery — Inscription",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Sunrise Orchard",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Swamp_IMP",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Swirling Dragonfire",
+			"rarity": "common",
+			"mana_cost": "{6}{R}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Taiyohata's Dominion",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Taiyohata Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Teikoku Cavalry",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Teikoku Daimyo",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Teikoku Samurai",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Teikoku Skirmisher",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "The Moon Rises",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Through the Mists",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant — Inscription",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Touch of the Coil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Tranquil Ascetic",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Unearth the Fallen",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Valor in Battle",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery — Inscription",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Violent Repercussions",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Vizier of Mautakesh",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Snake Wizard",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Voice of Sheraku",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant — Inscription",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Void Sculptor",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Wavebreaker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Wayfarer's Shrine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Wild Lightning",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Instant — Inscription",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Will of the Emperor",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Windwielder",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Wizened Calligrapher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Yamisaran Guard",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/IMP-files/img/94.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Aghavaan's Wound // Aghavaan Unleashed
+	1 Aghavaan's Wound // Aghavaan Unleashed
+	2 Ancient Ossuary
+	2 Awakening the Dragon
+	1 Ayashi, Winter Poet
+	1 Azuma Hashiro, the Thronebreaker
+	2 Celestial O-Yoroi
+	2 Chalkira Duelist
+	2 Clutch of the Coil
+	2 Council's Will
+	2 Cursed Scroll
+	2 Dragon's Wake
+	2 Emperor's Retainer
+	1 Emperor Kenshiro
+	1 Empress Kogane
+	2 Exemplar of Honor
+	2 Favor of the Court
+	2 Final Rest
+	2 Fireheart Channeler
+	2 Flash of Steel
+	2 Kowareta Scrounger
+	2 Kurayami Ronin
+	1 Lady Kiyomi
+	2 Legends Remembered
+	1 Lord Asharo
+	1 Lord Shigure
+	2 Masked Impersonator
+	2 Masterwork Artisan
+	2 Mokuteki Ambusher
+	1 Palace of Heavenly Sovereigns
+	2 Raiun Bay Admiral
+	2 Sage's Ashes
+	2 Sankataar Nightbringer
+	2 Scales of Aghavaan
+	2 Searing Script
+	2 Seek the Future
+	2 Sensei of the Seven Winds
+	2 Shrouded Sanctuary
+	2 Storm of Shadows
+	2 Sunrise Orchard
+	2 Taiyohata's Dominion
+	2 The Moon Rises
+	2 Wayfarer's Shrine
+	2 Wild Lightning
+[uncommon(3)]
+	4 Asharo's Handmaiden
+	4 Asharo's Yoroi
+	4 Bind in Jade
+	4 Discorporate
+	4 Dragonwall Fragment
+	4 Elemental Loremaster
+	4 Fang of Mautakesh
+	4 Giku Weaponsmith
+	4 Harmony
+	4 Heavenly Temple
+	4 Kenshiro's Cavalry
+	4 Kenshiro's Yoroi
+	4 Kiyomi's Disciple
+	4 Kiyomi's Yoroi
+	4 Kogane's Swordmaster
+	4 Kogane's Yoroi
+	4 Mautakesh Strangler
+	4 Midnight's Pale Moon
+	4 Miyoga Firebird
+	4 Oshiruko Cleansing
+	4 Pierce the Storm
+	4 Raiun Bay Merchant
+	4 Scorch
+	4 Seeker of Mysteries
+	4 Servant of the White Hand
+	4 Sheraku Elite
+	4 Shigure's Yoroi
+	4 Shinrin Blademaster
+	4 Shinrin Spellhunter
+	4 Shroud of Hinasa
+	4 Snake Cult Initiation
+	4 Soul Leak
+	4 Stonesculpting
+	4 Student of Shigure
+	4 Taiyohata Champion
+	4 Teikoku Daimyo
+	4 Through the Mists
+	4 Touch of the Coil
+	4 Tranquil Ascetic
+	4 Violent Repercussions
+	4 Vizier of Mautakesh
+	4 Voice of Sheraku
+	4 Wizened Calligrapher
+[common(7)]
+	8 Aghavaan's Corrupter
+	8 Blade of the Serpent
+	8 Day of the Emperor
+	8 Disciple of Hashiro
+	8 Dragon's Ire
+	8 Dragonwall Samurai
+	8 Dreadful Authority
+	8 Festival of Fading Lights
+	8 Festival of Roaring Dragons
+	8 Festival of Timeless Day
+	8 Festival of Winter's Night
+	8 Flow of the River
+	8 Hashiro's Infiltrator
+	8 Hinasa Mystic
+	8 Hone the Blade
+	8 Ichi-no-Oni
+	8 Imperial Kensai
+	8 Imperial Legion
+	8 Imperial Marketplace
+	8 Imperial Strategist
+	8 Imperial Taxes
+	8 Inner Thoughts
+	8 Jidai Serpent
+	8 Masamori Ranger
+	8 Masked Stalker
+	8 Miyoga Dragonsoul
+	8 Protector of the Gates
+	8 Raiun Bay Junk
+	8 Reversal of Fates
+	8 Sakura Spirit
+	8 Sankataar Ambusher
+	8 Sankataar Assailant
+	8 Sankataar Coilborn
+	8 Sankataar Scourge
+	8 Sasori Ronin
+	8 Serpent's Grasp
+	8 Shinrin Sage
+	8 Silk Crane Adept
+	8 Soaring Dreams
+	8 Sudden Seism
+	8 Swirling Dragonfire
+	8 Teikoku Cavalry
+	8 Teikoku Samurai
+	8 Teikoku Skirmisher
+	8 Unearth the Fallen
+	8 Valor in Battle
+	8 Void Sculptor
+	8 Wavebreaker
+	8 Will of the Emperor
+	8 Windwielder
+	8 Yamisaran Guard
+[foil(1)]
+	12 Aghavaan's Corrupter
+	1 Aghavaan's Wound // Aghavaan Unleashed
+	1 Aghavaan's Wound // Aghavaan Unleashed
+	2 Ancient Ossuary
+	6 Asharo's Handmaiden
+	6 Asharo's Yoroi
+	2 Awakening the Dragon
+	1 Ayashi, Winter Poet
+	1 Azuma Hashiro, the Thronebreaker
+	6 Bind in Jade
+	12 Blade of the Serpent
+	2 Celestial O-Yoroi
+	2 Chalkira Duelist
+	2 Clutch of the Coil
+	2 Council's Will
+	2 Cursed Scroll
+	12 Day of the Emperor
+	12 Disciple of Hashiro
+	6 Discorporate
+	12 Dragon's Ire
+	2 Dragon's Wake
+	6 Dragonwall Fragment
+	12 Dragonwall Samurai
+	12 Dreadful Authority
+	6 Elemental Loremaster
+	2 Emperor's Retainer
+	1 Emperor Kenshiro
+	1 Empress Kogane
+	2 Exemplar of Honor
+	6 Fang of Mautakesh
+	2 Favor of the Court
+	12 Festival of Fading Lights
+	12 Festival of Roaring Dragons
+	12 Festival of Timeless Day
+	12 Festival of Winter's Night
+	2 Final Rest
+	2 Fireheart Channeler
+	2 Flash of Steel
+	12 Flow of the River
+	6 Giku Weaponsmith
+	6 Harmony
+	12 Hashiro's Infiltrator
+	6 Heavenly Temple
+	12 Hinasa Mystic
+	12 Hone the Blade
+	12 Ichi-no-Oni
+	12 Imperial Kensai
+	12 Imperial Legion
+	12 Imperial Marketplace
+	12 Imperial Strategist
+	12 Imperial Taxes
+	12 Inner Thoughts
+	12 Jidai Serpent
+	6 Kenshiro's Cavalry
+	6 Kenshiro's Yoroi
+	6 Kiyomi's Disciple
+	6 Kiyomi's Yoroi
+	6 Kogane's Swordmaster
+	6 Kogane's Yoroi
+	2 Kowareta Scrounger
+	2 Kurayami Ronin
+	1 Lady Kiyomi
+	2 Legends Remembered
+	1 Lord Asharo
+	1 Lord Shigure
+	12 Masamori Ranger
+	2 Masked Impersonator
+	12 Masked Stalker
+	2 Masterwork Artisan
+	6 Mautakesh Strangler
+	6 Midnight's Pale Moon
+	12 Miyoga Dragonsoul
+	6 Miyoga Firebird
+	2 Mokuteki Ambusher
+	6 Oshiruko Cleansing
+	1 Palace of Heavenly Sovereigns
+	6 Pierce the Storm
+	12 Protector of the Gates
+	2 Raiun Bay Admiral
+	12 Raiun Bay Junk
+	6 Raiun Bay Merchant
+	12 Reversal of Fates
+	2 Sage's Ashes
+	12 Sakura Spirit
+	12 Sankataar Ambusher
+	12 Sankataar Assailant
+	12 Sankataar Coilborn
+	2 Sankataar Nightbringer
+	12 Sankataar Scourge
+	12 Sasori Ronin
+	2 Scales of Aghavaan
+	6 Scorch
+	2 Searing Script
+	2 Seek the Future
+	6 Seeker of Mysteries
+	2 Sensei of the Seven Winds
+	12 Serpent's Grasp
+	6 Servant of the White Hand
+	6 Sheraku Elite
+	6 Shigure's Yoroi
+	6 Shinrin Blademaster
+	12 Shinrin Sage
+	6 Shinrin Spellhunter
+	6 Shroud of Hinasa
+	2 Shrouded Sanctuary
+	12 Silk Crane Adept
+	6 Snake Cult Initiation
+	12 Soaring Dreams
+	6 Soul Leak
+	6 Stonesculpting
+	2 Storm of Shadows
+	6 Student of Shigure
+	12 Sudden Seism
+	2 Sunrise Orchard
+	12 Swirling Dragonfire
+	2 Taiyohata's Dominion
+	6 Taiyohata Champion
+	12 Teikoku Cavalry
+	6 Teikoku Daimyo
+	12 Teikoku Samurai
+	12 Teikoku Skirmisher
+	2 The Moon Rises
+	6 Through the Mists
+	6 Touch of the Coil
+	6 Tranquil Ascetic
+	12 Unearth the Fallen
+	12 Valor in Battle
+	6 Violent Repercussions
+	6 Vizier of Mautakesh
+	6 Voice of Sheraku
+	12 Void Sculptor
+	12 Wavebreaker
+	2 Wayfarer's Shrine
+	2 Wild Lightning
+	12 Will of the Emperor
+	12 Windwielder
+	6 Wizened Calligrapher
+	12 Yamisaran Guard
+[wildcard(1)]
+	6 Aghavaan's Corrupter
+	4 Aghavaan's Wound // Aghavaan Unleashed
+	4 Aghavaan's Wound // Aghavaan Unleashed
+	7 Ancient Ossuary
+	15 Asharo's Handmaiden
+	15 Asharo's Yoroi
+	7 Awakening the Dragon
+	4 Ayashi, Winter Poet
+	4 Azuma Hashiro, the Thronebreaker
+	15 Bind in Jade
+	6 Blade of the Serpent
+	7 Celestial O-Yoroi
+	7 Chalkira Duelist
+	7 Clutch of the Coil
+	7 Council's Will
+	7 Cursed Scroll
+	6 Day of the Emperor
+	6 Disciple of Hashiro
+	15 Discorporate
+	6 Dragon's Ire
+	7 Dragon's Wake
+	15 Dragonwall Fragment
+	6 Dragonwall Samurai
+	6 Dreadful Authority
+	15 Elemental Loremaster
+	7 Emperor's Retainer
+	4 Emperor Kenshiro
+	4 Empress Kogane
+	7 Exemplar of Honor
+	15 Fang of Mautakesh
+	7 Favor of the Court
+	6 Festival of Fading Lights
+	6 Festival of Roaring Dragons
+	6 Festival of Timeless Day
+	6 Festival of Winter's Night
+	7 Final Rest
+	7 Fireheart Channeler
+	7 Flash of Steel
+	6 Flow of the River
+	15 Giku Weaponsmith
+	15 Harmony
+	6 Hashiro's Infiltrator
+	15 Heavenly Temple
+	6 Hinasa Mystic
+	6 Hone the Blade
+	6 Ichi-no-Oni
+	6 Imperial Kensai
+	6 Imperial Legion
+	6 Imperial Marketplace
+	6 Imperial Strategist
+	6 Imperial Taxes
+	6 Inner Thoughts
+	6 Jidai Serpent
+	15 Kenshiro's Cavalry
+	15 Kenshiro's Yoroi
+	15 Kiyomi's Disciple
+	15 Kiyomi's Yoroi
+	15 Kogane's Swordmaster
+	15 Kogane's Yoroi
+	7 Kowareta Scrounger
+	7 Kurayami Ronin
+	4 Lady Kiyomi
+	7 Legends Remembered
+	4 Lord Asharo
+	4 Lord Shigure
+	6 Masamori Ranger
+	7 Masked Impersonator
+	6 Masked Stalker
+	7 Masterwork Artisan
+	15 Mautakesh Strangler
+	15 Midnight's Pale Moon
+	6 Miyoga Dragonsoul
+	15 Miyoga Firebird
+	7 Mokuteki Ambusher
+	15 Oshiruko Cleansing
+	4 Palace of Heavenly Sovereigns
+	15 Pierce the Storm
+	6 Protector of the Gates
+	7 Raiun Bay Admiral
+	6 Raiun Bay Junk
+	15 Raiun Bay Merchant
+	6 Reversal of Fates
+	7 Sage's Ashes
+	6 Sakura Spirit
+	6 Sankataar Ambusher
+	6 Sankataar Assailant
+	6 Sankataar Coilborn
+	7 Sankataar Nightbringer
+	6 Sankataar Scourge
+	6 Sasori Ronin
+	7 Scales of Aghavaan
+	15 Scorch
+	7 Searing Script
+	7 Seek the Future
+	15 Seeker of Mysteries
+	7 Sensei of the Seven Winds
+	6 Serpent's Grasp
+	15 Servant of the White Hand
+	15 Sheraku Elite
+	15 Shigure's Yoroi
+	15 Shinrin Blademaster
+	6 Shinrin Sage
+	15 Shinrin Spellhunter
+	15 Shroud of Hinasa
+	7 Shrouded Sanctuary
+	6 Silk Crane Adept
+	15 Snake Cult Initiation
+	6 Soaring Dreams
+	15 Soul Leak
+	15 Stonesculpting
+	7 Storm of Shadows
+	15 Student of Shigure
+	6 Sudden Seism
+	7 Sunrise Orchard
+	6 Swirling Dragonfire
+	7 Taiyohata's Dominion
+	15 Taiyohata Champion
+	6 Teikoku Cavalry
+	15 Teikoku Daimyo
+	6 Teikoku Samurai
+	6 Teikoku Skirmisher
+	7 The Moon Rises
+	15 Through the Mists
+	15 Touch of the Coil
+	15 Tranquil Ascetic
+	6 Unearth the Fallen
+	6 Valor in Battle
+	15 Violent Repercussions
+	15 Vizier of Mautakesh
+	15 Voice of Sheraku
+	6 Void Sculptor
+	6 Wavebreaker
+	7 Wayfarer's Shrine
+	7 Wild Lightning
+	6 Will of the Emperor
+	6 Windwielder
+	15 Wizened Calligrapher
+	6 Yamisaran Guard

@@ -1,0 +1,1112 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abhorrent Confidant",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Horror",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Apocalypse Awakens",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Aspiring Hero",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Avenger of Nature",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elk Horror",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Beat & Batter",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Bedfellow",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Bloody Valentine",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Botched Experiment",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Brutalize",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Catastrophic Crash",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Communion",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Corpsebark",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Cutthroat Carnie",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Horror",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Damned Detective",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Advisor Detective",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Dead End",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Demented Brainiac",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Horror Advisor",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Demented Host",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Insect Horror",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Derange",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "End of the Rainbow",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Enshrouded Village",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Exorcise",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Final Findings",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Foreboding Presence",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Forest_VHS",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Forlorn Toymaker",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Frenzied Florist",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Friends from the Beyond",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "From Within the Dark",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Frozen Over",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Grasping Souls",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "He of All Hallow's Eve",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Hellfire Caverns",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Horrific Invocation",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Island_VHS",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "John Furo, the Unfortunate",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Jumpscare",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Keeper of the Collection",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Artifact Creature — Illusion",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Lepidopteradator",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Insect Horror",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Librarian of Whispers_VHS",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Lisa, the Daughter",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Living Broadcast",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Horror",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Lost Station",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Lost in the Light",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Maddened Preacher",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Malformed Mongrel",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Hound Horror",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Misshapen Monstrosity",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Horror",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Misty Churchyard",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Morbid Mimic",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Horror",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Mountain_VHS",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Mr. Higgins",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Mr. Jackston, the Proprietor",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Horror",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Night of the Unliving_VHS",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Ominous Discovery",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Otherworldly Passage",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Plagas Infestation",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Plains_VHS",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Planchette Poltergeist",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Raging Reflection",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Reflection Shapeshifter",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Ravenous Attraction",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Octopus Horror",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Remain Unawares",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Rite of the Unnatural",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Roadside Reaper",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Horror",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Sea of Corpses",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Shady Souvenirs",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Sheltered Snowman",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Yeti",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Snowfield Doppelganger",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Something in the Shadows",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Speak No Evil",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Spiraling Madness",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Starving Stalker",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Subway Shambler",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Horror",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Sunken Homestead",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Swamp_VHS",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Swarm of the Damned",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "The Collection",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "The Hewitt Brothers",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "The Shepherd of Nowhere",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{W}",
+			"type": "Legendary Creature — Giant Horror",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Unseen Maniac",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Unstoppable Slaughter",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Veil of Innocence",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Vicious Effigy",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Violent Feeding",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Waking Watcher",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Whispering Paranoia",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Wiretapper",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Horror",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Zealous Rabble",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/VHS-files/img/65.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Abhorrent Confidant
+	2 Apocalypse Awakens
+	2 Aspiring Hero
+	2 Avenger of Nature
+	2 Beat & Batter
+	2 Bedfellow
+	2 Bloody Valentine
+	2 Botched Experiment
+	2 Brutalize
+	2 Catastrophic Crash
+	2 Communion
+	2 Corpsebark
+	2 Cutthroat Carnie
+	2 Damned Detective
+	2 Dead End
+	2 Demented Brainiac
+	2 Demented Host
+	2 Derange
+	2 End of the Rainbow
+	2 Enshrouded Village
+	2 Exorcise
+	2 Final Findings
+	2 Foreboding Presence
+	2 Forlorn Toymaker
+	2 Frenzied Florist
+	2 Friends from the Beyond
+	2 From Within the Dark
+	2 Frozen Over
+	2 Grasping Souls
+	2 He of All Hallow's Eve
+	2 Hellfire Caverns
+	2 Horrific Invocation
+	2 John Furo, the Unfortunate
+	2 Jumpscare
+	2 Keeper of the Collection
+	2 Lepidopteradator
+	2 Librarian of Whispers_VHS
+	2 Lisa, the Daughter
+	2 Living Broadcast
+	2 Lost Station
+	2 Lost in the Light
+	2 Maddened Preacher
+	2 Malformed Mongrel
+	2 Misshapen Monstrosity
+	2 Misty Churchyard
+	2 Morbid Mimic
+	2 Mr. Higgins
+	2 Mr. Jackston, the Proprietor
+	2 Night of the Unliving_VHS
+	2 Ominous Discovery
+	2 Otherworldly Passage
+	2 Plagas Infestation
+	2 Planchette Poltergeist
+	2 Raging Reflection
+	2 Ravenous Attraction
+	2 Remain Unawares
+	2 Rite of the Unnatural
+	2 Roadside Reaper
+	2 Sea of Corpses
+	2 Shady Souvenirs
+	2 Sheltered Snowman
+	2 Snowfield Doppelganger
+	2 Something in the Shadows
+	2 Speak No Evil
+	2 Spiraling Madness
+	2 Starving Stalker
+	2 Subway Shambler
+	2 Sunken Homestead
+	2 Swarm of the Damned
+	2 The Collection
+	2 The Hewitt Brothers
+	2 The Shepherd of Nowhere
+	2 Unseen Maniac
+	2 Unstoppable Slaughter
+	2 Veil of Innocence
+	2 Vicious Effigy
+	2 Violent Feeding
+	2 Waking Watcher
+	2 Whispering Paranoia
+	2 Wiretapper
+	2 Zealous Rabble
+[uncommon(3)]
+[common(7)]
+[foil(1)]
+	2 Abhorrent Confidant
+	2 Apocalypse Awakens
+	2 Aspiring Hero
+	2 Avenger of Nature
+	2 Beat & Batter
+	2 Bedfellow
+	2 Bloody Valentine
+	2 Botched Experiment
+	2 Brutalize
+	2 Catastrophic Crash
+	2 Communion
+	2 Corpsebark
+	2 Cutthroat Carnie
+	2 Damned Detective
+	2 Dead End
+	2 Demented Brainiac
+	2 Demented Host
+	2 Derange
+	2 End of the Rainbow
+	2 Enshrouded Village
+	2 Exorcise
+	2 Final Findings
+	2 Foreboding Presence
+	2 Forlorn Toymaker
+	2 Frenzied Florist
+	2 Friends from the Beyond
+	2 From Within the Dark
+	2 Frozen Over
+	2 Grasping Souls
+	2 He of All Hallow's Eve
+	2 Hellfire Caverns
+	2 Horrific Invocation
+	2 John Furo, the Unfortunate
+	2 Jumpscare
+	2 Keeper of the Collection
+	2 Lepidopteradator
+	2 Librarian of Whispers_VHS
+	2 Lisa, the Daughter
+	2 Living Broadcast
+	2 Lost Station
+	2 Lost in the Light
+	2 Maddened Preacher
+	2 Malformed Mongrel
+	2 Misshapen Monstrosity
+	2 Misty Churchyard
+	2 Morbid Mimic
+	2 Mr. Higgins
+	2 Mr. Jackston, the Proprietor
+	2 Night of the Unliving_VHS
+	2 Ominous Discovery
+	2 Otherworldly Passage
+	2 Plagas Infestation
+	2 Planchette Poltergeist
+	2 Raging Reflection
+	2 Ravenous Attraction
+	2 Remain Unawares
+	2 Rite of the Unnatural
+	2 Roadside Reaper
+	2 Sea of Corpses
+	2 Shady Souvenirs
+	2 Sheltered Snowman
+	2 Snowfield Doppelganger
+	2 Something in the Shadows
+	2 Speak No Evil
+	2 Spiraling Madness
+	2 Starving Stalker
+	2 Subway Shambler
+	2 Sunken Homestead
+	2 Swarm of the Damned
+	2 The Collection
+	2 The Hewitt Brothers
+	2 The Shepherd of Nowhere
+	2 Unseen Maniac
+	2 Unstoppable Slaughter
+	2 Veil of Innocence
+	2 Vicious Effigy
+	2 Violent Feeding
+	2 Waking Watcher
+	2 Whispering Paranoia
+	2 Wiretapper
+	2 Zealous Rabble
+[wildcard(1)]
+	7 Abhorrent Confidant
+	7 Apocalypse Awakens
+	7 Aspiring Hero
+	7 Avenger of Nature
+	7 Beat & Batter
+	7 Bedfellow
+	7 Bloody Valentine
+	7 Botched Experiment
+	7 Brutalize
+	7 Catastrophic Crash
+	7 Communion
+	7 Corpsebark
+	7 Cutthroat Carnie
+	7 Damned Detective
+	7 Dead End
+	7 Demented Brainiac
+	7 Demented Host
+	7 Derange
+	7 End of the Rainbow
+	7 Enshrouded Village
+	7 Exorcise
+	7 Final Findings
+	7 Foreboding Presence
+	7 Forlorn Toymaker
+	7 Frenzied Florist
+	7 Friends from the Beyond
+	7 From Within the Dark
+	7 Frozen Over
+	7 Grasping Souls
+	7 He of All Hallow's Eve
+	7 Hellfire Caverns
+	7 Horrific Invocation
+	7 John Furo, the Unfortunate
+	7 Jumpscare
+	7 Keeper of the Collection
+	7 Lepidopteradator
+	7 Librarian of Whispers_VHS
+	7 Lisa, the Daughter
+	7 Living Broadcast
+	7 Lost Station
+	7 Lost in the Light
+	7 Maddened Preacher
+	7 Malformed Mongrel
+	7 Misshapen Monstrosity
+	7 Misty Churchyard
+	7 Morbid Mimic
+	7 Mr. Higgins
+	7 Mr. Jackston, the Proprietor
+	7 Night of the Unliving_VHS
+	7 Ominous Discovery
+	7 Otherworldly Passage
+	7 Plagas Infestation
+	7 Planchette Poltergeist
+	7 Raging Reflection
+	7 Ravenous Attraction
+	7 Remain Unawares
+	7 Rite of the Unnatural
+	7 Roadside Reaper
+	7 Sea of Corpses
+	7 Shady Souvenirs
+	7 Sheltered Snowman
+	7 Snowfield Doppelganger
+	7 Something in the Shadows
+	7 Speak No Evil
+	7 Spiraling Madness
+	7 Starving Stalker
+	7 Subway Shambler
+	7 Sunken Homestead
+	7 Swarm of the Damned
+	7 The Collection
+	7 The Hewitt Brothers
+	7 The Shepherd of Nowhere
+	7 Unseen Maniac
+	7 Unstoppable Slaughter
+	7 Veil of Innocence
+	7 Vicious Effigy
+	7 Violent Feeding
+	7 Waking Watcher
+	7 Whispering Paranoia
+	7 Wiretapper
+	7 Zealous Rabble

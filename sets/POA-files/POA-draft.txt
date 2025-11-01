@@ -1,0 +1,1649 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Achet-Aton, Living God",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Adept Necromancer",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Alpha Lion",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Amosis Charm",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Ancestral Memories",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Angel of Sands",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Antithesis",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Atuum Serpent",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Avatar of Amosis",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Avatar",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Avatar of Basat",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Avatar",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Avatar of Senmut",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Avatar",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Avatar of Utsenchep",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Awestruck",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Basat Charm",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Basat Priest",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Bath in the Solitude",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Blurring Mists",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Blurry Counterpart",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Shapeshifter Illusion",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Brute Force",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Camelriding Archer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Archer",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Caravan Engulfer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Caravan Sumpter",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Camel",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Crippling Spirit",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Cunning Chanter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Siren",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Dance for the Heavens",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Daunting Gaze",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Dawn Silhouette",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Illusion",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Depraved Disciple",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Descendant of Caaseb",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Snake",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Desert Slaughterer",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Desert Temple",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Desert",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Desert Warriors",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Desert Wurms",
+			"rarity": "mythic",
+			"mana_cost": "{8}{R}{R}{R}",
+			"type": "Creature — Wurm",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Despise",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Dignified Serpent",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Snake",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Diligent Believer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Diligent Fishermen",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Divination_POA",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Divine Denial",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Divine Protection",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Doomed Journey",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Double Arming",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Dripping Turtle",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Dune Peregrination",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Dune Scorpion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Scorpion",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Essence Dehydration",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Eternal Banishment",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Excellent Architecture",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Expulse to the Desert",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Ferocious Desert-Hunter",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Fire from Above",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Gates to the Afterlife",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Wall",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Giant Dromad",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Camel Beast",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Giant Scarab",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Gift of the Sphinx",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Gruesome Transport",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Haggard Jackal",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Hound",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Haughty Priest",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Haze Raptor",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Lizard Illusion",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Heat of Battle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "High-Priestess Nebti",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Imaginary Flames",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Inspiring Melodies",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Island_POA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Island_POA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Jachsechep, God's Wife",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Planeswalker — Jachsechep",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Judge Unworthy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Kalro, Desert Outpost",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Planeswalker — Fortress",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Kill the Competition",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Lasis Persecutor",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Leonin Sandfighter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Life-Giving Waters",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Menes, the Great Pyramid",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Legendary Planeswalker — Fortress",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Menhet's Edict",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Menhet Charm",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Mesmerizing Shimmer",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Mountain_POA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Mountain_POA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Mounted Charge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Mounted Marksman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Archer",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Mummification",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Mummy's Grin",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Njel Crocodile",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Crocodile",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Observing Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Peaceful Sunbath",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Pharaoh Guardian",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Plains_POA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Plains_POA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Poisoned Well",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Preserving Cloak",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Priestess of Menhet",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Pyramid Lord",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Wizard Illusion",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Righteous Priestess",
+			"rarity": "mythic",
+			"mana_cost": "{6}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Rockpounding Saurian",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Ruthless Monstrosity",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Beast",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Sandborn Mage",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Wizard Illusion",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Sanding",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Sandmouth Dragon",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon Illusion",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Savannah Scout",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Scaled Lurker",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Crocodile Rogue",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Sharp Eyed Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Bird Warrior",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Sinister Pact",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Sixpod Sprinter",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Slaughter",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}{B}{B}",
+			"type": "Creature — Incarnation",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Spell Dilution",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Sphinx of Riddles",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — Sphinx",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Sprawled Arming",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Staff of Authority",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Stream of Light",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Streaming Waters",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Sudden Drought",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Suntail Hawk",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Survive",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Swamp_POA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Swamp_POA",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Tamed Jaguar",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Cat",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Tendrils of Corruption",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Terrifying Ankh",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Through the Dust",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Tireless Vulture",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie Bird",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Utsenchep Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Wachet Charm",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Wall of Fog",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Wall Illusion",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Warrior's Pride",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Whistled Dragons",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Dragon Illusion",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Winged Envoy",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Wurm Spawning",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Zarchepet, Master of Sands",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/POA-files/img/112.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Achet-Aton, Living God
+	2 Adept Necromancer
+	2 Ancestral Memories
+	2 Angel of Sands
+	2 Antithesis
+	2 Avatar of Amosis
+	2 Avatar of Basat
+	2 Avatar of Senmut
+	2 Avatar of Utsenchep
+	2 Blurry Counterpart
+	2 Daunting Gaze
+	2 Desert Slaughterer
+	2 Desert Temple
+	1 Desert Wurms
+	2 Divine Denial
+	2 Divine Protection
+	2 Eternal Banishment
+	2 Ferocious Desert-Hunter
+	2 Gift of the Sphinx
+	1 High-Priestess Nebti
+	1 Jachsechep, God's Wife
+	2 Kalro, Desert Outpost
+	2 Menes, the Great Pyramid
+	2 Menhet's Edict
+	2 Mesmerizing Shimmer
+	2 Mummy's Grin
+	2 Pyramid Lord
+	1 Righteous Priestess
+	2 Rockpounding Saurian
+	2 Sinister Pact
+	1 Slaughter
+	2 Sphinx of Riddles
+	2 Staff of Authority
+	1 Through the Dust
+	2 Warrior's Pride
+	1 Zarchepet, Master of Sands
+[uncommon(3)]
+	4 Alpha Lion
+	4 Atuum Serpent
+	4 Bath in the Solitude
+	4 Caravan Engulfer
+	4 Cunning Chanter
+	4 Dance for the Heavens
+	4 Dawn Silhouette
+	4 Descendant of Caaseb
+	4 Despise
+	4 Dignified Serpent
+	4 Diligent Believer
+	4 Diligent Fishermen
+	4 Doomed Journey
+	4 Excellent Architecture
+	4 Fire from Above
+	4 Gates to the Afterlife
+	4 Heat of Battle
+	4 Inspiring Melodies
+	4 Judge Unworthy
+	4 Leonin Sandfighter
+	4 Mounted Charge
+	4 Mounted Marksman
+	4 Mummification
+	4 Poisoned Well
+	4 Sandborn Mage
+	4 Sharp Eyed Sentinel
+	4 Spell Dilution
+	4 Stream of Light
+	4 Terrifying Ankh
+	4 Tireless Vulture
+	4 Whistled Dragons
+	4 Wurm Spawning
+[common(7)]
+	8 Amosis Charm
+	8 Awestruck
+	8 Basat Charm
+	8 Basat Priest
+	8 Blurring Mists
+	8 Brute Force
+	8 Camelriding Archer
+	8 Caravan Sumpter
+	8 Crippling Spirit
+	8 Depraved Disciple
+	8 Desert Warriors
+	8 Divination_POA
+	8 Double Arming
+	8 Dripping Turtle
+	8 Dune Peregrination
+	8 Dune Scorpion
+	8 Essence Dehydration
+	8 Expulse to the Desert
+	8 Giant Dromad
+	8 Giant Scarab
+	8 Gruesome Transport
+	8 Haggard Jackal
+	8 Haughty Priest
+	8 Haze Raptor
+	8 Imaginary Flames
+	8 Kill the Competition
+	8 Lasis Persecutor
+	8 Life-Giving Waters
+	8 Menhet Charm
+	8 Njel Crocodile
+	8 Observing Guardian
+	8 Peaceful Sunbath
+	8 Pharaoh Guardian
+	8 Preserving Cloak
+	8 Priestess of Menhet
+	8 Ruthless Monstrosity
+	8 Sanding
+	8 Sandmouth Dragon
+	8 Savannah Scout
+	8 Scaled Lurker
+	8 Sixpod Sprinter
+	8 Sprawled Arming
+	8 Streaming Waters
+	8 Sudden Drought
+	8 Suntail Hawk
+	8 Survive
+	8 Tamed Jaguar
+	8 Tendrils of Corruption
+	8 Utsenchep Warrior
+	8 Wachet Charm
+	8 Wall of Fog
+	8 Winged Envoy
+[foil(1)]
+	1 Achet-Aton, Living God
+	2 Adept Necromancer
+	6 Alpha Lion
+	12 Amosis Charm
+	2 Ancestral Memories
+	2 Angel of Sands
+	2 Antithesis
+	6 Atuum Serpent
+	2 Avatar of Amosis
+	2 Avatar of Basat
+	2 Avatar of Senmut
+	2 Avatar of Utsenchep
+	12 Awestruck
+	12 Basat Charm
+	12 Basat Priest
+	6 Bath in the Solitude
+	12 Blurring Mists
+	2 Blurry Counterpart
+	12 Brute Force
+	12 Camelriding Archer
+	6 Caravan Engulfer
+	12 Caravan Sumpter
+	12 Crippling Spirit
+	6 Cunning Chanter
+	6 Dance for the Heavens
+	2 Daunting Gaze
+	6 Dawn Silhouette
+	12 Depraved Disciple
+	6 Descendant of Caaseb
+	2 Desert Slaughterer
+	2 Desert Temple
+	12 Desert Warriors
+	1 Desert Wurms
+	6 Despise
+	6 Dignified Serpent
+	6 Diligent Believer
+	6 Diligent Fishermen
+	12 Divination_POA
+	2 Divine Denial
+	2 Divine Protection
+	6 Doomed Journey
+	12 Double Arming
+	12 Dripping Turtle
+	12 Dune Peregrination
+	12 Dune Scorpion
+	12 Essence Dehydration
+	2 Eternal Banishment
+	6 Excellent Architecture
+	12 Expulse to the Desert
+	2 Ferocious Desert-Hunter
+	6 Fire from Above
+	6 Gates to the Afterlife
+	12 Giant Dromad
+	12 Giant Scarab
+	2 Gift of the Sphinx
+	12 Gruesome Transport
+	12 Haggard Jackal
+	12 Haughty Priest
+	12 Haze Raptor
+	6 Heat of Battle
+	1 High-Priestess Nebti
+	12 Imaginary Flames
+	6 Inspiring Melodies
+	1 Jachsechep, God's Wife
+	6 Judge Unworthy
+	2 Kalro, Desert Outpost
+	12 Kill the Competition
+	12 Lasis Persecutor
+	6 Leonin Sandfighter
+	12 Life-Giving Waters
+	2 Menes, the Great Pyramid
+	2 Menhet's Edict
+	12 Menhet Charm
+	2 Mesmerizing Shimmer
+	6 Mounted Charge
+	6 Mounted Marksman
+	6 Mummification
+	2 Mummy's Grin
+	12 Njel Crocodile
+	12 Observing Guardian
+	12 Peaceful Sunbath
+	12 Pharaoh Guardian
+	6 Poisoned Well
+	12 Preserving Cloak
+	12 Priestess of Menhet
+	2 Pyramid Lord
+	1 Righteous Priestess
+	2 Rockpounding Saurian
+	12 Ruthless Monstrosity
+	6 Sandborn Mage
+	12 Sanding
+	12 Sandmouth Dragon
+	12 Savannah Scout
+	12 Scaled Lurker
+	6 Sharp Eyed Sentinel
+	2 Sinister Pact
+	12 Sixpod Sprinter
+	1 Slaughter
+	6 Spell Dilution
+	2 Sphinx of Riddles
+	12 Sprawled Arming
+	2 Staff of Authority
+	6 Stream of Light
+	12 Streaming Waters
+	12 Sudden Drought
+	12 Suntail Hawk
+	12 Survive
+	12 Tamed Jaguar
+	12 Tendrils of Corruption
+	6 Terrifying Ankh
+	1 Through the Dust
+	6 Tireless Vulture
+	12 Utsenchep Warrior
+	12 Wachet Charm
+	12 Wall of Fog
+	2 Warrior's Pride
+	6 Whistled Dragons
+	12 Winged Envoy
+	6 Wurm Spawning
+	1 Zarchepet, Master of Sands
+[wildcard(1)]
+	4 Achet-Aton, Living God
+	7 Adept Necromancer
+	15 Alpha Lion
+	6 Amosis Charm
+	7 Ancestral Memories
+	7 Angel of Sands
+	7 Antithesis
+	15 Atuum Serpent
+	7 Avatar of Amosis
+	7 Avatar of Basat
+	7 Avatar of Senmut
+	7 Avatar of Utsenchep
+	6 Awestruck
+	6 Basat Charm
+	6 Basat Priest
+	15 Bath in the Solitude
+	6 Blurring Mists
+	7 Blurry Counterpart
+	6 Brute Force
+	6 Camelriding Archer
+	15 Caravan Engulfer
+	6 Caravan Sumpter
+	6 Crippling Spirit
+	15 Cunning Chanter
+	15 Dance for the Heavens
+	7 Daunting Gaze
+	15 Dawn Silhouette
+	6 Depraved Disciple
+	15 Descendant of Caaseb
+	7 Desert Slaughterer
+	7 Desert Temple
+	6 Desert Warriors
+	4 Desert Wurms
+	15 Despise
+	15 Dignified Serpent
+	15 Diligent Believer
+	15 Diligent Fishermen
+	6 Divination_POA
+	7 Divine Denial
+	7 Divine Protection
+	15 Doomed Journey
+	6 Double Arming
+	6 Dripping Turtle
+	6 Dune Peregrination
+	6 Dune Scorpion
+	6 Essence Dehydration
+	7 Eternal Banishment
+	15 Excellent Architecture
+	6 Expulse to the Desert
+	7 Ferocious Desert-Hunter
+	15 Fire from Above
+	15 Gates to the Afterlife
+	6 Giant Dromad
+	6 Giant Scarab
+	7 Gift of the Sphinx
+	6 Gruesome Transport
+	6 Haggard Jackal
+	6 Haughty Priest
+	6 Haze Raptor
+	15 Heat of Battle
+	4 High-Priestess Nebti
+	6 Imaginary Flames
+	15 Inspiring Melodies
+	4 Jachsechep, God's Wife
+	15 Judge Unworthy
+	7 Kalro, Desert Outpost
+	6 Kill the Competition
+	6 Lasis Persecutor
+	15 Leonin Sandfighter
+	6 Life-Giving Waters
+	7 Menes, the Great Pyramid
+	7 Menhet's Edict
+	6 Menhet Charm
+	7 Mesmerizing Shimmer
+	15 Mounted Charge
+	15 Mounted Marksman
+	15 Mummification
+	7 Mummy's Grin
+	6 Njel Crocodile
+	6 Observing Guardian
+	6 Peaceful Sunbath
+	6 Pharaoh Guardian
+	15 Poisoned Well
+	6 Preserving Cloak
+	6 Priestess of Menhet
+	7 Pyramid Lord
+	4 Righteous Priestess
+	7 Rockpounding Saurian
+	6 Ruthless Monstrosity
+	15 Sandborn Mage
+	6 Sanding
+	6 Sandmouth Dragon
+	6 Savannah Scout
+	6 Scaled Lurker
+	15 Sharp Eyed Sentinel
+	7 Sinister Pact
+	6 Sixpod Sprinter
+	4 Slaughter
+	15 Spell Dilution
+	7 Sphinx of Riddles
+	6 Sprawled Arming
+	7 Staff of Authority
+	15 Stream of Light
+	6 Streaming Waters
+	6 Sudden Drought
+	6 Suntail Hawk
+	6 Survive
+	6 Tamed Jaguar
+	6 Tendrils of Corruption
+	15 Terrifying Ankh
+	4 Through the Dust
+	15 Tireless Vulture
+	6 Utsenchep Warrior
+	6 Wachet Charm
+	6 Wall of Fog
+	7 Warrior's Pride
+	15 Whistled Dragons
+	6 Winged Envoy
+	15 Wurm Spawning
+	4 Zarchepet, Master of Sands

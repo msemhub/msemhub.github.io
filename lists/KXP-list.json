@@ -1,0 +1,2513 @@
+﻿[
+    {
+        "card_name": "Aegisul, the Sunspear",
+        "number": 2,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "2"
+    },
+    {
+        "card_name": "Hyle's Gift",
+        "number": 48,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "48"
+    },
+    {
+        "card_name": "The Endless Tempest",
+        "number": 80,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "80"
+    },
+    {
+        "card_name": "Creativity_KXP",
+        "number": 120,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "120"
+    },
+    {
+        "card_name": "Cartographer's Step",
+        "number": 154,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "154"
+    },
+    {
+        "card_name": "Construct Engine",
+        "number": 7,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "7"
+    },
+    {
+        "card_name": "Brainstorming Session",
+        "number": 40,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "40"
+    },
+    {
+        "card_name": "Nothing Left",
+        "number": 89,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "89"
+    },
+    {
+        "card_name": "Hand of the Fallen",
+        "number": 126,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "126"
+    },
+    {
+        "card_name": "Charging Cassowary",
+        "number": 156,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "156"
+    },
+    {
+        "card_name": "Dream Big",
+        "number": 10,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "10"
+    },
+    {
+        "card_name": "Cloud Swine",
+        "number": 41,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "41"
+    },
+    {
+        "card_name": "Token of Tribulation",
+        "number": 105,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "105"
+    },
+    {
+        "card_name": "Barhopping in Minei",
+        "number": 114,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "114"
+    },
+    {
+        "card_name": "Churner of Souls",
+        "number": 157,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "157"
+    },
+    {
+        "card_name": "Family Tree",
+        "number": 12,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "12"
+    },
+    {
+        "card_name": "Devotee of Winds",
+        "number": 42,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "42"
+    },
+    {
+        "card_name": "All Alone",
+        "number": 75,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "75"
+    },
+    {
+        "card_name": "Blitz Breaker",
+        "number": 116,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "116"
+    },
+    {
+        "card_name": "Forgotten Library",
+        "number": 162,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "162"
+    },
+    {
+        "card_name": "Forsake",
+        "number": 14,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "14"
+    },
+    {
+        "card_name": "Goddess' Legacy",
+        "number": 47,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "47"
+    },
+    {
+        "card_name": "Goddess' Bloodlust",
+        "number": 83,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "83"
+    },
+    {
+        "card_name": "Curio Hellkite",
+        "number": 121,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "121"
+    },
+    {
+        "card_name": "Goddess' Sympathy",
+        "number": 164,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "164"
+    },
+    {
+        "card_name": "Goddess' Prosperity",
+        "number": 16,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "16"
+    },
+    {
+        "card_name": "Imagination Augmentation",
+        "number": 49,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "49"
+    },
+    {
+        "card_name": "Reyhsia's Chronicle",
+        "number": 91,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "91"
+    },
+    {
+        "card_name": "Goddess' Whimsy",
+        "number": 125,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "125"
+    },
+    {
+        "card_name": "Indomitable Spirit",
+        "number": 166,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "166"
+    },
+    {
+        "card_name": "Solari's Faithful",
+        "number": 30,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "30"
+    },
+    {
+        "card_name": "Mei's Collection",
+        "number": 54,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "54"
+    },
+    {
+        "card_name": "Second Death",
+        "number": 94,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "94"
+    },
+    {
+        "card_name": "Here With You",
+        "number": 127,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "127"
+    },
+    {
+        "card_name": "The Lonely Hunter",
+        "number": 169,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "169"
+    },
+    {
+        "card_name": "Twilight Vigil",
+        "number": 34,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "34"
+    },
+    {
+        "card_name": "Overactive Imagination",
+        "number": 56,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "56"
+    },
+    {
+        "card_name": "Senn, the Haunting Gaze",
+        "number": 95,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "95"
+    },
+    {
+        "card_name": "Ilieth, Transcendent",
+        "number": 130,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "130"
+    },
+    {
+        "card_name": "Something in the Woods",
+        "number": 176,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "176"
+    },
+    {
+        "card_name": "Valera, Constructed Angel",
+        "number": 35,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "35"
+    },
+    {
+        "card_name": "Temporal Blink",
+        "number": 68,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "68"
+    },
+    {
+        "card_name": "Sluiceway Collector",
+        "number": 100,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "100"
+    },
+    {
+        "card_name": "Impulse Module",
+        "number": 131,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "131"
+    },
+    {
+        "card_name": "Worldweary Pangolin",
+        "number": 185,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "185"
+    },
+    {
+        "card_name": "Cloister",
+        "number": 5,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "5"
+    },
+    {
+        "card_name": "Aetheric Researcher",
+        "number": 38,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "38"
+    },
+    {
+        "card_name": "Tireless Archivist",
+        "number": 104,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "104"
+    },
+    {
+        "card_name": "Karina's Connections",
+        "number": 134,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "134"
+    },
+    {
+        "card_name": "Blood Constrictor",
+        "number": 151,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "151"
+    },
+    {
+        "card_name": "Guiltless Matron",
+        "number": 17,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "17"
+    },
+    {
+        "card_name": "Draconic Admiration",
+        "number": 43,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "43"
+    },
+    {
+        "card_name": "Unrelenting",
+        "number": 108,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "108"
+    },
+    {
+        "card_name": "Wandering Conqueror",
+        "number": 149,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "149"
+    },
+    {
+        "card_name": "Calavanting",
+        "number": 152,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "152"
+    },
+    {
+        "card_name": "Hoverstepper",
+        "number": 18,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "18"
+    },
+    {
+        "card_name": "Forget",
+        "number": 46,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "46"
+    },
+    {
+        "card_name": "Acolyte of the Tempest",
+        "number": 74,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "74"
+    },
+    {
+        "card_name": "Better Together",
+        "number": 115,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "115"
+    },
+    {
+        "card_name": "Curious Charter",
+        "number": 159,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "159"
+    },
+    {
+        "card_name": "Hunger Pangs",
+        "number": 20,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "20"
+    },
+    {
+        "card_name": "Inconspicuous Platypus_KXP",
+        "number": 50,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "50"
+    },
+    {
+        "card_name": "Hit the Books",
+        "number": 85,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "85"
+    },
+    {
+        "card_name": "Experimental Power Source",
+        "number": 123,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "123"
+    },
+    {
+        "card_name": "Font of Sorrows",
+        "number": 161,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "161"
+    },
+    {
+        "card_name": "Inconspicuous Loxodon_KXP",
+        "number": 22,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "22"
+    },
+    {
+        "card_name": "Mother Roo",
+        "number": 55,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "55"
+    },
+    {
+        "card_name": "Inconspicuous Otter_KXP",
+        "number": 86,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "86"
+    },
+    {
+        "card_name": "Flying with Dragons",
+        "number": 124,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "124"
+    },
+    {
+        "card_name": "Gemcrusher Turtle",
+        "number": 163,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "163"
+    },
+    {
+        "card_name": "Plush Tea Party",
+        "number": 26,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "26"
+    },
+    {
+        "card_name": "Shiverpass Taskmage",
+        "number": 62,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "62"
+    },
+    {
+        "card_name": "Makeup Call",
+        "number": 87,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "87"
+    },
+    {
+        "card_name": "Hotshot Renegade",
+        "number": 129,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "129"
+    },
+    {
+        "card_name": "Inconspicuous Sheep_KXP",
+        "number": 165,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "165"
+    },
+    {
+        "card_name": "Soulcleaver",
+        "number": 31,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "31"
+    },
+    {
+        "card_name": "Slippery Bunyip",
+        "number": 63,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "63"
+    },
+    {
+        "card_name": "Ominous Presence",
+        "number": 90,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "90"
+    },
+    {
+        "card_name": "Inconspicuous Stowaway_KXP",
+        "number": 132,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "132"
+    },
+    {
+        "card_name": "Remnant Spotter",
+        "number": 171,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "171"
+    },
+    {
+        "card_name": "Start Fresh",
+        "number": 32,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "32"
+    },
+    {
+        "card_name": "Snooze",
+        "number": 64,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "64"
+    },
+    {
+        "card_name": "Scarcrawler",
+        "number": 92,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "92"
+    },
+    {
+        "card_name": "Intruder Drone",
+        "number": 133,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "133"
+    },
+    {
+        "card_name": "Scenic Route",
+        "number": 173,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "173"
+    },
+    {
+        "card_name": "Vengeful Sorrow",
+        "number": 36,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "36"
+    },
+    {
+        "card_name": "Tranquil Path",
+        "number": 70,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "70"
+    },
+    {
+        "card_name": "Swipe Secrets",
+        "number": 103,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "103"
+    },
+    {
+        "card_name": "Prismscale Dragon",
+        "number": 137,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "137"
+    },
+    {
+        "card_name": "Sense of Adventure",
+        "number": 175,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "175"
+    },
+    {
+        "card_name": "Volarian Sightseer",
+        "number": 37,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "37"
+    },
+    {
+        "card_name": "Vulp-o-Wisp",
+        "number": 72,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "72"
+    },
+    {
+        "card_name": "Truth or Dare",
+        "number": 107,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "107"
+    },
+    {
+        "card_name": "Skalorian Orbguard",
+        "number": 140,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "140"
+    },
+    {
+        "card_name": "Tortle Trader",
+        "number": 180,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "180"
+    },
+    {
+        "card_name": "Break Down",
+        "number": 3,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "3"
+    },
+    {
+        "card_name": "Been There, Done That",
+        "number": 39,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "39"
+    },
+    {
+        "card_name": "Valinov Siphoner",
+        "number": 109,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "109"
+    },
+    {
+        "card_name": "Test of Mettle",
+        "number": 145,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "145"
+    },
+    {
+        "card_name": "Amateur Surveying",
+        "number": 150,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "150"
+    },
+    {
+        "card_name": "Built to Last",
+        "number": 4,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "4"
+    },
+    {
+        "card_name": "Expedition Duo",
+        "number": 44,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "44"
+    },
+    {
+        "card_name": "Well-Oiled Sniper",
+        "number": 111,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "111"
+    },
+    {
+        "card_name": "Trail Blazer",
+        "number": 148,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "148"
+    },
+    {
+        "card_name": "Carrion Monitor",
+        "number": 153,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "153"
+    },
+    {
+        "card_name": "Cold Heart",
+        "number": 6,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "6"
+    },
+    {
+        "card_name": "Fleeting Soulkite",
+        "number": 45,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "45"
+    },
+    {
+        "card_name": "Change of Plans",
+        "number": 76,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "76"
+    },
+    {
+        "card_name": "Abrasive Citizen",
+        "number": 112,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "112"
+    },
+    {
+        "card_name": "Catacomb Recovery",
+        "number": 155,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "155"
+    },
+    {
+        "card_name": "Crested Cloudfisher",
+        "number": 8,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "8"
+    },
+    {
+        "card_name": "Laughing Bird",
+        "number": 51,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "51"
+    },
+    {
+        "card_name": "Crushing Guilt",
+        "number": 77,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "77"
+    },
+    {
+        "card_name": "Aspiring Dragon",
+        "number": 113,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "113"
+    },
+    {
+        "card_name": "Crushing Victor",
+        "number": 158,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "158"
+    },
+    {
+        "card_name": "Delivery Bird",
+        "number": 9,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "9"
+    },
+    {
+        "card_name": "Leave Behind",
+        "number": 52,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "52"
+    },
+    {
+        "card_name": "Doomed Widow",
+        "number": 78,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "78"
+    },
+    {
+        "card_name": "Built to Smash",
+        "number": 117,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "117"
+    },
+    {
+        "card_name": "Duwinda Sniper",
+        "number": 160,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "160"
+    },
+    {
+        "card_name": "Entelan Idealist",
+        "number": 11,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "11"
+    },
+    {
+        "card_name": "Lost in Deep Storage",
+        "number": 53,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "53"
+    },
+    {
+        "card_name": "Duwinda Hunter",
+        "number": 79,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "79"
+    },
+    {
+        "card_name": "Callous Conduit",
+        "number": 118,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "118"
+    },
+    {
+        "card_name": "Into the Woods_KXP",
+        "number": 167,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "167"
+    },
+    {
+        "card_name": "First Snow",
+        "number": 13,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "13"
+    },
+    {
+        "card_name": "Overcharge",
+        "number": 57,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "57"
+    },
+    {
+        "card_name": "Ghastly Tether_KXP",
+        "number": 81,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "81"
+    },
+    {
+        "card_name": "Competing Design",
+        "number": 119,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "119"
+    },
+    {
+        "card_name": "Little Pig",
+        "number": 168,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "168"
+    },
+    {
+        "card_name": "Gatekeeper Geist",
+        "number": 15,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "15"
+    },
+    {
+        "card_name": "Path Lighter",
+        "number": 58,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "58"
+    },
+    {
+        "card_name": "Go Hungry",
+        "number": 82,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "82"
+    },
+    {
+        "card_name": "Dragon Dance",
+        "number": 122,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "122"
+    },
+    {
+        "card_name": "Overburdened Trader",
+        "number": 170,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "170"
+    },
+    {
+        "card_name": "Hrexa Enforcer",
+        "number": 19,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "19"
+    },
+    {
+        "card_name": "Rappel",
+        "number": 59,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "59"
+    },
+    {
+        "card_name": "Guiltless Wraith",
+        "number": 84,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "84"
+    },
+    {
+        "card_name": "Hot New Thing",
+        "number": 128,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "128"
+    },
+    {
+        "card_name": "Scattering Shield",
+        "number": 172,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "172"
+    },
+    {
+        "card_name": "Hunted Haunt",
+        "number": 21,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "21"
+    },
+    {
+        "card_name": "Scrappy Hatchling",
+        "number": 60,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "60"
+    },
+    {
+        "card_name": "Night Life",
+        "number": 88,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "88"
+    },
+    {
+        "card_name": "Melt the Chains",
+        "number": 135,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "135"
+    },
+    {
+        "card_name": "Search Ancient Troves",
+        "number": 174,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "174"
+    },
+    {
+        "card_name": "Off on a Date",
+        "number": 23,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "23"
+    },
+    {
+        "card_name": "Seaside Skimmer",
+        "number": 61,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "61"
+    },
+    {
+        "card_name": "Scrap Metal",
+        "number": 93,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "93"
+    },
+    {
+        "card_name": "Motley Crew",
+        "number": 136,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "136"
+    },
+    {
+        "card_name": "Sorrowslayer",
+        "number": 177,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "177"
+    },
+    {
+        "card_name": "Oscuran Wingmate",
+        "number": 24,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "24"
+    },
+    {
+        "card_name": "Snowed In",
+        "number": 65,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "65"
+    },
+    {
+        "card_name": "Senn's Essence",
+        "number": 96,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "96"
+    },
+    {
+        "card_name": "Scoff",
+        "number": 138,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "138"
+    },
+    {
+        "card_name": "Tempest Dodger",
+        "number": 178,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "178"
+    },
+    {
+        "card_name": "Out Cold",
+        "number": 25,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "25"
+    },
+    {
+        "card_name": "Spiritual Journey",
+        "number": 66,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "66"
+    },
+    {
+        "card_name": "Shadowlurk",
+        "number": 97,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "97"
+    },
+    {
+        "card_name": "Shock Baton",
+        "number": 139,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "139"
+    },
+    {
+        "card_name": "Tortle Guard",
+        "number": 179,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "179"
+    },
+    {
+        "card_name": "Runic Enforcer",
+        "number": 27,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "27"
+    },
+    {
+        "card_name": "Street Stray",
+        "number": 67,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "67"
+    },
+    {
+        "card_name": "Shearing Vampire",
+        "number": 98,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "98"
+    },
+    {
+        "card_name": "Skiviar Scraplord",
+        "number": 141,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "141"
+    },
+    {
+        "card_name": "Tortle Traveler",
+        "number": 181,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "181"
+    },
+    {
+        "card_name": "Siphon Student",
+        "number": 28,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "28"
+    },
+    {
+        "card_name": "Thirst for Nostalgia",
+        "number": 69,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "69"
+    },
+    {
+        "card_name": "Skullhoarder Dragon",
+        "number": 99,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "99"
+    },
+    {
+        "card_name": "Soulblade Warrior",
+        "number": 142,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "142"
+    },
+    {
+        "card_name": "Unexpected Brawl",
+        "number": 182,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "182"
+    },
+    {
+        "card_name": "Small Comfort",
+        "number": 29,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "29"
+    },
+    {
+        "card_name": "Trusty Spyglass",
+        "number": 71,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "71"
+    },
+    {
+        "card_name": "Smoking Skull",
+        "number": 101,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "101"
+    },
+    {
+        "card_name": "State Collapse",
+        "number": 143,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "143"
+    },
+    {
+        "card_name": "Venom Loop",
+        "number": 183,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "183"
+    },
+    {
+        "card_name": "Steelwoven Soldier",
+        "number": 33,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "33"
+    },
+    {
+        "card_name": "Wizened Tortle",
+        "number": 73,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "73"
+    },
+    {
+        "card_name": "Spiked Burrower",
+        "number": 102,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "102"
+    },
+    {
+        "card_name": "Sweet Nothings",
+        "number": 144,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "144"
+    },
+    {
+        "card_name": "Wandering Dingo",
+        "number": 184,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "184"
+    },
+    {
+        "card_name": "Inconspicuous Loxodon (Agent E)",
+        "number": 276,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "276"
+    },
+    {
+        "card_name": "Inconspicuous Platypus (Agent P)",
+        "number": 285,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "285"
+    },
+    {
+        "card_name": "Trophy Taker",
+        "number": 106,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "106"
+    },
+    {
+        "card_name": "Tortle Tinkerer",
+        "number": 146,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "146"
+    },
+    {
+        "card_name": "Inconspicuous Sheep (Agent S)",
+        "number": 301,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "301"
+    },
+    {
+        "card_name": "Event Horizon_KXP",
+        "number": 277,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "277"
+    },
+    {
+        "card_name": "Inconspicuous Platypus_PRO_KXP",
+        "number": 287,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "287"
+    },
+    {
+        "card_name": "Vampire Partaker",
+        "number": 110,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "110"
+    },
+    {
+        "card_name": "Tortle Waymaker",
+        "number": 147,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "147"
+    },
+    {
+        "card_name": "Brutality_KXP",
+        "number": 302,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "302"
+    },
+    {
+        "card_name": "Family Tree_PRO_KXP",
+        "number": 278,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "278"
+    },
+    {
+        "card_name": "Sludge-Gill Fox_KXP",
+        "number": 288,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "288"
+    },
+    {
+        "card_name": "Inconspicuous Otter (Agent O)",
+        "number": 291,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "291"
+    },
+    {
+        "card_name": "Inconspicuous Stowaway (Agent C)",
+        "number": 295,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "295"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Fox of the Orange Orchard_KXP",
+        "number": 279,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "279"
+    },
+    {
+        "card_name": "Unraveling_KXP",
+        "number": 289,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "289"
+    },
+    {
+        "card_name": "Aguri, Shadow of Doubt_KXP",
+        "number": 292,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "292"
+    },
+    {
+        "card_name": "Creativity (Zero)",
+        "number": 296,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "296"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Heraldry_KXP",
+        "number": 280,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "280"
+    },
+    {
+        "card_name": "Whimsy_KXP",
+        "number": 290,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "290"
+    },
+    {
+        "card_name": "Strike from the Shadows_KXP",
+        "number": 293,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "293"
+    },
+    {
+        "card_name": "Eleventh Hour Breakthrough_KXP",
+        "number": 297,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "297"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ostracizer Orb_KXP",
+        "number": 281,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "281"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Villainy_KXP",
+        "number": 294,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "294"
+    },
+    {
+        "card_name": "Gold Retriever_KXP",
+        "number": 298,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "298"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Out-of-Body Experience_KXP",
+        "number": 282,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "282"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Possibility Engine_KXP",
+        "number": 299,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "299"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Self Replication_KXP",
+        "number": 283,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "283"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Reyhsia, Truth Chaser_KXP",
+        "number": 300,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "300"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Thundermane Fox_KXP",
+        "number": 284,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "284"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Dreams Come True",
+        "number": 195,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "195"
+    },
+    {
+        "card_name": "Mei Liva, the Broken",
+        "number": 218,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "218"
+    },
+    {
+        "card_name": "Fae-Frill Fox_KXP",
+        "number": 201,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "201"
+    },
+    {
+        "card_name": "Panda Pioneer",
+        "number": 221,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "221"
+    },
+    {
+        "card_name": "Leafcrowned Fox_KXP",
+        "number": 215,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "215"
+    },
+    {
+        "card_name": "Sun-Eyed Fox_KXP",
+        "number": 312,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "312"
+    },
+    {
+        "card_name": "Icecrowned Fox_KXP",
+        "number": 207,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "207"
+    },
+    {
+        "card_name": "Fae-Frill Fox (alt)",
+        "number": 304,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "304"
+    },
+    {
+        "card_name": "Firemane Fox_KXP",
+        "number": 305,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "305"
+    },
+    {
+        "card_name": "Leafcrowned Fox (alt)",
+        "number": 307,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "307"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Icecrowned Fox (alt)",
+        "number": 306,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "306"
+    },
+    {
+        "card_name": "Sukhar, Consort to the Dark_KXP",
+        "number": 311,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "311"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mindrip_KXP",
+        "number": 308,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "308"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Suzume Oshiruko_KXP",
+        "number": 313,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "313"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Moribund Manuscript",
+        "number": 219,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "219"
+    },
+    {
+        "card_name": "Flynn Skara",
+        "number": 202,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "202"
+    },
+    {
+        "card_name": "Irbek, Crocodile Hunter",
+        "number": 211,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "211"
+    },
+    {
+        "card_name": "Pidge, Tinkering Courier",
+        "number": 222,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "222"
+    },
+    {
+        "card_name": "Ancient Treasures",
+        "number": 186,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "186"
+    },
+    {
+        "card_name": "Anguished Unmaking_KXP",
+        "number": 187,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "187"
+    },
+    {
+        "card_name": "In League With Dragons",
+        "number": 210,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "210"
+    },
+    {
+        "card_name": "Irbek's Bestiary",
+        "number": 212,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "212"
+    },
+    {
+        "card_name": "Pidge's Workbench",
+        "number": 223,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "223"
+    },
+    {
+        "card_name": "Colossal Hermit",
+        "number": 192,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "192"
+    },
+    {
+        "card_name": "Grieving Process",
+        "number": 203,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "203"
+    },
+    {
+        "card_name": "Paint by Numbers",
+        "number": 220,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "220"
+    },
+    {
+        "card_name": "Join the Chorus",
+        "number": 213,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "213"
+    },
+    {
+        "card_name": "Lovebird Lounge",
+        "number": 217,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "217"
+    },
+    {
+        "card_name": "Sluggish Sage",
+        "number": 227,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "227"
+    },
+    {
+        "card_name": "Implant Scavenger",
+        "number": 208,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "208"
+    },
+    {
+        "card_name": "Blizzard Dragon",
+        "number": 190,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "190"
+    },
+    {
+        "card_name": "Snarling Devil",
+        "number": 228,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "228"
+    },
+    {
+        "card_name": "Rose of Sunspear",
+        "number": 226,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "226"
+    },
+    {
+        "card_name": "Attentive Glider",
+        "number": 188,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "188"
+    },
+    {
+        "card_name": "Moon-Rune Fox_KXP",
+        "number": 309,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "309"
+    },
+    {
+        "card_name": "Hannah, Aethertechnician",
+        "number": 205,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "205"
+    },
+    {
+        "card_name": "Herald of Rot",
+        "number": 206,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "206"
+    },
+    {
+        "card_name": "Implant Tinkerer",
+        "number": 209,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "209"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ser Wayver, the Broken Hour_KXP",
+        "number": 310,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "310"
+    },
+    {
+        "card_name": "Entelan Duelist",
+        "number": 199,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "199"
+    },
+    {
+        "card_name": "Chi Lee of the Underworld_KXP",
+        "number": 303,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "303"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sisterhood of the Traveling Planes",
+        "number": 319,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "319"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Blastburn Angel",
+        "number": 189,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "189"
+    },
+    {
+        "card_name": "Enai, Who Wanders Alone",
+        "number": 197,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "197"
+    },
+    {
+        "card_name": "The Locus of Sorrows",
+        "number": 216,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "216"
+    },
+    {
+        "card_name": "Karina, Planar Tourist",
+        "number": 214,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "214"
+    },
+    {
+        "card_name": "Drop Bear",
+        "number": 196,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "196"
+    },
+    {
+        "card_name": "Tinker Tantrum",
+        "number": 231,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "231"
+    },
+    {
+        "card_name": "Prove Your Worth",
+        "number": 224,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "224"
+    },
+    {
+        "card_name": "Thundering Towershell",
+        "number": 230,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "230"
+    },
+    {
+        "card_name": "Bright Future",
+        "number": 191,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "191"
+    },
+    {
+        "card_name": "Take Flight",
+        "number": 229,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "229"
+    },
+    {
+        "card_name": "Valinov Collector",
+        "number": 235,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "235"
+    },
+    {
+        "card_name": "Torch of Those Underfoot",
+        "number": 232,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "232"
+    },
+    {
+        "card_name": "Reader of Bones",
+        "number": 225,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "225"
+    },
+    {
+        "card_name": "Halcyon Daze",
+        "number": 204,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "204"
+    },
+    {
+        "card_name": "Cragstalker Eagle",
+        "number": 193,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "193"
+    },
+    {
+        "card_name": "Valinov Vandal",
+        "number": 236,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "236"
+    },
+    {
+        "card_name": "Tortle Veteran",
+        "number": 233,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "233"
+    },
+    {
+        "card_name": "Usona Lurker",
+        "number": 234,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "234"
+    },
+    {
+        "card_name": "Entelan Contact",
+        "number": 198,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "198"
+    },
+    {
+        "card_name": "Curious Amalgam",
+        "number": 194,
+        "shape": "adventure",
+        "set": "KXP",
+        "position": "194"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Explore the Multiverse",
+        "number": 200,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "200"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Versatility",
+        "number": 1,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "1"
+    },
+    {
+        "card_name": "Aukashi, Electric Legacy",
+        "number": 237,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "237"
+    },
+    {
+        "card_name": "Distraction Doll",
+        "number": 240,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "240"
+    },
+    {
+        "card_name": "Limb Extension and Generation System",
+        "number": 244,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "244"
+    },
+    {
+        "card_name": "Wastes Scrambler",
+        "number": 248,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "248"
+    },
+    {
+        "card_name": "Jet Pack",
+        "number": 243,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "243"
+    },
+    {
+        "card_name": "Petrified Guard",
+        "number": 245,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "245"
+    },
+    {
+        "card_name": "Cryptic Waypoint",
+        "number": 238,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "238"
+    },
+    {
+        "card_name": "Dedicated Waypoint",
+        "number": 239,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "239"
+    },
+    {
+        "card_name": "Gleaming Waypoint",
+        "number": 241,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "241"
+    },
+    {
+        "card_name": "Gloomy Waypoint",
+        "number": 242,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "242"
+    },
+    {
+        "card_name": "Prophetic Prism_KXP",
+        "number": 246,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "246"
+    },
+    {
+        "card_name": "Recon Hopper",
+        "number": 247,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "247"
+    },
+    {
+        "card_name": "Wild Waypoint",
+        "number": 249,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "249"
+    },
+    {
+        "card_name": "Mentorb_KXP",
+        "number": 314,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "314"
+    },
+    {
+        "card_name": "Sealed Riftway_KXP",
+        "number": 315,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "315"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Calciform Wastes",
+        "number": 254,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "254"
+    },
+    {
+        "card_name": "Snow Drift",
+        "number": 268,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "268"
+    },
+    {
+        "card_name": "Barbed Reef",
+        "number": 251,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "251"
+    },
+    {
+        "card_name": "Spiny Ridge",
+        "number": 269,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "269"
+    },
+    {
+        "card_name": "Crumbling Shrine",
+        "number": 255,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "255"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Tranquil Cove_KXP",
+        "number": 273,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "273"
+    },
+    {
+        "card_name": "Dismal Backwater_KXP",
+        "number": 257,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "257"
+    },
+    {
+        "card_name": "Bloodfell Caves_KXP",
+        "number": 252,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "252"
+    },
+    {
+        "card_name": "Rugged Highlands_KXP",
+        "number": 266,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "266"
+    },
+    {
+        "card_name": "Blossoming Sands_KXP",
+        "number": 253,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "253"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Scoured Barrens_KXP",
+        "number": 267,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "267"
+    },
+    {
+        "card_name": "Swiftwater Cliffs_KXP",
+        "number": 271,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "271"
+    },
+    {
+        "card_name": "Jungle Hollow_KXP",
+        "number": 261,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "261"
+    },
+    {
+        "card_name": "Wind-Scarred Crag_KXP",
+        "number": 275,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "275"
+    },
+    {
+        "card_name": "Thornwood Falls_KXP",
+        "number": 272,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "272"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ancient Dominion_KXP",
+        "number": 250,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "250"
+    },
+    {
+        "card_name": "Desolate Dominion_KXP",
+        "number": 256,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "256"
+    },
+    {
+        "card_name": "Implant Greenhouse",
+        "number": 259,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "259"
+    },
+    {
+        "card_name": "Majestic Dominion_KXP",
+        "number": 262,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "262"
+    },
+    {
+        "card_name": "Pristine Dominion_KXP",
+        "number": 265,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "265"
+    },
+    {
+        "card_name": "Verdant Dominion_KXP",
+        "number": 274,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "274"
+    },
+    {
+        "card_name": "Primal Dominion_KXP",
+        "number": 316,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "316"
+    },
+    {
+        "card_name": "Rugged Dominion_KXP",
+        "number": 317,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "317"
+    },
+    {
+        "card_name": "Stalwart Dominion_KXP",
+        "number": 318,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "318"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Forest_KXP",
+        "number": 258,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "258"
+    },
+    {
+        "card_name": "Island_KXP",
+        "number": 260,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "260"
+    },
+    {
+        "card_name": "Mountain_KXP",
+        "number": 263,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "263"
+    },
+    {
+        "card_name": "Plains_KXP",
+        "number": 264,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "264"
+    },
+    {
+        "card_name": "Swamp_KXP",
+        "number": 270,
+        "shape": "normal",
+        "set": "KXP",
+        "position": "270"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

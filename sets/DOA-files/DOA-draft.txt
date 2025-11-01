@@ -1,0 +1,2503 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Acin, the Toymaker",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Elf Artificer",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Advanced Powercell",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Powercell",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Alia, Bearer of Morning",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Planeswalker — Alia",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Alia's Enforcer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Align the Astrolabe",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Ambitious Necromancer",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Ancient of the Glade_DOA",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Arcane Chronometer",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Arcane Metalcrafter",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Artificer's Prowess",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Artisan's Genius",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Artisan of Brutality",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Artistic Vision",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Atychiphobia",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Avid Researcher",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Backwoods Cultivator",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Banish Through the Veil",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Beckon Darkness",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Beckoner of Horrors",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Benevolent Malach",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Blessing of Morning",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Bottled Lightning",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Academy",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Archives",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Capital",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Castle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Citadel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Cityscape",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Hub",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Mansion",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Port",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Workshop",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Calamity Dragon",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Careless Violence",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Channeler of the Veil",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "City Gate",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Citywide Automation",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Claim for Civilization",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Claimed by the Veil",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Colossal Achievement",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Consort of Morning",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Corrupted Knowledge",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Cosmic Chart",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Crystallized Hope",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Dawnwisp Vents",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Dedicated Weaponsmith",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Deliver from Dilapidation",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Disable",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Disassociate_DOA",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Disqualify",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Dovon, Verdant Experimenter",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Elf Shaman",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Duress_DOA",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Eager Observer",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Eleventh Hour Breakthrough",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Embrace the Veil",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Encampment Blimp",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Endless Assembly",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Enori Duelist",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Extravagant Flair",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Exuberant Inventor",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Facsimile of Divinity",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Angel",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Fallback Plan",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Fento, Nova Crusader",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Final Symphony",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Flamboyant Inventor",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Flamecloaked Artisan",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Flare Blitz",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Forest_DOA",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Forest Fellowship_DOA",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Forgemaster's Charm",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Formless Wanderer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Wizard",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Fractal Meditation",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Frozen Moment",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Gate to the Beyond",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Gearcraft Observer",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Thopter",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Gilded Gearhulk",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Gilded Spyglass",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Glimpse the Veil",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Harmony Array",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Artifact",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Herald of Might",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Herald of Unity",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Herald of Wisdom",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Hub of Innovation",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Hunt the Monstrous",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Iken Company Nightwalker",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Assassin",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Iken Troubleshooter",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Aetherborn Rogue",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Imagination Unleashed",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Imagine",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Imitator of Drakes",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Inevitable Future",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Instant of Brilliance",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Irika, Wielder of Secrets",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Iron Signet_DOA",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Island_DOA",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Iterative Designer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Vedalken Artificer",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Jessica Turin, Battlemage",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Junktrawler",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Kati Evalin, World Wanderer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Planeswalker — Kati",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Kindly Greatwood",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Legends Remembered_DOA",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Lightblessed Claymore",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Lockdown",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Malicious Growth",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Mana Rose",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Manaflux Battery",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Powercell",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Maniacal Elementalist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard Warrior",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Marin Polgek, Academy Heiress",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Martial Maestro",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard Soldier",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Mastery of the Veil",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Matron of Machines",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Meteor Harbinger",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Mirrorcast Battlemage",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Monstrous Hunter",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Morning's Warden",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric Warrior",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Mountain_DOA",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Nebula of Empty Gold_DOA",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Nina, Master of Arms",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Novaheart Dragon",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Observer of Secret Paths",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Oldgrove Nurturer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Omegalomania",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Open the Secret Paths",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Perpetual Motion Machine",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Petal-Weaver Alexa",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Planeswalker — Alexa",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Philosophy of Fire",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Plains_DOA",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Polgek Artisan",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Polgek Restorationist",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Polgek Songcrafter",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Bard",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Power From Beyond",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Powercell Cultivator",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Artificer",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Powercell Engineer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Primal Ruffian",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Propagation Blade",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Propagation Plant",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Protector of the League",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Purging Light",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Pyromantic Expertise",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Queen of Unclaimed Lands",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Ravenous Hydra",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Reality Rewoven",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Reclamation Grovesculptor",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Reclamation Sage_DOA",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Reclusive Archmage",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Reconsider_DOA",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Reconstruct_DOA",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Reinvent",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Renewal Grove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/188 .jpg"
+			}
+		},
+		{
+			"name": "Resonating Force",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Riftway to the Other Side",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Rilken Forcefield Keeper",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Artificer Druid",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Rilken Preserver",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Runecrested Valley",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Scorch_DOA",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Sealed Riftway",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Sealer of Pacts",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Secret Thief",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Seek Perfection",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Seeker of Battle",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Seeker of Untouched Beauty",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Self Replication",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Sesilius, Chosen Speaker",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Planeswalker — Sesilius",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Siraj, Interplanar Thief",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — Siraj",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Slay the Unkillable",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Speedreading",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Supplanter of Realities",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Surmise Reality's Limits",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Swamp_DOA",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Sword of Tides and Time",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Telvim Explorer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Citizen",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Telvim Sculptor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Terraformer's Globe_DOA",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "The Clocktower Project",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "The Feller of Greatwoods",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Legendary Creature — Beast",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "The Lost Titan",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Legendary Creature — God",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Timeworn Crags",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Transplanted Citadel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Twisted Speaker",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Unexplored Regions",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Unified Theory",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Unite the Powergrid",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Unity Spheres",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Veil's Recovery",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Veilborn Hunter",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horror Shade",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Veilborn Meddler",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Horror Wizard",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Veilborn Stalker",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Veilcrossed Twins",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Horror",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Violent Collapse_DOA",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Vitin Blastgear",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Vitin Forgemaster",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Aetherborn Artificer",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Volta, Construct Consultant",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Planeswalker — Volta",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Warded Tome_DOA",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Watch Time Slip Away",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/DOA-files/img/52.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Acin, the Toymaker
+	2 Advanced Powercell
+	2 Alia, Bearer of Morning
+	2 Alia's Enforcer
+	2 Align the Astrolabe
+	2 Ambitious Necromancer
+	2 Ancient of the Glade_DOA
+	2 Arcane Chronometer
+	2 Arcane Metalcrafter
+	2 Artificer's Prowess
+	2 Artisan's Genius
+	2 Artisan of Brutality
+	2 Artistic Vision
+	2 Atychiphobia
+	2 Avid Researcher
+	2 Backwoods Cultivator
+	2 Banish Through the Veil
+	2 Beckon Darkness
+	2 Beckoner of Horrors
+	2 Benevolent Malach
+	2 Blessing of Morning
+	2 Bottled Lightning
+	2 Brilliant Academy
+	2 Brilliant Archives
+	2 Brilliant Capital
+	2 Brilliant Castle
+	2 Brilliant Citadel
+	2 Brilliant Cityscape
+	2 Brilliant Hub
+	2 Brilliant Mansion
+	2 Brilliant Port
+	2 Brilliant Workshop
+	2 Calamity Dragon
+	2 Careless Violence
+	2 Channeler of the Veil
+	2 City Gate
+	2 Citywide Automation
+	2 Claim for Civilization
+	2 Claimed by the Veil
+	2 Colossal Achievement
+	2 Consort of Morning
+	2 Corrupted Knowledge
+	2 Cosmic Chart
+	2 Crystallized Hope
+	2 Dawnwisp Vents
+	2 Dedicated Weaponsmith
+	2 Deliver from Dilapidation
+	2 Disable
+	2 Disassociate_DOA
+	2 Disqualify
+	2 Dovon, Verdant Experimenter
+	2 Duress_DOA
+	2 Eager Observer
+	2 Eleventh Hour Breakthrough
+	2 Embrace the Veil
+	2 Encampment Blimp
+	2 Endless Assembly
+	2 Enori Duelist
+	2 Extravagant Flair
+	2 Exuberant Inventor
+	2 Facsimile of Divinity
+	2 Fallback Plan
+	2 Fento, Nova Crusader
+	2 Final Symphony
+	2 Flamboyant Inventor
+	2 Flamecloaked Artisan
+	2 Flare Blitz
+	2 Forest Fellowship_DOA
+	2 Forgemaster's Charm
+	2 Formless Wanderer
+	2 Fractal Meditation
+	2 Frozen Moment
+	2 Gate to the Beyond
+	2 Gearcraft Observer
+	2 Gilded Gearhulk
+	2 Gilded Spyglass
+	2 Glimpse the Veil
+	2 Harmony Array
+	2 Herald of Might
+	2 Herald of Unity
+	2 Herald of Wisdom
+	2 Hub of Innovation
+	2 Hunt the Monstrous
+	2 Iken Company Nightwalker
+	2 Iken Troubleshooter
+	2 Imagination Unleashed
+	2 Imagine
+	2 Imitator of Drakes
+	2 Inevitable Future
+	2 Instant of Brilliance
+	2 Irika, Wielder of Secrets
+	2 Iron Signet_DOA
+	2 Iterative Designer
+	2 Jessica Turin, Battlemage
+	2 Junktrawler
+	2 Kati Evalin, World Wanderer
+	2 Kindly Greatwood
+	2 Legends Remembered_DOA
+	2 Lightblessed Claymore
+	2 Lockdown
+	2 Malicious Growth
+	2 Mana Rose
+	2 Manaflux Battery
+	2 Maniacal Elementalist
+	2 Marin Polgek, Academy Heiress
+	2 Martial Maestro
+	2 Mastery of the Veil
+	2 Matron of Machines
+	2 Meteor Harbinger
+	2 Mirrorcast Battlemage
+	2 Monstrous Hunter
+	2 Morning's Warden
+	2 Nebula of Empty Gold_DOA
+	2 Nina, Master of Arms
+	2 Novaheart Dragon
+	2 Observer of Secret Paths
+	2 Oldgrove Nurturer
+	2 Omegalomania
+	2 Open the Secret Paths
+	2 Perpetual Motion Machine
+	2 Petal-Weaver Alexa
+	2 Philosophy of Fire
+	2 Polgek Artisan
+	2 Polgek Restorationist
+	2 Polgek Songcrafter
+	2 Power From Beyond
+	2 Powercell Cultivator
+	2 Powercell Engineer
+	2 Primal Ruffian
+	2 Propagation Blade
+	2 Propagation Plant
+	2 Protector of the League
+	2 Purging Light
+	2 Pyromantic Expertise
+	2 Queen of Unclaimed Lands
+	2 Ravenous Hydra
+	2 Reality Rewoven
+	2 Reclamation Grovesculptor
+	2 Reclamation Sage_DOA
+	2 Reclusive Archmage
+	2 Reconsider_DOA
+	2 Reconstruct_DOA
+	2 Reinvent
+	2 Renewal Grove
+	2 Resonating Force
+	2 Riftway to the Other Side
+	2 Rilken Forcefield Keeper
+	2 Rilken Preserver
+	2 Runecrested Valley
+	2 Scorch_DOA
+	2 Sealed Riftway
+	2 Sealer of Pacts
+	2 Secret Thief
+	2 Seek Perfection
+	2 Seeker of Battle
+	2 Seeker of Untouched Beauty
+	2 Self Replication
+	2 Sesilius, Chosen Speaker
+	2 Siraj, Interplanar Thief
+	2 Slay the Unkillable
+	2 Speedreading
+	2 Supplanter of Realities
+	2 Surmise Reality's Limits
+	2 Sword of Tides and Time
+	2 Telvim Explorer
+	2 Telvim Sculptor
+	2 Terraformer's Globe_DOA
+	2 The Clocktower Project
+	2 The Feller of Greatwoods
+	2 The Lost Titan
+	2 Timeworn Crags
+	2 Transplanted Citadel
+	2 Twisted Speaker
+	2 Unexplored Regions
+	2 Unified Theory
+	2 Unite the Powergrid
+	2 Unity Spheres
+	2 Veil's Recovery
+	2 Veilborn Hunter
+	2 Veilborn Meddler
+	2 Veilborn Stalker
+	2 Veilcrossed Twins
+	2 Violent Collapse_DOA
+	2 Vitin Blastgear
+	2 Vitin Forgemaster
+	2 Volta, Construct Consultant
+	2 Warded Tome_DOA
+	2 Watch Time Slip Away
+[uncommon(3)]
+[common(7)]
+[foil(1)]
+	2 Acin, the Toymaker
+	2 Advanced Powercell
+	2 Alia, Bearer of Morning
+	2 Alia's Enforcer
+	2 Align the Astrolabe
+	2 Ambitious Necromancer
+	2 Ancient of the Glade_DOA
+	2 Arcane Chronometer
+	2 Arcane Metalcrafter
+	2 Artificer's Prowess
+	2 Artisan's Genius
+	2 Artisan of Brutality
+	2 Artistic Vision
+	2 Atychiphobia
+	2 Avid Researcher
+	2 Backwoods Cultivator
+	2 Banish Through the Veil
+	2 Beckon Darkness
+	2 Beckoner of Horrors
+	2 Benevolent Malach
+	2 Blessing of Morning
+	2 Bottled Lightning
+	2 Brilliant Academy
+	2 Brilliant Archives
+	2 Brilliant Capital
+	2 Brilliant Castle
+	2 Brilliant Citadel
+	2 Brilliant Cityscape
+	2 Brilliant Hub
+	2 Brilliant Mansion
+	2 Brilliant Port
+	2 Brilliant Workshop
+	2 Calamity Dragon
+	2 Careless Violence
+	2 Channeler of the Veil
+	2 City Gate
+	2 Citywide Automation
+	2 Claim for Civilization
+	2 Claimed by the Veil
+	2 Colossal Achievement
+	2 Consort of Morning
+	2 Corrupted Knowledge
+	2 Cosmic Chart
+	2 Crystallized Hope
+	2 Dawnwisp Vents
+	2 Dedicated Weaponsmith
+	2 Deliver from Dilapidation
+	2 Disable
+	2 Disassociate_DOA
+	2 Disqualify
+	2 Dovon, Verdant Experimenter
+	2 Duress_DOA
+	2 Eager Observer
+	2 Eleventh Hour Breakthrough
+	2 Embrace the Veil
+	2 Encampment Blimp
+	2 Endless Assembly
+	2 Enori Duelist
+	2 Extravagant Flair
+	2 Exuberant Inventor
+	2 Facsimile of Divinity
+	2 Fallback Plan
+	2 Fento, Nova Crusader
+	2 Final Symphony
+	2 Flamboyant Inventor
+	2 Flamecloaked Artisan
+	2 Flare Blitz
+	2 Forest Fellowship_DOA
+	2 Forgemaster's Charm
+	2 Formless Wanderer
+	2 Fractal Meditation
+	2 Frozen Moment
+	2 Gate to the Beyond
+	2 Gearcraft Observer
+	2 Gilded Gearhulk
+	2 Gilded Spyglass
+	2 Glimpse the Veil
+	2 Harmony Array
+	2 Herald of Might
+	2 Herald of Unity
+	2 Herald of Wisdom
+	2 Hub of Innovation
+	2 Hunt the Monstrous
+	2 Iken Company Nightwalker
+	2 Iken Troubleshooter
+	2 Imagination Unleashed
+	2 Imagine
+	2 Imitator of Drakes
+	2 Inevitable Future
+	2 Instant of Brilliance
+	2 Irika, Wielder of Secrets
+	2 Iron Signet_DOA
+	2 Iterative Designer
+	2 Jessica Turin, Battlemage
+	2 Junktrawler
+	2 Kati Evalin, World Wanderer
+	2 Kindly Greatwood
+	2 Legends Remembered_DOA
+	2 Lightblessed Claymore
+	2 Lockdown
+	2 Malicious Growth
+	2 Mana Rose
+	2 Manaflux Battery
+	2 Maniacal Elementalist
+	2 Marin Polgek, Academy Heiress
+	2 Martial Maestro
+	2 Mastery of the Veil
+	2 Matron of Machines
+	2 Meteor Harbinger
+	2 Mirrorcast Battlemage
+	2 Monstrous Hunter
+	2 Morning's Warden
+	2 Nebula of Empty Gold_DOA
+	2 Nina, Master of Arms
+	2 Novaheart Dragon
+	2 Observer of Secret Paths
+	2 Oldgrove Nurturer
+	2 Omegalomania
+	2 Open the Secret Paths
+	2 Perpetual Motion Machine
+	2 Petal-Weaver Alexa
+	2 Philosophy of Fire
+	2 Polgek Artisan
+	2 Polgek Restorationist
+	2 Polgek Songcrafter
+	2 Power From Beyond
+	2 Powercell Cultivator
+	2 Powercell Engineer
+	2 Primal Ruffian
+	2 Propagation Blade
+	2 Propagation Plant
+	2 Protector of the League
+	2 Purging Light
+	2 Pyromantic Expertise
+	2 Queen of Unclaimed Lands
+	2 Ravenous Hydra
+	2 Reality Rewoven
+	2 Reclamation Grovesculptor
+	2 Reclamation Sage_DOA
+	2 Reclusive Archmage
+	2 Reconsider_DOA
+	2 Reconstruct_DOA
+	2 Reinvent
+	2 Renewal Grove
+	2 Resonating Force
+	2 Riftway to the Other Side
+	2 Rilken Forcefield Keeper
+	2 Rilken Preserver
+	2 Runecrested Valley
+	2 Scorch_DOA
+	2 Sealed Riftway
+	2 Sealer of Pacts
+	2 Secret Thief
+	2 Seek Perfection
+	2 Seeker of Battle
+	2 Seeker of Untouched Beauty
+	2 Self Replication
+	2 Sesilius, Chosen Speaker
+	2 Siraj, Interplanar Thief
+	2 Slay the Unkillable
+	2 Speedreading
+	2 Supplanter of Realities
+	2 Surmise Reality's Limits
+	2 Sword of Tides and Time
+	2 Telvim Explorer
+	2 Telvim Sculptor
+	2 Terraformer's Globe_DOA
+	2 The Clocktower Project
+	2 The Feller of Greatwoods
+	2 The Lost Titan
+	2 Timeworn Crags
+	2 Transplanted Citadel
+	2 Twisted Speaker
+	2 Unexplored Regions
+	2 Unified Theory
+	2 Unite the Powergrid
+	2 Unity Spheres
+	2 Veil's Recovery
+	2 Veilborn Hunter
+	2 Veilborn Meddler
+	2 Veilborn Stalker
+	2 Veilcrossed Twins
+	2 Violent Collapse_DOA
+	2 Vitin Blastgear
+	2 Vitin Forgemaster
+	2 Volta, Construct Consultant
+	2 Warded Tome_DOA
+	2 Watch Time Slip Away
+[wildcard(1)]
+	7 Acin, the Toymaker
+	7 Advanced Powercell
+	7 Alia, Bearer of Morning
+	7 Alia's Enforcer
+	7 Align the Astrolabe
+	7 Ambitious Necromancer
+	7 Ancient of the Glade_DOA
+	7 Arcane Chronometer
+	7 Arcane Metalcrafter
+	7 Artificer's Prowess
+	7 Artisan's Genius
+	7 Artisan of Brutality
+	7 Artistic Vision
+	7 Atychiphobia
+	7 Avid Researcher
+	7 Backwoods Cultivator
+	7 Banish Through the Veil
+	7 Beckon Darkness
+	7 Beckoner of Horrors
+	7 Benevolent Malach
+	7 Blessing of Morning
+	7 Bottled Lightning
+	7 Brilliant Academy
+	7 Brilliant Archives
+	7 Brilliant Capital
+	7 Brilliant Castle
+	7 Brilliant Citadel
+	7 Brilliant Cityscape
+	7 Brilliant Hub
+	7 Brilliant Mansion
+	7 Brilliant Port
+	7 Brilliant Workshop
+	7 Calamity Dragon
+	7 Careless Violence
+	7 Channeler of the Veil
+	7 City Gate
+	7 Citywide Automation
+	7 Claim for Civilization
+	7 Claimed by the Veil
+	7 Colossal Achievement
+	7 Consort of Morning
+	7 Corrupted Knowledge
+	7 Cosmic Chart
+	7 Crystallized Hope
+	7 Dawnwisp Vents
+	7 Dedicated Weaponsmith
+	7 Deliver from Dilapidation
+	7 Disable
+	7 Disassociate_DOA
+	7 Disqualify
+	7 Dovon, Verdant Experimenter
+	7 Duress_DOA
+	7 Eager Observer
+	7 Eleventh Hour Breakthrough
+	7 Embrace the Veil
+	7 Encampment Blimp
+	7 Endless Assembly
+	7 Enori Duelist
+	7 Extravagant Flair
+	7 Exuberant Inventor
+	7 Facsimile of Divinity
+	7 Fallback Plan
+	7 Fento, Nova Crusader
+	7 Final Symphony
+	7 Flamboyant Inventor
+	7 Flamecloaked Artisan
+	7 Flare Blitz
+	7 Forest Fellowship_DOA
+	7 Forgemaster's Charm
+	7 Formless Wanderer
+	7 Fractal Meditation
+	7 Frozen Moment
+	7 Gate to the Beyond
+	7 Gearcraft Observer
+	7 Gilded Gearhulk
+	7 Gilded Spyglass
+	7 Glimpse the Veil
+	7 Harmony Array
+	7 Herald of Might
+	7 Herald of Unity
+	7 Herald of Wisdom
+	7 Hub of Innovation
+	7 Hunt the Monstrous
+	7 Iken Company Nightwalker
+	7 Iken Troubleshooter
+	7 Imagination Unleashed
+	7 Imagine
+	7 Imitator of Drakes
+	7 Inevitable Future
+	7 Instant of Brilliance
+	7 Irika, Wielder of Secrets
+	7 Iron Signet_DOA
+	7 Iterative Designer
+	7 Jessica Turin, Battlemage
+	7 Junktrawler
+	7 Kati Evalin, World Wanderer
+	7 Kindly Greatwood
+	7 Legends Remembered_DOA
+	7 Lightblessed Claymore
+	7 Lockdown
+	7 Malicious Growth
+	7 Mana Rose
+	7 Manaflux Battery
+	7 Maniacal Elementalist
+	7 Marin Polgek, Academy Heiress
+	7 Martial Maestro
+	7 Mastery of the Veil
+	7 Matron of Machines
+	7 Meteor Harbinger
+	7 Mirrorcast Battlemage
+	7 Monstrous Hunter
+	7 Morning's Warden
+	7 Nebula of Empty Gold_DOA
+	7 Nina, Master of Arms
+	7 Novaheart Dragon
+	7 Observer of Secret Paths
+	7 Oldgrove Nurturer
+	7 Omegalomania
+	7 Open the Secret Paths
+	7 Perpetual Motion Machine
+	7 Petal-Weaver Alexa
+	7 Philosophy of Fire
+	7 Polgek Artisan
+	7 Polgek Restorationist
+	7 Polgek Songcrafter
+	7 Power From Beyond
+	7 Powercell Cultivator
+	7 Powercell Engineer
+	7 Primal Ruffian
+	7 Propagation Blade
+	7 Propagation Plant
+	7 Protector of the League
+	7 Purging Light
+	7 Pyromantic Expertise
+	7 Queen of Unclaimed Lands
+	7 Ravenous Hydra
+	7 Reality Rewoven
+	7 Reclamation Grovesculptor
+	7 Reclamation Sage_DOA
+	7 Reclusive Archmage
+	7 Reconsider_DOA
+	7 Reconstruct_DOA
+	7 Reinvent
+	7 Renewal Grove
+	7 Resonating Force
+	7 Riftway to the Other Side
+	7 Rilken Forcefield Keeper
+	7 Rilken Preserver
+	7 Runecrested Valley
+	7 Scorch_DOA
+	7 Sealed Riftway
+	7 Sealer of Pacts
+	7 Secret Thief
+	7 Seek Perfection
+	7 Seeker of Battle
+	7 Seeker of Untouched Beauty
+	7 Self Replication
+	7 Sesilius, Chosen Speaker
+	7 Siraj, Interplanar Thief
+	7 Slay the Unkillable
+	7 Speedreading
+	7 Supplanter of Realities
+	7 Surmise Reality's Limits
+	7 Sword of Tides and Time
+	7 Telvim Explorer
+	7 Telvim Sculptor
+	7 Terraformer's Globe_DOA
+	7 The Clocktower Project
+	7 The Feller of Greatwoods
+	7 The Lost Titan
+	7 Timeworn Crags
+	7 Transplanted Citadel
+	7 Twisted Speaker
+	7 Unexplored Regions
+	7 Unified Theory
+	7 Unite the Powergrid
+	7 Unity Spheres
+	7 Veil's Recovery
+	7 Veilborn Hunter
+	7 Veilborn Meddler
+	7 Veilborn Stalker
+	7 Veilcrossed Twins
+	7 Violent Collapse_DOA
+	7 Vitin Blastgear
+	7 Vitin Forgemaster
+	7 Volta, Construct Consultant
+	7 Warded Tome_DOA
+	7 Watch Time Slip Away

@@ -1,0 +1,3634 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Adorned Lookout",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Afterlife Augur",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Minion",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "All the Stars are Mine",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "An Unlikely Peace",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Approaching Greatness",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Arcane Apprentice",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Arcane Cauldron",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Arcet, Life's Bane",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Legendary Creature — Elder Skeleton Wizard",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Arcet's Scheming",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Arisen Hero",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Arisen Pyromancer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Assemble the Mob",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Augur of Gnarled Roots",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Bearer of Autumn",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Bind in Silence",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Binding Whisper",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Blasphemous Bonecaller",
+			"rarity": "common",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Blight the Mind",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Blood for Bones_BLR",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Bloodfrenzied Vanguard",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Bloody Business_BLR",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Brilliant Mandate",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Bulvem Wardcleanser",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Cleric Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Burning Roots",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Burning Wisdom",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Call of the Crypt",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Captivating Dreams",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Causality Reversal",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Cerys, Heart of Klemnae",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Clutch of the Web",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Collector of the Lost",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Conjure Forth",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Courtless Spiritcaller",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Druid",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Cyclical Symmetry",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Dabbling Dangerously",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Deadwood Cult",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Decipher the Runes",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Defected Reaper",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Zombie Demon",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Destiny of Undeath",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Determined Maneuver",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Dissolve Memory's Hold",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Dormant Altar",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Dormant Bay",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Dormant Cavern",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Dormant Clearing",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Dormant Copse",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Dormant Crag",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Dormant Moorland",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Dormant Peak",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Dormant Stream",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Dormant Temple",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Dreadknight Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Dreadlich Codex",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Drift Off",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Drudge Dredger",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Elixir of Immortality_BLR",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Ella, Rose Court Queen_BLR",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Vampire Wizard",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Ella's Agent",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Eltensian Herbalist",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Eltensian Hospitality",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Elvish Rejuvenator",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Elvish Visionary",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Emberwalker",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental Elk",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Embrace Hopelessness",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Enigmatic Mentor",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Envoy of the Unknown",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Ethereal Grace",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{W}",
+			"type": "Instant",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Familial Roots",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Famished Sovereign",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Noble",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Fervent Necromancer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Firewood Feller",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Flesh Offered to the Dead",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Fleshless Assailant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Knight",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Forbidden Throne",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Force of the Tugae",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Forceful Negotiations",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Forest_BLR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Forgotten",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Forestlord",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elemental",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Longsword",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Fragment of Fidelity",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Fredrick “The Hammer” Lysus",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Gift of Deadwoods",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Gilded Court",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Gilded Reaper",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Glimpse of Something Great",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Gravefire Arcanist",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Gravelit Meditation",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Gravepact Wisdom",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Graverot Soothsayer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Grovelit Meditation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Guardian of the Lost",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Guardian of the Tugae",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Guiding Torch",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Harrow_BLR",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Haunted Clearing",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Hear Destiny's Whims",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Heroic Vanguard",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Hieronymus Scratch",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}{G}",
+			"type": "Legendary Planeswalker — Scratch",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Hunted Down",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Ichor Connoisseur",
+			"rarity": "common",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Vampire Soldier",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Ignite Flesh",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Ikel, Revered Lichlord",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Zombie Wizard",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Ikel's Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Ikel's Legacy",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Immaculate Mandate",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Impetuous Underling",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Impromptu Warband",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "In Search of Peace",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Incendiary Flow_BLR",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Insight Insignia",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Island_BLR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Judgment of Undeath",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Keening Belltower",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Keeper of Death's Mysteries",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Skeleton Wizard",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Keeper of Starlight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Klemnae Rescuer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Klemnae Stalwart",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Kywon, Nostalgic Visionary",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Zombie Wizard",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Kywon's Breathtaker",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Kywon's Progeny",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Kywon's Skyhunter",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Leafshroud Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Learning Fiendishly",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Left to Rust",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Legends Remembered_BLR",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Lich's Apprentice",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Lichbane Ambusher",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Lichbane Battlecaster",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior Shaman",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Lichbane Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Lichbane Forerunner",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Lichbane Gatecrasher",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Lichbane Veteran",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Lichbane Wardwielder",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Cleric Rogue",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Lichbound Arsonist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Lichlord's Blade",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Living Replica",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Lost Doorway",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Lucille, Ruthless Warlord",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Zombie Wizard",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Lucille's Conquest",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Lucille's Edge",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Lumbering Foeslayer",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{R}",
+			"type": "Creature — Zombie Berserker",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Lunar Call",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Majesty of Undeath",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Malefic Whisper",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Manira the Wayward",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Planeswalker — Manira",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Master the Old Ways",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Matron of Lost Glades",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Midnight Ride",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Mindblight Connoisseur",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Mindbreak Arcanist",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Moonlit Meditation",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Mountain_BLR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Nascent Reaper",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Natural Majesty",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Instant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Nature's March",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Necrotic Savant",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "New Divide_BLR",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Old Ways Advocate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Perilous Sojourn_BLR",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Persistent Deadwood",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Elemental",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Persuasive Exorcist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Plains_BLR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Poet of Glory",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Possibility Slips Away",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Primal Pathbreaker",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Primordial of Emila Glade",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Pristine Pyre",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Prototypical Broodwing",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Pureheart Cavalier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Ravenous Lich",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Ravenous Whisper",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Razelit Meditation",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Read the Stars",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Reapers Called to Harvest",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Rebel Arcanist",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Rebuff",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Reclaimed by Nature_BLR",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Refuse to Fall",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Reinstated Reaper",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Relentless Whisper",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Reliquary Haunt",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Renegade Apprentice",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Restless Sylph",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Restless Wanderer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Restless Woods",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Revenant of Winter",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Revolution's Juggernaut",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Revolutionary Recruiter",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Rose Court Ambitions",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Rose Court Bloodletter",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Rose Court Champion",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Rose Court Claymore",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Rose Court Favored",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Vampire Wizard",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Rose Court Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Vampire Wizard",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Rose Court Supplicant",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Rot Begets Rot",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Safe and Sound",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Scarred Primeval",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Scion of the Wildcourt",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Scratch's Horseman",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elemental Knight",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Scribe of Lost Texts",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Secretkeeper of the Dead",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Skeleton Wizard",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Shepherd of Sleeping Dead",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Shepherd of Wanderers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Shroud in Stars_BLR",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Silence of the Drowned",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Slayer's Determination",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Solemn Graveyard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Sparring Partner",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Spirit's Grasp",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Spiritform",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Splinter Soul",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Stalwart Grovekeepers",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Starblessed Trance",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Starcrossed Arcana",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Starfouled Arcanist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Horror Wizard",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Starfouled Cervid",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Creature — Elk Horror",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Starfouled Custodian",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Creature — Horror",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Starfouled Hunter",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Starfouled Scion",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Creature — Horror",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Starseeker",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Startouched Deadwood",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Elemental Horror",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Stellar Mandate",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Strength from Suffering",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Stygian Mandate",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Succumb to History",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Survival of the Slayers",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Swamp_BLR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Sword of Rage and Tranquility",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Sylph of the Tugae",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Take to the Floor",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Taken by the Tugae",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Temporal Assassination",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Tempting Song",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "The Herald of the Wildcourt",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "The Whisper of Eltensia",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Toil in Strife",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Torrent of Wind_BLR",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Tugae Corpsemaker",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Elemental Rogue",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Tugae Deathspinner",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Tugae Rallier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Twilight Ambush_BLR",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Twincall Chant",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Twincast Disciple",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Twisted Deadwood",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Unbreathing Surveyor",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Zombie Scout",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Unburden the Mind",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Uncertainty of Fate",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Unending Chant",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Unknowable Starspawn",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Creature — Horror",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Unrivaled Slayer",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Vanguard Commander",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Vanity Haunt",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit Reflection",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Vengeful Whisper",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Verdant Mandate",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Vessel of the Wild",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Elemental",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Vibrant Vengeance",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Vile Arcanist",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Skeleton Wizard",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Voracious Apprentice",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Waker of Slumbering Titans",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Waking Bog",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Waking Boneyard",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Waking Crag",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Waking Glen",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Waking Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Whisper of the Dead",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Whisperlit Meditation",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Whispers from Below",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Wick of the Third Rite",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Wild Huntsman",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Wildcourt Cavalier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elemental Knight",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Wildcourt Conserver",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Wildcourt Seeker",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Wildcourt Wishgiver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Wildkin Imposter",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental Shapeshifter",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Winding Way",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Wipe the World Clean",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Xirix, Chronic Mercenary",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Legendary Planeswalker — Xirix",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Zombie Plague",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/BLR-files/img/127.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 All the Stars are Mine
+	2 Approaching Greatness
+	2 Arcane Cauldron
+	1 Arcet, Life's Bane
+	2 Arcet's Scheming
+	1 Bind in Silence
+	2 Bloodfrenzied Vanguard
+	2 Brilliant Mandate
+	2 Burning Roots
+	2 Burning Wisdom
+	1 Captivating Dreams
+	1 Cerys, Heart of Klemnae
+	1 Cyclical Symmetry
+	2 Dabbling Dangerously
+	1 Destiny of Undeath
+	1 Ella, Rose Court Queen_BLR
+	2 Ella's Agent
+	1 Eltensian Hospitality
+	2 Emberwalker
+	2 Enigmatic Mentor
+	2 Ethereal Grace
+	2 Familial Roots
+	2 Flesh Offered to the Dead
+	1 Force of the Tugae
+	2 Fragment of Fidelity
+	2 Fredrick “The Hammer” Lysus
+	2 Gilded Court
+	2 Gilded Reaper
+	1 Glimpse of Something Great
+	2 Gravefire Arcanist
+	1 Hieronymus Scratch
+	1 Ikel, Revered Lichlord
+	2 Ikel's Legacy
+	2 Immaculate Mandate
+	2 In Search of Peace
+	2 Keening Belltower
+	2 Keeper of Death's Mysteries
+	1 Kywon, Nostalgic Visionary
+	2 Kywon's Progeny
+	2 Lichbane Forerunner
+	2 Lichbane Wardwielder
+	2 Lichlord's Blade
+	1 Lucille, Ruthless Warlord
+	2 Lucille's Conquest
+	2 Lucille's Edge
+	2 Lumbering Foeslayer
+	1 Manira the Wayward
+	2 Mindbreak Arcanist
+	2 Natural Majesty
+	2 Necrotic Savant
+	2 Persistent Deadwood
+	2 Poet of Glory
+	2 Possibility Slips Away
+	2 Primordial of Emila Glade
+	2 Reinstated Reaper
+	2 Restless Sylph
+	2 Restless Woods
+	2 Revolutionary Recruiter
+	2 Rose Court Champion
+	2 Safe and Sound
+	2 Scion of the Wildcourt
+	1 Scratch's Horseman
+	2 Starblessed Trance
+	2 Starfouled Cervid
+	2 Startouched Deadwood
+	2 Stellar Mandate
+	2 Stygian Mandate
+	1 Sword of Rage and Tranquility
+	2 Temporal Assassination
+	2 The Herald of the Wildcourt
+	1 The Whisper of Eltensia
+	2 Tugae Corpsemaker
+	2 Tugae Deathspinner
+	2 Unending Chant
+	2 Unknowable Starspawn
+	2 Unrivaled Slayer
+	2 Vengeful Whisper
+	2 Verdant Mandate
+	2 Vibrant Vengeance
+	2 Waking Bog
+	2 Waking Boneyard
+	2 Waking Crag
+	2 Waking Glen
+	2 Waking Vista
+	2 Whispers from Below
+	2 Wildcourt Seeker
+	2 Wildkin Imposter
+	2 Wipe the World Clean
+	1 Xirix, Chronic Mercenary
+[uncommon(3)]
+	4 Adorned Lookout
+	4 Afterlife Augur
+	4 An Unlikely Peace
+	4 Arisen Hero
+	4 Assemble the Mob
+	4 Augur of Gnarled Roots
+	4 Blood for Bones_BLR
+	4 Call of the Crypt
+	4 Collector of the Lost
+	4 Deadwood Cult
+	4 Defected Reaper
+	4 Dissolve Memory's Hold
+	4 Dormant Altar
+	4 Dormant Bay
+	4 Dormant Cavern
+	4 Dormant Clearing
+	4 Dormant Copse
+	4 Dormant Crag
+	4 Dormant Moorland
+	4 Dormant Peak
+	4 Dormant Stream
+	4 Dormant Temple
+	4 Dreadknight Duelist
+	4 Dreadlich Codex
+	4 Drift Off
+	4 Elixir of Immortality_BLR
+	4 Firewood Feller
+	4 Fleshless Assailant
+	4 Forceful Negotiations
+	4 Gift of Deadwoods
+	4 Gravepact Wisdom
+	4 Guardian of the Lost
+	4 Harrow_BLR
+	4 Ignite Flesh
+	4 Ikel's Enforcer
+	4 Impetuous Underling
+	4 Insight Insignia
+	4 Keeper of Starlight
+	4 Leafshroud Hunter
+	4 Learning Fiendishly
+	4 Legends Remembered_BLR
+	4 Lich's Apprentice
+	4 Lichbane Captain
+	4 Lichbane Veteran
+	4 Lichbound Arsonist
+	4 Living Replica
+	4 Lost Doorway
+	4 Lunar Call
+	4 Majesty of Undeath
+	4 Master the Old Ways
+	4 Old Ways Advocate
+	4 Persuasive Exorcist
+	4 Primal Pathbreaker
+	4 Prototypical Broodwing
+	4 Read the Stars
+	4 Rebuff
+	4 Refuse to Fall
+	4 Reliquary Haunt
+	4 Rose Court Ambitions
+	4 Rose Court Favored
+	4 Rose Court Mentor
+	4 Secretkeeper of the Dead
+	4 Shepherd of Sleeping Dead
+	4 Shepherd of Wanderers
+	4 Slayer's Determination
+	4 Solemn Graveyard
+	4 Sparring Partner
+	4 Spirit's Grasp
+	4 Starcrossed Arcana
+	4 Starfouled Arcanist
+	4 Starfouled Scion
+	4 Strength from Suffering
+	4 Succumb to History
+	4 Toil in Strife
+	4 Torrent of Wind_BLR
+	4 Tugae Rallier
+	4 Twincast Disciple
+	4 Vanguard Commander
+	4 Vanity Haunt
+	4 Waker of Slumbering Titans
+	4 Whisper of the Dead
+	4 Wild Huntsman
+	4 Wildcourt Cavalier
+	4 Wildcourt Wishgiver
+	4 Zombie Plague
+[common(7)]
+	8 Arcane Apprentice
+	8 Arisen Pyromancer
+	8 Bearer of Autumn
+	8 Binding Whisper
+	8 Blasphemous Bonecaller
+	8 Blight the Mind
+	8 Bloody Business_BLR
+	8 Bulvem Wardcleanser
+	8 Causality Reversal
+	8 Clutch of the Web
+	8 Conjure Forth
+	8 Courtless Spiritcaller
+	8 Decipher the Runes
+	8 Determined Maneuver
+	8 Drudge Dredger
+	8 Eltensian Herbalist
+	8 Elvish Rejuvenator
+	8 Elvish Visionary
+	8 Embrace Hopelessness
+	8 Envoy of the Unknown
+	8 Famished Sovereign
+	8 Fervent Necromancer
+	8 Forbidden Throne
+	8 Forgotten
+	8 Forgotten Forestlord
+	8 Forgotten Longsword
+	8 Gravelit Meditation
+	8 Graverot Soothsayer
+	8 Grovelit Meditation
+	8 Guardian of the Tugae
+	8 Guiding Torch
+	8 Haunted Clearing
+	8 Hear Destiny's Whims
+	8 Heroic Vanguard
+	8 Hunted Down
+	8 Ichor Connoisseur
+	8 Impromptu Warband
+	8 Incendiary Flow_BLR
+	8 Judgment of Undeath
+	8 Klemnae Rescuer
+	8 Klemnae Stalwart
+	8 Kywon's Breathtaker
+	8 Kywon's Skyhunter
+	8 Left to Rust
+	8 Lichbane Ambusher
+	8 Lichbane Battlecaster
+	8 Lichbane Gatecrasher
+	8 Malefic Whisper
+	8 Matron of Lost Glades
+	8 Midnight Ride
+	8 Mindblight Connoisseur
+	8 Moonlit Meditation
+	8 Nascent Reaper
+	8 Nature's March
+	8 New Divide_BLR
+	8 Perilous Sojourn_BLR
+	8 Pristine Pyre
+	8 Pureheart Cavalier
+	8 Ravenous Lich
+	8 Ravenous Whisper
+	8 Razelit Meditation
+	8 Reapers Called to Harvest
+	8 Rebel Arcanist
+	8 Reclaimed by Nature_BLR
+	8 Relentless Whisper
+	8 Renegade Apprentice
+	8 Restless Wanderer
+	8 Revenant of Winter
+	8 Revolution's Juggernaut
+	8 Rose Court Bloodletter
+	8 Rose Court Claymore
+	8 Rose Court Supplicant
+	8 Rot Begets Rot
+	8 Scarred Primeval
+	8 Scribe of Lost Texts
+	8 Shroud in Stars_BLR
+	8 Silence of the Drowned
+	8 Spiritform
+	8 Splinter Soul
+	8 Stalwart Grovekeepers
+	8 Starfouled Custodian
+	8 Starfouled Hunter
+	8 Starseeker
+	8 Survival of the Slayers
+	8 Sylph of the Tugae
+	8 Take to the Floor
+	8 Taken by the Tugae
+	8 Tempting Song
+	8 Twilight Ambush_BLR
+	8 Twincall Chant
+	8 Twisted Deadwood
+	8 Unbreathing Surveyor
+	8 Unburden the Mind
+	8 Uncertainty of Fate
+	8 Vessel of the Wild
+	8 Vile Arcanist
+	8 Voracious Apprentice
+	8 Whisperlit Meditation
+	8 Wick of the Third Rite
+	8 Wildcourt Conserver
+	8 Winding Way
+[foil(1)]
+	6 Adorned Lookout
+	6 Afterlife Augur
+	1 All the Stars are Mine
+	6 An Unlikely Peace
+	2 Approaching Greatness
+	12 Arcane Apprentice
+	2 Arcane Cauldron
+	1 Arcet, Life's Bane
+	2 Arcet's Scheming
+	6 Arisen Hero
+	12 Arisen Pyromancer
+	6 Assemble the Mob
+	6 Augur of Gnarled Roots
+	12 Bearer of Autumn
+	1 Bind in Silence
+	12 Binding Whisper
+	12 Blasphemous Bonecaller
+	12 Blight the Mind
+	6 Blood for Bones_BLR
+	2 Bloodfrenzied Vanguard
+	12 Bloody Business_BLR
+	2 Brilliant Mandate
+	12 Bulvem Wardcleanser
+	2 Burning Roots
+	2 Burning Wisdom
+	6 Call of the Crypt
+	1 Captivating Dreams
+	12 Causality Reversal
+	1 Cerys, Heart of Klemnae
+	12 Clutch of the Web
+	6 Collector of the Lost
+	12 Conjure Forth
+	12 Courtless Spiritcaller
+	1 Cyclical Symmetry
+	2 Dabbling Dangerously
+	6 Deadwood Cult
+	12 Decipher the Runes
+	6 Defected Reaper
+	1 Destiny of Undeath
+	12 Determined Maneuver
+	6 Dissolve Memory's Hold
+	6 Dormant Altar
+	6 Dormant Bay
+	6 Dormant Cavern
+	6 Dormant Clearing
+	6 Dormant Copse
+	6 Dormant Crag
+	6 Dormant Moorland
+	6 Dormant Peak
+	6 Dormant Stream
+	6 Dormant Temple
+	6 Dreadknight Duelist
+	6 Dreadlich Codex
+	6 Drift Off
+	12 Drudge Dredger
+	6 Elixir of Immortality_BLR
+	1 Ella, Rose Court Queen_BLR
+	2 Ella's Agent
+	12 Eltensian Herbalist
+	1 Eltensian Hospitality
+	12 Elvish Rejuvenator
+	12 Elvish Visionary
+	2 Emberwalker
+	12 Embrace Hopelessness
+	2 Enigmatic Mentor
+	12 Envoy of the Unknown
+	2 Ethereal Grace
+	2 Familial Roots
+	12 Famished Sovereign
+	12 Fervent Necromancer
+	6 Firewood Feller
+	2 Flesh Offered to the Dead
+	6 Fleshless Assailant
+	12 Forbidden Throne
+	1 Force of the Tugae
+	6 Forceful Negotiations
+	12 Forgotten
+	12 Forgotten Forestlord
+	12 Forgotten Longsword
+	2 Fragment of Fidelity
+	2 Fredrick “The Hammer” Lysus
+	6 Gift of Deadwoods
+	2 Gilded Court
+	2 Gilded Reaper
+	1 Glimpse of Something Great
+	2 Gravefire Arcanist
+	12 Gravelit Meditation
+	6 Gravepact Wisdom
+	12 Graverot Soothsayer
+	12 Grovelit Meditation
+	6 Guardian of the Lost
+	12 Guardian of the Tugae
+	12 Guiding Torch
+	6 Harrow_BLR
+	12 Haunted Clearing
+	12 Hear Destiny's Whims
+	12 Heroic Vanguard
+	1 Hieronymus Scratch
+	12 Hunted Down
+	12 Ichor Connoisseur
+	6 Ignite Flesh
+	1 Ikel, Revered Lichlord
+	6 Ikel's Enforcer
+	2 Ikel's Legacy
+	2 Immaculate Mandate
+	6 Impetuous Underling
+	12 Impromptu Warband
+	2 In Search of Peace
+	12 Incendiary Flow_BLR
+	6 Insight Insignia
+	12 Judgment of Undeath
+	2 Keening Belltower
+	2 Keeper of Death's Mysteries
+	6 Keeper of Starlight
+	12 Klemnae Rescuer
+	12 Klemnae Stalwart
+	1 Kywon, Nostalgic Visionary
+	12 Kywon's Breathtaker
+	2 Kywon's Progeny
+	12 Kywon's Skyhunter
+	6 Leafshroud Hunter
+	6 Learning Fiendishly
+	12 Left to Rust
+	6 Legends Remembered_BLR
+	6 Lich's Apprentice
+	12 Lichbane Ambusher
+	12 Lichbane Battlecaster
+	6 Lichbane Captain
+	2 Lichbane Forerunner
+	12 Lichbane Gatecrasher
+	6 Lichbane Veteran
+	2 Lichbane Wardwielder
+	6 Lichbound Arsonist
+	2 Lichlord's Blade
+	6 Living Replica
+	6 Lost Doorway
+	1 Lucille, Ruthless Warlord
+	2 Lucille's Conquest
+	2 Lucille's Edge
+	2 Lumbering Foeslayer
+	6 Lunar Call
+	6 Majesty of Undeath
+	12 Malefic Whisper
+	1 Manira the Wayward
+	6 Master the Old Ways
+	12 Matron of Lost Glades
+	12 Midnight Ride
+	12 Mindblight Connoisseur
+	2 Mindbreak Arcanist
+	12 Moonlit Meditation
+	12 Nascent Reaper
+	2 Natural Majesty
+	12 Nature's March
+	2 Necrotic Savant
+	12 New Divide_BLR
+	6 Old Ways Advocate
+	12 Perilous Sojourn_BLR
+	2 Persistent Deadwood
+	6 Persuasive Exorcist
+	2 Poet of Glory
+	2 Possibility Slips Away
+	6 Primal Pathbreaker
+	2 Primordial of Emila Glade
+	12 Pristine Pyre
+	6 Prototypical Broodwing
+	12 Pureheart Cavalier
+	12 Ravenous Lich
+	12 Ravenous Whisper
+	12 Razelit Meditation
+	6 Read the Stars
+	12 Reapers Called to Harvest
+	12 Rebel Arcanist
+	6 Rebuff
+	12 Reclaimed by Nature_BLR
+	6 Refuse to Fall
+	2 Reinstated Reaper
+	12 Relentless Whisper
+	6 Reliquary Haunt
+	12 Renegade Apprentice
+	2 Restless Sylph
+	12 Restless Wanderer
+	2 Restless Woods
+	12 Revenant of Winter
+	12 Revolution's Juggernaut
+	2 Revolutionary Recruiter
+	6 Rose Court Ambitions
+	12 Rose Court Bloodletter
+	2 Rose Court Champion
+	12 Rose Court Claymore
+	6 Rose Court Favored
+	6 Rose Court Mentor
+	12 Rose Court Supplicant
+	12 Rot Begets Rot
+	2 Safe and Sound
+	12 Scarred Primeval
+	2 Scion of the Wildcourt
+	1 Scratch's Horseman
+	12 Scribe of Lost Texts
+	6 Secretkeeper of the Dead
+	6 Shepherd of Sleeping Dead
+	6 Shepherd of Wanderers
+	12 Shroud in Stars_BLR
+	12 Silence of the Drowned
+	6 Slayer's Determination
+	6 Solemn Graveyard
+	6 Sparring Partner
+	6 Spirit's Grasp
+	12 Spiritform
+	12 Splinter Soul
+	12 Stalwart Grovekeepers
+	2 Starblessed Trance
+	6 Starcrossed Arcana
+	6 Starfouled Arcanist
+	2 Starfouled Cervid
+	12 Starfouled Custodian
+	12 Starfouled Hunter
+	6 Starfouled Scion
+	12 Starseeker
+	2 Startouched Deadwood
+	2 Stellar Mandate
+	6 Strength from Suffering
+	2 Stygian Mandate
+	6 Succumb to History
+	12 Survival of the Slayers
+	1 Sword of Rage and Tranquility
+	12 Sylph of the Tugae
+	12 Take to the Floor
+	12 Taken by the Tugae
+	2 Temporal Assassination
+	12 Tempting Song
+	2 The Herald of the Wildcourt
+	1 The Whisper of Eltensia
+	6 Toil in Strife
+	6 Torrent of Wind_BLR
+	2 Tugae Corpsemaker
+	2 Tugae Deathspinner
+	6 Tugae Rallier
+	12 Twilight Ambush_BLR
+	12 Twincall Chant
+	6 Twincast Disciple
+	12 Twisted Deadwood
+	12 Unbreathing Surveyor
+	12 Unburden the Mind
+	12 Uncertainty of Fate
+	2 Unending Chant
+	2 Unknowable Starspawn
+	2 Unrivaled Slayer
+	6 Vanguard Commander
+	6 Vanity Haunt
+	2 Vengeful Whisper
+	2 Verdant Mandate
+	12 Vessel of the Wild
+	2 Vibrant Vengeance
+	12 Vile Arcanist
+	12 Voracious Apprentice
+	6 Waker of Slumbering Titans
+	2 Waking Bog
+	2 Waking Boneyard
+	2 Waking Crag
+	2 Waking Glen
+	2 Waking Vista
+	6 Whisper of the Dead
+	12 Whisperlit Meditation
+	2 Whispers from Below
+	12 Wick of the Third Rite
+	6 Wild Huntsman
+	6 Wildcourt Cavalier
+	12 Wildcourt Conserver
+	2 Wildcourt Seeker
+	6 Wildcourt Wishgiver
+	2 Wildkin Imposter
+	12 Winding Way
+	2 Wipe the World Clean
+	1 Xirix, Chronic Mercenary
+	6 Zombie Plague
+[wildcard(1)]
+	15 Adorned Lookout
+	15 Afterlife Augur
+	4 All the Stars are Mine
+	15 An Unlikely Peace
+	7 Approaching Greatness
+	6 Arcane Apprentice
+	7 Arcane Cauldron
+	4 Arcet, Life's Bane
+	7 Arcet's Scheming
+	15 Arisen Hero
+	6 Arisen Pyromancer
+	15 Assemble the Mob
+	15 Augur of Gnarled Roots
+	6 Bearer of Autumn
+	4 Bind in Silence
+	6 Binding Whisper
+	6 Blasphemous Bonecaller
+	6 Blight the Mind
+	15 Blood for Bones_BLR
+	7 Bloodfrenzied Vanguard
+	6 Bloody Business_BLR
+	7 Brilliant Mandate
+	6 Bulvem Wardcleanser
+	7 Burning Roots
+	7 Burning Wisdom
+	15 Call of the Crypt
+	4 Captivating Dreams
+	6 Causality Reversal
+	4 Cerys, Heart of Klemnae
+	6 Clutch of the Web
+	15 Collector of the Lost
+	6 Conjure Forth
+	6 Courtless Spiritcaller
+	4 Cyclical Symmetry
+	7 Dabbling Dangerously
+	15 Deadwood Cult
+	6 Decipher the Runes
+	15 Defected Reaper
+	4 Destiny of Undeath
+	6 Determined Maneuver
+	15 Dissolve Memory's Hold
+	15 Dormant Altar
+	15 Dormant Bay
+	15 Dormant Cavern
+	15 Dormant Clearing
+	15 Dormant Copse
+	15 Dormant Crag
+	15 Dormant Moorland
+	15 Dormant Peak
+	15 Dormant Stream
+	15 Dormant Temple
+	15 Dreadknight Duelist
+	15 Dreadlich Codex
+	15 Drift Off
+	6 Drudge Dredger
+	15 Elixir of Immortality_BLR
+	4 Ella, Rose Court Queen_BLR
+	7 Ella's Agent
+	6 Eltensian Herbalist
+	4 Eltensian Hospitality
+	6 Elvish Rejuvenator
+	6 Elvish Visionary
+	7 Emberwalker
+	6 Embrace Hopelessness
+	7 Enigmatic Mentor
+	6 Envoy of the Unknown
+	7 Ethereal Grace
+	7 Familial Roots
+	6 Famished Sovereign
+	6 Fervent Necromancer
+	15 Firewood Feller
+	7 Flesh Offered to the Dead
+	15 Fleshless Assailant
+	6 Forbidden Throne
+	4 Force of the Tugae
+	15 Forceful Negotiations
+	6 Forgotten
+	6 Forgotten Forestlord
+	6 Forgotten Longsword
+	7 Fragment of Fidelity
+	7 Fredrick “The Hammer” Lysus
+	15 Gift of Deadwoods
+	7 Gilded Court
+	7 Gilded Reaper
+	4 Glimpse of Something Great
+	7 Gravefire Arcanist
+	6 Gravelit Meditation
+	15 Gravepact Wisdom
+	6 Graverot Soothsayer
+	6 Grovelit Meditation
+	15 Guardian of the Lost
+	6 Guardian of the Tugae
+	6 Guiding Torch
+	15 Harrow_BLR
+	6 Haunted Clearing
+	6 Hear Destiny's Whims
+	6 Heroic Vanguard
+	4 Hieronymus Scratch
+	6 Hunted Down
+	6 Ichor Connoisseur
+	15 Ignite Flesh
+	4 Ikel, Revered Lichlord
+	15 Ikel's Enforcer
+	7 Ikel's Legacy
+	7 Immaculate Mandate
+	15 Impetuous Underling
+	6 Impromptu Warband
+	7 In Search of Peace
+	6 Incendiary Flow_BLR
+	15 Insight Insignia
+	6 Judgment of Undeath
+	7 Keening Belltower
+	7 Keeper of Death's Mysteries
+	15 Keeper of Starlight
+	6 Klemnae Rescuer
+	6 Klemnae Stalwart
+	4 Kywon, Nostalgic Visionary
+	6 Kywon's Breathtaker
+	7 Kywon's Progeny
+	6 Kywon's Skyhunter
+	15 Leafshroud Hunter
+	15 Learning Fiendishly
+	6 Left to Rust
+	15 Legends Remembered_BLR
+	15 Lich's Apprentice
+	6 Lichbane Ambusher
+	6 Lichbane Battlecaster
+	15 Lichbane Captain
+	7 Lichbane Forerunner
+	6 Lichbane Gatecrasher
+	15 Lichbane Veteran
+	7 Lichbane Wardwielder
+	15 Lichbound Arsonist
+	7 Lichlord's Blade
+	15 Living Replica
+	15 Lost Doorway
+	4 Lucille, Ruthless Warlord
+	7 Lucille's Conquest
+	7 Lucille's Edge
+	7 Lumbering Foeslayer
+	15 Lunar Call
+	15 Majesty of Undeath
+	6 Malefic Whisper
+	4 Manira the Wayward
+	15 Master the Old Ways
+	6 Matron of Lost Glades
+	6 Midnight Ride
+	6 Mindblight Connoisseur
+	7 Mindbreak Arcanist
+	6 Moonlit Meditation
+	6 Nascent Reaper
+	7 Natural Majesty
+	6 Nature's March
+	7 Necrotic Savant
+	6 New Divide_BLR
+	15 Old Ways Advocate
+	6 Perilous Sojourn_BLR
+	7 Persistent Deadwood
+	15 Persuasive Exorcist
+	7 Poet of Glory
+	7 Possibility Slips Away
+	15 Primal Pathbreaker
+	7 Primordial of Emila Glade
+	6 Pristine Pyre
+	15 Prototypical Broodwing
+	6 Pureheart Cavalier
+	6 Ravenous Lich
+	6 Ravenous Whisper
+	6 Razelit Meditation
+	15 Read the Stars
+	6 Reapers Called to Harvest
+	6 Rebel Arcanist
+	15 Rebuff
+	6 Reclaimed by Nature_BLR
+	15 Refuse to Fall
+	7 Reinstated Reaper
+	6 Relentless Whisper
+	15 Reliquary Haunt
+	6 Renegade Apprentice
+	7 Restless Sylph
+	6 Restless Wanderer
+	7 Restless Woods
+	6 Revenant of Winter
+	6 Revolution's Juggernaut
+	7 Revolutionary Recruiter
+	15 Rose Court Ambitions
+	6 Rose Court Bloodletter
+	7 Rose Court Champion
+	6 Rose Court Claymore
+	15 Rose Court Favored
+	15 Rose Court Mentor
+	6 Rose Court Supplicant
+	6 Rot Begets Rot
+	7 Safe and Sound
+	6 Scarred Primeval
+	7 Scion of the Wildcourt
+	4 Scratch's Horseman
+	6 Scribe of Lost Texts
+	15 Secretkeeper of the Dead
+	15 Shepherd of Sleeping Dead
+	15 Shepherd of Wanderers
+	6 Shroud in Stars_BLR
+	6 Silence of the Drowned
+	15 Slayer's Determination
+	15 Solemn Graveyard
+	15 Sparring Partner
+	15 Spirit's Grasp
+	6 Spiritform
+	6 Splinter Soul
+	6 Stalwart Grovekeepers
+	7 Starblessed Trance
+	15 Starcrossed Arcana
+	15 Starfouled Arcanist
+	7 Starfouled Cervid
+	6 Starfouled Custodian
+	6 Starfouled Hunter
+	15 Starfouled Scion
+	6 Starseeker
+	7 Startouched Deadwood
+	7 Stellar Mandate
+	15 Strength from Suffering
+	7 Stygian Mandate
+	15 Succumb to History
+	6 Survival of the Slayers
+	4 Sword of Rage and Tranquility
+	6 Sylph of the Tugae
+	6 Take to the Floor
+	6 Taken by the Tugae
+	7 Temporal Assassination
+	6 Tempting Song
+	7 The Herald of the Wildcourt
+	4 The Whisper of Eltensia
+	15 Toil in Strife
+	15 Torrent of Wind_BLR
+	7 Tugae Corpsemaker
+	7 Tugae Deathspinner
+	15 Tugae Rallier
+	6 Twilight Ambush_BLR
+	6 Twincall Chant
+	15 Twincast Disciple
+	6 Twisted Deadwood
+	6 Unbreathing Surveyor
+	6 Unburden the Mind
+	6 Uncertainty of Fate
+	7 Unending Chant
+	7 Unknowable Starspawn
+	7 Unrivaled Slayer
+	15 Vanguard Commander
+	15 Vanity Haunt
+	7 Vengeful Whisper
+	7 Verdant Mandate
+	6 Vessel of the Wild
+	7 Vibrant Vengeance
+	6 Vile Arcanist
+	6 Voracious Apprentice
+	15 Waker of Slumbering Titans
+	7 Waking Bog
+	7 Waking Boneyard
+	7 Waking Crag
+	7 Waking Glen
+	7 Waking Vista
+	15 Whisper of the Dead
+	6 Whisperlit Meditation
+	7 Whispers from Below
+	6 Wick of the Third Rite
+	15 Wild Huntsman
+	15 Wildcourt Cavalier
+	6 Wildcourt Conserver
+	7 Wildcourt Seeker
+	15 Wildcourt Wishgiver
+	7 Wildkin Imposter
+	6 Winding Way
+	7 Wipe the World Clean
+	4 Xirix, Chronic Mercenary
+	15 Zombie Plague

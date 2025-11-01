@@ -1,0 +1,5222 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "A Glimmering Crown_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Planeswalker — Okus",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "A Modest Cap_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Planeswalker — Okus",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "A Mysterious Cowl_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Planeswalker — Okus",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Abinna, Humanity's Herald_MSL",
+			"rarity": "special",
+			"mana_cost": "{G}{G}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/364.jpg"
+			}
+		},
+		{
+			"name": "Abundant Harvest_MSL",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Achet-Aton, Living God_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/345.jpg"
+			}
+		},
+		{
+			"name": "Ajax, Tyrant of the Empire",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Dragon Elf Wizard",
+			"collector_number": "387",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/387.jpg"
+			}
+		},
+		{
+			"name": "Aleryn, Trapseeker_MSL // Aleryn, Dungeon Disabler_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Elf Shaman",
+			"collector_number": "378",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/378a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/378a_front.jpg"
+			}
+		},
+		{
+			"name": "Aleryn, Trapseeker_MSL // Aleryn, Dungeon Disabler_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Elf Shaman",
+			"collector_number": "378",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/378a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/378a_front.jpg"
+			}
+		},
+		{
+			"name": "Alia's Enforcer_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Althestran Oathsworn_MSL",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "An Imposing Stetson_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Planeswalker — Okus",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "An Intimidating Helm_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Planeswalker — Okus",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Anatomy_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Anax's Endeavor_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Ancestral Guidance_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Angel of Sands_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Antimagic Formula_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Aoia, Monarch of Beauty",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Planeswalker — Aoia",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Arcane Signet_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Archaezus, Dark Salvation // Enrapturing Grudge",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Elder Demon",
+			"collector_number": "346",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/346a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/346a_front.jpg"
+			}
+		},
+		{
+			"name": "Archaezus, Dark Salvation // Enrapturing Grudge",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Elder Demon",
+			"collector_number": "346",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/346a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/346a_front.jpg"
+			}
+		},
+		{
+			"name": "Architect of Calamity_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Ardent Charge_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Arina, Volarian Explorer_MSL // Arina, Cryoshaper_MSL",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "373",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/373a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/373a_front.jpg"
+			}
+		},
+		{
+			"name": "Arina, Volarian Explorer_MSL // Arina, Cryoshaper_MSL",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "373",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/373a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/373a_front.jpg"
+			}
+		},
+		{
+			"name": "Arpechian Architect_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Arpechian Yatte_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Arroyo, Infinitely Branching",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Reflection",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Artificer's Workshop_MSL",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Artillery Professor_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Artisan of Marrow_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Gorgon Cleric",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Aryam the Dreamer_MSL",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/338.jpg"
+			}
+		},
+		{
+			"name": "Aspect of Rage_MSL",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Incarnation",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Assemble the Party",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "381",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/381.jpg"
+			}
+		},
+		{
+			"name": "Augmented Spawn_MSL",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Merfolk Horror",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Aunor, Dragonsire",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}{U}{U}{R}{R}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "399",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/399.jpg"
+			}
+		},
+		{
+			"name": "Aurora Hydra",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Hydra Spirit",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Automated Overwatch_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Artificer",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/365.jpg"
+			}
+		},
+		{
+			"name": "Autumnal Watch_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Aven Merchant_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird Advisor",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Avia, Despot of Death",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Awestone_MSL",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Banishing Initiate_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Barbed Cocoon_MSL",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Beneath the Zhedina_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Berbarus Unsealed_MSL",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/347.jpg"
+			}
+		},
+		{
+			"name": "Beyond Death_MSL",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Blacksteel Loadout_MSL",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Blind Eternal",
+			"rarity": "uncommon",
+			"mana_cost": "{9}",
+			"type": "Creature — Eldrazi",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Bloated Visceroid_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Horror",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Bloodsoaked Blades_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Bog Rebirth_MSL",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Brig of the Damned_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Bubbledome Keeper_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Caer Crann Warleader_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Calamari Dragon_MSL",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Squid Dragon",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Carrion Monitor_MSL",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Lizard",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Cauldish Schemes_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Caylin Whirlwind_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/370.jpg"
+			}
+		},
+		{
+			"name": "Cerulean Sovereign_MSL",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Chamber of Reflections_MSL",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Chiseled Familiar_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Fox",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Chromatic Herald_MSL",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Avatar",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Chronicles of the Kitsune_MSL",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Cinderblade_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Citadel Portal_MSL",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Clean-Up Crew_MSL",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Clock of Seasons_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Colossal Achievement_MSL",
+			"rarity": "common",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Command Tower_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/309.jpg"
+			}
+		},
+		{
+			"name": "Commune with the Land",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/366.jpg"
+			}
+		},
+		{
+			"name": "Conjuring of Locusts_MSL",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Consecrated Sight_MSL",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Corpsecaster Mage",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/348.jpg"
+			}
+		},
+		{
+			"name": "Corrupted Knowledge_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Cortex Coil_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Cosmic Catastrophe_MSL",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Courageous Charge_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Cramming Student_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Crashing Mammoth_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Elephant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Crossing the Fog_MSL",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Cycle of Creation_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Daiju, Lightning-Draw",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Darksand Acolyte_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Fox Cleric",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Darksteel Mirror",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Dawn Hill Forgemaster_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird Soldier",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Daybreak_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Daystrider Pegasus_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment Creature — Pegasus",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Dazzling Festivities_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Deadwood Terror_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Death Rites_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Death Strike_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Deceitful Tutor_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Decree of Bias_MSL",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Devoted Artistry",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "388",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/388.jpg"
+			}
+		},
+		{
+			"name": "Dominion Crown_MSL",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Dr. Vracyi, Rastinov's Mortician",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Draconic Cinderlance_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Dragon Emperor's Chariot_MSL",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Dragonfire Fury_MSL",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Elaborate Transportation_MSL",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Elemental Essence_MSL",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Ella, Rose Court Queen",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Vampire Wizard",
+			"collector_number": "389",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/389.jpg"
+			}
+		},
+		{
+			"name": "Embodiment of Abundance_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Emperor's Retainer_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "End of Monsters_MSL",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Legendary Creature — Beast Mutant",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/339.jpg"
+			}
+		},
+		{
+			"name": "Engrave_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Enlightened Sigil_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Erollin, Eccentric Collector_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Frog Noble",
+			"collector_number": "379",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/379.jpg"
+			}
+		},
+		{
+			"name": "Ethereal Stone_MSL",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Evaldi, Genesis of Hope",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/367.jpg"
+			}
+		},
+		{
+			"name": "Evergrowing Hydra_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Experienced Team_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Extremespeed_MSL",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Fabled Passage_MSL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/310.jpg"
+			}
+		},
+		{
+			"name": "Farwander Guide_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Fatestitcher_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Fatigue_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Sorcery",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/326.jpg"
+			}
+		},
+		{
+			"name": "Faux, Who Lives for the Hunt",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Creature — Shapeshifter",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Feathersword Duelist",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Fel Alston, Halfway Queen",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Fertile Grave_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Ffion, Famine Warcaller",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Elf Rebel",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Field Tender_MSL",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Final Commandment",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Flamecaller's Command_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Flameform Amalgam_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Elemental Wizard",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Flood of Information_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Flourishing Forest_MSL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/311.jpg"
+			}
+		},
+		{
+			"name": "Flourishing Island_MSL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/312.jpg"
+			}
+		},
+		{
+			"name": "Flourishing Mountain_MSL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/313.jpg"
+			}
+		},
+		{
+			"name": "Flourishing Plains_MSL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/314.jpg"
+			}
+		},
+		{
+			"name": "Flourishing Swamp_MSL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/315.jpg"
+			}
+		},
+		{
+			"name": "Fog at Sea_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Forbidden Shiangshi Arts_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Heir",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/330.jpg"
+			}
+		},
+		{
+			"name": "Fracking Factory_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Frenzied Watchkeeper_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "From Within the Dark_MSL",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Fulmen, Eldritch Channeler_MSL // Fulmen, Entelan Researcher_MSL",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "390",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/390a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/390a_front.jpg"
+			}
+		},
+		{
+			"name": "Fulmen, Eldritch Channeler_MSL // Fulmen, Entelan Researcher_MSL",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "390",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/390a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/390a_front.jpg"
+			}
+		},
+		{
+			"name": "Gallant Sunhawk_MSL",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Bird Knight",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Gaoming, Foxes' Friend",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Gaunt Abnormality_MSL",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Mutant Shapeshifter",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "General of the Folded Fan_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Ghostly Flicker_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Gilded Authority_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Gilded Guardian_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Glorysinger_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue Bard",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Goblin War Chariot",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "403",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/403.jpg"
+			}
+		},
+		{
+			"name": "Golden Company Valiant_MSL",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Greatwyrm's Egg",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Artifact",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/359.jpg"
+			}
+		},
+		{
+			"name": "Grin, Scourge of Goresand_MSL",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Berserker",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/360.jpg"
+			}
+		},
+		{
+			"name": "Guardian's Resolve_MSL",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Guidestone_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Clue",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "H-9K Prototype",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "385",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/385.jpg"
+			}
+		},
+		{
+			"name": "Harlowe, Thespian Extraordinaire",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Creature — Human Actor",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/327.jpg"
+			}
+		},
+		{
+			"name": "Harmony and Morah",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Azra Orc Merchant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Hasan of Clashing Truths",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Azra Wizard",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Hav'za, Itavan Warchief_MSL",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/361.jpg"
+			}
+		},
+		{
+			"name": "Havdan, Dawnglade Elder",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "397",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/397.jpg"
+			}
+		},
+		{
+			"name": "Hayuan, the Misjudged_MSL",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Ape",
+			"collector_number": "393",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/393.jpg"
+			}
+		},
+		{
+			"name": "Helene, Steel of the Exiled_MSL",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/340.jpg"
+			}
+		},
+		{
+			"name": "Henrick's Memorial_MSL",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Henry, River Cities Mayor",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "382",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/382.jpg"
+			}
+		},
+		{
+			"name": "Herd's Bounty_MSL",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Deity",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Here With You_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Hero's Command_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Hero's Statue_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "Hidden Garden Entrance_MSL // Cosmic Contraption_MSL",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "316",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/316a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/316a_front.jpg"
+			}
+		},
+		{
+			"name": "Hidden Garden Entrance_MSL // Cosmic Contraption_MSL",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "316",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/316a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/316a_front.jpg"
+			}
+		},
+		{
+			"name": "High Chancellor Kazimir_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/331.jpg"
+			}
+		},
+		{
+			"name": "Himari, EXO-001",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Hound Soldier",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Hoarding Dragon_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Hold Life in Taloned Grasp_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Hopebearer Pilgrimage_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Horn of Seasons_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Hui Zhou, the Dark Visage_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Demon",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/349.jpg"
+			}
+		},
+		{
+			"name": "Ideologize_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Infiltrate Althestra_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Inquirer, Roaming Rover_MSL",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Servo",
+			"collector_number": "404",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/404.jpg"
+			}
+		},
+		{
+			"name": "Isolated_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Ivier, Soul of the Woods",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Creature — Elk God",
+			"collector_number": "400",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/400.jpg"
+			}
+		},
+		{
+			"name": "Jade Vault Reclaimer_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Jal, Granter of Swift Deaths",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Manticore",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Jawbone, Ravenous Mutant",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Crocodile",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Jejun, Dark Hunter_MSL",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/350.jpg"
+			}
+		},
+		{
+			"name": "Journey's End_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Judges of Bearidge_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/371.jpg"
+			}
+		},
+		{
+			"name": "Juyu Offering Pool_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Kaiju-no-Oni_MSL",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Demon Leviathan",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Kami of Night's Memory",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Karina's Explorations",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Karoa, His Roaring Grace_MSL",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Cat Knight",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/362.jpg"
+			}
+		},
+		{
+			"name": "Kaur's Gift_MSL",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Keeper of the Sanctum_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Khalizors' Last Stand_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Kimar, Lightforger_MSL // Kimar, Skylight Adept_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Elf Cleric",
+			"collector_number": "383",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/383a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/383a_front.jpg"
+			}
+		},
+		{
+			"name": "Kimar, Lightforger_MSL // Kimar, Skylight Adept_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Elf Cleric",
+			"collector_number": "383",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/383a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/383a_front.jpg"
+			}
+		},
+		{
+			"name": "King of Bones_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Skeleton Wizard",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Kuwagata, Crested Master",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Human Beast Samurai",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Lady Asuka, the Dripping Fang",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Lava Scutterer_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Lizard Beast",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Legend of the Brave_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Enchantment — Aura Persona",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Lei Yu, Ever-Learning",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Cat Monk Cleric",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Liactru Stormheart",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Planeswalker — Liactru",
+			"collector_number": "391",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/391.jpg"
+			}
+		},
+		{
+			"name": "Lisa, the Daughter_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/332.jpg"
+			}
+		},
+		{
+			"name": "Lord Rokai_MSL",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Spirit Wizard",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/341.jpg"
+			}
+		},
+		{
+			"name": "Lorekeeper_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Lothaire of the Radiant Order",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Incarnation Knight",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Luna, Loyal Friend",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Fox",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Luna, the Lost_MSL",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Fox",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/351.jpg"
+			}
+		},
+		{
+			"name": "Mad Queen Margarete",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Wolf Noble",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Mage's Command_MSL",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Mahnaz of Moonlit Blades",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Maktali, the Great Library_MSL",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Manaflux Battery_MSL",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Powercell",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/287.jpg"
+			}
+		},
+		{
+			"name": "Many-Voiced Tower_MSL",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/317.jpg"
+			}
+		},
+		{
+			"name": "Mass Orator_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Master of Ancient Ways_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Masterwork Archivist",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/288.jpg"
+			}
+		},
+		{
+			"name": "Mastery of the Veil_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Merfolk Looter_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Metallurgy_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Discovery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Meteor Fall_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Midwife to the World",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Minstrel of the Bloodied_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Angel",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Miqatal, Gilded Reliquary",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Creature — Spirit Warrior",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Mirror Image_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Mirrorsoul Mage_MSL",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Mizuki, Lady of All Waters",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Merfolk",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Monstrous Amalgam_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Monument of Queens_MSL",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/318.jpg"
+			}
+		},
+		{
+			"name": "Moonlight_MSL",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Moonlit Hunter_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Archer",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Moranai Survivalist_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Monk Wizard",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Moresso, Infuser of Light",
+			"rarity": "special",
+			"mana_cost": "{Vp}{Vp}{Vp}{Vp}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/329.jpg"
+			}
+		},
+		{
+			"name": "Muktann Protectors_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Mutalithic Golem_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem Shapeshifter",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/289.jpg"
+			}
+		},
+		{
+			"name": "Mysterious Coffer_MSL",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/290.jpg"
+			}
+		},
+		{
+			"name": "Nexus of Possibilities_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/291.jpg"
+			}
+		},
+		{
+			"name": "Nightmare Retrievers",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/374.jpg"
+			}
+		},
+		{
+			"name": "Nightshade Ambusher_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Nimunotian Shadow_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Shade Rogue",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Nitz, Globetrotting Knight",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Mouse Knight",
+			"collector_number": "384",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/384.jpg"
+			}
+		},
+		{
+			"name": "OH-14 Diamond_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Construct Scout",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Observer of Aeons_MSL",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Enchantment Artifact Creature — Sand",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/292.jpg"
+			}
+		},
+		{
+			"name": "Oldgrove Nurturer_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Olten Tarrasque_MSL",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Ominous Dragoncaller",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Ontarachie Vagabond_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fungus Scout",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Orichi of the Cold Mist_MSL",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Drake",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/342.jpg"
+			}
+		},
+		{
+			"name": "Orrery Technician_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Human",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/293.jpg"
+			}
+		},
+		{
+			"name": "Osk, the Maker's Pet_MSL",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Squirrel",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/368.jpg"
+			}
+		},
+		{
+			"name": "Out-of-Body Experience_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Overgrowth Guardian_MSL",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Pack Familiar_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Paygan Archer_MSL",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Azra Archer",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Petal Dancer_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Pharika, Snake-Twined",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "394",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/394.jpg"
+			}
+		},
+		{
+			"name": "Phasmopillar_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect Mutant",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Pilgrim's Muse_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Pious Relicseekers_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Planar Alignment_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/319.jpg"
+			}
+		},
+		{
+			"name": "Planar Traversal_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Plane-Traversal Guide_MSL",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Platinum Anvil",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact",
+			"collector_number": "395",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/395.jpg"
+			}
+		},
+		{
+			"name": "Platinum Colossus_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{13}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/294.jpg"
+			}
+		},
+		{
+			"name": "Polytheism_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{6}{W}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Powercell Engineer_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Pretty Savage_MSL",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Primal Resurgence_MSL",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Primal Ruffian_MSL",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Prince of Stars",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Dragon",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Cavern_MSL",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/320.jpg"
+			}
+		},
+		{
+			"name": "Prodigious Telemancer_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Promethean Grotto_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/321.jpg"
+			}
+		},
+		{
+			"name": "Punishing Catastrophe_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Pyre Charm",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "380",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/380.jpg"
+			}
+		},
+		{
+			"name": "Ragantiar, Maurassi Overlord_MSL",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Mutant Rogue",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/352.jpg"
+			}
+		},
+		{
+			"name": "Rahman, Gardener of Greatness",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Nephilim Druid",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Rallios, Heir to the Evil One_MSL",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Barbarian Warrior",
+			"collector_number": "396",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/396.jpg"
+			}
+		},
+		{
+			"name": "Rapacious Regent_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Ravaging Tyrant_MSL",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Razione Racecourse_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/322.jpg"
+			}
+		},
+		{
+			"name": "Red-Crowned Admiral_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Remnant of the Wild_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Avatar",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Renili, Telenian Weaponist_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/333.jpg"
+			}
+		},
+		{
+			"name": "Revela, Entelan Darkcaster_MSL // Revela, Sythis Starseeker_MSL",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "386",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/386a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/386a_front.jpg"
+			}
+		},
+		{
+			"name": "Revela, Entelan Darkcaster_MSL // Revela, Sythis Starseeker_MSL",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "386",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/386a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/386a_front.jpg"
+			}
+		},
+		{
+			"name": "Reytali, Song of the Sand // Reytali of Endless Muses",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "184",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/184a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/184a_front.jpg"
+			}
+		},
+		{
+			"name": "Reytali, Song of the Sand // Reytali of Endless Muses",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "184",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/MSL-files/img/184a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/184a_front.jpg"
+			}
+		},
+		{
+			"name": "Rial, Silver Rose General",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Elf Soldier",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/334.jpg"
+			}
+		},
+		{
+			"name": "Rift Splicing_MSL",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Rising Tides_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Rite of Retribution_MSL",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Rivha, Heiress of Pinions",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Angel Warrior",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/335.jpg"
+			}
+		},
+		{
+			"name": "Rixia, Rift Shunted",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Rokai's Vassal_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Runecrested Valley_MSL",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/323.jpg"
+			}
+		},
+		{
+			"name": "Runic Pillars_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/295.jpg"
+			}
+		},
+		{
+			"name": "Sacred Songs",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/343.jpg"
+			}
+		},
+		{
+			"name": "Sage of the Hereafter_MSL",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Sphinx Wizard",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Sakaki, Rocket Gang Boss_MSL",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/353.jpg"
+			}
+		},
+		{
+			"name": "Salvation Engine_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{9}",
+			"type": "Legendary Artifact",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/296.jpg"
+			}
+		},
+		{
+			"name": "Sandwurm's Command_MSL",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Instant",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Sanguine Mortifier_MSL",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Vampire Wizard",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Saraf, Tuned Disciple",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Artifact Creature — Robot Monk",
+			"collector_number": "392",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/392.jpg"
+			}
+		},
+		{
+			"name": "Scion of Silence",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/336.jpg"
+			}
+		},
+		{
+			"name": "Scorch_MSL",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Scriptures of Urshad_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Sea's Allure_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Search the Shadows",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "375",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/375.jpg"
+			}
+		},
+		{
+			"name": "Searshot Dragon_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Sedna, Deepfathom Delver",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Merfolk Warlock",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Seluriel's Blessing_MSL",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Sentinel of Latter Days_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/297.jpg"
+			}
+		},
+		{
+			"name": "Servant of Precursors_MSL",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/299.jpg"
+			}
+		},
+		{
+			"name": "Shadowbinder Touka",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Shadowed Apostle_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Shadowstep Shawl_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/300.jpg"
+			}
+		},
+		{
+			"name": "Shared Reminiscence_MSL",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Instant",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Shared Vigor_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Sharpened Tusks_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Shattered Prison_MSL",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Siflir, Elder Pawn",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/344.jpg"
+			}
+		},
+		{
+			"name": "Smirk, Darkhand's Favored",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Creature — Cat",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/354.jpg"
+			}
+		},
+		{
+			"name": "Smoldering Husk_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Skeleton Warrior",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Spectre of Terror",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/355.jpg"
+			}
+		},
+		{
+			"name": "Spellcycler_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Sphinx of Myriad Futures",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Springtime_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Staff of Possibilities_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/301.jpg"
+			}
+		},
+		{
+			"name": "Starlight Beacon_MSL",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/324.jpg"
+			}
+		},
+		{
+			"name": "Stay Determined_MSL",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Still-Smoke Stitcher_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Stonefall Golem_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/302.jpg"
+			}
+		},
+		{
+			"name": "Stormcloud Drake_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Elemental Drake",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Strange Discovery_MSL",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Street Performer_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Supreme Stampede_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Surge of Darkness_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Symbolic Ontologies",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Discovery Study",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Sythian Scripture_MSL",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Tactician's Journal_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/303.jpg"
+			}
+		},
+		{
+			"name": "Take All You Can Carry_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Tale of the Wayward Titan_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Tears of Samang_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Tempered Ankulim_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/304.jpg"
+			}
+		},
+		{
+			"name": "Terracotta Idol_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/305.jpg"
+			}
+		},
+		{
+			"name": "Territorial Drake_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Terror of the Tides_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Thailen, Heir to Daeland_MSL",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/363.jpg"
+			}
+		},
+		{
+			"name": "Tharyen, Lord of Subturgia_MSL",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Vampire Warrior",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/356.jpg"
+			}
+		},
+		{
+			"name": "The Afterlife Takes Its Due_MSL",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "The Amaranthine Eye",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "The Ardent Prodigy",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "The Art of War_MSL",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment — Gallery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "The Descent of Vengeance",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Demon God",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "The Frontier Beckons_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "The Infinite_MSL",
+			"rarity": "special",
+			"mana_cost": "{8}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/328.jpg"
+			}
+		},
+		{
+			"name": "The Lost Titan_MSL",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Legendary Creature — God",
+			"collector_number": "398",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/398.jpg"
+			}
+		},
+		{
+			"name": "The Paragon of Haberdashery",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Legendary Planeswalker — Okus",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "The River Treader",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "The Serpent Throne_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/298.jpg"
+			}
+		},
+		{
+			"name": "The Tale of Kings_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "The Undercity Amalgam",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Ooze Hydra",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "The Unshakable Kian",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{U}",
+			"type": "Legendary Creature — Djinn Wizard",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Thief's Command_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Tiger of the Drums",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Cat Demon",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Titan of Lake Vasil_MSL",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Toros the Warchief_MSL",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Cat Berserker",
+			"collector_number": "377",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/377.jpg"
+			}
+		},
+		{
+			"name": "Touch the Void",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Traft, Stensian Demonslayer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Traitor's Touch_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Transcendent Priest_MSL",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Treasure Beach_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/325.jpg"
+			}
+		},
+		{
+			"name": "Trial by Combat_MSL",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Trying One More Time_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Twinforged Golem_MSL",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/306.jpg"
+			}
+		},
+		{
+			"name": "Two-Front War_MSL",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Ujuraq, Elder Watcher",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Elephant Monk",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/369.jpg"
+			}
+		},
+		{
+			"name": "Unbound Expanse_MSL",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Unceasing Flames_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Undead Banneret_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Underpass Sentinel_MSL",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dwarf Soldier",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Unfettered Atrocity_MSL",
+			"rarity": "common",
+			"mana_cost": "{5}{B}{B}{B}",
+			"type": "Creature — Djinn Horror",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Unified Theory_MSL",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Unseen Hand",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "372",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/372.jpg"
+			}
+		},
+		{
+			"name": "Valera, Constructed Angel_MSL",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Artifact Creature — Angel",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/337.jpg"
+			}
+		},
+		{
+			"name": "Vespo, Vivaire's Butler",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Vampire Advisor",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Vetas of Distant Groves",
+			"rarity": "special",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Legendary Planeswalker — Vetas",
+			"collector_number": "401",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/401.jpg"
+			}
+		},
+		{
+			"name": "Vielle, Undercity Wayfarer",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Axiom",
+			"collector_number": "376",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/376.jpg"
+			}
+		},
+		{
+			"name": "Wade Through_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Wanderer of the Wilds_MSL",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Warden of Distortion_MSL",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Nightmare Dragon",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/357.jpg"
+			}
+		},
+		{
+			"name": "Warden of Harshapal Tower_MSL",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird Soldier",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Wayfarer's Lantern_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/307.jpg"
+			}
+		},
+		{
+			"name": "Wheat from Chaff_MSL",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Whirlpool Ride_MSL",
+			"rarity": "rare",
+			"mana_cost": "{8}{U}{U}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Whispered Breath_MSL",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Wildbond Aspirant_MSL",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Wildershrine Pilgrimage_MSL",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Witch of the Midden_MSL",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Witchfinder Artur",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Human Inquisitor",
+			"collector_number": "402",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/402.jpg"
+			}
+		},
+		{
+			"name": "Xolde, High King's Castle_MSL",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/308.jpg"
+			}
+		},
+		{
+			"name": "Yeshin of New Humanity",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Young Necromancer_MSL",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Yri, the Daring Blade_MSL",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/358.jpg"
+			}
+		},
+		{
+			"name": "Ysabelle, Skysworn Maverick",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Zidan, the Blazing Trail",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Salamander Dragon",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MSL-files/img/264.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Aoia, Monarch of Beauty
+	2 Arroyo, Infinitely Branching
+	2 Artificer's Workshop_MSL
+	2 Augmented Spawn_MSL
+	1 Aurora Hydra
+	2 Avia, Despot of Death
+	2 Awestone_MSL
+	2 Beyond Death_MSL
+	2 Blacksteel Loadout_MSL
+	2 Calamari Dragon_MSL
+	2 Chamber of Reflections_MSL
+	2 Chromatic Herald_MSL
+	2 Chronicles of the Kitsune_MSL
+	2 Citadel Portal_MSL
+	2 Conjuring of Locusts_MSL
+	2 Consecrated Sight_MSL
+	2 Crossing the Fog_MSL
+	1 Cycle of Creation_MSL
+	2 Daiju, Lightning-Draw
+	2 Darksteel Mirror
+	1 Dazzling Festivities_MSL
+	2 Dominion Crown_MSL
+	2 Dr. Vracyi, Rastinov's Mortician
+	2 Dragon Emperor's Chariot_MSL
+	2 Dragonfire Fury_MSL
+	1 Embodiment of Abundance_MSL
+	2 Ethereal Stone_MSL
+	2 Faux, Who Lives for the Hunt
+	1 Feathersword Duelist
+	2 Fel Alston, Halfway Queen
+	2 Ffion, Famine Warcaller
+	2 Field Tender_MSL
+	2 Final Commandment
+	1 Forbidden Shiangshi Arts_MSL
+	2 From Within the Dark_MSL
+	2 Gallant Sunhawk_MSL
+	2 Gaoming, Foxes' Friend
+	2 Gaunt Abnormality_MSL
+	2 Golden Company Valiant_MSL
+	2 Harmony and Morah
+	2 Hasan of Clashing Truths
+	2 Henrick's Memorial_MSL
+	2 Hidden Garden Entrance_MSL // Cosmic Contraption_MSL
+	2 Hidden Garden Entrance_MSL // Cosmic Contraption_MSL
+	2 Himari, EXO-001
+	2 Jal, Granter of Swift Deaths
+	2 Jawbone, Ravenous Mutant
+	2 Kaiju-no-Oni_MSL
+	2 Kami of Night's Memory
+	2 Karina's Explorations
+	2 Kaur's Gift_MSL
+	1 Khalizors' Last Stand_MSL
+	2 Kuwagata, Crested Master
+	2 Lady Asuka, the Dripping Fang
+	2 Lei Yu, Ever-Learning
+	2 Lothaire of the Radiant Order
+	2 Luna, Loyal Friend
+	2 Mad Queen Margarete
+	2 Mahnaz of Moonlit Blades
+	2 Maktali, the Great Library_MSL
+	2 Manaflux Battery_MSL
+	2 Many-Voiced Tower_MSL
+	2 Masterwork Archivist
+	1 Mastery of the Veil_MSL
+	2 Midwife to the World
+	2 Miqatal, Gilded Reliquary
+	2 Mirrorsoul Mage_MSL
+	2 Mizuki, Lady of All Waters
+	2 Monument of Queens_MSL
+	2 Moonlight_MSL
+	1 Muktann Protectors_MSL
+	2 Mysterious Coffer_MSL
+	2 Observer of Aeons_MSL
+	2 Ominous Dragoncaller
+	1 Planar Traversal_MSL
+	2 Plane-Traversal Guide_MSL
+	1 Platinum Colossus_MSL
+	1 Polytheism_MSL
+	2 Pretty Savage_MSL
+	1 Prince of Stars
+	2 Rahman, Gardener of Greatness
+	2 Ravaging Tyrant_MSL
+	2 Reytali, Song of the Sand // Reytali of Endless Muses
+	2 Reytali, Song of the Sand // Reytali of Endless Muses
+	2 Rite of Retribution_MSL
+	2 Rixia, Rift Shunted
+	2 Runecrested Valley_MSL
+	2 Sage of the Hereafter_MSL
+	1 Salvation Engine_MSL
+	2 Sanguine Mortifier_MSL
+	2 Sedna, Deepfathom Delver
+	2 Seluriel's Blessing_MSL
+	2 Shadowbinder Touka
+	2 Shared Reminiscence_MSL
+	1 Shared Vigor_MSL
+	2 Shattered Prison_MSL
+	1 Sphinx of Myriad Futures
+	2 Starlight Beacon_MSL
+	2 Stay Determined_MSL
+	2 Symbolic Ontologies
+	2 Sythian Scripture_MSL
+	2 The Afterlife Takes Its Due_MSL
+	2 The Amaranthine Eye
+	2 The Ardent Prodigy
+	2 The Art of War_MSL
+	2 The Descent of Vengeance
+	2 The River Treader
+	1 The Serpent Throne_MSL
+	1 The Tale of Kings_MSL
+	2 The Undercity Amalgam
+	2 The Unshakable Kian
+	1 Tiger of the Drums
+	2 Touch the Void
+	2 Traft, Stensian Demonslayer
+	2 Transcendent Priest_MSL
+	2 Two-Front War_MSL
+	2 Unbound Expanse_MSL
+	2 Underpass Sentinel_MSL
+	1 Unified Theory_MSL
+	2 Vespo, Vivaire's Butler
+	2 Whirlpool Ride_MSL
+	2 Wildbond Aspirant_MSL
+	2 Witch of the Midden_MSL
+	2 Xolde, High King's Castle_MSL
+	2 Yeshin of New Humanity
+	2 Ysabelle, Skysworn Maverick
+	2 Zidan, the Blazing Trail
+[uncommon(3)]
+	4 Alia's Enforcer_MSL
+	4 Anatomy_MSL
+	4 Angel of Sands_MSL
+	4 Arcane Signet_MSL
+	4 Arpechian Yatte_MSL
+	4 Artillery Professor_MSL
+	4 Artisan of Marrow_MSL
+	4 Autumnal Watch_MSL
+	4 Blind Eternal
+	4 Brig of the Damned_MSL
+	4 Caer Crann Warleader_MSL
+	4 Cauldish Schemes_MSL
+	4 Cinderblade_MSL
+	4 Clock of Seasons_MSL
+	4 Command Tower_MSL
+	4 Cortex Coil_MSL
+	4 Cramming Student_MSL
+	4 Crashing Mammoth_MSL
+	4 Darksand Acolyte_MSL
+	4 Dawn Hill Forgemaster_MSL
+	4 Daybreak_MSL
+	4 Deadwood Terror_MSL
+	4 Death Rites_MSL
+	4 Death Strike_MSL
+	4 Deceitful Tutor_MSL
+	4 Emperor's Retainer_MSL
+	4 Engrave_MSL
+	4 Evergrowing Hydra_MSL
+	4 Farwander Guide_MSL
+	4 Flood of Information_MSL
+	4 Frenzied Watchkeeper_MSL
+	4 General of the Folded Fan_MSL
+	4 Gilded Authority_MSL
+	4 Gilded Guardian_MSL
+	4 Glorysinger_MSL
+	4 Here With You_MSL
+	4 Hold Life in Taloned Grasp_MSL
+	4 Infiltrate Althestra_MSL
+	4 Isolated_MSL
+	4 Jade Vault Reclaimer_MSL
+	4 Juyu Offering Pool_MSL
+	4 King of Bones_MSL
+	4 Lava Scutterer_MSL
+	4 Legend of the Brave_MSL
+	4 Metallurgy_MSL
+	4 Meteor Fall_MSL
+	4 Mirror Image_MSL
+	4 Moonlit Hunter_MSL
+	4 Nexus of Possibilities_MSL
+	4 Ontarachie Vagabond_MSL
+	4 Orrery Technician_MSL
+	4 Out-of-Body Experience_MSL
+	4 Petal Dancer_MSL
+	4 Pilgrim's Muse_MSL
+	4 Planar Alignment_MSL
+	4 Powercell Engineer_MSL
+	4 Prodigious Telemancer_MSL
+	4 Promethean Grotto_MSL
+	4 Punishing Catastrophe_MSL
+	4 Razione Racecourse_MSL
+	4 Red-Crowned Admiral_MSL
+	4 Remnant of the Wild_MSL
+	4 Rokai's Vassal_MSL
+	4 Runic Pillars_MSL
+	4 Sea's Allure_MSL
+	4 Searshot Dragon_MSL
+	4 Sentinel of Latter Days_MSL
+	4 Shadowstep Shawl_MSL
+	4 Still-Smoke Stitcher_MSL
+	4 Stonefall Golem_MSL
+	4 Supreme Stampede_MSL
+	4 Territorial Drake_MSL
+	4 The Frontier Beckons_MSL
+	4 The Paragon of Haberdashery
+	4 Treasure Beach_MSL
+	4 Trying One More Time_MSL
+	4 Unceasing Flames_MSL
+	4 Wade Through_MSL
+	4 Wayfarer's Lantern_MSL
+	4 Young Necromancer_MSL
+[common(7)]
+	8 A Glimmering Crown_MSL
+	8 A Modest Cap_MSL
+	8 A Mysterious Cowl_MSL
+	8 Abundant Harvest_MSL
+	8 Althestran Oathsworn_MSL
+	8 An Imposing Stetson_MSL
+	8 An Intimidating Helm_MSL
+	8 Anax's Endeavor_MSL
+	8 Ancestral Guidance_MSL
+	8 Antimagic Formula_MSL
+	8 Architect of Calamity_MSL
+	8 Ardent Charge_MSL
+	8 Arpechian Architect_MSL
+	8 Aspect of Rage_MSL
+	8 Aven Merchant_MSL
+	8 Banishing Initiate_MSL
+	8 Barbed Cocoon_MSL
+	8 Beneath the Zhedina_MSL
+	8 Bloated Visceroid_MSL
+	8 Bloodsoaked Blades_MSL
+	8 Bog Rebirth_MSL
+	8 Bubbledome Keeper_MSL
+	8 Carrion Monitor_MSL
+	8 Cerulean Sovereign_MSL
+	8 Chiseled Familiar_MSL
+	8 Clean-Up Crew_MSL
+	8 Colossal Achievement_MSL
+	8 Corrupted Knowledge_MSL
+	8 Cosmic Catastrophe_MSL
+	8 Courageous Charge_MSL
+	8 Daystrider Pegasus_MSL
+	8 Decree of Bias_MSL
+	8 Draconic Cinderlance_MSL
+	8 Elaborate Transportation_MSL
+	8 Elemental Essence_MSL
+	8 Enlightened Sigil_MSL
+	8 Experienced Team_MSL
+	8 Extremespeed_MSL
+	8 Fabled Passage_MSL
+	8 Fatestitcher_MSL
+	8 Fertile Grave_MSL
+	8 Flamecaller's Command_MSL
+	8 Flameform Amalgam_MSL
+	8 Flourishing Forest_MSL
+	8 Flourishing Island_MSL
+	8 Flourishing Mountain_MSL
+	8 Flourishing Plains_MSL
+	8 Flourishing Swamp_MSL
+	8 Fog at Sea_MSL
+	8 Fracking Factory_MSL
+	8 Ghostly Flicker_MSL
+	8 Guardian's Resolve_MSL
+	8 Guidestone_MSL
+	8 Herd's Bounty_MSL
+	8 Hero's Command_MSL
+	8 Hero's Statue_MSL
+	8 Hoarding Dragon_MSL
+	8 Hopebearer Pilgrimage_MSL
+	8 Horn of Seasons_MSL
+	8 Ideologize_MSL
+	8 Journey's End_MSL
+	8 Keeper of the Sanctum_MSL
+	8 Lorekeeper_MSL
+	8 Mage's Command_MSL
+	8 Mass Orator_MSL
+	8 Master of Ancient Ways_MSL
+	8 Merfolk Looter_MSL
+	8 Minstrel of the Bloodied_MSL
+	8 Monstrous Amalgam_MSL
+	8 Moranai Survivalist_MSL
+	8 Mutalithic Golem_MSL
+	8 Nightshade Ambusher_MSL
+	8 Nimunotian Shadow_MSL
+	8 OH-14 Diamond_MSL
+	8 Oldgrove Nurturer_MSL
+	8 Olten Tarrasque_MSL
+	8 Overgrowth Guardian_MSL
+	8 Pack Familiar_MSL
+	8 Paygan Archer_MSL
+	8 Phasmopillar_MSL
+	8 Pious Relicseekers_MSL
+	8 Primal Resurgence_MSL
+	8 Primal Ruffian_MSL
+	8 Prismatic Cavern_MSL
+	8 Rapacious Regent_MSL
+	8 Rift Splicing_MSL
+	8 Rising Tides_MSL
+	8 Sandwurm's Command_MSL
+	8 Scorch_MSL
+	8 Scriptures of Urshad_MSL
+	8 Servant of Precursors_MSL
+	8 Shadowed Apostle_MSL
+	8 Sharpened Tusks_MSL
+	8 Smoldering Husk_MSL
+	8 Spellcycler_MSL
+	8 Springtime_MSL
+	8 Staff of Possibilities_MSL
+	8 Stormcloud Drake_MSL
+	8 Strange Discovery_MSL
+	8 Street Performer_MSL
+	8 Surge of Darkness_MSL
+	8 Tactician's Journal_MSL
+	8 Take All You Can Carry_MSL
+	8 Tale of the Wayward Titan_MSL
+	8 Tears of Samang_MSL
+	8 Tempered Ankulim_MSL
+	8 Terracotta Idol_MSL
+	8 Terror of the Tides_MSL
+	8 Thief's Command_MSL
+	8 Titan of Lake Vasil_MSL
+	8 Traitor's Touch_MSL
+	8 Trial by Combat_MSL
+	8 Twinforged Golem_MSL
+	8 Undead Banneret_MSL
+	8 Unfettered Atrocity_MSL
+	8 Wanderer of the Wilds_MSL
+	8 Warden of Harshapal Tower_MSL
+	8 Wheat from Chaff_MSL
+	8 Whispered Breath_MSL
+	8 Wildershrine Pilgrimage_MSL
+[foil(1)]
+	12 A Glimmering Crown_MSL
+	12 A Modest Cap_MSL
+	12 A Mysterious Cowl_MSL
+	12 Abundant Harvest_MSL
+	6 Alia's Enforcer_MSL
+	12 Althestran Oathsworn_MSL
+	12 An Imposing Stetson_MSL
+	12 An Intimidating Helm_MSL
+	6 Anatomy_MSL
+	12 Anax's Endeavor_MSL
+	12 Ancestral Guidance_MSL
+	6 Angel of Sands_MSL
+	12 Antimagic Formula_MSL
+	2 Aoia, Monarch of Beauty
+	6 Arcane Signet_MSL
+	12 Architect of Calamity_MSL
+	12 Ardent Charge_MSL
+	12 Arpechian Architect_MSL
+	6 Arpechian Yatte_MSL
+	2 Arroyo, Infinitely Branching
+	2 Artificer's Workshop_MSL
+	6 Artillery Professor_MSL
+	6 Artisan of Marrow_MSL
+	12 Aspect of Rage_MSL
+	2 Augmented Spawn_MSL
+	1 Aurora Hydra
+	6 Autumnal Watch_MSL
+	12 Aven Merchant_MSL
+	2 Avia, Despot of Death
+	2 Awestone_MSL
+	12 Banishing Initiate_MSL
+	12 Barbed Cocoon_MSL
+	12 Beneath the Zhedina_MSL
+	2 Beyond Death_MSL
+	2 Blacksteel Loadout_MSL
+	6 Blind Eternal
+	12 Bloated Visceroid_MSL
+	12 Bloodsoaked Blades_MSL
+	12 Bog Rebirth_MSL
+	6 Brig of the Damned_MSL
+	12 Bubbledome Keeper_MSL
+	6 Caer Crann Warleader_MSL
+	2 Calamari Dragon_MSL
+	12 Carrion Monitor_MSL
+	6 Cauldish Schemes_MSL
+	12 Cerulean Sovereign_MSL
+	2 Chamber of Reflections_MSL
+	12 Chiseled Familiar_MSL
+	2 Chromatic Herald_MSL
+	2 Chronicles of the Kitsune_MSL
+	6 Cinderblade_MSL
+	2 Citadel Portal_MSL
+	12 Clean-Up Crew_MSL
+	6 Clock of Seasons_MSL
+	12 Colossal Achievement_MSL
+	6 Command Tower_MSL
+	2 Conjuring of Locusts_MSL
+	2 Consecrated Sight_MSL
+	12 Corrupted Knowledge_MSL
+	6 Cortex Coil_MSL
+	12 Cosmic Catastrophe_MSL
+	12 Courageous Charge_MSL
+	6 Cramming Student_MSL
+	6 Crashing Mammoth_MSL
+	2 Crossing the Fog_MSL
+	1 Cycle of Creation_MSL
+	2 Daiju, Lightning-Draw
+	6 Darksand Acolyte_MSL
+	2 Darksteel Mirror
+	6 Dawn Hill Forgemaster_MSL
+	6 Daybreak_MSL
+	12 Daystrider Pegasus_MSL
+	1 Dazzling Festivities_MSL
+	6 Deadwood Terror_MSL
+	6 Death Rites_MSL
+	6 Death Strike_MSL
+	6 Deceitful Tutor_MSL
+	12 Decree of Bias_MSL
+	2 Dominion Crown_MSL
+	2 Dr. Vracyi, Rastinov's Mortician
+	12 Draconic Cinderlance_MSL
+	2 Dragon Emperor's Chariot_MSL
+	2 Dragonfire Fury_MSL
+	12 Elaborate Transportation_MSL
+	12 Elemental Essence_MSL
+	1 Embodiment of Abundance_MSL
+	6 Emperor's Retainer_MSL
+	6 Engrave_MSL
+	12 Enlightened Sigil_MSL
+	2 Ethereal Stone_MSL
+	6 Evergrowing Hydra_MSL
+	12 Experienced Team_MSL
+	12 Extremespeed_MSL
+	12 Fabled Passage_MSL
+	6 Farwander Guide_MSL
+	12 Fatestitcher_MSL
+	2 Faux, Who Lives for the Hunt
+	1 Feathersword Duelist
+	2 Fel Alston, Halfway Queen
+	12 Fertile Grave_MSL
+	2 Ffion, Famine Warcaller
+	2 Field Tender_MSL
+	2 Final Commandment
+	12 Flamecaller's Command_MSL
+	12 Flameform Amalgam_MSL
+	6 Flood of Information_MSL
+	12 Flourishing Forest_MSL
+	12 Flourishing Island_MSL
+	12 Flourishing Mountain_MSL
+	12 Flourishing Plains_MSL
+	12 Flourishing Swamp_MSL
+	12 Fog at Sea_MSL
+	1 Forbidden Shiangshi Arts_MSL
+	12 Fracking Factory_MSL
+	6 Frenzied Watchkeeper_MSL
+	2 From Within the Dark_MSL
+	2 Gallant Sunhawk_MSL
+	2 Gaoming, Foxes' Friend
+	2 Gaunt Abnormality_MSL
+	6 General of the Folded Fan_MSL
+	12 Ghostly Flicker_MSL
+	6 Gilded Authority_MSL
+	6 Gilded Guardian_MSL
+	6 Glorysinger_MSL
+	2 Golden Company Valiant_MSL
+	12 Guardian's Resolve_MSL
+	12 Guidestone_MSL
+	2 Harmony and Morah
+	2 Hasan of Clashing Truths
+	2 Henrick's Memorial_MSL
+	12 Herd's Bounty_MSL
+	6 Here With You_MSL
+	12 Hero's Command_MSL
+	12 Hero's Statue_MSL
+	2 Hidden Garden Entrance_MSL // Cosmic Contraption_MSL
+	2 Hidden Garden Entrance_MSL // Cosmic Contraption_MSL
+	2 Himari, EXO-001
+	12 Hoarding Dragon_MSL
+	6 Hold Life in Taloned Grasp_MSL
+	12 Hopebearer Pilgrimage_MSL
+	12 Horn of Seasons_MSL
+	12 Ideologize_MSL
+	6 Infiltrate Althestra_MSL
+	6 Isolated_MSL
+	6 Jade Vault Reclaimer_MSL
+	2 Jal, Granter of Swift Deaths
+	2 Jawbone, Ravenous Mutant
+	12 Journey's End_MSL
+	6 Juyu Offering Pool_MSL
+	2 Kaiju-no-Oni_MSL
+	2 Kami of Night's Memory
+	2 Karina's Explorations
+	2 Kaur's Gift_MSL
+	12 Keeper of the Sanctum_MSL
+	1 Khalizors' Last Stand_MSL
+	6 King of Bones_MSL
+	2 Kuwagata, Crested Master
+	2 Lady Asuka, the Dripping Fang
+	6 Lava Scutterer_MSL
+	6 Legend of the Brave_MSL
+	2 Lei Yu, Ever-Learning
+	12 Lorekeeper_MSL
+	2 Lothaire of the Radiant Order
+	2 Luna, Loyal Friend
+	2 Mad Queen Margarete
+	12 Mage's Command_MSL
+	2 Mahnaz of Moonlit Blades
+	2 Maktali, the Great Library_MSL
+	2 Manaflux Battery_MSL
+	2 Many-Voiced Tower_MSL
+	12 Mass Orator_MSL
+	12 Master of Ancient Ways_MSL
+	2 Masterwork Archivist
+	1 Mastery of the Veil_MSL
+	12 Merfolk Looter_MSL
+	6 Metallurgy_MSL
+	6 Meteor Fall_MSL
+	2 Midwife to the World
+	12 Minstrel of the Bloodied_MSL
+	2 Miqatal, Gilded Reliquary
+	6 Mirror Image_MSL
+	2 Mirrorsoul Mage_MSL
+	2 Mizuki, Lady of All Waters
+	12 Monstrous Amalgam_MSL
+	2 Monument of Queens_MSL
+	2 Moonlight_MSL
+	6 Moonlit Hunter_MSL
+	12 Moranai Survivalist_MSL
+	1 Muktann Protectors_MSL
+	12 Mutalithic Golem_MSL
+	2 Mysterious Coffer_MSL
+	6 Nexus of Possibilities_MSL
+	12 Nightshade Ambusher_MSL
+	12 Nimunotian Shadow_MSL
+	12 OH-14 Diamond_MSL
+	2 Observer of Aeons_MSL
+	12 Oldgrove Nurturer_MSL
+	12 Olten Tarrasque_MSL
+	2 Ominous Dragoncaller
+	6 Ontarachie Vagabond_MSL
+	6 Orrery Technician_MSL
+	6 Out-of-Body Experience_MSL
+	12 Overgrowth Guardian_MSL
+	12 Pack Familiar_MSL
+	12 Paygan Archer_MSL
+	6 Petal Dancer_MSL
+	12 Phasmopillar_MSL
+	6 Pilgrim's Muse_MSL
+	12 Pious Relicseekers_MSL
+	6 Planar Alignment_MSL
+	1 Planar Traversal_MSL
+	2 Plane-Traversal Guide_MSL
+	1 Platinum Colossus_MSL
+	1 Polytheism_MSL
+	6 Powercell Engineer_MSL
+	2 Pretty Savage_MSL
+	12 Primal Resurgence_MSL
+	12 Primal Ruffian_MSL
+	1 Prince of Stars
+	12 Prismatic Cavern_MSL
+	6 Prodigious Telemancer_MSL
+	6 Promethean Grotto_MSL
+	6 Punishing Catastrophe_MSL
+	2 Rahman, Gardener of Greatness
+	12 Rapacious Regent_MSL
+	2 Ravaging Tyrant_MSL
+	6 Razione Racecourse_MSL
+	6 Red-Crowned Admiral_MSL
+	6 Remnant of the Wild_MSL
+	2 Reytali, Song of the Sand // Reytali of Endless Muses
+	2 Reytali, Song of the Sand // Reytali of Endless Muses
+	12 Rift Splicing_MSL
+	12 Rising Tides_MSL
+	2 Rite of Retribution_MSL
+	2 Rixia, Rift Shunted
+	6 Rokai's Vassal_MSL
+	2 Runecrested Valley_MSL
+	6 Runic Pillars_MSL
+	2 Sage of the Hereafter_MSL
+	1 Salvation Engine_MSL
+	12 Sandwurm's Command_MSL
+	2 Sanguine Mortifier_MSL
+	12 Scorch_MSL
+	12 Scriptures of Urshad_MSL
+	6 Sea's Allure_MSL
+	6 Searshot Dragon_MSL
+	2 Sedna, Deepfathom Delver
+	2 Seluriel's Blessing_MSL
+	6 Sentinel of Latter Days_MSL
+	12 Servant of Precursors_MSL
+	2 Shadowbinder Touka
+	12 Shadowed Apostle_MSL
+	6 Shadowstep Shawl_MSL
+	2 Shared Reminiscence_MSL
+	1 Shared Vigor_MSL
+	12 Sharpened Tusks_MSL
+	2 Shattered Prison_MSL
+	12 Smoldering Husk_MSL
+	12 Spellcycler_MSL
+	1 Sphinx of Myriad Futures
+	12 Springtime_MSL
+	12 Staff of Possibilities_MSL
+	2 Starlight Beacon_MSL
+	2 Stay Determined_MSL
+	6 Still-Smoke Stitcher_MSL
+	6 Stonefall Golem_MSL
+	12 Stormcloud Drake_MSL
+	12 Strange Discovery_MSL
+	12 Street Performer_MSL
+	6 Supreme Stampede_MSL
+	12 Surge of Darkness_MSL
+	2 Symbolic Ontologies
+	2 Sythian Scripture_MSL
+	12 Tactician's Journal_MSL
+	12 Take All You Can Carry_MSL
+	12 Tale of the Wayward Titan_MSL
+	12 Tears of Samang_MSL
+	12 Tempered Ankulim_MSL
+	12 Terracotta Idol_MSL
+	6 Territorial Drake_MSL
+	12 Terror of the Tides_MSL
+	2 The Afterlife Takes Its Due_MSL
+	2 The Amaranthine Eye
+	2 The Ardent Prodigy
+	2 The Art of War_MSL
+	2 The Descent of Vengeance
+	6 The Frontier Beckons_MSL
+	6 The Paragon of Haberdashery
+	2 The River Treader
+	1 The Serpent Throne_MSL
+	1 The Tale of Kings_MSL
+	2 The Undercity Amalgam
+	2 The Unshakable Kian
+	12 Thief's Command_MSL
+	1 Tiger of the Drums
+	12 Titan of Lake Vasil_MSL
+	2 Touch the Void
+	2 Traft, Stensian Demonslayer
+	12 Traitor's Touch_MSL
+	2 Transcendent Priest_MSL
+	6 Treasure Beach_MSL
+	12 Trial by Combat_MSL
+	6 Trying One More Time_MSL
+	12 Twinforged Golem_MSL
+	2 Two-Front War_MSL
+	2 Unbound Expanse_MSL
+	6 Unceasing Flames_MSL
+	12 Undead Banneret_MSL
+	2 Underpass Sentinel_MSL
+	12 Unfettered Atrocity_MSL
+	1 Unified Theory_MSL
+	2 Vespo, Vivaire's Butler
+	6 Wade Through_MSL
+	12 Wanderer of the Wilds_MSL
+	12 Warden of Harshapal Tower_MSL
+	6 Wayfarer's Lantern_MSL
+	12 Wheat from Chaff_MSL
+	2 Whirlpool Ride_MSL
+	12 Whispered Breath_MSL
+	2 Wildbond Aspirant_MSL
+	12 Wildershrine Pilgrimage_MSL
+	2 Witch of the Midden_MSL
+	2 Xolde, High King's Castle_MSL
+	2 Yeshin of New Humanity
+	6 Young Necromancer_MSL
+	2 Ysabelle, Skysworn Maverick
+	2 Zidan, the Blazing Trail
+[wildcard(1)]
+	6 A Glimmering Crown_MSL
+	6 A Modest Cap_MSL
+	6 A Mysterious Cowl_MSL
+	6 Abundant Harvest_MSL
+	15 Alia's Enforcer_MSL
+	6 Althestran Oathsworn_MSL
+	6 An Imposing Stetson_MSL
+	6 An Intimidating Helm_MSL
+	15 Anatomy_MSL
+	6 Anax's Endeavor_MSL
+	6 Ancestral Guidance_MSL
+	15 Angel of Sands_MSL
+	6 Antimagic Formula_MSL
+	7 Aoia, Monarch of Beauty
+	15 Arcane Signet_MSL
+	6 Architect of Calamity_MSL
+	6 Ardent Charge_MSL
+	6 Arpechian Architect_MSL
+	15 Arpechian Yatte_MSL
+	7 Arroyo, Infinitely Branching
+	7 Artificer's Workshop_MSL
+	15 Artillery Professor_MSL
+	15 Artisan of Marrow_MSL
+	6 Aspect of Rage_MSL
+	7 Augmented Spawn_MSL
+	4 Aurora Hydra
+	15 Autumnal Watch_MSL
+	6 Aven Merchant_MSL
+	7 Avia, Despot of Death
+	7 Awestone_MSL
+	6 Banishing Initiate_MSL
+	6 Barbed Cocoon_MSL
+	6 Beneath the Zhedina_MSL
+	7 Beyond Death_MSL
+	7 Blacksteel Loadout_MSL
+	15 Blind Eternal
+	6 Bloated Visceroid_MSL
+	6 Bloodsoaked Blades_MSL
+	6 Bog Rebirth_MSL
+	15 Brig of the Damned_MSL
+	6 Bubbledome Keeper_MSL
+	15 Caer Crann Warleader_MSL
+	7 Calamari Dragon_MSL
+	6 Carrion Monitor_MSL
+	15 Cauldish Schemes_MSL
+	6 Cerulean Sovereign_MSL
+	7 Chamber of Reflections_MSL
+	6 Chiseled Familiar_MSL
+	7 Chromatic Herald_MSL
+	7 Chronicles of the Kitsune_MSL
+	15 Cinderblade_MSL
+	7 Citadel Portal_MSL
+	6 Clean-Up Crew_MSL
+	15 Clock of Seasons_MSL
+	6 Colossal Achievement_MSL
+	15 Command Tower_MSL
+	7 Conjuring of Locusts_MSL
+	7 Consecrated Sight_MSL
+	6 Corrupted Knowledge_MSL
+	15 Cortex Coil_MSL
+	6 Cosmic Catastrophe_MSL
+	6 Courageous Charge_MSL
+	15 Cramming Student_MSL
+	15 Crashing Mammoth_MSL
+	7 Crossing the Fog_MSL
+	4 Cycle of Creation_MSL
+	7 Daiju, Lightning-Draw
+	15 Darksand Acolyte_MSL
+	7 Darksteel Mirror
+	15 Dawn Hill Forgemaster_MSL
+	15 Daybreak_MSL
+	6 Daystrider Pegasus_MSL
+	4 Dazzling Festivities_MSL
+	15 Deadwood Terror_MSL
+	15 Death Rites_MSL
+	15 Death Strike_MSL
+	15 Deceitful Tutor_MSL
+	6 Decree of Bias_MSL
+	7 Dominion Crown_MSL
+	7 Dr. Vracyi, Rastinov's Mortician
+	6 Draconic Cinderlance_MSL
+	7 Dragon Emperor's Chariot_MSL
+	7 Dragonfire Fury_MSL
+	6 Elaborate Transportation_MSL
+	6 Elemental Essence_MSL
+	4 Embodiment of Abundance_MSL
+	15 Emperor's Retainer_MSL
+	15 Engrave_MSL
+	6 Enlightened Sigil_MSL
+	7 Ethereal Stone_MSL
+	15 Evergrowing Hydra_MSL
+	6 Experienced Team_MSL
+	6 Extremespeed_MSL
+	6 Fabled Passage_MSL
+	15 Farwander Guide_MSL
+	6 Fatestitcher_MSL
+	7 Faux, Who Lives for the Hunt
+	4 Feathersword Duelist
+	7 Fel Alston, Halfway Queen
+	6 Fertile Grave_MSL
+	7 Ffion, Famine Warcaller
+	7 Field Tender_MSL
+	7 Final Commandment
+	6 Flamecaller's Command_MSL
+	6 Flameform Amalgam_MSL
+	15 Flood of Information_MSL
+	6 Flourishing Forest_MSL
+	6 Flourishing Island_MSL
+	6 Flourishing Mountain_MSL
+	6 Flourishing Plains_MSL
+	6 Flourishing Swamp_MSL
+	6 Fog at Sea_MSL
+	4 Forbidden Shiangshi Arts_MSL
+	6 Fracking Factory_MSL
+	15 Frenzied Watchkeeper_MSL
+	7 From Within the Dark_MSL
+	7 Gallant Sunhawk_MSL
+	7 Gaoming, Foxes' Friend
+	7 Gaunt Abnormality_MSL
+	15 General of the Folded Fan_MSL
+	6 Ghostly Flicker_MSL
+	15 Gilded Authority_MSL
+	15 Gilded Guardian_MSL
+	15 Glorysinger_MSL
+	7 Golden Company Valiant_MSL
+	6 Guardian's Resolve_MSL
+	6 Guidestone_MSL
+	7 Harmony and Morah
+	7 Hasan of Clashing Truths
+	7 Henrick's Memorial_MSL
+	6 Herd's Bounty_MSL
+	15 Here With You_MSL
+	6 Hero's Command_MSL
+	6 Hero's Statue_MSL
+	7 Hidden Garden Entrance_MSL // Cosmic Contraption_MSL
+	7 Hidden Garden Entrance_MSL // Cosmic Contraption_MSL
+	7 Himari, EXO-001
+	6 Hoarding Dragon_MSL
+	15 Hold Life in Taloned Grasp_MSL
+	6 Hopebearer Pilgrimage_MSL
+	6 Horn of Seasons_MSL
+	6 Ideologize_MSL
+	15 Infiltrate Althestra_MSL
+	15 Isolated_MSL
+	15 Jade Vault Reclaimer_MSL
+	7 Jal, Granter of Swift Deaths
+	7 Jawbone, Ravenous Mutant
+	6 Journey's End_MSL
+	15 Juyu Offering Pool_MSL
+	7 Kaiju-no-Oni_MSL
+	7 Kami of Night's Memory
+	7 Karina's Explorations
+	7 Kaur's Gift_MSL
+	6 Keeper of the Sanctum_MSL
+	4 Khalizors' Last Stand_MSL
+	15 King of Bones_MSL
+	7 Kuwagata, Crested Master
+	7 Lady Asuka, the Dripping Fang
+	15 Lava Scutterer_MSL
+	15 Legend of the Brave_MSL
+	7 Lei Yu, Ever-Learning
+	6 Lorekeeper_MSL
+	7 Lothaire of the Radiant Order
+	7 Luna, Loyal Friend
+	7 Mad Queen Margarete
+	6 Mage's Command_MSL
+	7 Mahnaz of Moonlit Blades
+	7 Maktali, the Great Library_MSL
+	7 Manaflux Battery_MSL
+	7 Many-Voiced Tower_MSL
+	6 Mass Orator_MSL
+	6 Master of Ancient Ways_MSL
+	7 Masterwork Archivist
+	4 Mastery of the Veil_MSL
+	6 Merfolk Looter_MSL
+	15 Metallurgy_MSL
+	15 Meteor Fall_MSL
+	7 Midwife to the World
+	6 Minstrel of the Bloodied_MSL
+	7 Miqatal, Gilded Reliquary
+	15 Mirror Image_MSL
+	7 Mirrorsoul Mage_MSL
+	7 Mizuki, Lady of All Waters
+	6 Monstrous Amalgam_MSL
+	7 Monument of Queens_MSL
+	7 Moonlight_MSL
+	15 Moonlit Hunter_MSL
+	6 Moranai Survivalist_MSL
+	4 Muktann Protectors_MSL
+	6 Mutalithic Golem_MSL
+	7 Mysterious Coffer_MSL
+	15 Nexus of Possibilities_MSL
+	6 Nightshade Ambusher_MSL
+	6 Nimunotian Shadow_MSL
+	6 OH-14 Diamond_MSL
+	7 Observer of Aeons_MSL
+	6 Oldgrove Nurturer_MSL
+	6 Olten Tarrasque_MSL
+	7 Ominous Dragoncaller
+	15 Ontarachie Vagabond_MSL
+	15 Orrery Technician_MSL
+	15 Out-of-Body Experience_MSL
+	6 Overgrowth Guardian_MSL
+	6 Pack Familiar_MSL
+	6 Paygan Archer_MSL
+	15 Petal Dancer_MSL
+	6 Phasmopillar_MSL
+	15 Pilgrim's Muse_MSL
+	6 Pious Relicseekers_MSL
+	15 Planar Alignment_MSL
+	4 Planar Traversal_MSL
+	7 Plane-Traversal Guide_MSL
+	4 Platinum Colossus_MSL
+	4 Polytheism_MSL
+	15 Powercell Engineer_MSL
+	7 Pretty Savage_MSL
+	6 Primal Resurgence_MSL
+	6 Primal Ruffian_MSL
+	4 Prince of Stars
+	6 Prismatic Cavern_MSL
+	15 Prodigious Telemancer_MSL
+	15 Promethean Grotto_MSL
+	15 Punishing Catastrophe_MSL
+	7 Rahman, Gardener of Greatness
+	6 Rapacious Regent_MSL
+	7 Ravaging Tyrant_MSL
+	15 Razione Racecourse_MSL
+	15 Red-Crowned Admiral_MSL
+	15 Remnant of the Wild_MSL
+	7 Reytali, Song of the Sand // Reytali of Endless Muses
+	7 Reytali, Song of the Sand // Reytali of Endless Muses
+	6 Rift Splicing_MSL
+	6 Rising Tides_MSL
+	7 Rite of Retribution_MSL
+	7 Rixia, Rift Shunted
+	15 Rokai's Vassal_MSL
+	7 Runecrested Valley_MSL
+	15 Runic Pillars_MSL
+	7 Sage of the Hereafter_MSL
+	4 Salvation Engine_MSL
+	6 Sandwurm's Command_MSL
+	7 Sanguine Mortifier_MSL
+	6 Scorch_MSL
+	6 Scriptures of Urshad_MSL
+	15 Sea's Allure_MSL
+	15 Searshot Dragon_MSL
+	7 Sedna, Deepfathom Delver
+	7 Seluriel's Blessing_MSL
+	15 Sentinel of Latter Days_MSL
+	6 Servant of Precursors_MSL
+	7 Shadowbinder Touka
+	6 Shadowed Apostle_MSL
+	15 Shadowstep Shawl_MSL
+	7 Shared Reminiscence_MSL
+	4 Shared Vigor_MSL
+	6 Sharpened Tusks_MSL
+	7 Shattered Prison_MSL
+	6 Smoldering Husk_MSL
+	6 Spellcycler_MSL
+	4 Sphinx of Myriad Futures
+	6 Springtime_MSL
+	6 Staff of Possibilities_MSL
+	7 Starlight Beacon_MSL
+	7 Stay Determined_MSL
+	15 Still-Smoke Stitcher_MSL
+	15 Stonefall Golem_MSL
+	6 Stormcloud Drake_MSL
+	6 Strange Discovery_MSL
+	6 Street Performer_MSL
+	15 Supreme Stampede_MSL
+	6 Surge of Darkness_MSL
+	7 Symbolic Ontologies
+	7 Sythian Scripture_MSL
+	6 Tactician's Journal_MSL
+	6 Take All You Can Carry_MSL
+	6 Tale of the Wayward Titan_MSL
+	6 Tears of Samang_MSL
+	6 Tempered Ankulim_MSL
+	6 Terracotta Idol_MSL
+	15 Territorial Drake_MSL
+	6 Terror of the Tides_MSL
+	7 The Afterlife Takes Its Due_MSL
+	7 The Amaranthine Eye
+	7 The Ardent Prodigy
+	7 The Art of War_MSL
+	7 The Descent of Vengeance
+	15 The Frontier Beckons_MSL
+	15 The Paragon of Haberdashery
+	7 The River Treader
+	4 The Serpent Throne_MSL
+	4 The Tale of Kings_MSL
+	7 The Undercity Amalgam
+	7 The Unshakable Kian
+	6 Thief's Command_MSL
+	4 Tiger of the Drums
+	6 Titan of Lake Vasil_MSL
+	7 Touch the Void
+	7 Traft, Stensian Demonslayer
+	6 Traitor's Touch_MSL
+	7 Transcendent Priest_MSL
+	15 Treasure Beach_MSL
+	6 Trial by Combat_MSL
+	15 Trying One More Time_MSL
+	6 Twinforged Golem_MSL
+	7 Two-Front War_MSL
+	7 Unbound Expanse_MSL
+	15 Unceasing Flames_MSL
+	6 Undead Banneret_MSL
+	7 Underpass Sentinel_MSL
+	6 Unfettered Atrocity_MSL
+	4 Unified Theory_MSL
+	7 Vespo, Vivaire's Butler
+	15 Wade Through_MSL
+	6 Wanderer of the Wilds_MSL
+	6 Warden of Harshapal Tower_MSL
+	15 Wayfarer's Lantern_MSL
+	6 Wheat from Chaff_MSL
+	7 Whirlpool Ride_MSL
+	6 Whispered Breath_MSL
+	7 Wildbond Aspirant_MSL
+	6 Wildershrine Pilgrimage_MSL
+	7 Witch of the Midden_MSL
+	7 Xolde, High King's Castle_MSL
+	7 Yeshin of New Humanity
+	15 Young Necromancer_MSL
+	7 Ysabelle, Skysworn Maverick
+	7 Zidan, the Blazing Trail

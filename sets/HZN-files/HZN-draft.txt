@@ -1,0 +1,1011 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Adam of the Ironside",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Alonzo, Departed Detective",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Planeswalker — Alonzo",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Animara, Last of the Fell",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Artifact Creature — Vampire",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Brutal Blow",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Bustling Harbor_HZN",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Bvala, Queen of the Swarm",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Planeswalker — Bvala",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Camahueto Calf",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Ox",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Channel the Song",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Ciel, the Raider King",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Planeswalker — Ciel",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Clean-Up Crew",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Clockwork Gaucho",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct Rebel",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Dazzling Dreamspinner",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Demonbane Grenadier",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human Cleric Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Diviner of Blood",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Vampire Demon",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Dreary Township_HZN",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Duskwood Revolutionary",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "End of All Things",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Instant — Revelation",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Endless Helpless Souls",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Evaldi's Muse",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Eye of Dismay",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Horror",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Flamedaunt Courier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Forbidden Burial",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Forest Dragon Telo",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Creature — Elf Shapeshifter",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Forked Pillar",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "From Peace and Purpose",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Fulmen, Aether Prodigy",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Planeswalker — Fulmen",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Galvan Ranger",
+			"rarity": "uncommon",
+			"mana_cost": "{U/R}{U/R}{U/R}",
+			"type": "Creature — Human Artificer Rogue",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Ghislain, Cryptbreaker",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Vampire Rogue",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Glimpse in the Static",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Glittering Grove_HZN",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Gold Retriever",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon Hound",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Griamoor, Deathless Warrior",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Planeswalker — Griamoor",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Grin, Scourge of Goresand",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Berserker",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Hexplate Companion",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Hop of Life",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Horizon Wayfarer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Hunger",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Elemental Incarnation",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Idyll",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Incarnation",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Inescapable Fate",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Invent the Future",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Iroshi, Blade of the Old Ways",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Iroshi",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Iterative Design",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Kenleigh, Liege of Redemption",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Lay Low",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Lorilyf, Home-Tree",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Legendary Enchantment — Realm",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Mind-Pryer",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Monsoon Lagoon_HZN",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Mystery of the Crashed Craft // Epsilon, Crash Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Mystery",
+			"collector_number": "31",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HZN-files/img/31a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/31a_front.jpg"
+			}
+		},
+		{
+			"name": "Mystery of the Crashed Craft // Epsilon, Crash Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Mystery",
+			"collector_number": "31",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/HZN-files/img/31a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/31a_front.jpg"
+			}
+		},
+		{
+			"name": "Night of the Unliving",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Noxious Upwelling",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Pixie Procurer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Plasma Enforcer",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Powder Scatterer",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Faerie Wizard",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Project Head",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Protective Memory",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Reflection Cleric",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Rainy Night Lovers",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Artist",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Repent's Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Reveal Eternities",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Ria-Demian Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Scrap, the Second Myr",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Myr",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Sear Flesh",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Solar Flare",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Soul's Attendant_HZN",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Stormcaller Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Enchantment — Deity",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Tyriel, Angelic Artisan",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Angel Artificer",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Urban Wastelands_HZN",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Vasille Rioters",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Citizen",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Void Portal",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Vulture Valleys",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Warfaring Epunamun",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Spirit Warrior",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Wave Racer",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Waxing Angel",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Angel",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Willow Spirit",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Xirix, the Usurper",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Planeswalker — Xirix",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Zarad, the Final Adversary",
+			"rarity": "mythic",
+			"mana_cost": "{7}{W}{B}",
+			"type": "Legendary Creature — Human Horror",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/HZN-files/img/65.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Adam of the Ironside
+	1 Alonzo, Departed Detective
+	2 Animara, Last of the Fell
+	1 Bvala, Queen of the Swarm
+	2 Camahueto Calf
+	2 Channel the Song
+	1 Ciel, the Raider King
+	2 Clockwork Gaucho
+	2 Dazzling Dreamspinner
+	2 Demonbane Grenadier
+	2 Diviner of Blood
+	2 Duskwood Revolutionary
+	2 End of All Things
+	2 Endless Helpless Souls
+	2 Evaldi's Muse
+	1 Eye of Dismay
+	2 Forest Dragon Telo
+	2 From Peace and Purpose
+	1 Fulmen, Aether Prodigy
+	2 Ghislain, Cryptbreaker
+	2 Gold Retriever
+	1 Griamoor, Deathless Warrior
+	2 Grin, Scourge of Goresand
+	2 Hexplate Companion
+	2 Horizon Wayfarer
+	1 Hunger
+	1 Idyll
+	2 Invent the Future
+	1 Iroshi, Blade of the Old Ways
+	2 Iterative Design
+	2 Kenleigh, Liege of Redemption
+	1 Lorilyf, Home-Tree
+	2 Mind-Pryer
+	2 Night of the Unliving
+	2 Noxious Upwelling
+	2 Pixie Procurer
+	2 Plasma Enforcer
+	2 Powder Scatterer
+	2 Project Head
+	2 Protective Memory
+	2 Rainy Night Lovers
+	1 Tyriel, Angelic Artisan
+	2 Void Portal
+	2 Vulture Valleys
+	2 Warfaring Epunamun
+	2 Wave Racer
+	2 Waxing Angel
+	1 Xirix, the Usurper
+	1 Zarad, the Final Adversary
+[uncommon(3)]
+	4 Bustling Harbor_HZN
+	4 Clean-Up Crew
+	4 Dreary Township_HZN
+	4 Flamedaunt Courier
+	4 Forbidden Burial
+	4 Forked Pillar
+	4 Galvan Ranger
+	4 Glimpse in the Static
+	4 Glittering Grove_HZN
+	4 Hop of Life
+	4 Lay Low
+	4 Monsoon Lagoon_HZN
+	4 Mystery of the Crashed Craft // Epsilon, Crash Captain
+	4 Mystery of the Crashed Craft // Epsilon, Crash Captain
+	4 Repent's Champion
+	4 Reveal Eternities
+	4 Ria-Demian Charm
+	4 Scrap, the Second Myr
+	4 Solar Flare
+	4 Stormcaller Sentinel
+	4 Urban Wastelands_HZN
+	4 Vasille Rioters
+	4 Willow Spirit
+[common(7)]
+	8 Brutal Blow
+	8 Inescapable Fate
+	8 Sear Flesh
+	8 Soul's Attendant_HZN
+[foil(1)]
+	2 Adam of the Ironside
+	1 Alonzo, Departed Detective
+	2 Animara, Last of the Fell
+	12 Brutal Blow
+	6 Bustling Harbor_HZN
+	1 Bvala, Queen of the Swarm
+	2 Camahueto Calf
+	2 Channel the Song
+	1 Ciel, the Raider King
+	6 Clean-Up Crew
+	2 Clockwork Gaucho
+	2 Dazzling Dreamspinner
+	2 Demonbane Grenadier
+	2 Diviner of Blood
+	6 Dreary Township_HZN
+	2 Duskwood Revolutionary
+	2 End of All Things
+	2 Endless Helpless Souls
+	2 Evaldi's Muse
+	1 Eye of Dismay
+	6 Flamedaunt Courier
+	6 Forbidden Burial
+	2 Forest Dragon Telo
+	6 Forked Pillar
+	2 From Peace and Purpose
+	1 Fulmen, Aether Prodigy
+	6 Galvan Ranger
+	2 Ghislain, Cryptbreaker
+	6 Glimpse in the Static
+	6 Glittering Grove_HZN
+	2 Gold Retriever
+	1 Griamoor, Deathless Warrior
+	2 Grin, Scourge of Goresand
+	2 Hexplate Companion
+	6 Hop of Life
+	2 Horizon Wayfarer
+	1 Hunger
+	1 Idyll
+	12 Inescapable Fate
+	2 Invent the Future
+	1 Iroshi, Blade of the Old Ways
+	2 Iterative Design
+	2 Kenleigh, Liege of Redemption
+	6 Lay Low
+	1 Lorilyf, Home-Tree
+	2 Mind-Pryer
+	6 Monsoon Lagoon_HZN
+	6 Mystery of the Crashed Craft // Epsilon, Crash Captain
+	6 Mystery of the Crashed Craft // Epsilon, Crash Captain
+	2 Night of the Unliving
+	2 Noxious Upwelling
+	2 Pixie Procurer
+	2 Plasma Enforcer
+	2 Powder Scatterer
+	2 Project Head
+	2 Protective Memory
+	2 Rainy Night Lovers
+	6 Repent's Champion
+	6 Reveal Eternities
+	6 Ria-Demian Charm
+	6 Scrap, the Second Myr
+	12 Sear Flesh
+	6 Solar Flare
+	12 Soul's Attendant_HZN
+	6 Stormcaller Sentinel
+	1 Tyriel, Angelic Artisan
+	6 Urban Wastelands_HZN
+	6 Vasille Rioters
+	2 Void Portal
+	2 Vulture Valleys
+	2 Warfaring Epunamun
+	2 Wave Racer
+	2 Waxing Angel
+	6 Willow Spirit
+	1 Xirix, the Usurper
+	1 Zarad, the Final Adversary
+[wildcard(1)]
+	7 Adam of the Ironside
+	4 Alonzo, Departed Detective
+	7 Animara, Last of the Fell
+	6 Brutal Blow
+	15 Bustling Harbor_HZN
+	4 Bvala, Queen of the Swarm
+	7 Camahueto Calf
+	7 Channel the Song
+	4 Ciel, the Raider King
+	15 Clean-Up Crew
+	7 Clockwork Gaucho
+	7 Dazzling Dreamspinner
+	7 Demonbane Grenadier
+	7 Diviner of Blood
+	15 Dreary Township_HZN
+	7 Duskwood Revolutionary
+	7 End of All Things
+	7 Endless Helpless Souls
+	7 Evaldi's Muse
+	4 Eye of Dismay
+	15 Flamedaunt Courier
+	15 Forbidden Burial
+	7 Forest Dragon Telo
+	15 Forked Pillar
+	7 From Peace and Purpose
+	4 Fulmen, Aether Prodigy
+	15 Galvan Ranger
+	7 Ghislain, Cryptbreaker
+	15 Glimpse in the Static
+	15 Glittering Grove_HZN
+	7 Gold Retriever
+	4 Griamoor, Deathless Warrior
+	7 Grin, Scourge of Goresand
+	7 Hexplate Companion
+	15 Hop of Life
+	7 Horizon Wayfarer
+	4 Hunger
+	4 Idyll
+	6 Inescapable Fate
+	7 Invent the Future
+	4 Iroshi, Blade of the Old Ways
+	7 Iterative Design
+	7 Kenleigh, Liege of Redemption
+	15 Lay Low
+	4 Lorilyf, Home-Tree
+	7 Mind-Pryer
+	15 Monsoon Lagoon_HZN
+	15 Mystery of the Crashed Craft // Epsilon, Crash Captain
+	15 Mystery of the Crashed Craft // Epsilon, Crash Captain
+	7 Night of the Unliving
+	7 Noxious Upwelling
+	7 Pixie Procurer
+	7 Plasma Enforcer
+	7 Powder Scatterer
+	7 Project Head
+	7 Protective Memory
+	7 Rainy Night Lovers
+	15 Repent's Champion
+	15 Reveal Eternities
+	15 Ria-Demian Charm
+	15 Scrap, the Second Myr
+	6 Sear Flesh
+	15 Solar Flare
+	6 Soul's Attendant_HZN
+	15 Stormcaller Sentinel
+	4 Tyriel, Angelic Artisan
+	15 Urban Wastelands_HZN
+	15 Vasille Rioters
+	7 Void Portal
+	7 Vulture Valleys
+	7 Warfaring Epunamun
+	7 Wave Racer
+	7 Waxing Angel
+	15 Willow Spirit
+	4 Xirix, the Usurper
+	4 Zarad, the Final Adversary

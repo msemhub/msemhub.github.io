@@ -1,0 +1,4009 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abrasive Citizen",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Acolyte of the Tempest",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Aegisul, the Sunspear",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Aetheric Researcher",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Aguri, Shadow of Doubt_KXP",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Spirit Rogue",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/292.jpg"
+			}
+		},
+		{
+			"name": "All Alone",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Amateur Surveying",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Ancient Dominion_KXP",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Mountain Plains",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Ancient Treasures",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Anguished Unmaking_KXP",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Aspiring Dragon",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Attentive Glider",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Possum",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Aukashi, Electric Legacy",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Barbed Reef",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Barhopping in Minei",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Been There, Done That",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Better Together",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Blastburn Angel",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Artifact Creature — Angel",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Blitz Breaker",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Human Warrior",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Blizzard Dragon",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Blood Constrictor",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Bloodfell Caves_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Blossoming Sands_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Brainstorming Session",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Break Down",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Bright Future",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{R}{W}",
+			"type": "Instant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Brutality_KXP",
+			"rarity": "special",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/302.jpg"
+			}
+		},
+		{
+			"name": "Built to Last",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Built to Smash",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Calavanting",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Calciform Wastes",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Callous Conduit",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Carrion Monitor",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Lizard",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Cartographer's Step",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Catacomb Recovery",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Change of Plans",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Charging Cassowary",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Bird",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Chi Lee of the Underworld_KXP",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/303.jpg"
+			}
+		},
+		{
+			"name": "Churner of Souls",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spirit Warlock",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Cloister",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Cloud Swine",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Boar Dragon",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Cold Heart",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Colossal Hermit",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Crab",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Competing Design",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Construct Engine",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Artifact",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Cragstalker Eagle",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Creativity_KXP",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Creativity (Zero)",
+			"rarity": "special",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/296.jpg"
+			}
+		},
+		{
+			"name": "Crested Cloudfisher",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird Dragon",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Crumbling Shrine",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Crushing Guilt",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Crushing Victor",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Cryptic Waypoint",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Curio Hellkite",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Curious Amalgam",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Creature — Platypus",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Curious Charter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Dedicated Waypoint",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Delivery Bird",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird Scout",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Desolate Dominion_KXP",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains Swamp",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Devotee of Winds",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Dismal Backwater_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Distraction Doll",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Doomed Widow",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Draconic Admiration",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Dragon Dance",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Dream Big",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Dreams Come True",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Drop Bear",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Creature — Bear",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Duwinda Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scout Rogue",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Duwinda Sniper",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout Archer",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Eleventh Hour Breakthrough_KXP",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/297.jpg"
+			}
+		},
+		{
+			"name": "Enai, Who Wanders Alone",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{U}{R}",
+			"type": "Legendary Creature — Turtle Scout",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Entelan Contact",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Entelan Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Entelan Idealist",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Wizard Scout",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Event Horizon_KXP",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Expedition Duo",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Experimental Power Source",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Explore the Multiverse",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Fae-Frill Fox_KXP",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Fox",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Fae-Frill Fox (alt)",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Fox",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/304.jpg"
+			}
+		},
+		{
+			"name": "Family Tree",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Firemane Fox_KXP",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Fox",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/305.jpg"
+			}
+		},
+		{
+			"name": "First Snow",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Fleeting Soulkite",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Fox Dragon Spirit",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Flying with Dragons",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Flynn Skara",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Planeswalker — Flynn",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Font of Sorrows",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Forest_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Forget",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Library",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Forsake",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Fox of the Orange Orchard_KXP",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Fox Spirit",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Gatekeeper Geist",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Gemcrusher Turtle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Turtle",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Ghastly Tether_KXP",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Gleaming Waypoint",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Gloomy Waypoint",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Go Hungry",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Goddess' Bloodlust",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Goddess' Legacy",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Goddess' Prosperity",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Goddess' Sympathy",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Goddess' Whimsy",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Gold Retriever_KXP",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon Hound",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/298.jpg"
+			}
+		},
+		{
+			"name": "Grieving Process",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Guiltless Matron",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Guiltless Wraith",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Halcyon Daze",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Hand of the Fallen",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Hannah, Aethertechnician",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Herald of Rot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Plant Horror",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Heraldry_KXP",
+			"rarity": "special",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Here With You",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Hit the Books",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Hot New Thing",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Hotshot Renegade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Hoverstepper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Human Scout",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Hrexa Enforcer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Human Soldier",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Hunger Pangs",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Hunted Haunt",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Scout",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Hyle's Gift",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Icecrowned Fox_KXP",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Fox",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Icecrowned Fox (alt)",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Fox",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/306.jpg"
+			}
+		},
+		{
+			"name": "Ilieth, Transcendent",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Imagination Augmentation",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Implant Greenhouse",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Implant Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Artifact Creature — Human Artificer",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Implant Tinkerer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact Creature — Human Artificer",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Impulse Module",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Artifact",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "In League With Dragons",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Inconspicuous Loxodon_KXP",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Elephant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Inconspicuous Loxodon (Agent E)",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact Creature — Elephant Rogue",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Inconspicuous Otter_KXP",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Otter",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Inconspicuous Otter (Agent O)",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Otter Rogue",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/291.jpg"
+			}
+		},
+		{
+			"name": "Inconspicuous Platypus_KXP",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Platypus",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Inconspicuous Platypus (Agent P)",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Platypus Rogue",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Inconspicuous Sheep_KXP",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Sheep",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Inconspicuous Sheep (Agent S)",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Sheep Rogue",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/301.jpg"
+			}
+		},
+		{
+			"name": "Inconspicuous Stowaway_KXP",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cat",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Inconspicuous Stowaway (Agent C)",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Cat Rogue",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/295.jpg"
+			}
+		},
+		{
+			"name": "Indomitable Spirit",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Into the Woods_KXP",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Intruder Drone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Irbek, Crocodile Hunter",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Planeswalker — Irbek",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Irbek's Bestiary",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Island_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Jet Pack",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Join the Chorus",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Jungle Hollow_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Karina, Planar Tourist",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Planeswalker — Karina",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Karina's Connections",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Laughing Bird",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Leafcrowned Fox_KXP",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Leafcrowned Fox (alt)",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/307.jpg"
+			}
+		},
+		{
+			"name": "Leave Behind",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Limb Extension and Generation System",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Little Pig",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Boar Scout",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Lost in Deep Storage",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Lovebird Lounge",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Majestic Dominion_KXP",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp Forest",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Makeup Call",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Mei's Collection",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Mei Liva, the Broken",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Planeswalker — Mei",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Melt the Chains",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Mentorb_KXP",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/314.jpg"
+			}
+		},
+		{
+			"name": "Mindrip_KXP",
+			"rarity": "special",
+			"mana_cost": "{X}{U}{U}{B}",
+			"type": "Instant",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/308.jpg"
+			}
+		},
+		{
+			"name": "Moon-Rune Fox_KXP",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Fox",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/309.jpg"
+			}
+		},
+		{
+			"name": "Mother Roo",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Kangaroo",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Motley Crew",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Mountain_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Night Life",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Nothing Left",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Off on a Date",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Ominous Presence",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Oscuran Wingmate",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Scout",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Ostracizer Orb_KXP",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Out-of-Body Experience_KXP",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Out Cold",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Overactive Imagination",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Overburdened Trader",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spirit Merchant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Overcharge",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Paint by Numbers",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Panda Pioneer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Panda Wizard",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Path Lighter",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Petrified Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Pidge, Tinkering Courier",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Planeswalker — Pidge",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Pidge's Workbench",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Plains_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Plush Tea Party",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Possibility Engine_KXP",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Artifact",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/299.jpg"
+			}
+		},
+		{
+			"name": "Primal Dominion_KXP",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain Forest",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/316.jpg"
+			}
+		},
+		{
+			"name": "Prismscale Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Pristine Dominion_KXP",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island Mountain",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Prophetic Prism_KXP",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Prove Your Worth",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Rappel",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Reader of Bones",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Recon Hopper",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Insect Scout",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Remnant Spotter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Cat Scout",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Reyhsia, Truth Chaser_KXP",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Reyhsia",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/300.jpg"
+			}
+		},
+		{
+			"name": "Reyhsia's Chronicle",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Rose of Sunspear",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Rugged Dominion_KXP",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest Plains",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/317.jpg"
+			}
+		},
+		{
+			"name": "Rugged Highlands_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Runic Enforcer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Scarcrawler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Mutant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Scattering Shield",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Scenic Route",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Scoff",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Scoured Barrens_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Scrap Metal",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Scrappy Hatchling",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Sealed Riftway_KXP",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/315.jpg"
+			}
+		},
+		{
+			"name": "Search Ancient Troves",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Seaside Skimmer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Second Death",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Self Replication_KXP",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Senn, the Haunting Gaze",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Senn's Essence",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Sense of Adventure",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Ser Wayver, the Broken Hour_KXP",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/310.jpg"
+			}
+		},
+		{
+			"name": "Shadowlurk",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Fox",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Shearing Vampire",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Vampire Rogue",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Shiverpass Taskmage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Cat Scout Wizard",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Shock Baton",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Siphon Student",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Vampire Cleric",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Sisterhood of the Traveling Planes",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/319.jpg"
+			}
+		},
+		{
+			"name": "Skalorian Orbguard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Orb",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Skiviar Scraplord",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact Creature — Dragon",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Skullhoarder Dragon",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Slippery Bunyip",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Beast",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Sludge-Gill Fox_KXP",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Fox Fish",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/288.jpg"
+			}
+		},
+		{
+			"name": "Sluggish Sage",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Sluiceway Collector",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Artifact Creature — Spider",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Small Comfort",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Smoking Skull",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Snarling Devil",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Creature — Possum Dog",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Snooze",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Snow Drift",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Snowed In",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Solari's Faithful",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Something in the Woods",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Sorrowslayer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Soulblade Warrior",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Human Spirit Warrior",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Soulcleaver",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Spiked Burrower",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Brushwagg",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Spiny Ridge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Spiritual Journey",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Stalwart Dominion_KXP",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains Island",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/318.jpg"
+			}
+		},
+		{
+			"name": "Start Fresh",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "State Collapse",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Steelwoven Soldier",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Human Soldier",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Street Stray",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Cat",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Strike from the Shadows_KXP",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/293.jpg"
+			}
+		},
+		{
+			"name": "Sukhar, Consort to the Dark_KXP",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Azra Warrior",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/311.jpg"
+			}
+		},
+		{
+			"name": "Sun-Eyed Fox_KXP",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Fox",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/312.jpg"
+			}
+		},
+		{
+			"name": "Suzume Oshiruko_KXP",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/313.jpg"
+			}
+		},
+		{
+			"name": "Swamp_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Sweet Nothings",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Swiftwater Cliffs_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Swipe Secrets",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Take Flight",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Tempest Dodger",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Temporal Blink",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Test of Mettle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "The Endless Tempest",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "The Locus of Sorrows",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Legendary Creature — Spirit Warlock",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "The Lonely Hunter",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Possum Cat",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "The Moribund Manuscript",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Thirst for Nostalgia",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Thornwood Falls_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Thundering Towershell",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}{G}",
+			"type": "Creature — Turtle",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Thundermane Fox_KXP",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "Tinker Tantrum",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Tireless Archivist",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact Creature — Advisor",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Token of Tribulation",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Torch of Those Underfoot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Creature — Elephant",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Tortle Guard",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Turtle Scout Warrior",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Tortle Tinkerer",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Turtle Scout Artificer",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Tortle Trader",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Turtle Scout",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Tortle Traveler",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Turtle Scout Druid",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Tortle Veteran",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Creature — Turtle Scout",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Tortle Waymaker",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Turtle Scout Warrior",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Trail Blazer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Spirit Scout",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Tranquil Cove_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Tranquil Path",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Trophy Taker",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Scout Rogue",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Trusty Spyglass",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Truth or Dare",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Twilight Vigil",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Unexpected Brawl",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Unraveling_KXP",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/289.jpg"
+			}
+		},
+		{
+			"name": "Unrelenting",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Usona Lurker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Creature — Spirit Warlock",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Valera, Constructed Angel",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Artifact Creature — Angel",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Valinov Collector",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Artifact Creature — Vampire",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Valinov Siphoner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact Creature — Vampire Rogue",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Valinov Vandal",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Artifact Creature — Vampire Rogue",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Vampire Partaker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Cleric",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Vengeful Sorrow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Venom Loop",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Verdant Dominion_KXP",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest Island",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Versatility",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Villainy_KXP",
+			"rarity": "special",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/294.jpg"
+			}
+		},
+		{
+			"name": "Volarian Sightseer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Vulp-o-Wisp",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Fox Spirit",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Wandering Conqueror",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Wandering Dingo",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dog",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Wastes Scrambler",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Well-Oiled Sniper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Human",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Whimsy_KXP",
+			"rarity": "special",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/290.jpg"
+			}
+		},
+		{
+			"name": "Wild Waypoint",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Wind-Scarred Crag_KXP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Wizened Tortle",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Turtle Scout Wizard",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Worldweary Pangolin",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Pangolin",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Family Tree_PRO_KXP",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Inconspicuous Platypus_PRO_KXP",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Platypus",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/287.jpg"
+			}
+		},
+		{
+			"name": "Inconspicuous Platypus (Agent P)",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Platypus Rogue",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/KXP-files/img/285.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Aegisul, the Sunspear
+	2 All Alone
+	1 Ancient Treasures
+	2 Anguished Unmaking_KXP
+	2 Aukashi, Electric Legacy
+	2 Barhopping in Minei
+	2 Blastburn Angel
+	2 Blitz Breaker
+	2 Blizzard Dragon
+	2 Brainstorming Session
+	2 Bright Future
+	1 Cartographer's Step
+	2 Charging Cassowary
+	2 Churner of Souls
+	2 Cloud Swine
+	2 Colossal Hermit
+	2 Construct Engine
+	1 Creativity_KXP
+	2 Curio Hellkite
+	2 Devotee of Winds
+	2 Distraction Doll
+	2 Dream Big
+	2 Drop Bear
+	2 Enai, Who Wanders Alone
+	2 Family Tree
+	1 Flynn Skara
+	2 Forgotten Library
+	2 Forsake
+	2 Goddess' Bloodlust
+	2 Goddess' Legacy
+	2 Goddess' Prosperity
+	2 Goddess' Sympathy
+	2 Goddess' Whimsy
+	2 Grieving Process
+	2 Halcyon Daze
+	1 Hand of the Fallen
+	2 Hannah, Aethertechnician
+	2 Here With You
+	1 Hyle's Gift
+	2 Ilieth, Transcendent
+	2 Imagination Augmentation
+	2 Impulse Module
+	1 In League With Dragons
+	2 Indomitable Spirit
+	1 Irbek, Crocodile Hunter
+	1 Irbek's Bestiary
+	2 Join the Chorus
+	1 Karina, Planar Tourist
+	2 Karina's Connections
+	2 Limb Extension and Generation System
+	2 Lovebird Lounge
+	2 Mei's Collection
+	1 Mei Liva, the Broken
+	1 Nothing Left
+	2 Overactive Imagination
+	1 Paint by Numbers
+	1 Pidge, Tinkering Courier
+	1 Pidge's Workbench
+	2 Prove Your Worth
+	2 Reyhsia's Chronicle
+	2 Rose of Sunspear
+	2 Second Death
+	2 Senn, the Haunting Gaze
+	2 Sluggish Sage
+	2 Sluiceway Collector
+	2 Snarling Devil
+	2 Solari's Faithful
+	2 Something in the Woods
+	2 Take Flight
+	2 Temporal Blink
+	1 The Endless Tempest
+	2 The Locus of Sorrows
+	2 The Lonely Hunter
+	1 The Moribund Manuscript
+	2 Thundering Towershell
+	2 Tinker Tantrum
+	2 Tireless Archivist
+	1 Token of Tribulation
+	2 Twilight Vigil
+	2 Unrelenting
+	2 Valera, Constructed Angel
+	1 Versatility
+	2 Wandering Conqueror
+	2 Wastes Scrambler
+	2 Worldweary Pangolin
+[uncommon(3)]
+	4 Acolyte of the Tempest
+	4 Aetheric Researcher
+	4 Ancient Dominion_KXP
+	4 Attentive Glider
+	4 Barbed Reef
+	4 Better Together
+	4 Blood Constrictor
+	4 Calavanting
+	4 Calciform Wastes
+	4 Cloister
+	4 Cragstalker Eagle
+	4 Crumbling Shrine
+	4 Curious Amalgam
+	4 Curious Charter
+	4 Desolate Dominion_KXP
+	4 Draconic Admiration
+	4 Dreams Come True
+	4 Entelan Contact
+	4 Entelan Duelist
+	4 Experimental Power Source
+	4 Explore the Multiverse
+	4 Fae-Frill Fox_KXP
+	4 Flying with Dragons
+	4 Font of Sorrows
+	4 Forget
+	4 Gemcrusher Turtle
+	4 Guiltless Matron
+	4 Herald of Rot
+	4 Hit the Books
+	4 Hotshot Renegade
+	4 Hoverstepper
+	4 Hunger Pangs
+	4 Icecrowned Fox_KXP
+	4 Implant Greenhouse
+	4 Implant Scavenger
+	4 Implant Tinkerer
+	4 Inconspicuous Loxodon_KXP
+	4 Inconspicuous Otter_KXP
+	4 Inconspicuous Platypus_KXP
+	4 Inconspicuous Sheep_KXP
+	4 Inconspicuous Stowaway_KXP
+	4 Intruder Drone
+	4 Jet Pack
+	4 Leafcrowned Fox_KXP
+	4 Majestic Dominion_KXP
+	4 Makeup Call
+	4 Mother Roo
+	4 Ominous Presence
+	4 Panda Pioneer
+	4 Petrified Guard
+	4 Plush Tea Party
+	4 Prismscale Dragon
+	4 Pristine Dominion_KXP
+	4 Reader of Bones
+	4 Remnant Spotter
+	4 Scarcrawler
+	4 Scenic Route
+	4 Sense of Adventure
+	4 Shiverpass Taskmage
+	4 Skalorian Orbguard
+	4 Slippery Bunyip
+	4 Snooze
+	4 Snow Drift
+	4 Soulcleaver
+	4 Spiny Ridge
+	4 Start Fresh
+	4 Swipe Secrets
+	4 Test of Mettle
+	4 Torch of Those Underfoot
+	4 Tortle Trader
+	4 Tortle Veteran
+	4 Trail Blazer
+	4 Tranquil Path
+	4 Truth or Dare
+	4 Usona Lurker
+	4 Valinov Collector
+	4 Valinov Siphoner
+	4 Valinov Vandal
+	4 Vengeful Sorrow
+	4 Verdant Dominion_KXP
+	4 Volarian Sightseer
+	4 Vulp-o-Wisp
+	4 Well-Oiled Sniper
+[common(7)]
+	8 Abrasive Citizen
+	8 Amateur Surveying
+	8 Aspiring Dragon
+	8 Been There, Done That
+	8 Bloodfell Caves_KXP
+	8 Blossoming Sands_KXP
+	8 Break Down
+	8 Built to Last
+	8 Built to Smash
+	8 Callous Conduit
+	8 Carrion Monitor
+	8 Catacomb Recovery
+	8 Change of Plans
+	8 Cold Heart
+	8 Competing Design
+	8 Crested Cloudfisher
+	8 Crushing Guilt
+	8 Crushing Victor
+	8 Cryptic Waypoint
+	8 Dedicated Waypoint
+	8 Delivery Bird
+	8 Dismal Backwater_KXP
+	8 Doomed Widow
+	8 Dragon Dance
+	8 Duwinda Hunter
+	8 Duwinda Sniper
+	8 Entelan Idealist
+	8 Expedition Duo
+	8 First Snow
+	8 Fleeting Soulkite
+	8 Gatekeeper Geist
+	8 Ghastly Tether_KXP
+	8 Gleaming Waypoint
+	8 Gloomy Waypoint
+	8 Go Hungry
+	8 Guiltless Wraith
+	8 Hot New Thing
+	8 Hrexa Enforcer
+	8 Hunted Haunt
+	8 Into the Woods_KXP
+	8 Jungle Hollow_KXP
+	8 Laughing Bird
+	8 Leave Behind
+	8 Little Pig
+	8 Lost in Deep Storage
+	8 Melt the Chains
+	8 Motley Crew
+	8 Night Life
+	8 Off on a Date
+	8 Oscuran Wingmate
+	8 Out Cold
+	8 Overburdened Trader
+	8 Overcharge
+	8 Path Lighter
+	8 Prophetic Prism_KXP
+	8 Rappel
+	8 Recon Hopper
+	8 Rugged Highlands_KXP
+	8 Runic Enforcer
+	8 Scattering Shield
+	8 Scoff
+	8 Scoured Barrens_KXP
+	8 Scrap Metal
+	8 Scrappy Hatchling
+	8 Search Ancient Troves
+	8 Seaside Skimmer
+	8 Senn's Essence
+	8 Shadowlurk
+	8 Shearing Vampire
+	8 Shock Baton
+	8 Siphon Student
+	8 Skiviar Scraplord
+	8 Skullhoarder Dragon
+	8 Small Comfort
+	8 Smoking Skull
+	8 Snowed In
+	8 Sorrowslayer
+	8 Soulblade Warrior
+	8 Spiked Burrower
+	8 Spiritual Journey
+	8 State Collapse
+	8 Steelwoven Soldier
+	8 Street Stray
+	8 Sweet Nothings
+	8 Swiftwater Cliffs_KXP
+	8 Tempest Dodger
+	8 Thirst for Nostalgia
+	8 Thornwood Falls_KXP
+	8 Tortle Guard
+	8 Tortle Tinkerer
+	8 Tortle Traveler
+	8 Tortle Waymaker
+	8 Tranquil Cove_KXP
+	8 Trophy Taker
+	8 Trusty Spyglass
+	8 Unexpected Brawl
+	8 Vampire Partaker
+	8 Venom Loop
+	8 Wandering Dingo
+	8 Wild Waypoint
+	8 Wind-Scarred Crag_KXP
+	8 Wizened Tortle
+[foil(1)]
+	12 Abrasive Citizen
+	6 Acolyte of the Tempest
+	1 Aegisul, the Sunspear
+	6 Aetheric Researcher
+	2 All Alone
+	12 Amateur Surveying
+	6 Ancient Dominion_KXP
+	1 Ancient Treasures
+	2 Anguished Unmaking_KXP
+	12 Aspiring Dragon
+	6 Attentive Glider
+	2 Aukashi, Electric Legacy
+	6 Barbed Reef
+	2 Barhopping in Minei
+	12 Been There, Done That
+	6 Better Together
+	2 Blastburn Angel
+	2 Blitz Breaker
+	2 Blizzard Dragon
+	6 Blood Constrictor
+	12 Bloodfell Caves_KXP
+	12 Blossoming Sands_KXP
+	2 Brainstorming Session
+	12 Break Down
+	2 Bright Future
+	12 Built to Last
+	12 Built to Smash
+	6 Calavanting
+	6 Calciform Wastes
+	12 Callous Conduit
+	12 Carrion Monitor
+	1 Cartographer's Step
+	12 Catacomb Recovery
+	12 Change of Plans
+	2 Charging Cassowary
+	2 Churner of Souls
+	6 Cloister
+	2 Cloud Swine
+	12 Cold Heart
+	2 Colossal Hermit
+	12 Competing Design
+	2 Construct Engine
+	6 Cragstalker Eagle
+	1 Creativity_KXP
+	12 Crested Cloudfisher
+	6 Crumbling Shrine
+	12 Crushing Guilt
+	12 Crushing Victor
+	12 Cryptic Waypoint
+	2 Curio Hellkite
+	6 Curious Amalgam
+	6 Curious Charter
+	12 Dedicated Waypoint
+	12 Delivery Bird
+	6 Desolate Dominion_KXP
+	2 Devotee of Winds
+	12 Dismal Backwater_KXP
+	2 Distraction Doll
+	12 Doomed Widow
+	6 Draconic Admiration
+	12 Dragon Dance
+	2 Dream Big
+	6 Dreams Come True
+	2 Drop Bear
+	12 Duwinda Hunter
+	12 Duwinda Sniper
+	2 Enai, Who Wanders Alone
+	6 Entelan Contact
+	6 Entelan Duelist
+	12 Entelan Idealist
+	12 Expedition Duo
+	6 Experimental Power Source
+	6 Explore the Multiverse
+	6 Fae-Frill Fox_KXP
+	2 Family Tree
+	12 First Snow
+	12 Fleeting Soulkite
+	6 Flying with Dragons
+	1 Flynn Skara
+	6 Font of Sorrows
+	6 Forget
+	2 Forgotten Library
+	2 Forsake
+	12 Gatekeeper Geist
+	6 Gemcrusher Turtle
+	12 Ghastly Tether_KXP
+	12 Gleaming Waypoint
+	12 Gloomy Waypoint
+	12 Go Hungry
+	2 Goddess' Bloodlust
+	2 Goddess' Legacy
+	2 Goddess' Prosperity
+	2 Goddess' Sympathy
+	2 Goddess' Whimsy
+	2 Grieving Process
+	6 Guiltless Matron
+	12 Guiltless Wraith
+	2 Halcyon Daze
+	1 Hand of the Fallen
+	2 Hannah, Aethertechnician
+	6 Herald of Rot
+	2 Here With You
+	6 Hit the Books
+	12 Hot New Thing
+	6 Hotshot Renegade
+	6 Hoverstepper
+	12 Hrexa Enforcer
+	6 Hunger Pangs
+	12 Hunted Haunt
+	1 Hyle's Gift
+	6 Icecrowned Fox_KXP
+	2 Ilieth, Transcendent
+	2 Imagination Augmentation
+	6 Implant Greenhouse
+	6 Implant Scavenger
+	6 Implant Tinkerer
+	2 Impulse Module
+	1 In League With Dragons
+	6 Inconspicuous Loxodon_KXP
+	6 Inconspicuous Otter_KXP
+	6 Inconspicuous Platypus_KXP
+	6 Inconspicuous Sheep_KXP
+	6 Inconspicuous Stowaway_KXP
+	2 Indomitable Spirit
+	12 Into the Woods_KXP
+	6 Intruder Drone
+	1 Irbek, Crocodile Hunter
+	1 Irbek's Bestiary
+	6 Jet Pack
+	2 Join the Chorus
+	12 Jungle Hollow_KXP
+	1 Karina, Planar Tourist
+	2 Karina's Connections
+	12 Laughing Bird
+	6 Leafcrowned Fox_KXP
+	12 Leave Behind
+	2 Limb Extension and Generation System
+	12 Little Pig
+	12 Lost in Deep Storage
+	2 Lovebird Lounge
+	6 Majestic Dominion_KXP
+	6 Makeup Call
+	2 Mei's Collection
+	1 Mei Liva, the Broken
+	12 Melt the Chains
+	6 Mother Roo
+	12 Motley Crew
+	12 Night Life
+	1 Nothing Left
+	12 Off on a Date
+	6 Ominous Presence
+	12 Oscuran Wingmate
+	12 Out Cold
+	2 Overactive Imagination
+	12 Overburdened Trader
+	12 Overcharge
+	1 Paint by Numbers
+	6 Panda Pioneer
+	12 Path Lighter
+	6 Petrified Guard
+	1 Pidge, Tinkering Courier
+	1 Pidge's Workbench
+	6 Plush Tea Party
+	6 Prismscale Dragon
+	6 Pristine Dominion_KXP
+	12 Prophetic Prism_KXP
+	2 Prove Your Worth
+	12 Rappel
+	6 Reader of Bones
+	12 Recon Hopper
+	6 Remnant Spotter
+	2 Reyhsia's Chronicle
+	2 Rose of Sunspear
+	12 Rugged Highlands_KXP
+	12 Runic Enforcer
+	6 Scarcrawler
+	12 Scattering Shield
+	6 Scenic Route
+	12 Scoff
+	12 Scoured Barrens_KXP
+	12 Scrap Metal
+	12 Scrappy Hatchling
+	12 Search Ancient Troves
+	12 Seaside Skimmer
+	2 Second Death
+	2 Senn, the Haunting Gaze
+	12 Senn's Essence
+	6 Sense of Adventure
+	12 Shadowlurk
+	12 Shearing Vampire
+	6 Shiverpass Taskmage
+	12 Shock Baton
+	12 Siphon Student
+	6 Skalorian Orbguard
+	12 Skiviar Scraplord
+	12 Skullhoarder Dragon
+	6 Slippery Bunyip
+	2 Sluggish Sage
+	2 Sluiceway Collector
+	12 Small Comfort
+	12 Smoking Skull
+	2 Snarling Devil
+	6 Snooze
+	6 Snow Drift
+	12 Snowed In
+	2 Solari's Faithful
+	2 Something in the Woods
+	12 Sorrowslayer
+	12 Soulblade Warrior
+	6 Soulcleaver
+	12 Spiked Burrower
+	6 Spiny Ridge
+	12 Spiritual Journey
+	6 Start Fresh
+	12 State Collapse
+	12 Steelwoven Soldier
+	12 Street Stray
+	12 Sweet Nothings
+	12 Swiftwater Cliffs_KXP
+	6 Swipe Secrets
+	2 Take Flight
+	12 Tempest Dodger
+	2 Temporal Blink
+	6 Test of Mettle
+	1 The Endless Tempest
+	2 The Locus of Sorrows
+	2 The Lonely Hunter
+	1 The Moribund Manuscript
+	12 Thirst for Nostalgia
+	12 Thornwood Falls_KXP
+	2 Thundering Towershell
+	2 Tinker Tantrum
+	2 Tireless Archivist
+	1 Token of Tribulation
+	6 Torch of Those Underfoot
+	12 Tortle Guard
+	12 Tortle Tinkerer
+	6 Tortle Trader
+	12 Tortle Traveler
+	6 Tortle Veteran
+	12 Tortle Waymaker
+	6 Trail Blazer
+	12 Tranquil Cove_KXP
+	6 Tranquil Path
+	12 Trophy Taker
+	12 Trusty Spyglass
+	6 Truth or Dare
+	2 Twilight Vigil
+	12 Unexpected Brawl
+	2 Unrelenting
+	6 Usona Lurker
+	2 Valera, Constructed Angel
+	6 Valinov Collector
+	6 Valinov Siphoner
+	6 Valinov Vandal
+	12 Vampire Partaker
+	6 Vengeful Sorrow
+	12 Venom Loop
+	6 Verdant Dominion_KXP
+	1 Versatility
+	6 Volarian Sightseer
+	6 Vulp-o-Wisp
+	2 Wandering Conqueror
+	12 Wandering Dingo
+	2 Wastes Scrambler
+	6 Well-Oiled Sniper
+	12 Wild Waypoint
+	12 Wind-Scarred Crag_KXP
+	12 Wizened Tortle
+	2 Worldweary Pangolin
+[wildcard(1)]
+	6 Abrasive Citizen
+	15 Acolyte of the Tempest
+	4 Aegisul, the Sunspear
+	15 Aetheric Researcher
+	7 All Alone
+	6 Amateur Surveying
+	15 Ancient Dominion_KXP
+	4 Ancient Treasures
+	7 Anguished Unmaking_KXP
+	6 Aspiring Dragon
+	15 Attentive Glider
+	7 Aukashi, Electric Legacy
+	15 Barbed Reef
+	7 Barhopping in Minei
+	6 Been There, Done That
+	15 Better Together
+	7 Blastburn Angel
+	7 Blitz Breaker
+	7 Blizzard Dragon
+	15 Blood Constrictor
+	6 Bloodfell Caves_KXP
+	6 Blossoming Sands_KXP
+	7 Brainstorming Session
+	6 Break Down
+	7 Bright Future
+	6 Built to Last
+	6 Built to Smash
+	15 Calavanting
+	15 Calciform Wastes
+	6 Callous Conduit
+	6 Carrion Monitor
+	4 Cartographer's Step
+	6 Catacomb Recovery
+	6 Change of Plans
+	7 Charging Cassowary
+	7 Churner of Souls
+	15 Cloister
+	7 Cloud Swine
+	6 Cold Heart
+	7 Colossal Hermit
+	6 Competing Design
+	7 Construct Engine
+	15 Cragstalker Eagle
+	4 Creativity_KXP
+	6 Crested Cloudfisher
+	15 Crumbling Shrine
+	6 Crushing Guilt
+	6 Crushing Victor
+	6 Cryptic Waypoint
+	7 Curio Hellkite
+	15 Curious Amalgam
+	15 Curious Charter
+	6 Dedicated Waypoint
+	6 Delivery Bird
+	15 Desolate Dominion_KXP
+	7 Devotee of Winds
+	6 Dismal Backwater_KXP
+	7 Distraction Doll
+	6 Doomed Widow
+	15 Draconic Admiration
+	6 Dragon Dance
+	7 Dream Big
+	15 Dreams Come True
+	7 Drop Bear
+	6 Duwinda Hunter
+	6 Duwinda Sniper
+	7 Enai, Who Wanders Alone
+	15 Entelan Contact
+	15 Entelan Duelist
+	6 Entelan Idealist
+	6 Expedition Duo
+	15 Experimental Power Source
+	15 Explore the Multiverse
+	15 Fae-Frill Fox_KXP
+	7 Family Tree
+	6 First Snow
+	6 Fleeting Soulkite
+	15 Flying with Dragons
+	4 Flynn Skara
+	15 Font of Sorrows
+	15 Forget
+	7 Forgotten Library
+	7 Forsake
+	6 Gatekeeper Geist
+	15 Gemcrusher Turtle
+	6 Ghastly Tether_KXP
+	6 Gleaming Waypoint
+	6 Gloomy Waypoint
+	6 Go Hungry
+	7 Goddess' Bloodlust
+	7 Goddess' Legacy
+	7 Goddess' Prosperity
+	7 Goddess' Sympathy
+	7 Goddess' Whimsy
+	7 Grieving Process
+	15 Guiltless Matron
+	6 Guiltless Wraith
+	7 Halcyon Daze
+	4 Hand of the Fallen
+	7 Hannah, Aethertechnician
+	15 Herald of Rot
+	7 Here With You
+	15 Hit the Books
+	6 Hot New Thing
+	15 Hotshot Renegade
+	15 Hoverstepper
+	6 Hrexa Enforcer
+	15 Hunger Pangs
+	6 Hunted Haunt
+	4 Hyle's Gift
+	15 Icecrowned Fox_KXP
+	7 Ilieth, Transcendent
+	7 Imagination Augmentation
+	15 Implant Greenhouse
+	15 Implant Scavenger
+	15 Implant Tinkerer
+	7 Impulse Module
+	4 In League With Dragons
+	15 Inconspicuous Loxodon_KXP
+	15 Inconspicuous Otter_KXP
+	15 Inconspicuous Platypus_KXP
+	15 Inconspicuous Sheep_KXP
+	15 Inconspicuous Stowaway_KXP
+	7 Indomitable Spirit
+	6 Into the Woods_KXP
+	15 Intruder Drone
+	4 Irbek, Crocodile Hunter
+	4 Irbek's Bestiary
+	15 Jet Pack
+	7 Join the Chorus
+	6 Jungle Hollow_KXP
+	4 Karina, Planar Tourist
+	7 Karina's Connections
+	6 Laughing Bird
+	15 Leafcrowned Fox_KXP
+	6 Leave Behind
+	7 Limb Extension and Generation System
+	6 Little Pig
+	6 Lost in Deep Storage
+	7 Lovebird Lounge
+	15 Majestic Dominion_KXP
+	15 Makeup Call
+	7 Mei's Collection
+	4 Mei Liva, the Broken
+	6 Melt the Chains
+	15 Mother Roo
+	6 Motley Crew
+	6 Night Life
+	4 Nothing Left
+	6 Off on a Date
+	15 Ominous Presence
+	6 Oscuran Wingmate
+	6 Out Cold
+	7 Overactive Imagination
+	6 Overburdened Trader
+	6 Overcharge
+	4 Paint by Numbers
+	15 Panda Pioneer
+	6 Path Lighter
+	15 Petrified Guard
+	4 Pidge, Tinkering Courier
+	4 Pidge's Workbench
+	15 Plush Tea Party
+	15 Prismscale Dragon
+	15 Pristine Dominion_KXP
+	6 Prophetic Prism_KXP
+	7 Prove Your Worth
+	6 Rappel
+	15 Reader of Bones
+	6 Recon Hopper
+	15 Remnant Spotter
+	7 Reyhsia's Chronicle
+	7 Rose of Sunspear
+	6 Rugged Highlands_KXP
+	6 Runic Enforcer
+	15 Scarcrawler
+	6 Scattering Shield
+	15 Scenic Route
+	6 Scoff
+	6 Scoured Barrens_KXP
+	6 Scrap Metal
+	6 Scrappy Hatchling
+	6 Search Ancient Troves
+	6 Seaside Skimmer
+	7 Second Death
+	7 Senn, the Haunting Gaze
+	6 Senn's Essence
+	15 Sense of Adventure
+	6 Shadowlurk
+	6 Shearing Vampire
+	15 Shiverpass Taskmage
+	6 Shock Baton
+	6 Siphon Student
+	15 Skalorian Orbguard
+	6 Skiviar Scraplord
+	6 Skullhoarder Dragon
+	15 Slippery Bunyip
+	7 Sluggish Sage
+	7 Sluiceway Collector
+	6 Small Comfort
+	6 Smoking Skull
+	7 Snarling Devil
+	15 Snooze
+	15 Snow Drift
+	6 Snowed In
+	7 Solari's Faithful
+	7 Something in the Woods
+	6 Sorrowslayer
+	6 Soulblade Warrior
+	15 Soulcleaver
+	6 Spiked Burrower
+	15 Spiny Ridge
+	6 Spiritual Journey
+	15 Start Fresh
+	6 State Collapse
+	6 Steelwoven Soldier
+	6 Street Stray
+	6 Sweet Nothings
+	6 Swiftwater Cliffs_KXP
+	15 Swipe Secrets
+	7 Take Flight
+	6 Tempest Dodger
+	7 Temporal Blink
+	15 Test of Mettle
+	4 The Endless Tempest
+	7 The Locus of Sorrows
+	7 The Lonely Hunter
+	4 The Moribund Manuscript
+	6 Thirst for Nostalgia
+	6 Thornwood Falls_KXP
+	7 Thundering Towershell
+	7 Tinker Tantrum
+	7 Tireless Archivist
+	4 Token of Tribulation
+	15 Torch of Those Underfoot
+	6 Tortle Guard
+	6 Tortle Tinkerer
+	15 Tortle Trader
+	6 Tortle Traveler
+	15 Tortle Veteran
+	6 Tortle Waymaker
+	15 Trail Blazer
+	6 Tranquil Cove_KXP
+	15 Tranquil Path
+	6 Trophy Taker
+	6 Trusty Spyglass
+	15 Truth or Dare
+	7 Twilight Vigil
+	6 Unexpected Brawl
+	7 Unrelenting
+	15 Usona Lurker
+	7 Valera, Constructed Angel
+	15 Valinov Collector
+	15 Valinov Siphoner
+	15 Valinov Vandal
+	6 Vampire Partaker
+	15 Vengeful Sorrow
+	6 Venom Loop
+	15 Verdant Dominion_KXP
+	4 Versatility
+	15 Volarian Sightseer
+	15 Vulp-o-Wisp
+	7 Wandering Conqueror
+	6 Wandering Dingo
+	7 Wastes Scrambler
+	15 Well-Oiled Sniper
+	6 Wild Waypoint
+	6 Wind-Scarred Crag_KXP
+	6 Wizened Tortle
+	7 Worldweary Pangolin

@@ -1,0 +1,3701 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "A Lady's Favor",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Absence of the Unmaker",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Across the Bay",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Ambition's Crown",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Ambitious Dreams",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Amongst the Flames",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Ancestral Zweihander",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Arcor Windfall",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Ardent Charge",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Arrive Unseen",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Arrogant Fencer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Noble Soldier",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Arrogant Training // Imperious Hero",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/2a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/2a_front.jpg"
+			}
+		},
+		{
+			"name": "Arrogant Training // Imperious Hero",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/2a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/2a_front.jpg"
+			}
+		},
+		{
+			"name": "Attended Knight",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Batterbrow Brigand",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Battlement Prowler",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Bat",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Batwing Initiate",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Bearer of Fables",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Bend the Knee",
+			"rarity": "rare",
+			"mana_cost": "{3}{W/B}{W/B}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Beneath the Lilies",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Bloodied Twinblade",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Bustling Docks",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Captain of the Exiled",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Captain of the Militia",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Caravan Merchant",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Catch Unawares",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Cauldish Arrogant",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Cauldish Banneret",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Cauldish Cavalier",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Cauldish Hookblade",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Cauldish Informant",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Noble",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Cauldish Schemes",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Cauldish Warmonger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R/W}",
+			"type": "Creature — Human Noble Warrior",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Change of Fortunes",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Choked Estuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Civilized Debate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Cloak of the Exiled",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Commoners' Favored",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Commoners' Justice",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Confident Cavalier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Conniving Brigand",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Coven Adherent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Coward's Compulsion",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Crossroad Bard",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Citizen Bard",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Crossways Inn",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Curiosity",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Daelish Arbalest",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Archer",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Daelish Archer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Archer",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Daelish Hopeful",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Daelish Horticulturist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Daelish Messenger",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Bird Scout",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Dance of Grace // Paragon of Virtue",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/8a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/8a_front.jpg"
+			}
+		},
+		{
+			"name": "Dance of Grace // Paragon of Virtue",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/8a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/8a_front.jpg"
+			}
+		},
+		{
+			"name": "Dead Man's Armor",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Death's Door // Immortal Butcher",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "82",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/82a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/82a_front.jpg"
+			}
+		},
+		{
+			"name": "Death's Door // Immortal Butcher",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "82",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/82a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/82a_front.jpg"
+			}
+		},
+		{
+			"name": "Declan, Wayward Squire",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Declare, the Mother Bear",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Decorated Duelist",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Deflecting Strike",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Deft Goldsnatch",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Derelict Amphitheatre",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Desperate Reconnoiterer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Dissolve_TWR",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Distracting Handmaiden",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Noble",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Drake Youngling",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Drunken Night // Drunkard Knight",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/49a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/49a_front.jpg"
+			}
+		},
+		{
+			"name": "Drunken Night // Drunkard Knight",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/49a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/49a_front.jpg"
+			}
+		},
+		{
+			"name": "Duke Gerard Hoff",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Duress",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Earnest Labourer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Ellis, Caravan Captain",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Human Mutant",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Empty the Barracks",
+			"rarity": "common",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Escort Recruiter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Exile's Vanguard",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Exiled Warband",
+			"rarity": "common",
+			"mana_cost": "{2}{U/B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Fables of the Bold",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/G}",
+			"type": "Enchantment",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Fall of Whiterun Harbor",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Fall of the Axe",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Farmer's Repose",
+			"rarity": "common",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Feathered Dancer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Mutant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Femourri Archer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Archer",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Fen Guide",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid Warrior",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Ferris, the Sapphire Storm",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Ferris's Crewmate",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Flash of Inspiration",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Forbidden Knowledge",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Foreboding Ruins",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Forest_TWR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Forgo the Past",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Fortified Village",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Frayed Nerves",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Game Trail",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Generous Offer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G/W}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Gild-Cloak Strider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/U}",
+			"type": "Creature — Human Knight",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Gilded Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Noble Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Grand Tourney",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Green Pelt Hart",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Grizzled Captain",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Grouchy Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Hand of the Exiled",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Harmonized Intellect",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Harrowing Knight",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Hasty Intervention // Setting Up Camp",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/13a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/13a_front.jpg"
+			}
+		},
+		{
+			"name": "Hasty Intervention // Setting Up Camp",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/13a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/13a_front.jpg"
+			}
+		},
+		{
+			"name": "Hedge Knight",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Helene, Steel of the Exiled",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Hermit's Travels // Ascetic's Journey",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/160a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/160a_front.jpg"
+			}
+		},
+		{
+			"name": "Hermit's Travels // Ascetic's Journey",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/160a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/160a_front.jpg"
+			}
+		},
+		{
+			"name": "Highborn Meditant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/U}{G/U}",
+			"type": "Creature — Human Noble",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Hoff's Scout",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Drake Scout",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Hooded Inquirers",
+			"rarity": "common",
+			"mana_cost": "{3}{G/U}{G/U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Horizon Militant",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Host of Nature",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Hound of Glory",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Hypersomnia",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Ill-Advised Tactics",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Imperious Falconer",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}",
+			"type": "Creature — Human Noble Warrior",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Inexperienced Martyr",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Inner Dogmatism",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Inspirational Copse",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Insurgent Ballads",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Interlocked Waterways",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Iron Signet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Island_TWR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Isolated Cloister",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Jailer's Manacles",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "King Visserine of Daeland",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Knight of the Hawk",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Knight of the Raven",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Knight of the Staff",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Knight",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Knight of the Stag",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Knight of the Verdigris",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Lady Genvieve of Caulder",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Human Noble Warrior",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Left for Carrion",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Lone Heroics // Exalted Charge",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/165a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/165a_front.jpg"
+			}
+		},
+		{
+			"name": "Lone Heroics // Exalted Charge",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/165a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/165a_front.jpg"
+			}
+		},
+		{
+			"name": "Lord's Griffin",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Lord Dalehorn the Iron-Handed",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Noble Soldier",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Lord Jared, the Griffin Knight",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Noble Knight",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Maddened Elk",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elk",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Measured Contemplation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Melting Point",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Mercenary Coercer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Mercenary Lancer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Merchant's Bane",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Kraken",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Merciless Exiled",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Messenger's Haste",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Minor Melee",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Misleading Doubts",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Mismatched Bandit",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Mutant Rogue",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Moment of Glory // Legacy of Victory",
+			"rarity": "common",
+			"mana_cost": "{R/W}",
+			"type": "Sorcery",
+			"collector_number": "211",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/211a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/211a_front.jpg"
+			}
+		},
+		{
+			"name": "Moment of Glory // Legacy of Victory",
+			"rarity": "common",
+			"mana_cost": "{R/W}",
+			"type": "Sorcery",
+			"collector_number": "211",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/211a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/211a_front.jpg"
+			}
+		},
+		{
+			"name": "Moment of Tranquility",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Morning Mists",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Mountain_TWR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Mutual Destruction",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Noble's Hedonism",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Old Grudges",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Opportunistic Raiders",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/R}{B/R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Pacifism",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Painful Reminiscence",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Peace of the Glade",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Perish in Harmony",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Pilgrim's Muse",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Plains_TWR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Plated Valiant",
+			"rarity": "common",
+			"mana_cost": "{1}{W/B}{W/B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Plunge Through the Heart",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/B}",
+			"type": "Sorcery",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Port Town",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Portent of the Long Winter",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Price of Power",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Proposer of Peace",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Publicly Disgraced // Kept Under Watch",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/24a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/24a_front.jpg"
+			}
+		},
+		{
+			"name": "Publicly Disgraced // Kept Under Watch",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/24a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/24a_front.jpg"
+			}
+		},
+		{
+			"name": "Punish the Bold",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Pursued Paranoia",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Rafter Stalker",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Rally the Volunteers",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Ranger's Guile",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Rapscallion Duo",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Ready the Jousts",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Reckless Cultivator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R/G}{R/G}",
+			"type": "Creature — Human Noble",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Red Pelt Hart",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elk",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Reflect Upon the Past",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Requiem of the Fallen",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/G}",
+			"type": "Enchantment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Restless Hedonist",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Reverence Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Roads Twice Traveled",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Royal Summons",
+			"rarity": "common",
+			"mana_cost": "{1}{W/U}",
+			"type": "Instant",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Sage's Foresight // Sage's Tales",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/25a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/25a_front.jpg"
+			}
+		},
+		{
+			"name": "Sage's Foresight // Sage's Tales",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/25a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/25a_front.jpg"
+			}
+		},
+		{
+			"name": "Sails of Commerce",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Satisfied Gleaner",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Scarred Brawler",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Scraps of Memory",
+			"rarity": "uncommon",
+			"mana_cost": "{U/R}",
+			"type": "Instant",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Seal the Tomb",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Secluded Wildborn",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Mutant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Seek Glory // Warforged Hero",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/26a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/26a_front.jpg"
+			}
+		},
+		{
+			"name": "Seek Glory // Warforged Hero",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/26a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/26a_front.jpg"
+			}
+		},
+		{
+			"name": "Ser Joffrey, Plague of Nines",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Ser Malcomn",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Sera of Coppercove",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Shadowed Slums",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Shatter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Shrouded Cackler",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Silverwork Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Slayer of the Famed",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Social Graces",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Splitshaft Deadeye",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Archer",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Spur to Action",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Steel-Art Exemplar",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Steward's Tithe",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Stoneskin Brawler",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Human Mutant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Sturdy Belligerent",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Sunken Ambitions",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Sunpiercing Bow",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Surge of Duty // Undeterred Valiance",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "136",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/136a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/136a_front.jpg"
+			}
+		},
+		{
+			"name": "Surge of Duty // Undeterred Valiance",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "136",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/136a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/136a_front.jpg"
+			}
+		},
+		{
+			"name": "Swamp_TWR",
+			"rarity": "basic",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Sway the Naive",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}{B/R}",
+			"type": "Sorcery",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Swift Deployment",
+			"rarity": "rare",
+			"mana_cost": "{1}{R/W}{R/W}{R/W}",
+			"type": "Instant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Tactical Deployment",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Take For Ransom",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Talks in Hidden Hollows",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Tearful Reunion",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Tectonic Wound",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Tenacious Guide",
+			"rarity": "rare",
+			"mana_cost": "{R/G}{R/G}",
+			"type": "Creature — Human Mutant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Territorial Drake",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Thailen, Heir to Daeland",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Thailen's Guard",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Thailen's Reprisal",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Thief's Harness",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Three Blade Boon",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Tightrope Acrobat",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Till the Fields // Blessed Growth",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/176a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/176a_front.jpg"
+			}
+		},
+		{
+			"name": "Till the Fields // Blessed Growth",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/176a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/176a_front.jpg"
+			}
+		},
+		{
+			"name": "Tranquil Endeavors",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Trapped in the Tower",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Travel Companions",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/W}",
+			"type": "Sorcery",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Trusted Comrade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Trystasp Coating",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Twilight Raid // Outlaw's Woods",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "104",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/104a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/104a_front.jpg"
+			}
+		},
+		{
+			"name": "Twilight Raid // Outlaw's Woods",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "104",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/104a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/104a_front.jpg"
+			}
+		},
+		{
+			"name": "Unburied Relics",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Under Cover of Dark",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Untested Commander",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Venerated Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Noble Knight",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Vial of Arcor",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Visiting Dignitary",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Visserine's Royal Guard",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Voyage's End",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Voyaging Devout",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Waifish Squire",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Wandering Goliath",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Creature — Elk",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Wayfaring Ordealist",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Weaken Defenses",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Weald Sentry",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Weary Steward",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Weaver of Tales",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Whiterun Gates",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Whiterun Harbor",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Whiterun Ordainer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Wildborn Lancer",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Mutant Warrior",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Wildborn Swindler",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Mutant Shaman",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Withering Agony",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Instant",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Youthful Dreams // Touch of Destiny",
+			"rarity": "common",
+			"mana_cost": "{R/G}",
+			"type": "Sorcery",
+			"collector_number": "226",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/226a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/226a_front.jpg"
+			}
+		},
+		{
+			"name": "Youthful Dreams // Touch of Destiny",
+			"rarity": "common",
+			"mana_cost": "{R/G}",
+			"type": "Sorcery",
+			"collector_number": "226",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TWR-files/img/226a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/226a_front.jpg"
+			}
+		},
+		{
+			"name": "Youthful Savior",
+			"rarity": "rare",
+			"mana_cost": "{1}{W/U}{W/U}",
+			"type": "Creature — Human Noble",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Yvette, the Golden Gull",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TWR-files/img/197.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Absence of the Unmaker
+	2 Ambition's Crown
+	2 Arrogant Fencer
+	2 Batterbrow Brigand
+	2 Batwing Initiate
+	2 Bend the Knee
+	2 Cauldish Arrogant
+	2 Cauldish Schemes
+	2 Choked Estuary
+	2 Cloak of the Exiled
+	1 Crossroad Bard
+	1 Death's Door // Immortal Butcher
+	1 Death's Door // Immortal Butcher
+	2 Declan, Wayward Squire
+	2 Declare, the Mother Bear
+	2 Deflecting Strike
+	2 Duke Gerard Hoff
+	2 Ellis, Caravan Captain
+	1 Femourri Archer
+	2 Ferris, the Sapphire Storm
+	1 Flash of Inspiration
+	2 Foreboding Ruins
+	2 Fortified Village
+	1 Frayed Nerves
+	2 Game Trail
+	2 Generous Offer
+	2 Grand Tourney
+	1 Green Pelt Hart
+	1 Harmonized Intellect
+	2 Hasty Intervention // Setting Up Camp
+	2 Hasty Intervention // Setting Up Camp
+	2 Helene, Steel of the Exiled
+	2 Hermit's Travels // Ascetic's Journey
+	2 Hermit's Travels // Ascetic's Journey
+	1 Inspirational Copse
+	1 Insurgent Ballads
+	2 King Visserine of Daeland
+	2 Lady Genvieve of Caulder
+	2 Lord Dalehorn the Iron-Handed
+	2 Lord Jared, the Griffin Knight
+	2 Merciless Exiled
+	2 Misleading Doubts
+	2 Mismatched Bandit
+	2 Moment of Tranquility
+	1 Mutual Destruction
+	2 Noble's Hedonism
+	2 Opportunistic Raiders
+	2 Perish in Harmony
+	1 Pilgrim's Muse
+	2 Port Town
+	1 Portent of the Long Winter
+	2 Proposer of Peace
+	2 Publicly Disgraced // Kept Under Watch
+	2 Publicly Disgraced // Kept Under Watch
+	1 Ready the Jousts
+	1 Red Pelt Hart
+	2 Requiem of the Fallen
+	2 Restless Hedonist
+	2 Seal the Tomb
+	2 Ser Joffrey, Plague of Nines
+	2 Ser Malcomn
+	2 Sera of Coppercove
+	1 Slayer of the Famed
+	2 Sunpiercing Bow
+	2 Swift Deployment
+	2 Take For Ransom
+	1 Tearful Reunion
+	2 Tenacious Guide
+	2 Territorial Drake
+	2 Thailen, Heir to Daeland
+	2 Thailen's Reprisal
+	2 Trapped in the Tower
+	2 Unburied Relics
+	2 Wayfaring Ordealist
+	2 Weald Sentry
+	1 Whiterun Gates
+	2 Whiterun Harbor
+	2 Wildborn Lancer
+	1 Wildborn Swindler
+	2 Youthful Savior
+	2 Yvette, the Golden Gull
+[uncommon(3)]
+	4 Across the Bay
+	4 Bearer of Fables
+	4 Bustling Docks
+	4 Captain of the Militia
+	4 Catch Unawares
+	4 Cauldish Banneret
+	4 Cauldish Warmonger
+	4 Confident Cavalier
+	4 Coven Adherent
+	4 Coward's Compulsion
+	4 Crossways Inn
+	4 Daelish Arbalest
+	4 Daelish Horticulturist
+	4 Dead Man's Armor
+	4 Deft Goldsnatch
+	4 Derelict Amphitheatre
+	4 Desperate Reconnoiterer
+	4 Earnest Labourer
+	4 Escort Recruiter
+	4 Fables of the Bold
+	4 Fall of the Axe
+	4 Forgo the Past
+	4 Gild-Cloak Strider
+	4 Gilded Champion
+	4 Grouchy Warden
+	4 Hand of the Exiled
+	4 Highborn Meditant
+	4 Hypersomnia
+	4 Interlocked Waterways
+	4 Isolated Cloister
+	4 Knight of the Hawk
+	4 Knight of the Raven
+	4 Knight of the Staff
+	4 Knight of the Stag
+	4 Knight of the Verdigris
+	4 Lone Heroics // Exalted Charge
+	4 Lone Heroics // Exalted Charge
+	4 Maddened Elk
+	4 Measured Contemplation
+	4 Messenger's Haste
+	4 Morning Mists
+	4 Old Grudges
+	4 Painful Reminiscence
+	4 Peace of the Glade
+	4 Plunge Through the Heart
+	4 Price of Power
+	4 Pursued Paranoia
+	4 Rapscallion Duo
+	4 Reckless Cultivator
+	4 Reverence Seeker
+	4 Sage's Foresight // Sage's Tales
+	4 Sage's Foresight // Sage's Tales
+	4 Sails of Commerce
+	4 Scraps of Memory
+	4 Seek Glory // Warforged Hero
+	4 Seek Glory // Warforged Hero
+	4 Shadowed Slums
+	4 Shrouded Cackler
+	4 Silverwork Champion
+	4 Social Graces
+	4 Splitshaft Deadeye
+	4 Sunken Ambitions
+	4 Surge of Duty // Undeterred Valiance
+	4 Surge of Duty // Undeterred Valiance
+	4 Sway the Naive
+	4 Tactical Deployment
+	4 Talks in Hidden Hollows
+	4 Tranquil Endeavors
+	4 Travel Companions
+	4 Trusted Comrade
+	4 Twilight Raid // Outlaw's Woods
+	4 Twilight Raid // Outlaw's Woods
+	4 Under Cover of Dark
+	4 Venerated Knight
+	4 Weaken Defenses
+	4 Withering Agony
+[common(7)]
+	8 A Lady's Favor
+	8 Ambitious Dreams
+	8 Amongst the Flames
+	8 Ancestral Zweihander
+	8 Arcor Windfall
+	8 Ardent Charge
+	8 Arrive Unseen
+	8 Arrogant Training // Imperious Hero
+	8 Arrogant Training // Imperious Hero
+	8 Attended Knight
+	8 Battlement Prowler
+	8 Beneath the Lilies
+	8 Bloodied Twinblade
+	8 Captain of the Exiled
+	8 Caravan Merchant
+	8 Cauldish Cavalier
+	8 Cauldish Hookblade
+	8 Cauldish Informant
+	8 Change of Fortunes
+	8 Civilized Debate
+	8 Commoners' Favored
+	8 Commoners' Justice
+	8 Conniving Brigand
+	8 Curiosity
+	8 Daelish Archer
+	8 Daelish Hopeful
+	8 Daelish Messenger
+	8 Dance of Grace // Paragon of Virtue
+	8 Dance of Grace // Paragon of Virtue
+	8 Decorated Duelist
+	8 Dissolve_TWR
+	8 Distracting Handmaiden
+	8 Drake Youngling
+	8 Drunken Night // Drunkard Knight
+	8 Drunken Night // Drunkard Knight
+	8 Duress
+	8 Empty the Barracks
+	8 Exile's Vanguard
+	8 Exiled Warband
+	8 Fall of Whiterun Harbor
+	8 Farmer's Repose
+	8 Feathered Dancer
+	8 Fen Guide
+	8 Ferris's Crewmate
+	8 Forbidden Knowledge
+	8 Grizzled Captain
+	8 Harrowing Knight
+	8 Hedge Knight
+	8 Hoff's Scout
+	8 Hooded Inquirers
+	8 Horizon Militant
+	8 Host of Nature
+	8 Hound of Glory
+	8 Ill-Advised Tactics
+	8 Imperious Falconer
+	8 Inexperienced Martyr
+	8 Inner Dogmatism
+	8 Iron Signet
+	8 Jailer's Manacles
+	8 Left for Carrion
+	8 Lord's Griffin
+	8 Melting Point
+	8 Mercenary Coercer
+	8 Mercenary Lancer
+	8 Merchant's Bane
+	8 Minor Melee
+	8 Moment of Glory // Legacy of Victory
+	8 Moment of Glory // Legacy of Victory
+	8 Pacifism
+	8 Plated Valiant
+	8 Punish the Bold
+	8 Rafter Stalker
+	8 Rally the Volunteers
+	8 Ranger's Guile
+	8 Reflect Upon the Past
+	8 Roads Twice Traveled
+	8 Royal Summons
+	8 Satisfied Gleaner
+	8 Scarred Brawler
+	8 Secluded Wildborn
+	8 Shatter
+	8 Spur to Action
+	8 Steel-Art Exemplar
+	8 Steward's Tithe
+	8 Stoneskin Brawler
+	8 Sturdy Belligerent
+	8 Tectonic Wound
+	8 Thailen's Guard
+	8 Thief's Harness
+	8 Three Blade Boon
+	8 Tightrope Acrobat
+	8 Till the Fields // Blessed Growth
+	8 Till the Fields // Blessed Growth
+	8 Trystasp Coating
+	8 Untested Commander
+	8 Vial of Arcor
+	8 Visiting Dignitary
+	8 Visserine's Royal Guard
+	8 Voyage's End
+	8 Voyaging Devout
+	8 Waifish Squire
+	8 Wandering Goliath
+	8 Weary Steward
+	8 Weaver of Tales
+	8 Whiterun Ordainer
+	8 Youthful Dreams // Touch of Destiny
+	8 Youthful Dreams // Touch of Destiny
+[foil(1)]
+	12 A Lady's Favor
+	2 Absence of the Unmaker
+	6 Across the Bay
+	2 Ambition's Crown
+	12 Ambitious Dreams
+	12 Amongst the Flames
+	12 Ancestral Zweihander
+	12 Arcor Windfall
+	12 Ardent Charge
+	12 Arrive Unseen
+	2 Arrogant Fencer
+	12 Arrogant Training // Imperious Hero
+	12 Arrogant Training // Imperious Hero
+	12 Attended Knight
+	2 Batterbrow Brigand
+	12 Battlement Prowler
+	2 Batwing Initiate
+	6 Bearer of Fables
+	2 Bend the Knee
+	12 Beneath the Lilies
+	12 Bloodied Twinblade
+	6 Bustling Docks
+	12 Captain of the Exiled
+	6 Captain of the Militia
+	12 Caravan Merchant
+	6 Catch Unawares
+	2 Cauldish Arrogant
+	6 Cauldish Banneret
+	12 Cauldish Cavalier
+	12 Cauldish Hookblade
+	12 Cauldish Informant
+	2 Cauldish Schemes
+	6 Cauldish Warmonger
+	12 Change of Fortunes
+	2 Choked Estuary
+	12 Civilized Debate
+	2 Cloak of the Exiled
+	12 Commoners' Favored
+	12 Commoners' Justice
+	6 Confident Cavalier
+	12 Conniving Brigand
+	6 Coven Adherent
+	6 Coward's Compulsion
+	1 Crossroad Bard
+	6 Crossways Inn
+	12 Curiosity
+	6 Daelish Arbalest
+	12 Daelish Archer
+	12 Daelish Hopeful
+	6 Daelish Horticulturist
+	12 Daelish Messenger
+	12 Dance of Grace // Paragon of Virtue
+	12 Dance of Grace // Paragon of Virtue
+	6 Dead Man's Armor
+	1 Death's Door // Immortal Butcher
+	1 Death's Door // Immortal Butcher
+	2 Declan, Wayward Squire
+	2 Declare, the Mother Bear
+	12 Decorated Duelist
+	2 Deflecting Strike
+	6 Deft Goldsnatch
+	6 Derelict Amphitheatre
+	6 Desperate Reconnoiterer
+	12 Dissolve_TWR
+	12 Distracting Handmaiden
+	12 Drake Youngling
+	12 Drunken Night // Drunkard Knight
+	12 Drunken Night // Drunkard Knight
+	2 Duke Gerard Hoff
+	12 Duress
+	6 Earnest Labourer
+	2 Ellis, Caravan Captain
+	12 Empty the Barracks
+	6 Escort Recruiter
+	12 Exile's Vanguard
+	12 Exiled Warband
+	6 Fables of the Bold
+	12 Fall of Whiterun Harbor
+	6 Fall of the Axe
+	12 Farmer's Repose
+	12 Feathered Dancer
+	1 Femourri Archer
+	12 Fen Guide
+	2 Ferris, the Sapphire Storm
+	12 Ferris's Crewmate
+	1 Flash of Inspiration
+	12 Forbidden Knowledge
+	2 Foreboding Ruins
+	6 Forgo the Past
+	2 Fortified Village
+	1 Frayed Nerves
+	2 Game Trail
+	2 Generous Offer
+	6 Gild-Cloak Strider
+	6 Gilded Champion
+	2 Grand Tourney
+	1 Green Pelt Hart
+	12 Grizzled Captain
+	6 Grouchy Warden
+	6 Hand of the Exiled
+	1 Harmonized Intellect
+	12 Harrowing Knight
+	2 Hasty Intervention // Setting Up Camp
+	2 Hasty Intervention // Setting Up Camp
+	12 Hedge Knight
+	2 Helene, Steel of the Exiled
+	2 Hermit's Travels // Ascetic's Journey
+	2 Hermit's Travels // Ascetic's Journey
+	6 Highborn Meditant
+	12 Hoff's Scout
+	12 Hooded Inquirers
+	12 Horizon Militant
+	12 Host of Nature
+	12 Hound of Glory
+	6 Hypersomnia
+	12 Ill-Advised Tactics
+	12 Imperious Falconer
+	12 Inexperienced Martyr
+	12 Inner Dogmatism
+	1 Inspirational Copse
+	1 Insurgent Ballads
+	6 Interlocked Waterways
+	12 Iron Signet
+	6 Isolated Cloister
+	12 Jailer's Manacles
+	2 King Visserine of Daeland
+	6 Knight of the Hawk
+	6 Knight of the Raven
+	6 Knight of the Staff
+	6 Knight of the Stag
+	6 Knight of the Verdigris
+	2 Lady Genvieve of Caulder
+	12 Left for Carrion
+	6 Lone Heroics // Exalted Charge
+	6 Lone Heroics // Exalted Charge
+	12 Lord's Griffin
+	2 Lord Dalehorn the Iron-Handed
+	2 Lord Jared, the Griffin Knight
+	6 Maddened Elk
+	6 Measured Contemplation
+	12 Melting Point
+	12 Mercenary Coercer
+	12 Mercenary Lancer
+	12 Merchant's Bane
+	2 Merciless Exiled
+	6 Messenger's Haste
+	12 Minor Melee
+	2 Misleading Doubts
+	2 Mismatched Bandit
+	12 Moment of Glory // Legacy of Victory
+	12 Moment of Glory // Legacy of Victory
+	2 Moment of Tranquility
+	6 Morning Mists
+	1 Mutual Destruction
+	2 Noble's Hedonism
+	6 Old Grudges
+	2 Opportunistic Raiders
+	12 Pacifism
+	6 Painful Reminiscence
+	6 Peace of the Glade
+	2 Perish in Harmony
+	1 Pilgrim's Muse
+	12 Plated Valiant
+	6 Plunge Through the Heart
+	2 Port Town
+	1 Portent of the Long Winter
+	6 Price of Power
+	2 Proposer of Peace
+	2 Publicly Disgraced // Kept Under Watch
+	2 Publicly Disgraced // Kept Under Watch
+	12 Punish the Bold
+	6 Pursued Paranoia
+	12 Rafter Stalker
+	12 Rally the Volunteers
+	12 Ranger's Guile
+	6 Rapscallion Duo
+	1 Ready the Jousts
+	6 Reckless Cultivator
+	1 Red Pelt Hart
+	12 Reflect Upon the Past
+	2 Requiem of the Fallen
+	2 Restless Hedonist
+	6 Reverence Seeker
+	12 Roads Twice Traveled
+	12 Royal Summons
+	6 Sage's Foresight // Sage's Tales
+	6 Sage's Foresight // Sage's Tales
+	6 Sails of Commerce
+	12 Satisfied Gleaner
+	12 Scarred Brawler
+	6 Scraps of Memory
+	2 Seal the Tomb
+	12 Secluded Wildborn
+	6 Seek Glory // Warforged Hero
+	6 Seek Glory // Warforged Hero
+	2 Ser Joffrey, Plague of Nines
+	2 Ser Malcomn
+	2 Sera of Coppercove
+	6 Shadowed Slums
+	12 Shatter
+	6 Shrouded Cackler
+	6 Silverwork Champion
+	1 Slayer of the Famed
+	6 Social Graces
+	6 Splitshaft Deadeye
+	12 Spur to Action
+	12 Steel-Art Exemplar
+	12 Steward's Tithe
+	12 Stoneskin Brawler
+	12 Sturdy Belligerent
+	6 Sunken Ambitions
+	2 Sunpiercing Bow
+	6 Surge of Duty // Undeterred Valiance
+	6 Surge of Duty // Undeterred Valiance
+	6 Sway the Naive
+	2 Swift Deployment
+	6 Tactical Deployment
+	2 Take For Ransom
+	6 Talks in Hidden Hollows
+	1 Tearful Reunion
+	12 Tectonic Wound
+	2 Tenacious Guide
+	2 Territorial Drake
+	2 Thailen, Heir to Daeland
+	12 Thailen's Guard
+	2 Thailen's Reprisal
+	12 Thief's Harness
+	12 Three Blade Boon
+	12 Tightrope Acrobat
+	12 Till the Fields // Blessed Growth
+	12 Till the Fields // Blessed Growth
+	6 Tranquil Endeavors
+	2 Trapped in the Tower
+	6 Travel Companions
+	6 Trusted Comrade
+	12 Trystasp Coating
+	6 Twilight Raid // Outlaw's Woods
+	6 Twilight Raid // Outlaw's Woods
+	2 Unburied Relics
+	6 Under Cover of Dark
+	12 Untested Commander
+	6 Venerated Knight
+	12 Vial of Arcor
+	12 Visiting Dignitary
+	12 Visserine's Royal Guard
+	12 Voyage's End
+	12 Voyaging Devout
+	12 Waifish Squire
+	12 Wandering Goliath
+	2 Wayfaring Ordealist
+	6 Weaken Defenses
+	2 Weald Sentry
+	12 Weary Steward
+	12 Weaver of Tales
+	1 Whiterun Gates
+	2 Whiterun Harbor
+	12 Whiterun Ordainer
+	2 Wildborn Lancer
+	1 Wildborn Swindler
+	6 Withering Agony
+	12 Youthful Dreams // Touch of Destiny
+	12 Youthful Dreams // Touch of Destiny
+	2 Youthful Savior
+	2 Yvette, the Golden Gull
+[wildcard(1)]
+	6 A Lady's Favor
+	7 Absence of the Unmaker
+	15 Across the Bay
+	7 Ambition's Crown
+	6 Ambitious Dreams
+	6 Amongst the Flames
+	6 Ancestral Zweihander
+	6 Arcor Windfall
+	6 Ardent Charge
+	6 Arrive Unseen
+	7 Arrogant Fencer
+	6 Arrogant Training // Imperious Hero
+	6 Arrogant Training // Imperious Hero
+	6 Attended Knight
+	7 Batterbrow Brigand
+	6 Battlement Prowler
+	7 Batwing Initiate
+	15 Bearer of Fables
+	7 Bend the Knee
+	6 Beneath the Lilies
+	6 Bloodied Twinblade
+	15 Bustling Docks
+	6 Captain of the Exiled
+	15 Captain of the Militia
+	6 Caravan Merchant
+	15 Catch Unawares
+	7 Cauldish Arrogant
+	15 Cauldish Banneret
+	6 Cauldish Cavalier
+	6 Cauldish Hookblade
+	6 Cauldish Informant
+	7 Cauldish Schemes
+	15 Cauldish Warmonger
+	6 Change of Fortunes
+	7 Choked Estuary
+	6 Civilized Debate
+	7 Cloak of the Exiled
+	6 Commoners' Favored
+	6 Commoners' Justice
+	15 Confident Cavalier
+	6 Conniving Brigand
+	15 Coven Adherent
+	15 Coward's Compulsion
+	4 Crossroad Bard
+	15 Crossways Inn
+	6 Curiosity
+	15 Daelish Arbalest
+	6 Daelish Archer
+	6 Daelish Hopeful
+	15 Daelish Horticulturist
+	6 Daelish Messenger
+	6 Dance of Grace // Paragon of Virtue
+	6 Dance of Grace // Paragon of Virtue
+	15 Dead Man's Armor
+	4 Death's Door // Immortal Butcher
+	4 Death's Door // Immortal Butcher
+	7 Declan, Wayward Squire
+	7 Declare, the Mother Bear
+	6 Decorated Duelist
+	7 Deflecting Strike
+	15 Deft Goldsnatch
+	15 Derelict Amphitheatre
+	15 Desperate Reconnoiterer
+	6 Dissolve_TWR
+	6 Distracting Handmaiden
+	6 Drake Youngling
+	6 Drunken Night // Drunkard Knight
+	6 Drunken Night // Drunkard Knight
+	7 Duke Gerard Hoff
+	6 Duress
+	15 Earnest Labourer
+	7 Ellis, Caravan Captain
+	6 Empty the Barracks
+	15 Escort Recruiter
+	6 Exile's Vanguard
+	6 Exiled Warband
+	15 Fables of the Bold
+	6 Fall of Whiterun Harbor
+	15 Fall of the Axe
+	6 Farmer's Repose
+	6 Feathered Dancer
+	4 Femourri Archer
+	6 Fen Guide
+	7 Ferris, the Sapphire Storm
+	6 Ferris's Crewmate
+	4 Flash of Inspiration
+	6 Forbidden Knowledge
+	7 Foreboding Ruins
+	15 Forgo the Past
+	7 Fortified Village
+	4 Frayed Nerves
+	7 Game Trail
+	7 Generous Offer
+	15 Gild-Cloak Strider
+	15 Gilded Champion
+	7 Grand Tourney
+	4 Green Pelt Hart
+	6 Grizzled Captain
+	15 Grouchy Warden
+	15 Hand of the Exiled
+	4 Harmonized Intellect
+	6 Harrowing Knight
+	7 Hasty Intervention // Setting Up Camp
+	7 Hasty Intervention // Setting Up Camp
+	6 Hedge Knight
+	7 Helene, Steel of the Exiled
+	7 Hermit's Travels // Ascetic's Journey
+	7 Hermit's Travels // Ascetic's Journey
+	15 Highborn Meditant
+	6 Hoff's Scout
+	6 Hooded Inquirers
+	6 Horizon Militant
+	6 Host of Nature
+	6 Hound of Glory
+	15 Hypersomnia
+	6 Ill-Advised Tactics
+	6 Imperious Falconer
+	6 Inexperienced Martyr
+	6 Inner Dogmatism
+	4 Inspirational Copse
+	4 Insurgent Ballads
+	15 Interlocked Waterways
+	6 Iron Signet
+	15 Isolated Cloister
+	6 Jailer's Manacles
+	7 King Visserine of Daeland
+	15 Knight of the Hawk
+	15 Knight of the Raven
+	15 Knight of the Staff
+	15 Knight of the Stag
+	15 Knight of the Verdigris
+	7 Lady Genvieve of Caulder
+	6 Left for Carrion
+	15 Lone Heroics // Exalted Charge
+	15 Lone Heroics // Exalted Charge
+	6 Lord's Griffin
+	7 Lord Dalehorn the Iron-Handed
+	7 Lord Jared, the Griffin Knight
+	15 Maddened Elk
+	15 Measured Contemplation
+	6 Melting Point
+	6 Mercenary Coercer
+	6 Mercenary Lancer
+	6 Merchant's Bane
+	7 Merciless Exiled
+	15 Messenger's Haste
+	6 Minor Melee
+	7 Misleading Doubts
+	7 Mismatched Bandit
+	6 Moment of Glory // Legacy of Victory
+	6 Moment of Glory // Legacy of Victory
+	7 Moment of Tranquility
+	15 Morning Mists
+	4 Mutual Destruction
+	7 Noble's Hedonism
+	15 Old Grudges
+	7 Opportunistic Raiders
+	6 Pacifism
+	15 Painful Reminiscence
+	15 Peace of the Glade
+	7 Perish in Harmony
+	4 Pilgrim's Muse
+	6 Plated Valiant
+	15 Plunge Through the Heart
+	7 Port Town
+	4 Portent of the Long Winter
+	15 Price of Power
+	7 Proposer of Peace
+	7 Publicly Disgraced // Kept Under Watch
+	7 Publicly Disgraced // Kept Under Watch
+	6 Punish the Bold
+	15 Pursued Paranoia
+	6 Rafter Stalker
+	6 Rally the Volunteers
+	6 Ranger's Guile
+	15 Rapscallion Duo
+	4 Ready the Jousts
+	15 Reckless Cultivator
+	4 Red Pelt Hart
+	6 Reflect Upon the Past
+	7 Requiem of the Fallen
+	7 Restless Hedonist
+	15 Reverence Seeker
+	6 Roads Twice Traveled
+	6 Royal Summons
+	15 Sage's Foresight // Sage's Tales
+	15 Sage's Foresight // Sage's Tales
+	15 Sails of Commerce
+	6 Satisfied Gleaner
+	6 Scarred Brawler
+	15 Scraps of Memory
+	7 Seal the Tomb
+	6 Secluded Wildborn
+	15 Seek Glory // Warforged Hero
+	15 Seek Glory // Warforged Hero
+	7 Ser Joffrey, Plague of Nines
+	7 Ser Malcomn
+	7 Sera of Coppercove
+	15 Shadowed Slums
+	6 Shatter
+	15 Shrouded Cackler
+	15 Silverwork Champion
+	4 Slayer of the Famed
+	15 Social Graces
+	15 Splitshaft Deadeye
+	6 Spur to Action
+	6 Steel-Art Exemplar
+	6 Steward's Tithe
+	6 Stoneskin Brawler
+	6 Sturdy Belligerent
+	15 Sunken Ambitions
+	7 Sunpiercing Bow
+	15 Surge of Duty // Undeterred Valiance
+	15 Surge of Duty // Undeterred Valiance
+	15 Sway the Naive
+	7 Swift Deployment
+	15 Tactical Deployment
+	7 Take For Ransom
+	15 Talks in Hidden Hollows
+	4 Tearful Reunion
+	6 Tectonic Wound
+	7 Tenacious Guide
+	7 Territorial Drake
+	7 Thailen, Heir to Daeland
+	6 Thailen's Guard
+	7 Thailen's Reprisal
+	6 Thief's Harness
+	6 Three Blade Boon
+	6 Tightrope Acrobat
+	6 Till the Fields // Blessed Growth
+	6 Till the Fields // Blessed Growth
+	15 Tranquil Endeavors
+	7 Trapped in the Tower
+	15 Travel Companions
+	15 Trusted Comrade
+	6 Trystasp Coating
+	15 Twilight Raid // Outlaw's Woods
+	15 Twilight Raid // Outlaw's Woods
+	7 Unburied Relics
+	15 Under Cover of Dark
+	6 Untested Commander
+	15 Venerated Knight
+	6 Vial of Arcor
+	6 Visiting Dignitary
+	6 Visserine's Royal Guard
+	6 Voyage's End
+	6 Voyaging Devout
+	6 Waifish Squire
+	6 Wandering Goliath
+	7 Wayfaring Ordealist
+	15 Weaken Defenses
+	7 Weald Sentry
+	6 Weary Steward
+	6 Weaver of Tales
+	4 Whiterun Gates
+	7 Whiterun Harbor
+	6 Whiterun Ordainer
+	7 Wildborn Lancer
+	4 Wildborn Swindler
+	15 Withering Agony
+	6 Youthful Dreams // Touch of Destiny
+	6 Youthful Dreams // Touch of Destiny
+	7 Youthful Savior
+	7 Yvette, the Golden Gull

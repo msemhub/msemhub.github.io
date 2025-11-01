@@ -29,6 +29,7 @@ def convertList(setCode):
 		match = re.search(r'!group ([^ \n]+)', cards[i]['notes'])
 		if match and match.group() not in sort_groups:
 			sort_groups.append(match.group())
+		# print(cards[i])
 		if "token" in cards[i]['shape'] or "Basic" in cards[i]['type']:
 			continue
 		for j in range(i):

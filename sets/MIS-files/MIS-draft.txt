@@ -1,0 +1,3246 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Admonish the Unruly",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Adversary Ancestor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Adverse Reunion",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Altar of Adversity",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Altar of Chaos",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Altar of Creation",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Altar of Destruction",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Altar of Devotion",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Altar of Order",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Angel's Codex",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Angelbane Spider",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Angelcaller",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Angelic Destiny",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Angeltouched Cavern",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Angeltouched Crag",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Angeltouched Dryad",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dryad Shaman",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Angeltouched Garden",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Angeltouched Golem",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Angeltouched Komodo",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Angeltouched Marsh",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Angeltouched Saltflat",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Archlegislator",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier Cleric",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Armorer of the Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Assertive Inaction",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Augury Hydra",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{G}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Avatar of Being",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Bahet, God of Destruction",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Bahet's Emissary",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Bahet's Sacrament",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Bahet's Wink",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Bahum, Penitent",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Planeswalker — Bahum",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Bahum's Penance",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Bane of Identity",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Beastwaker of Gusma",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Dryad Druid",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Beckon the Scribes",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Binding Judgment",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Blazeblade Sergeant",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Born from the Flock",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Branching Antlers",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elk Elemental",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Chaos Tradewinder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Chaosphere Ravager",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Chemical Grenade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Chiara the Enchantress",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Planeswalker — Chiara",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Chimera Graft",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Creature — Chimera",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Coercive Cardinal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Combatant Conflagration",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Consecrated Sight",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Consult the Ashes",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Cosmostorm Rider",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Council of the Immortals",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Counsel of Bahet",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Crisis of Body",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Curator of Cures",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Damnation of Gluttons",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Dark Night Cleansing",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Dauntless Qith",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Death in Reverse",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Deathless Hunter",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Descended Delta",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Descended Marsh",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Descended Meadow",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Descended Mortuary",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Descended Towers",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Descent of the Cherubim",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Devilish Undoer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Devil Cleric",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Di'Ala, Ominous Seraph",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Dismantle the Established",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Dissolve",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Divine Detention",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Divine Lockdown",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Divining Lens",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Doomstep Giant",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Giant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Dreams in Flight",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Dryad of Rippling Leaves",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Duchess of Life",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Duke of Death",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Dutiful Counselor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Embodiment of Order",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Embrace the Id",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "End of the Road",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Enforce the Cycle",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Essence of Thought",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Eternal Night",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Eternal Path",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Eternal Recurrence",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Ethereal Fervor",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Evershedder",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Snake",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Evoke the Maelstrom",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Excise from Existence",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "False Savior",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Fanatic Revival",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Fatal Edict",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Fearless Charger",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dwarf Warrior",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Final Verdict",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Formed Anew",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Fuming Lawmaker",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Fury Swipes",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Glimmering Prosecutor",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Gusma, God of Creation",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Gusma's Artisan",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Gusma's Darkcycler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Gusma's Emissary",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Gustscreen Cherub",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Hand of Genesis",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Hayda, Worldseeder Archmage",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Heedless Adversary",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Devil Soldier",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Helm of the Devoted",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Hestia, Doubtful Archon",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Planeswalker — Hestia",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Holy War",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Hopebringer Cherub",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Ifram, God of Chaos",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Ifram's Cavalier",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Ifram's Emissary",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Ifram's Greenfur",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Immortal Terror",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "In the Face of Divinity",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Inherited Rite",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Inspired Trialmaker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Devil Shaman",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Inspiring Mantle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Instability Elemental",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Ishim of Devilry",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Angel",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Ishim of Genesis",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Ishim of Oblivion",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Angel",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Ishim of Punishment",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Ishim of Tempest",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Angel",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Ishim of the Mists",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Journey to Atonement",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Lesser Virtue",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Creature — Angel",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Lifetwist",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Lightning Chorus",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Manifest Dead",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Mark of Hubris",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Martyr of the Work",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Marzen, Answer Seeker",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Planeswalker — Marzen",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Marzen's Frenzy",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Marzen's Grimoire",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Marzen's Sorrow",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Masqued Cleansers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Cat Cleric",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Meditant's Halo",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Mind's Communion",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Mindhunter Grizzly",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Mindstorm's Eye",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Minstrel of the Bloodied",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Angel",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Mortality Keeper",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Devil Advisor",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Move with the Tides",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Naberas' Wisdom",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Naberas the Pilgrim",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Planeswalker — Naberas",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Nascent Adversary",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Devil Soldier",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Ni'Ama, God of Adversity",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Ni'Ama's Emissary",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Ophan Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Angel",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Oppressive Tithes",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Oracle of Edicts",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Ouroboros Twist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Peel from Reality",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Pierce the Unruly",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Pinnacle Seraph",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Planar Conflagration",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Polluted Bonds",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Ponderance of Transience",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Potential Beetle",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Proclamation of the Tides",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Progenitor of Rebirth",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Protector of the Innocent",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Provoke the Gods",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Purgator of Storms",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Purpose Elemental",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Qith Maneuver",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Rampant Giantling",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Razing Throng",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Reckoner of Man",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Recombobulate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Reincarnation Savant",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Release from Death",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Repel the Unruly",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Resounding Relief",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Return of the Fallen",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Return to Ash",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Rework the Canvas",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Righteous Bolt",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Saghira, Divinity's Usurper",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Warrior Shaman",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Scene of Nativity",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Scrivener of Sha'Iv",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Seal of Insights",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Search for Precedent",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Instant",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Searing Blasphemy",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Seasons' Bounty",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Seraph's Remnant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Seraphic Divination",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Sha'Iv, God of Order",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Sha'Iv's Emissary",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Sha'Iv's Scout",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Sha'Iv Cagemage",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Shaper of the Formless",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Shrine to the Shrouded",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Shroudwing Seraph",
+			"rarity": "uncommon",
+			"mana_cost": "{8}",
+			"type": "Creature — Angel",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Silence of the Guilty",
+			"rarity": "common",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Soul Cajoler",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Angel",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Souls of the Jury",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Spawn from the Void",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Spawns of Dementia",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Spearhead Ophan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Angel",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Splitflame Phoenix",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Starlight Seraph",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Steeple Deadeye",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Devil Rogue",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Strength from Chaos",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Strength in Imagining",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Summer's Approach",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Taker of Tithes",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Tammil and Sulei, the Guides",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Telling Time",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Temple Stalker",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Test of Burning Wax",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Test of Fear",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Test of Forsaking",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "The Infinite",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Thornweald Archer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Thorough Cleansing",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Thought Police",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Thoughts Reborn",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Through New Eyes",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Tides of Chaos",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Instant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Tiller of Potential",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Treacherous Devil",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Devil",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Tremor Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Trifold Chaos",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{U}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Tusked Consumer",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Unknown Shores_MIS",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Unorthodox Tutelage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Unpredictable Bloodshed",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Unwavering Questant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Devil Warrior",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Verdant Trauma",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Wake from the Mire",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Wandering Devout",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "War Priest of Bahet",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Wardwing Seraph",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Wayfaring Swindler",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat Rogue",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Weaver of Ifram",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Weavetide Militia",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Wellspring of Creation",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Whim of Ifram",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Wild Gravetender",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Wilting Waif",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Wings of Reckoning",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Angel",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Worldly Lore",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Worldsculpt",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Zaidha, Seraph of Calamity",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Zealous Enforcers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Goblin Soldier",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Zephyr Purifier",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Creature — Angel",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/MIS-files/img/4.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Angelcaller
+	1 Angelic Destiny
+	2 Angeltouched Cavern
+	2 Angeltouched Crag
+	2 Angeltouched Garden
+	2 Angeltouched Marsh
+	2 Angeltouched Saltflat
+	2 Archlegislator
+	1 Augury Hydra
+	2 Avatar of Being
+	1 Bahet, God of Destruction
+	2 Bahet's Sacrament
+	1 Bahum, Penitent
+	2 Bahum's Penance
+	2 Beastwaker of Gusma
+	1 Chiara the Enchantress
+	1 Consecrated Sight
+	2 Cosmostorm Rider
+	2 Council of the Immortals
+	2 Damnation of Gluttons
+	2 Deathless Hunter
+	2 Descent of the Cherubim
+	2 Di'Ala, Ominous Seraph
+	2 Divining Lens
+	2 Dreams in Flight
+	2 Embodiment of Order
+	2 Embrace the Id
+	2 Eternal Night
+	2 Eternal Recurrence
+	2 Excise from Existence
+	2 False Savior
+	2 Final Verdict
+	1 Gusma, God of Creation
+	2 Gusma's Artisan
+	2 Hand of Genesis
+	2 Hayda, Worldseeder Archmage
+	2 Helm of the Devoted
+	1 Hestia, Doubtful Archon
+	2 Holy War
+	1 Ifram, God of Chaos
+	2 In the Face of Divinity
+	2 Ishim of the Mists
+	2 Lifetwist
+	1 Mark of Hubris
+	1 Marzen, Answer Seeker
+	2 Marzen's Frenzy
+	2 Mind's Communion
+	2 Mortality Keeper
+	2 Naberas' Wisdom
+	1 Naberas the Pilgrim
+	1 Ni'Ama, God of Adversity
+	2 Pinnacle Seraph
+	1 Planar Conflagration
+	2 Polluted Bonds
+	2 Protector of the Innocent
+	2 Provoke the Gods
+	2 Razing Throng
+	2 Reckoner of Man
+	2 Saghira, Divinity's Usurper
+	1 Sha'Iv, God of Order
+	2 Shaper of the Formless
+	1 Spawns of Dementia
+	2 Splitflame Phoenix
+	2 Starlight Seraph
+	2 Tammil and Sulei, the Guides
+	2 Test of Burning Wax
+	1 The Infinite
+	2 Thoughts Reborn
+	2 Through New Eyes
+	2 Tiller of Potential
+	2 Trifold Chaos
+	2 Tusked Consumer
+	2 Verdant Trauma
+	2 Wellspring of Creation
+	2 Wild Gravetender
+	1 Worldsculpt
+	2 Zaidha, Seraph of Calamity
+[uncommon(3)]
+	4 Adversary Ancestor
+	4 Angelbane Spider
+	4 Angeltouched Dryad
+	4 Angeltouched Golem
+	4 Armorer of the Soul
+	4 Beckon the Scribes
+	4 Born from the Flock
+	4 Chaos Tradewinder
+	4 Chemical Grenade
+	4 Coercive Cardinal
+	4 Combatant Conflagration
+	4 Dauntless Qith
+	4 Death in Reverse
+	4 Descended Delta
+	4 Descended Marsh
+	4 Descended Meadow
+	4 Descended Mortuary
+	4 Descended Towers
+	4 Dismantle the Established
+	4 Duchess of Life
+	4 Duke of Death
+	4 End of the Road
+	4 Evershedder
+	4 Evoke the Maelstrom
+	4 Fanatic Revival
+	4 Gusma's Darkcycler
+	4 Gustscreen Cherub
+	4 Hopebringer Cherub
+	4 Ifram's Cavalier
+	4 Immortal Terror
+	4 Inherited Rite
+	4 Inspired Trialmaker
+	4 Inspiring Mantle
+	4 Lightning Chorus
+	4 Marzen's Grimoire
+	4 Masqued Cleansers
+	4 Mindhunter Grizzly
+	4 Mindstorm's Eye
+	4 Minstrel of the Bloodied
+	4 Move with the Tides
+	4 Ophan Titan
+	4 Oppressive Tithes
+	4 Ouroboros Twist
+	4 Ponderance of Transience
+	4 Proclamation of the Tides
+	4 Purgator of Storms
+	4 Qith Maneuver
+	4 Rampant Giantling
+	4 Recombobulate
+	4 Release from Death
+	4 Return of the Fallen
+	4 Rework the Canvas
+	4 Search for Precedent
+	4 Searing Blasphemy
+	4 Seraph's Remnant
+	4 Seraphic Divination
+	4 Shrine to the Shrouded
+	4 Shroudwing Seraph
+	4 Souls of the Jury
+	4 Spearhead Ophan
+	4 Summer's Approach
+	4 Taker of Tithes
+	4 Thought Police
+	4 Treacherous Devil
+	4 Tremor Elemental
+	4 Unorthodox Tutelage
+	4 Unwavering Questant
+	4 Weavetide Militia
+	4 Whim of Ifram
+	4 Worldly Lore
+	4 Zealous Enforcers
+[common(7)]
+	8 Admonish the Unruly
+	8 Adverse Reunion
+	8 Altar of Adversity
+	8 Altar of Chaos
+	8 Altar of Creation
+	8 Altar of Destruction
+	8 Altar of Devotion
+	8 Altar of Order
+	8 Angel's Codex
+	8 Angeltouched Komodo
+	8 Assertive Inaction
+	8 Bahet's Emissary
+	8 Bahet's Wink
+	8 Bane of Identity
+	8 Binding Judgment
+	8 Blazeblade Sergeant
+	8 Branching Antlers
+	8 Chaosphere Ravager
+	8 Chimera Graft
+	8 Consult the Ashes
+	8 Counsel of Bahet
+	8 Crisis of Body
+	8 Curator of Cures
+	8 Dark Night Cleansing
+	8 Devilish Undoer
+	8 Dissolve
+	8 Divine Detention
+	8 Divine Lockdown
+	8 Doomstep Giant
+	8 Dryad of Rippling Leaves
+	8 Dutiful Counselor
+	8 Enforce the Cycle
+	8 Essence of Thought
+	8 Eternal Path
+	8 Ethereal Fervor
+	8 Fatal Edict
+	8 Fearless Charger
+	8 Formed Anew
+	8 Fuming Lawmaker
+	8 Fury Swipes
+	8 Glimmering Prosecutor
+	8 Gusma's Emissary
+	8 Heedless Adversary
+	8 Ifram's Emissary
+	8 Ifram's Greenfur
+	8 Instability Elemental
+	8 Ishim of Devilry
+	8 Ishim of Genesis
+	8 Ishim of Oblivion
+	8 Ishim of Punishment
+	8 Ishim of Tempest
+	8 Journey to Atonement
+	8 Lesser Virtue
+	8 Manifest Dead
+	8 Martyr of the Work
+	8 Marzen's Sorrow
+	8 Meditant's Halo
+	8 Nascent Adversary
+	8 Ni'Ama's Emissary
+	8 Oracle of Edicts
+	8 Peel from Reality
+	8 Pierce the Unruly
+	8 Potential Beetle
+	8 Progenitor of Rebirth
+	8 Purpose Elemental
+	8 Reincarnation Savant
+	8 Repel the Unruly
+	8 Resounding Relief
+	8 Return to Ash
+	8 Righteous Bolt
+	8 Scene of Nativity
+	8 Scrivener of Sha'Iv
+	8 Seal of Insights
+	8 Seasons' Bounty
+	8 Sha'Iv's Emissary
+	8 Sha'Iv's Scout
+	8 Sha'Iv Cagemage
+	8 Silence of the Guilty
+	8 Soul Cajoler
+	8 Spawn from the Void
+	8 Steeple Deadeye
+	8 Strength from Chaos
+	8 Strength in Imagining
+	8 Telling Time
+	8 Temple Stalker
+	8 Test of Fear
+	8 Test of Forsaking
+	8 Thornweald Archer
+	8 Thorough Cleansing
+	8 Tides of Chaos
+	8 Unknown Shores_MIS
+	8 Unpredictable Bloodshed
+	8 Wake from the Mire
+	8 Wandering Devout
+	8 War Priest of Bahet
+	8 Wardwing Seraph
+	8 Wayfaring Swindler
+	8 Weaver of Ifram
+	8 Wilting Waif
+	8 Wings of Reckoning
+	8 Zephyr Purifier
+[foil(1)]
+	12 Admonish the Unruly
+	6 Adversary Ancestor
+	12 Adverse Reunion
+	12 Altar of Adversity
+	12 Altar of Chaos
+	12 Altar of Creation
+	12 Altar of Destruction
+	12 Altar of Devotion
+	12 Altar of Order
+	12 Angel's Codex
+	6 Angelbane Spider
+	2 Angelcaller
+	1 Angelic Destiny
+	2 Angeltouched Cavern
+	2 Angeltouched Crag
+	6 Angeltouched Dryad
+	2 Angeltouched Garden
+	6 Angeltouched Golem
+	12 Angeltouched Komodo
+	2 Angeltouched Marsh
+	2 Angeltouched Saltflat
+	2 Archlegislator
+	6 Armorer of the Soul
+	12 Assertive Inaction
+	1 Augury Hydra
+	2 Avatar of Being
+	1 Bahet, God of Destruction
+	12 Bahet's Emissary
+	2 Bahet's Sacrament
+	12 Bahet's Wink
+	1 Bahum, Penitent
+	2 Bahum's Penance
+	12 Bane of Identity
+	2 Beastwaker of Gusma
+	6 Beckon the Scribes
+	12 Binding Judgment
+	12 Blazeblade Sergeant
+	6 Born from the Flock
+	12 Branching Antlers
+	6 Chaos Tradewinder
+	12 Chaosphere Ravager
+	6 Chemical Grenade
+	1 Chiara the Enchantress
+	12 Chimera Graft
+	6 Coercive Cardinal
+	6 Combatant Conflagration
+	1 Consecrated Sight
+	12 Consult the Ashes
+	2 Cosmostorm Rider
+	2 Council of the Immortals
+	12 Counsel of Bahet
+	12 Crisis of Body
+	12 Curator of Cures
+	2 Damnation of Gluttons
+	12 Dark Night Cleansing
+	6 Dauntless Qith
+	6 Death in Reverse
+	2 Deathless Hunter
+	6 Descended Delta
+	6 Descended Marsh
+	6 Descended Meadow
+	6 Descended Mortuary
+	6 Descended Towers
+	2 Descent of the Cherubim
+	12 Devilish Undoer
+	2 Di'Ala, Ominous Seraph
+	6 Dismantle the Established
+	12 Dissolve
+	12 Divine Detention
+	12 Divine Lockdown
+	2 Divining Lens
+	12 Doomstep Giant
+	2 Dreams in Flight
+	12 Dryad of Rippling Leaves
+	6 Duchess of Life
+	6 Duke of Death
+	12 Dutiful Counselor
+	2 Embodiment of Order
+	2 Embrace the Id
+	6 End of the Road
+	12 Enforce the Cycle
+	12 Essence of Thought
+	2 Eternal Night
+	12 Eternal Path
+	2 Eternal Recurrence
+	12 Ethereal Fervor
+	6 Evershedder
+	6 Evoke the Maelstrom
+	2 Excise from Existence
+	2 False Savior
+	6 Fanatic Revival
+	12 Fatal Edict
+	12 Fearless Charger
+	2 Final Verdict
+	12 Formed Anew
+	12 Fuming Lawmaker
+	12 Fury Swipes
+	12 Glimmering Prosecutor
+	1 Gusma, God of Creation
+	2 Gusma's Artisan
+	6 Gusma's Darkcycler
+	12 Gusma's Emissary
+	6 Gustscreen Cherub
+	2 Hand of Genesis
+	2 Hayda, Worldseeder Archmage
+	12 Heedless Adversary
+	2 Helm of the Devoted
+	1 Hestia, Doubtful Archon
+	2 Holy War
+	6 Hopebringer Cherub
+	1 Ifram, God of Chaos
+	6 Ifram's Cavalier
+	12 Ifram's Emissary
+	12 Ifram's Greenfur
+	6 Immortal Terror
+	2 In the Face of Divinity
+	6 Inherited Rite
+	6 Inspired Trialmaker
+	6 Inspiring Mantle
+	12 Instability Elemental
+	12 Ishim of Devilry
+	12 Ishim of Genesis
+	12 Ishim of Oblivion
+	12 Ishim of Punishment
+	12 Ishim of Tempest
+	2 Ishim of the Mists
+	12 Journey to Atonement
+	12 Lesser Virtue
+	2 Lifetwist
+	6 Lightning Chorus
+	12 Manifest Dead
+	1 Mark of Hubris
+	12 Martyr of the Work
+	1 Marzen, Answer Seeker
+	2 Marzen's Frenzy
+	6 Marzen's Grimoire
+	12 Marzen's Sorrow
+	6 Masqued Cleansers
+	12 Meditant's Halo
+	2 Mind's Communion
+	6 Mindhunter Grizzly
+	6 Mindstorm's Eye
+	6 Minstrel of the Bloodied
+	2 Mortality Keeper
+	6 Move with the Tides
+	2 Naberas' Wisdom
+	1 Naberas the Pilgrim
+	12 Nascent Adversary
+	1 Ni'Ama, God of Adversity
+	12 Ni'Ama's Emissary
+	6 Ophan Titan
+	6 Oppressive Tithes
+	12 Oracle of Edicts
+	6 Ouroboros Twist
+	12 Peel from Reality
+	12 Pierce the Unruly
+	2 Pinnacle Seraph
+	1 Planar Conflagration
+	2 Polluted Bonds
+	6 Ponderance of Transience
+	12 Potential Beetle
+	6 Proclamation of the Tides
+	12 Progenitor of Rebirth
+	2 Protector of the Innocent
+	2 Provoke the Gods
+	6 Purgator of Storms
+	12 Purpose Elemental
+	6 Qith Maneuver
+	6 Rampant Giantling
+	2 Razing Throng
+	2 Reckoner of Man
+	6 Recombobulate
+	12 Reincarnation Savant
+	6 Release from Death
+	12 Repel the Unruly
+	12 Resounding Relief
+	6 Return of the Fallen
+	12 Return to Ash
+	6 Rework the Canvas
+	12 Righteous Bolt
+	2 Saghira, Divinity's Usurper
+	12 Scene of Nativity
+	12 Scrivener of Sha'Iv
+	12 Seal of Insights
+	6 Search for Precedent
+	6 Searing Blasphemy
+	12 Seasons' Bounty
+	6 Seraph's Remnant
+	6 Seraphic Divination
+	1 Sha'Iv, God of Order
+	12 Sha'Iv's Emissary
+	12 Sha'Iv's Scout
+	12 Sha'Iv Cagemage
+	2 Shaper of the Formless
+	6 Shrine to the Shrouded
+	6 Shroudwing Seraph
+	12 Silence of the Guilty
+	12 Soul Cajoler
+	6 Souls of the Jury
+	12 Spawn from the Void
+	1 Spawns of Dementia
+	6 Spearhead Ophan
+	2 Splitflame Phoenix
+	2 Starlight Seraph
+	12 Steeple Deadeye
+	12 Strength from Chaos
+	12 Strength in Imagining
+	6 Summer's Approach
+	6 Taker of Tithes
+	2 Tammil and Sulei, the Guides
+	12 Telling Time
+	12 Temple Stalker
+	2 Test of Burning Wax
+	12 Test of Fear
+	12 Test of Forsaking
+	1 The Infinite
+	12 Thornweald Archer
+	12 Thorough Cleansing
+	6 Thought Police
+	2 Thoughts Reborn
+	2 Through New Eyes
+	12 Tides of Chaos
+	2 Tiller of Potential
+	6 Treacherous Devil
+	6 Tremor Elemental
+	2 Trifold Chaos
+	2 Tusked Consumer
+	12 Unknown Shores_MIS
+	6 Unorthodox Tutelage
+	12 Unpredictable Bloodshed
+	6 Unwavering Questant
+	2 Verdant Trauma
+	12 Wake from the Mire
+	12 Wandering Devout
+	12 War Priest of Bahet
+	12 Wardwing Seraph
+	12 Wayfaring Swindler
+	12 Weaver of Ifram
+	6 Weavetide Militia
+	2 Wellspring of Creation
+	6 Whim of Ifram
+	2 Wild Gravetender
+	12 Wilting Waif
+	12 Wings of Reckoning
+	6 Worldly Lore
+	1 Worldsculpt
+	2 Zaidha, Seraph of Calamity
+	6 Zealous Enforcers
+	12 Zephyr Purifier
+[wildcard(1)]
+	6 Admonish the Unruly
+	15 Adversary Ancestor
+	6 Adverse Reunion
+	6 Altar of Adversity
+	6 Altar of Chaos
+	6 Altar of Creation
+	6 Altar of Destruction
+	6 Altar of Devotion
+	6 Altar of Order
+	6 Angel's Codex
+	15 Angelbane Spider
+	7 Angelcaller
+	4 Angelic Destiny
+	7 Angeltouched Cavern
+	7 Angeltouched Crag
+	15 Angeltouched Dryad
+	7 Angeltouched Garden
+	15 Angeltouched Golem
+	6 Angeltouched Komodo
+	7 Angeltouched Marsh
+	7 Angeltouched Saltflat
+	7 Archlegislator
+	15 Armorer of the Soul
+	6 Assertive Inaction
+	4 Augury Hydra
+	7 Avatar of Being
+	4 Bahet, God of Destruction
+	6 Bahet's Emissary
+	7 Bahet's Sacrament
+	6 Bahet's Wink
+	4 Bahum, Penitent
+	7 Bahum's Penance
+	6 Bane of Identity
+	7 Beastwaker of Gusma
+	15 Beckon the Scribes
+	6 Binding Judgment
+	6 Blazeblade Sergeant
+	15 Born from the Flock
+	6 Branching Antlers
+	15 Chaos Tradewinder
+	6 Chaosphere Ravager
+	15 Chemical Grenade
+	4 Chiara the Enchantress
+	6 Chimera Graft
+	15 Coercive Cardinal
+	15 Combatant Conflagration
+	4 Consecrated Sight
+	6 Consult the Ashes
+	7 Cosmostorm Rider
+	7 Council of the Immortals
+	6 Counsel of Bahet
+	6 Crisis of Body
+	6 Curator of Cures
+	7 Damnation of Gluttons
+	6 Dark Night Cleansing
+	15 Dauntless Qith
+	15 Death in Reverse
+	7 Deathless Hunter
+	15 Descended Delta
+	15 Descended Marsh
+	15 Descended Meadow
+	15 Descended Mortuary
+	15 Descended Towers
+	7 Descent of the Cherubim
+	6 Devilish Undoer
+	7 Di'Ala, Ominous Seraph
+	15 Dismantle the Established
+	6 Dissolve
+	6 Divine Detention
+	6 Divine Lockdown
+	7 Divining Lens
+	6 Doomstep Giant
+	7 Dreams in Flight
+	6 Dryad of Rippling Leaves
+	15 Duchess of Life
+	15 Duke of Death
+	6 Dutiful Counselor
+	7 Embodiment of Order
+	7 Embrace the Id
+	15 End of the Road
+	6 Enforce the Cycle
+	6 Essence of Thought
+	7 Eternal Night
+	6 Eternal Path
+	7 Eternal Recurrence
+	6 Ethereal Fervor
+	15 Evershedder
+	15 Evoke the Maelstrom
+	7 Excise from Existence
+	7 False Savior
+	15 Fanatic Revival
+	6 Fatal Edict
+	6 Fearless Charger
+	7 Final Verdict
+	6 Formed Anew
+	6 Fuming Lawmaker
+	6 Fury Swipes
+	6 Glimmering Prosecutor
+	4 Gusma, God of Creation
+	7 Gusma's Artisan
+	15 Gusma's Darkcycler
+	6 Gusma's Emissary
+	15 Gustscreen Cherub
+	7 Hand of Genesis
+	7 Hayda, Worldseeder Archmage
+	6 Heedless Adversary
+	7 Helm of the Devoted
+	4 Hestia, Doubtful Archon
+	7 Holy War
+	15 Hopebringer Cherub
+	4 Ifram, God of Chaos
+	15 Ifram's Cavalier
+	6 Ifram's Emissary
+	6 Ifram's Greenfur
+	15 Immortal Terror
+	7 In the Face of Divinity
+	15 Inherited Rite
+	15 Inspired Trialmaker
+	15 Inspiring Mantle
+	6 Instability Elemental
+	6 Ishim of Devilry
+	6 Ishim of Genesis
+	6 Ishim of Oblivion
+	6 Ishim of Punishment
+	6 Ishim of Tempest
+	7 Ishim of the Mists
+	6 Journey to Atonement
+	6 Lesser Virtue
+	7 Lifetwist
+	15 Lightning Chorus
+	6 Manifest Dead
+	4 Mark of Hubris
+	6 Martyr of the Work
+	4 Marzen, Answer Seeker
+	7 Marzen's Frenzy
+	15 Marzen's Grimoire
+	6 Marzen's Sorrow
+	15 Masqued Cleansers
+	6 Meditant's Halo
+	7 Mind's Communion
+	15 Mindhunter Grizzly
+	15 Mindstorm's Eye
+	15 Minstrel of the Bloodied
+	7 Mortality Keeper
+	15 Move with the Tides
+	7 Naberas' Wisdom
+	4 Naberas the Pilgrim
+	6 Nascent Adversary
+	4 Ni'Ama, God of Adversity
+	6 Ni'Ama's Emissary
+	15 Ophan Titan
+	15 Oppressive Tithes
+	6 Oracle of Edicts
+	15 Ouroboros Twist
+	6 Peel from Reality
+	6 Pierce the Unruly
+	7 Pinnacle Seraph
+	4 Planar Conflagration
+	7 Polluted Bonds
+	15 Ponderance of Transience
+	6 Potential Beetle
+	15 Proclamation of the Tides
+	6 Progenitor of Rebirth
+	7 Protector of the Innocent
+	7 Provoke the Gods
+	15 Purgator of Storms
+	6 Purpose Elemental
+	15 Qith Maneuver
+	15 Rampant Giantling
+	7 Razing Throng
+	7 Reckoner of Man
+	15 Recombobulate
+	6 Reincarnation Savant
+	15 Release from Death
+	6 Repel the Unruly
+	6 Resounding Relief
+	15 Return of the Fallen
+	6 Return to Ash
+	15 Rework the Canvas
+	6 Righteous Bolt
+	7 Saghira, Divinity's Usurper
+	6 Scene of Nativity
+	6 Scrivener of Sha'Iv
+	6 Seal of Insights
+	15 Search for Precedent
+	15 Searing Blasphemy
+	6 Seasons' Bounty
+	15 Seraph's Remnant
+	15 Seraphic Divination
+	4 Sha'Iv, God of Order
+	6 Sha'Iv's Emissary
+	6 Sha'Iv's Scout
+	6 Sha'Iv Cagemage
+	7 Shaper of the Formless
+	15 Shrine to the Shrouded
+	15 Shroudwing Seraph
+	6 Silence of the Guilty
+	6 Soul Cajoler
+	15 Souls of the Jury
+	6 Spawn from the Void
+	4 Spawns of Dementia
+	15 Spearhead Ophan
+	7 Splitflame Phoenix
+	7 Starlight Seraph
+	6 Steeple Deadeye
+	6 Strength from Chaos
+	6 Strength in Imagining
+	15 Summer's Approach
+	15 Taker of Tithes
+	7 Tammil and Sulei, the Guides
+	6 Telling Time
+	6 Temple Stalker
+	7 Test of Burning Wax
+	6 Test of Fear
+	6 Test of Forsaking
+	4 The Infinite
+	6 Thornweald Archer
+	6 Thorough Cleansing
+	15 Thought Police
+	7 Thoughts Reborn
+	7 Through New Eyes
+	6 Tides of Chaos
+	7 Tiller of Potential
+	15 Treacherous Devil
+	15 Tremor Elemental
+	7 Trifold Chaos
+	7 Tusked Consumer
+	6 Unknown Shores_MIS
+	15 Unorthodox Tutelage
+	6 Unpredictable Bloodshed
+	15 Unwavering Questant
+	7 Verdant Trauma
+	6 Wake from the Mire
+	6 Wandering Devout
+	6 War Priest of Bahet
+	6 Wardwing Seraph
+	6 Wayfaring Swindler
+	6 Weaver of Ifram
+	15 Weavetide Militia
+	7 Wellspring of Creation
+	15 Whim of Ifram
+	7 Wild Gravetender
+	6 Wilting Waif
+	6 Wings of Reckoning
+	15 Worldly Lore
+	4 Worldsculpt
+	7 Zaidha, Seraph of Calamity
+	15 Zealous Enforcers
+	6 Zephyr Purifier

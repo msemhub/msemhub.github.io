@@ -1,0 +1,1340 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Agonizing Punishment",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Ascension // Fyrra, Chosen by Ayala",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/STN-files/img/1a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/1a_front.jpg"
+			}
+		},
+		{
+			"name": "Ascension // Fyrra, Chosen by Ayala",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/STN-files/img/1a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/1a_front.jpg"
+			}
+		},
+		{
+			"name": "Aureate Panorama",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Ayala, Shrouded Shepherd",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Ayala's Concord",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Ayala's Effigy",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Banish the Intruders",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Banished Companion",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Bloodlash Caravan",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Brushcover Elf",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Caulte Axeslinger",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Caulte Sovereign",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Champion of Blades",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Cinderblade",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Concealed Slasher",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Corvid Heretic",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Bird",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Cragbound Crusher",
+			"rarity": "rare",
+			"mana_cost": "{15}{R}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Crimson Knight",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Demon of Dark Shadows",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Descend on the Helpless // Cormoran, Raven Monarch",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/STN-files/img/35a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/35a_front.jpg"
+			}
+		},
+		{
+			"name": "Descend on the Helpless // Cormoran, Raven Monarch",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/STN-files/img/35a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/35a_front.jpg"
+			}
+		},
+		{
+			"name": "Earthform Pachyderm",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Elephant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Eclipse Knight",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Endless Discoveries",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Escape Death",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Eternal Rage",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Fleeting Discoveries",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Frostbreath Dragon",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Frostfire Hulk",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Golem",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Frozen Hinterlands",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Gaze Over the Wilds",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Guardian of the Divergent",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Hazy Coppice",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Heartripper Zombie",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Hell's Verdict",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Highpeak Rider",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Honor the Lost",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Icepeak Phantasm",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Illusion Spirit",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Impden Mother",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Inferno Lash",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Jaws of the Sea",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Jenn, the Rising Dawn",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Planeswalker — Jenn",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Jenn's Stand",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Kaor's Tithe",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Kaor Awoken",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Keeper of the Sanctum",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Lowland Vista",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Majestic Moonwhale",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Militant Youth",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Molten Incubation",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Ochre Knight",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Offerings to the Deathless",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Ominous Hart",
+			"rarity": "rare",
+			"mana_cost": "{7}{B}{B}",
+			"type": "Creature — Elk Horror",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Paradox Zone",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Phantasmal Reflection",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Poisonheart Druid",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Zombie Druid",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Prowling Frost-Tiger",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Cat",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Reaper of the Fields",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Risen Raven",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Scarletblood Hound",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Hound",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "See the Sunrise",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Shambling Manglers",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Shatter the Mask // Jirada, Elder of Caulte",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/STN-files/img/65a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/65a_front.jpg"
+			}
+		},
+		{
+			"name": "Shatter the Mask // Jirada, Elder of Caulte",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/STN-files/img/65a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/65a_front.jpg"
+			}
+		},
+		{
+			"name": "Show of Dominance",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Skyflock Warrior",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Skyscreecher Dragon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Skystream Mantas",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Solitary Guardian",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Spellflux Skeleton",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Wizard",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Spellshatter",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Spires of Caulte",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Stonewood Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Strix of Dark Omens",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Sunlit Fissure",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Surge of Darkness",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Temporal Insight",
+			"rarity": "rare",
+			"mana_cost": "{9}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Testament to Heroism",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "The Awakening",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "The Flames Approach // Auros, Flame-Cursed",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/STN-files/img/48a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/48a_front.jpg"
+			}
+		},
+		{
+			"name": "The Flames Approach // Auros, Flame-Cursed",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/STN-files/img/48a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/48a_front.jpg"
+			}
+		},
+		{
+			"name": "The Whisperwoods",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Torch the City",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Towering Boughs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Towering Stag",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Vali, Planar Researcher",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Legendary Planeswalker — Vali",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Veiled by the Blizzard",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Verdant Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Verdict of the Council",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "What Lurks Beyond",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Whisperwoods Exploration",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Whisperwoods Phoenix",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Whisperwoods Reclaimer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Wisdom of the Wilds",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Worldly Travels // Edri, Oracle of Caulte",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/STN-files/img/28a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/28a_front.jpg"
+			}
+		},
+		{
+			"name": "Worldly Travels // Edri, Oracle of Caulte",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/STN-files/img/28a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/STN-files/img/28a_front.jpg"
+			}
+		},
+	]
+
+[rare(1)]
+	2 Agonizing Punishment
+	2 Ascension // Fyrra, Chosen by Ayala
+	2 Ascension // Fyrra, Chosen by Ayala
+	2 Aureate Panorama
+	2 Ayala, Shrouded Shepherd
+	2 Ayala's Concord
+	2 Ayala's Effigy
+	2 Banish the Intruders
+	2 Banished Companion
+	2 Bloodlash Caravan
+	2 Brushcover Elf
+	2 Caulte Axeslinger
+	2 Caulte Sovereign
+	2 Champion of Blades
+	2 Cinderblade
+	2 Concealed Slasher
+	2 Corvid Heretic
+	2 Cragbound Crusher
+	2 Crimson Knight
+	2 Demon of Dark Shadows
+	2 Descend on the Helpless // Cormoran, Raven Monarch
+	2 Descend on the Helpless // Cormoran, Raven Monarch
+	2 Earthform Pachyderm
+	2 Eclipse Knight
+	2 Endless Discoveries
+	2 Escape Death
+	2 Eternal Rage
+	2 Fleeting Discoveries
+	2 Frostbreath Dragon
+	2 Frostfire Hulk
+	2 Frozen Hinterlands
+	2 Gaze Over the Wilds
+	2 Guardian of the Divergent
+	2 Hazy Coppice
+	2 Heartripper Zombie
+	2 Hell's Verdict
+	2 Highpeak Rider
+	2 Honor the Lost
+	2 Icepeak Phantasm
+	2 Impden Mother
+	2 Inferno Lash
+	2 Jaws of the Sea
+	2 Jenn, the Rising Dawn
+	2 Jenn's Stand
+	2 Kaor's Tithe
+	2 Kaor Awoken
+	2 Keeper of the Sanctum
+	2 Lowland Vista
+	2 Majestic Moonwhale
+	2 Militant Youth
+	2 Molten Incubation
+	2 Ochre Knight
+	2 Offerings to the Deathless
+	2 Ominous Hart
+	2 Paradox Zone
+	2 Phantasmal Reflection
+	2 Poisonheart Druid
+	2 Prowling Frost-Tiger
+	2 Reaper of the Fields
+	2 Risen Raven
+	2 Scarletblood Hound
+	2 See the Sunrise
+	2 Shambling Manglers
+	2 Shatter the Mask // Jirada, Elder of Caulte
+	2 Shatter the Mask // Jirada, Elder of Caulte
+	2 Show of Dominance
+	2 Skyflock Warrior
+	2 Skyscreecher Dragon
+	2 Skystream Mantas
+	2 Solitary Guardian
+	2 Spellflux Skeleton
+	2 Spellshatter
+	2 Spires of Caulte
+	2 Stonewood Sanctuary
+	2 Strix of Dark Omens
+	2 Sunlit Fissure
+	2 Surge of Darkness
+	2 Temporal Insight
+	2 Testament to Heroism
+	2 The Awakening
+	2 The Flames Approach // Auros, Flame-Cursed
+	2 The Flames Approach // Auros, Flame-Cursed
+	2 The Whisperwoods
+	2 Torch the City
+	2 Towering Boughs
+	2 Towering Stag
+	2 Vali, Planar Researcher
+	2 Veiled by the Blizzard
+	2 Verdant Sanctuary
+	2 Verdict of the Council
+	2 What Lurks Beyond
+	2 Whisperwoods Exploration
+	2 Whisperwoods Phoenix
+	2 Whisperwoods Reclaimer
+	2 Wisdom of the Wilds
+	2 Worldly Travels // Edri, Oracle of Caulte
+	2 Worldly Travels // Edri, Oracle of Caulte
+[uncommon(3)]
+[common(7)]
+[foil(1)]
+	2 Agonizing Punishment
+	2 Ascension // Fyrra, Chosen by Ayala
+	2 Ascension // Fyrra, Chosen by Ayala
+	2 Aureate Panorama
+	2 Ayala, Shrouded Shepherd
+	2 Ayala's Concord
+	2 Ayala's Effigy
+	2 Banish the Intruders
+	2 Banished Companion
+	2 Bloodlash Caravan
+	2 Brushcover Elf
+	2 Caulte Axeslinger
+	2 Caulte Sovereign
+	2 Champion of Blades
+	2 Cinderblade
+	2 Concealed Slasher
+	2 Corvid Heretic
+	2 Cragbound Crusher
+	2 Crimson Knight
+	2 Demon of Dark Shadows
+	2 Descend on the Helpless // Cormoran, Raven Monarch
+	2 Descend on the Helpless // Cormoran, Raven Monarch
+	2 Earthform Pachyderm
+	2 Eclipse Knight
+	2 Endless Discoveries
+	2 Escape Death
+	2 Eternal Rage
+	2 Fleeting Discoveries
+	2 Frostbreath Dragon
+	2 Frostfire Hulk
+	2 Frozen Hinterlands
+	2 Gaze Over the Wilds
+	2 Guardian of the Divergent
+	2 Hazy Coppice
+	2 Heartripper Zombie
+	2 Hell's Verdict
+	2 Highpeak Rider
+	2 Honor the Lost
+	2 Icepeak Phantasm
+	2 Impden Mother
+	2 Inferno Lash
+	2 Jaws of the Sea
+	2 Jenn, the Rising Dawn
+	2 Jenn's Stand
+	2 Kaor's Tithe
+	2 Kaor Awoken
+	2 Keeper of the Sanctum
+	2 Lowland Vista
+	2 Majestic Moonwhale
+	2 Militant Youth
+	2 Molten Incubation
+	2 Ochre Knight
+	2 Offerings to the Deathless
+	2 Ominous Hart
+	2 Paradox Zone
+	2 Phantasmal Reflection
+	2 Poisonheart Druid
+	2 Prowling Frost-Tiger
+	2 Reaper of the Fields
+	2 Risen Raven
+	2 Scarletblood Hound
+	2 See the Sunrise
+	2 Shambling Manglers
+	2 Shatter the Mask // Jirada, Elder of Caulte
+	2 Shatter the Mask // Jirada, Elder of Caulte
+	2 Show of Dominance
+	2 Skyflock Warrior
+	2 Skyscreecher Dragon
+	2 Skystream Mantas
+	2 Solitary Guardian
+	2 Spellflux Skeleton
+	2 Spellshatter
+	2 Spires of Caulte
+	2 Stonewood Sanctuary
+	2 Strix of Dark Omens
+	2 Sunlit Fissure
+	2 Surge of Darkness
+	2 Temporal Insight
+	2 Testament to Heroism
+	2 The Awakening
+	2 The Flames Approach // Auros, Flame-Cursed
+	2 The Flames Approach // Auros, Flame-Cursed
+	2 The Whisperwoods
+	2 Torch the City
+	2 Towering Boughs
+	2 Towering Stag
+	2 Vali, Planar Researcher
+	2 Veiled by the Blizzard
+	2 Verdant Sanctuary
+	2 Verdict of the Council
+	2 What Lurks Beyond
+	2 Whisperwoods Exploration
+	2 Whisperwoods Phoenix
+	2 Whisperwoods Reclaimer
+	2 Wisdom of the Wilds
+	2 Worldly Travels // Edri, Oracle of Caulte
+	2 Worldly Travels // Edri, Oracle of Caulte
+[wildcard(1)]
+	7 Agonizing Punishment
+	7 Ascension // Fyrra, Chosen by Ayala
+	7 Ascension // Fyrra, Chosen by Ayala
+	7 Aureate Panorama
+	7 Ayala, Shrouded Shepherd
+	7 Ayala's Concord
+	7 Ayala's Effigy
+	7 Banish the Intruders
+	7 Banished Companion
+	7 Bloodlash Caravan
+	7 Brushcover Elf
+	7 Caulte Axeslinger
+	7 Caulte Sovereign
+	7 Champion of Blades
+	7 Cinderblade
+	7 Concealed Slasher
+	7 Corvid Heretic
+	7 Cragbound Crusher
+	7 Crimson Knight
+	7 Demon of Dark Shadows
+	7 Descend on the Helpless // Cormoran, Raven Monarch
+	7 Descend on the Helpless // Cormoran, Raven Monarch
+	7 Earthform Pachyderm
+	7 Eclipse Knight
+	7 Endless Discoveries
+	7 Escape Death
+	7 Eternal Rage
+	7 Fleeting Discoveries
+	7 Frostbreath Dragon
+	7 Frostfire Hulk
+	7 Frozen Hinterlands
+	7 Gaze Over the Wilds
+	7 Guardian of the Divergent
+	7 Hazy Coppice
+	7 Heartripper Zombie
+	7 Hell's Verdict
+	7 Highpeak Rider
+	7 Honor the Lost
+	7 Icepeak Phantasm
+	7 Impden Mother
+	7 Inferno Lash
+	7 Jaws of the Sea
+	7 Jenn, the Rising Dawn
+	7 Jenn's Stand
+	7 Kaor's Tithe
+	7 Kaor Awoken
+	7 Keeper of the Sanctum
+	7 Lowland Vista
+	7 Majestic Moonwhale
+	7 Militant Youth
+	7 Molten Incubation
+	7 Ochre Knight
+	7 Offerings to the Deathless
+	7 Ominous Hart
+	7 Paradox Zone
+	7 Phantasmal Reflection
+	7 Poisonheart Druid
+	7 Prowling Frost-Tiger
+	7 Reaper of the Fields
+	7 Risen Raven
+	7 Scarletblood Hound
+	7 See the Sunrise
+	7 Shambling Manglers
+	7 Shatter the Mask // Jirada, Elder of Caulte
+	7 Shatter the Mask // Jirada, Elder of Caulte
+	7 Show of Dominance
+	7 Skyflock Warrior
+	7 Skyscreecher Dragon
+	7 Skystream Mantas
+	7 Solitary Guardian
+	7 Spellflux Skeleton
+	7 Spellshatter
+	7 Spires of Caulte
+	7 Stonewood Sanctuary
+	7 Strix of Dark Omens
+	7 Sunlit Fissure
+	7 Surge of Darkness
+	7 Temporal Insight
+	7 Testament to Heroism
+	7 The Awakening
+	7 The Flames Approach // Auros, Flame-Cursed
+	7 The Flames Approach // Auros, Flame-Cursed
+	7 The Whisperwoods
+	7 Torch the City
+	7 Towering Boughs
+	7 Towering Stag
+	7 Vali, Planar Researcher
+	7 Veiled by the Blizzard
+	7 Verdant Sanctuary
+	7 Verdict of the Council
+	7 What Lurks Beyond
+	7 Whisperwoods Exploration
+	7 Whisperwoods Phoenix
+	7 Whisperwoods Reclaimer
+	7 Wisdom of the Wilds
+	7 Worldly Travels // Edri, Oracle of Caulte
+	7 Worldly Travels // Edri, Oracle of Caulte

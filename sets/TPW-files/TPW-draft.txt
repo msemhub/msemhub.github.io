@@ -1,0 +1,3928 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "A Dark and Stormy Night",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "A Farmer's Life",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "A Queen's Duty",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Abaran's Quarry",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Abaran the Haunted",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Abominable Quarry",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Skeleton Horror",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Accursed Ancestor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Vampire Noble",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Acolyte of the Rose Order",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Ahl the Omenwing",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Planeswalker — Ahl",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Alchemical Warfare",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Alliance's Aid",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Apex's Prey",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Aravant Welcome",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Asamund's Contemplation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Asamund's Final Push",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Ashenwind Augur",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Assailed Farmer",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Awakened Hunger",
+			"rarity": "common",
+			"mana_cost": "{1}{B/G}",
+			"type": "Instant",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Beherzt, Sofia's Second",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Dwarf Pirate",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Beherzt's Squallseeker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Pirate",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Belmord, Bloodstained Count",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Belmord's Thirst",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Belmord Collaborator",
+			"rarity": "rare",
+			"mana_cost": "{W/B}{U}",
+			"type": "Creature — Vampire Soldier Wizard",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Bilge Crab",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Crab Pirate",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Bitter Defeat",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Bleakfell Escort",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Citizen Ranger",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Bleakfell Mauler",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{B}",
+			"type": "Creature — Bear",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Blightbound Archer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Zombie Elf Archer",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Blighthorn Stallion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon Unicorn",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Bloodbriar Bat-Rider",
+			"rarity": "common",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Bloodfall",
+			"rarity": "mythic",
+			"mana_cost": "{9}{R}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Bloodstained Crusade",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Bloodvenge Slayer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Elf Rogue Berserker",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Blow the Man Down",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Bonescourge Kazadrak // The Scourgebone Pact",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Skeleton Dragon",
+			"collector_number": "301",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TPW-files/img/301a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/301a_front.jpg"
+			}
+		},
+		{
+			"name": "Bonescourge Kazadrak // The Scourgebone Pact",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Skeleton Dragon",
+			"collector_number": "301",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://msemhub.github.io/sets/TPW-files/img/301a_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/301a_front.jpg"
+			}
+		},
+		{
+			"name": "Borohd, Wartemper Artisan",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Dwarf Artificer",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Branu's Pathcutter",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Dryad Rogue",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Branu of the Dewdrops",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Dryad Warrior Bard",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Brazen Chitter-Sage",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}",
+			"type": "Creature — Rat Mutant Warlock",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Brimstone Charger",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Horse",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Brought Together",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Bugrund, Firehearth's Last",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Dwarf Noble",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Burning Visions",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "By Blood and Fire",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Byron, Hero of Norwick",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human Peasant",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Byron's Reprisal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Caer Crann, Forest's Heart",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/289.jpg"
+			}
+		},
+		{
+			"name": "Caer Crann Collaborator",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/G}{W}",
+			"type": "Creature — Elf Noble Knight",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Caer Crann Survivalists",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Calamitous Flames",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Call of the Dreadmoon",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Castle Belmord",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/290.jpg"
+			}
+		},
+		{
+			"name": "Celitiene, Wildfire",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Elf Shaman",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Celitiene's Accorder",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Celitiene's Regret",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Champion of the People",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Chillbone Lich",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Skeleton Wizard",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Cinderfeather Phoenix",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Cleansing Brimstone",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Cloudstreaker",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Griffin",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Coirchanh's Herald",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Skeleton Horror",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Coirchanh's Invocation",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Coirchanh Awakened",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Elder Skeleton Horror",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Compromised Sorcerer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Shapeshifter Warlock",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Conscripted Provisioner",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Corpsecaster Mage_TPW",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Corpsefeaster Zwurg",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Zombie Dwarf",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Corpsestitched Slasher",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Zombie Scarecrow",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Corpus, Drawn to Death",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Planeswalker — Corpus",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Costly Ambush",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Daring Sortie",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Daring Windraider",
+			"rarity": "common",
+			"mana_cost": "{3}{U/R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Darkheart Beckoning",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Deadhunt Mastiff",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dog",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Deathrooter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Zombie Boar",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Deepstone Fusiliers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Dwarf Warrior Artificer",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Deepstone Traitor",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dwarf Rogue Warlock",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Deepwilds Survivor",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Deepwood Hermit",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Depraved Dreadlord",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon Noble Knight",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Desperate Commander",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Desperate Retreat",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Dewdrop Crescendo",
+			"rarity": "common",
+			"mana_cost": "{X}{G/U}",
+			"type": "Sorcery",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Dewdrop Marshal",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Dryad Warrior",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Dewshaper Matriarch",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Dryad Druid",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Dreadmoon's Rise",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Dreadmoon Crusader",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Warlock Knight",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Dreadmoon Disciple",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Dwarven Swashbuckler",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dwarf Pirate",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Dwynerloch Haunt",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Elemental Horse",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Ebitha, Supplicant of Decay",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Edelber Collaborator",
+			"rarity": "rare",
+			"mana_cost": "{1}{R/W}{G}",
+			"type": "Creature — Dwarf Artificer Druid",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Edelber Foreman",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Edelber Frontliners",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dwarf Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Edict of the Roses",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Enduring Scion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Entrenched Forgemaster",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Esalia, the Enduring Root",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Esalia's Witness",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Ranger",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Esmerie's Breeze-Seeker",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Esoteric Alliances",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Evolving Wilds_TPW",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/292.jpg"
+			}
+		},
+		{
+			"name": "Fading Words",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Fangmarked Neophyte",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Fated Call",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Favor of Petals",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Fencas the Fallen",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Zombie Elf Druid",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Flawed Masterpiece",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Flaws in the Flesh",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Fleeting Valiant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "For Hearth and Home",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Instant",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Forced Conscription",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Forest_TPW",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/293.jpg"
+			}
+		},
+		{
+			"name": "Forsaken Mausoleum",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Fortune's Fusillade",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Fortune's Mark",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Frantic Harvesters",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Friendly Challenge",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "From the Treetops",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Frontline Familiar",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Gamhaugen Burns",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Gamhaugen Drillbore",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Gamhaugen Owlkeeper",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dwarf Citizen",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Glenach, Gossamer Monarch",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Insect Noble",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Glimmer of Hope",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Glimpse Your Fate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Glory in Undeath",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Griffin Hatchlings",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Griffin",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Grizzled Expeditioneer",
+			"rarity": "common",
+			"mana_cost": "{2}{R/G}{R/G}",
+			"type": "Creature — Dwarf Scout",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Gwynsivir, the Listener",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Elf Druid Ranger",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Gwynsivir's Pathfinder",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Elf Druid Scout",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Hark the Fleeting Host",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Harl's Hornblower",
+			"rarity": "common",
+			"mana_cost": "{2}{R/W}",
+			"type": "Creature — Dwarf Warrior Bard",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Harl and Finn, Bloodbrothers",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}{G}",
+			"type": "Legendary Creature — Dwarf Elf Warrior",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Harrier Corps",
+			"rarity": "common",
+			"mana_cost": "{2}{W/U}{W/U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Hearthfire Disciple",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Heedless Questant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Hemic Consummation",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Henrick, the Fleeting King",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Spirit Noble",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Herald of Clear Skies",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Heretical Prelate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric Soldier",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Hollowmind Drudge",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Soldier",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Horseman of Conquest",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Horseman of Famine",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Horseman of Pestilence",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Horseman of War",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Hour of Greatest Need",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Hugh, Usurper's Thorn",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human Peasant Rogue",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Hulking Fleshdebter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Giant Rogue Warlock",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Illicit Spellweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Rogue Wizard",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Imisti of the Rose Court",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Elf Rogue",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Impetuous Cavalryman",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Indulgent Hedonist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Soldier",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Invocation of Loisch",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Island_TPW",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/294.jpg"
+			}
+		},
+		{
+			"name": "Joyous Reveler",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Citizen",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Kahra's Machinations",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Kahra's Price",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Kahra's Prototype",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Kiss from a Rose",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Knives to Throats",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Lady Kahra Belmord",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Vampire Noble Warlock",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Levy Bowmen",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Peasant Archer",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Llech Crann Ambassador",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Soldier Advisor",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Llech Crann Knight",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elf Knight",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Llech Crann Paladin",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elf Knight",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Llosg Crann Quartermaster",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Citizen",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Llosg Crann Sharpshooter",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Loisch, Stonebark Scorcher",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Elemental Treefolk",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Lysene, Shrewd Smuggler",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Lysene's Plunderer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Malingering Phantom",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Maritou's Bane",
+			"rarity": "common",
+			"mana_cost": "{3}{U/B}{U/B}",
+			"type": "Creature — Kraken",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Maritou's Pride",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Spirit Pirate",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Maritou the Strait-Drowned",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Zombie Pirate",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Marrowbound Tenacity",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Mellan, Skysworn Inductee",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Elf Knight",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Mellan's Tactics",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Middenheap Uprising",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Middenswarm Rats",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Rat",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Militia's Charge",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Mirrored Monstrosities",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Moment's Reprieve",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Moment of Mourning",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Momentary Victory",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Monara, Pale Rider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Zombie Knight",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Moontouched Courser",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elk Spirit",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Moor-Witch's Brew",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Mountain_TPW",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/295.jpg"
+			}
+		},
+		{
+			"name": "Necromantic Experiment",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Zombie",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Necrosis Vials",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Norwick, Defiant Farmstead",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/296.jpg"
+			}
+		},
+		{
+			"name": "Noxious Kiss",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Oath of the Wildlords",
+			"rarity": "rare",
+			"mana_cost": "{X}{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Oathbound Scion",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Oathsworn Bloodsire",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Vampire Knight",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Overwhelming March",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Pactwhisper Demon",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon Noble Knight",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Pale Conquest",
+			"rarity": "common",
+			"mana_cost": "{W/B}",
+			"type": "Instant",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Pale Mercies",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Perfect Partnership",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Pestilent Procession",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Petalsnare",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Instant",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Phasewalker Rake",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Spirit Rogue",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Plains_TPW",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/297.jpg"
+			}
+		},
+		{
+			"name": "Procession of the Pale",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Protector of Yroncaster",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Provisions Hauler",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}{G/W}",
+			"type": "Creature — Ox",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Pyresong Incendiary",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Queen's Crusader",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Questant's Beginning",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Ragtatter Collector",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Rallying Banners",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Rancid Plagueherald",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Rat Mutant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Ratkin Rampage",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Raven Roosts",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Ravings of the Damned",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Reagent Smuggler",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Dwarf Rogue Wizard",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Rebellious Ratkin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Rat Warrior",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Relentless Driftpicker",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Crab Mutant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Rhysta, Bladebound",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}{B}{B}",
+			"type": "Legendary Creature — Spirit Knight",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Rhysta's Deliverance",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Rose Court Sentinel",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Skeleton Soldier",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Rose Order Pactblade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Rose Queen's Absolution",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Rose Queen Asamund",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human Noble Knight",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Rosewhisper Garden",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/298.jpg"
+			}
+		},
+		{
+			"name": "Rouse the Smallfolk",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Rundfora's Resistance",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Rundfora Collaborator",
+			"rarity": "rare",
+			"mana_cost": "{4}{G/U}{R}",
+			"type": "Creature — Dryad Druid Berserker",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Rundfora Trickster",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Sanguine Chevalier",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Knight",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Santriza Collaborator",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/R}{B}",
+			"type": "Creature — Human Pirate Warlock",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Santriza Despoilers",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Santriza Saltbeard",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Dwarf Pirate",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Save What You Can",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Instant",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Scale-Slough Drake",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Zombie Drake",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Scion's Sentence",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Scion of Coirchanh",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elk Horror",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Scorching Condemnation",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Searmelt",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Settled Giant",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Giant Peasant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Sheltering Gargantuan",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Skullbark Defiler",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Skeleton Horror",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Sky Commander Esmerie",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Skyfall",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Skysworn Companion",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Slip Beyond Fate's Grasp",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Smuggler's Requisition",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Soaring Pridelord",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Sofia, Haunted by Fortune",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Sofia's Stormchaser",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Song of the Red Thirst",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Sorrows of Maritou",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Spark of Inspiration",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Spellstrider Ettin",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Creature — Giant Wizard",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Stand as One",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Steadfast Veteran",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Stilthorpe Memorialist",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Stirring of the Run",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Stonebark Invoker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Treefolk",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Strawsewn Mentor",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Strongarm Militia",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Peasant Warrior",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Sunheart Greatsword",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Sunlit Waystone",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Surface Envoy",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dwarf Ranger",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Sustaining Katlig",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cat Elk Plant",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Swamp_TPW",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/299.jpg"
+			}
+		},
+		{
+			"name": "Symbol of Tranquility",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Thanewraith",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Dwarf Spirit Warrior",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Thanewrought Reclaimer",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Artifact Creature — Dwarf Construct",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "The Dreadmoon Ascendancy",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "The Dwynerloch",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/291.jpg"
+			}
+		},
+		{
+			"name": "The Marrow Lord",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Skeleton Noble",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "The Roseblade Reforged",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "The Rundfora's Last Gift",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "The Usurper's Dark Rebirth",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "The Usurper's Final Rest",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/287.jpg"
+			}
+		},
+		{
+			"name": "Thrashing Kelpie",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elemental Horse",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Tidecrest Surger",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Timely Arrival",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Treacherous Bloodbriar",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Undermine, the Seething Forges",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/300.jpg"
+			}
+		},
+		{
+			"name": "Undermine Guardian",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Creature — Elemental Giant Warrior",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Underpass Ranger",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Dwarf Ranger",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Unravel the Unfathomable",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Usurper's Will",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Vel, the Forlorn Shield",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Vel's Intervention",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Vengeful Alchemist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue Wizard",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Vernal Decay",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Voracious Dais",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Warden of the Belfry",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Warlock",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Weoran's Hunger",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Weoran the Fleshcarver",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Zombie Soldier",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Wihtfyr's Coterie",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Skeleton Knight Army",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Wihtfyr of the Nighthost",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Legendary Creature — Skeleton Knight",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Yaran, Undying Usurper",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Zombie Noble Wizard",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Yaran's Scheming",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Yearning Heart",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Yroncaster's Empty Throne",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://msemhub.github.io/sets/TPW-files/img/288.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 A Dark and Stormy Night
+	2 A Farmer's Life
+	2 A Queen's Duty
+	2 Abominable Quarry
+	1 Ahl the Omenwing
+	2 Apex's Prey
+	2 Asamund's Final Push
+	2 Ashenwind Augur
+	1 Belmord, Bloodstained Count
+	2 Belmord Collaborator
+	2 Bitter Defeat
+	1 Bloodfall
+	2 Blow the Man Down
+	2 Branu of the Dewdrops
+	1 Bugrund, Firehearth's Last
+	2 Caer Crann, Forest's Heart
+	2 Caer Crann Collaborator
+	2 Call of the Dreadmoon
+	2 Castle Belmord
+	1 Celitiene, Wildfire
+	2 Champion of the People
+	2 Cinderfeather Phoenix
+	2 Cloudstreaker
+	2 Coirchanh's Invocation
+	1 Coirchanh Awakened
+	2 Corpsecaster Mage_TPW
+	1 Corpus, Drawn to Death
+	2 Desperate Commander
+	2 Dewshaper Matriarch
+	2 Dreadmoon Crusader
+	2 Edelber Collaborator
+	2 Entrenched Forgemaster
+	2 Esalia, the Enduring Root
+	2 Esoteric Alliances
+	2 Flawed Masterpiece
+	2 Forced Conscription
+	2 Friendly Challenge
+	1 Gwynsivir, the Listener
+	2 Gwynsivir's Pathfinder
+	2 Hark the Fleeting Host
+	2 Harl and Finn, Bloodbrothers
+	2 Hearthfire Disciple
+	2 Hemic Consummation
+	1 Henrick, the Fleeting King
+	1 Horseman of Conquest
+	1 Horseman of Famine
+	1 Horseman of Pestilence
+	1 Horseman of War
+	2 Hugh, Usurper's Thorn
+	2 Imisti of the Rose Court
+	2 Kahra's Price
+	2 Lady Kahra Belmord
+	2 Llosg Crann Quartermaster
+	1 Lysene, Shrewd Smuggler
+	2 Maritou's Pride
+	2 Mirrored Monstrosities
+	2 Norwick, Defiant Farmstead
+	2 Oath of the Wildlords
+	2 Pactwhisper Demon
+	2 Procession of the Pale
+	1 Questant's Beginning
+	2 Rallying Banners
+	2 Ratkin Rampage
+	2 Raven Roosts
+	1 Rhysta, Bladebound
+	2 Rhysta's Deliverance
+	2 Rose Queen's Absolution
+	1 Rose Queen Asamund
+	2 Rundfora Collaborator
+	2 Sanguine Chevalier
+	2 Santriza Collaborator
+	2 Santriza Despoilers
+	2 Scorching Condemnation
+	2 Sky Commander Esmerie
+	2 Skyfall
+	2 Soaring Pridelord
+	1 Sofia, Haunted by Fortune
+	2 Spellstrider Ettin
+	2 Stand as One
+	1 Stirring of the Run
+	2 Sunheart Greatsword
+	2 Thanewrought Reclaimer
+	2 The Dreadmoon Ascendancy
+	2 The Dwynerloch
+	2 The Roseblade Reforged
+	2 The Rundfora's Last Gift
+	2 The Usurper's Final Rest
+	2 Thrashing Kelpie
+	2 Undermine, the Seething Forges
+	2 Undermine Guardian
+	2 Underpass Ranger
+	2 Voracious Dais
+	2 Wihtfyr of the Nighthost
+	1 Yaran, Undying Usurper
+	1 Yroncaster's Empty Throne
+[uncommon(3)]
+	4 Abaran's Quarry
+	4 Abaran the Haunted
+	4 Accursed Ancestor
+	4 Alchemical Warfare
+	4 Asamund's Contemplation
+	4 Beherzt, Sofia's Second
+	4 Beherzt's Squallseeker
+	4 Bilge Crab
+	4 Bleakfell Escort
+	4 Bleakfell Mauler
+	4 Blighthorn Stallion
+	4 Bloodstained Crusade
+	4 Bloodvenge Slayer
+	4 Borohd, Wartemper Artisan
+	4 Byron, Hero of Norwick
+	4 Byron's Reprisal
+	4 Celitiene's Regret
+	4 Chillbone Lich
+	4 Coirchanh's Herald
+	4 Compromised Sorcerer
+	4 Corpsefeaster Zwurg
+	4 Daring Sortie
+	4 Deathrooter
+	4 Deepstone Fusiliers
+	4 Dewdrop Marshal
+	4 Dreadmoon's Rise
+	4 Ebitha, Supplicant of Decay
+	4 Enduring Scion
+	4 Esalia's Witness
+	4 Fencas the Fallen
+	4 Fleeting Valiant
+	4 For Hearth and Home
+	4 Fortune's Fusillade
+	4 Frantic Harvesters
+	4 From the Treetops
+	4 Gamhaugen Burns
+	4 Glenach, Gossamer Monarch
+	4 Glimpse Your Fate
+	4 Griffin Hatchlings
+	4 Heedless Questant
+	4 Herald of Clear Skies
+	4 Heretical Prelate
+	4 Hulking Fleshdebter
+	4 Illicit Spellweaver
+	4 Indulgent Hedonist
+	4 Llech Crann Ambassador
+	4 Loisch, Stonebark Scorcher
+	4 Maritou the Strait-Drowned
+	4 Mellan, Skysworn Inductee
+	4 Middenheap Uprising
+	4 Moment's Reprieve
+	4 Momentary Victory
+	4 Monara, Pale Rider
+	4 Moontouched Courser
+	4 Noxious Kiss
+	4 Overwhelming March
+	4 Pale Mercies
+	4 Perfect Partnership
+	4 Pestilent Procession
+	4 Petalsnare
+	4 Phasewalker Rake
+	4 Pyresong Incendiary
+	4 Ravings of the Damned
+	4 Rebellious Ratkin
+	4 Rose Order Pactblade
+	4 Rosewhisper Garden
+	4 Rundfora Trickster
+	4 Save What You Can
+	4 Sheltering Gargantuan
+	4 Stilthorpe Memorialist
+	4 Stonebark Invoker
+	4 Sunlit Waystone
+	4 Thanewraith
+	4 The Marrow Lord
+	4 The Usurper's Dark Rebirth
+	4 Usurper's Will
+	4 Vel, the Forlorn Shield
+	4 Vengeful Alchemist
+	4 Vernal Decay
+	4 Weoran the Fleshcarver
+	4 Wihtfyr's Coterie
+	4 Yaran's Scheming
+	4 Yearning Heart
+[common(7)]
+	8 Acolyte of the Rose Order
+	8 Alliance's Aid
+	8 Aravant Welcome
+	8 Assailed Farmer
+	8 Awakened Hunger
+	8 Belmord's Thirst
+	8 Blightbound Archer
+	8 Bloodbriar Bat-Rider
+	8 Branu's Pathcutter
+	8 Brazen Chitter-Sage
+	8 Brimstone Charger
+	8 Brought Together
+	8 Burning Visions
+	8 By Blood and Fire
+	8 Caer Crann Survivalists
+	8 Calamitous Flames
+	8 Celitiene's Accorder
+	8 Cleansing Brimstone
+	8 Conscripted Provisioner
+	8 Corpsestitched Slasher
+	8 Costly Ambush
+	8 Daring Windraider
+	8 Darkheart Beckoning
+	8 Deadhunt Mastiff
+	8 Deepstone Traitor
+	8 Deepwilds Survivor
+	8 Deepwood Hermit
+	8 Depraved Dreadlord
+	8 Desperate Retreat
+	8 Dewdrop Crescendo
+	8 Dreadmoon Disciple
+	8 Dwarven Swashbuckler
+	8 Dwynerloch Haunt
+	8 Edelber Foreman
+	8 Edelber Frontliners
+	8 Edict of the Roses
+	8 Esmerie's Breeze-Seeker
+	8 Evolving Wilds_TPW
+	8 Fading Words
+	8 Fangmarked Neophyte
+	8 Fated Call
+	8 Favor of Petals
+	8 Flaws in the Flesh
+	8 Forsaken Mausoleum
+	8 Fortune's Mark
+	8 Frontline Familiar
+	8 Gamhaugen Drillbore
+	8 Gamhaugen Owlkeeper
+	8 Glimmer of Hope
+	8 Glory in Undeath
+	8 Grizzled Expeditioneer
+	8 Harl's Hornblower
+	8 Harrier Corps
+	8 Hollowmind Drudge
+	8 Hour of Greatest Need
+	8 Impetuous Cavalryman
+	8 Invocation of Loisch
+	8 Joyous Reveler
+	8 Kahra's Machinations
+	8 Kahra's Prototype
+	8 Kiss from a Rose
+	8 Knives to Throats
+	8 Levy Bowmen
+	8 Llech Crann Knight
+	8 Llech Crann Paladin
+	8 Llosg Crann Sharpshooter
+	8 Lysene's Plunderer
+	8 Malingering Phantom
+	8 Maritou's Bane
+	8 Marrowbound Tenacity
+	8 Mellan's Tactics
+	8 Middenswarm Rats
+	8 Militia's Charge
+	8 Moment of Mourning
+	8 Moor-Witch's Brew
+	8 Necromantic Experiment
+	8 Necrosis Vials
+	8 Oathbound Scion
+	8 Oathsworn Bloodsire
+	8 Pale Conquest
+	8 Protector of Yroncaster
+	8 Provisions Hauler
+	8 Queen's Crusader
+	8 Ragtatter Collector
+	8 Rancid Plagueherald
+	8 Reagent Smuggler
+	8 Relentless Driftpicker
+	8 Rose Court Sentinel
+	8 Rouse the Smallfolk
+	8 Rundfora's Resistance
+	8 Santriza Saltbeard
+	8 Scale-Slough Drake
+	8 Scion's Sentence
+	8 Scion of Coirchanh
+	8 Searmelt
+	8 Settled Giant
+	8 Skullbark Defiler
+	8 Skysworn Companion
+	8 Slip Beyond Fate's Grasp
+	8 Smuggler's Requisition
+	8 Sofia's Stormchaser
+	8 Song of the Red Thirst
+	8 Sorrows of Maritou
+	8 Spark of Inspiration
+	8 Steadfast Veteran
+	8 Strawsewn Mentor
+	8 Strongarm Militia
+	8 Surface Envoy
+	8 Sustaining Katlig
+	8 Symbol of Tranquility
+	8 Tidecrest Surger
+	8 Timely Arrival
+	8 Treacherous Bloodbriar
+	8 Unravel the Unfathomable
+	8 Vel's Intervention
+	8 Warden of the Belfry
+	8 Weoran's Hunger
+[foil(1)]
+	1 A Dark and Stormy Night
+	2 A Farmer's Life
+	2 A Queen's Duty
+	6 Abaran's Quarry
+	6 Abaran the Haunted
+	2 Abominable Quarry
+	6 Accursed Ancestor
+	12 Acolyte of the Rose Order
+	1 Ahl the Omenwing
+	6 Alchemical Warfare
+	12 Alliance's Aid
+	2 Apex's Prey
+	12 Aravant Welcome
+	6 Asamund's Contemplation
+	2 Asamund's Final Push
+	2 Ashenwind Augur
+	12 Assailed Farmer
+	12 Awakened Hunger
+	6 Beherzt, Sofia's Second
+	6 Beherzt's Squallseeker
+	1 Belmord, Bloodstained Count
+	12 Belmord's Thirst
+	2 Belmord Collaborator
+	6 Bilge Crab
+	2 Bitter Defeat
+	6 Bleakfell Escort
+	6 Bleakfell Mauler
+	12 Blightbound Archer
+	6 Blighthorn Stallion
+	12 Bloodbriar Bat-Rider
+	1 Bloodfall
+	6 Bloodstained Crusade
+	6 Bloodvenge Slayer
+	2 Blow the Man Down
+	6 Borohd, Wartemper Artisan
+	12 Branu's Pathcutter
+	2 Branu of the Dewdrops
+	12 Brazen Chitter-Sage
+	12 Brimstone Charger
+	12 Brought Together
+	1 Bugrund, Firehearth's Last
+	12 Burning Visions
+	12 By Blood and Fire
+	6 Byron, Hero of Norwick
+	6 Byron's Reprisal
+	2 Caer Crann, Forest's Heart
+	2 Caer Crann Collaborator
+	12 Caer Crann Survivalists
+	12 Calamitous Flames
+	2 Call of the Dreadmoon
+	2 Castle Belmord
+	1 Celitiene, Wildfire
+	12 Celitiene's Accorder
+	6 Celitiene's Regret
+	2 Champion of the People
+	6 Chillbone Lich
+	2 Cinderfeather Phoenix
+	12 Cleansing Brimstone
+	2 Cloudstreaker
+	6 Coirchanh's Herald
+	2 Coirchanh's Invocation
+	1 Coirchanh Awakened
+	6 Compromised Sorcerer
+	12 Conscripted Provisioner
+	2 Corpsecaster Mage_TPW
+	6 Corpsefeaster Zwurg
+	12 Corpsestitched Slasher
+	1 Corpus, Drawn to Death
+	12 Costly Ambush
+	6 Daring Sortie
+	12 Daring Windraider
+	12 Darkheart Beckoning
+	12 Deadhunt Mastiff
+	6 Deathrooter
+	6 Deepstone Fusiliers
+	12 Deepstone Traitor
+	12 Deepwilds Survivor
+	12 Deepwood Hermit
+	12 Depraved Dreadlord
+	2 Desperate Commander
+	12 Desperate Retreat
+	12 Dewdrop Crescendo
+	6 Dewdrop Marshal
+	2 Dewshaper Matriarch
+	6 Dreadmoon's Rise
+	2 Dreadmoon Crusader
+	12 Dreadmoon Disciple
+	12 Dwarven Swashbuckler
+	12 Dwynerloch Haunt
+	6 Ebitha, Supplicant of Decay
+	2 Edelber Collaborator
+	12 Edelber Foreman
+	12 Edelber Frontliners
+	12 Edict of the Roses
+	6 Enduring Scion
+	2 Entrenched Forgemaster
+	2 Esalia, the Enduring Root
+	6 Esalia's Witness
+	12 Esmerie's Breeze-Seeker
+	2 Esoteric Alliances
+	12 Evolving Wilds_TPW
+	12 Fading Words
+	12 Fangmarked Neophyte
+	12 Fated Call
+	12 Favor of Petals
+	6 Fencas the Fallen
+	2 Flawed Masterpiece
+	12 Flaws in the Flesh
+	6 Fleeting Valiant
+	6 For Hearth and Home
+	2 Forced Conscription
+	12 Forsaken Mausoleum
+	6 Fortune's Fusillade
+	12 Fortune's Mark
+	6 Frantic Harvesters
+	2 Friendly Challenge
+	6 From the Treetops
+	12 Frontline Familiar
+	6 Gamhaugen Burns
+	12 Gamhaugen Drillbore
+	12 Gamhaugen Owlkeeper
+	6 Glenach, Gossamer Monarch
+	12 Glimmer of Hope
+	6 Glimpse Your Fate
+	12 Glory in Undeath
+	6 Griffin Hatchlings
+	12 Grizzled Expeditioneer
+	1 Gwynsivir, the Listener
+	2 Gwynsivir's Pathfinder
+	2 Hark the Fleeting Host
+	12 Harl's Hornblower
+	2 Harl and Finn, Bloodbrothers
+	12 Harrier Corps
+	2 Hearthfire Disciple
+	6 Heedless Questant
+	2 Hemic Consummation
+	1 Henrick, the Fleeting King
+	6 Herald of Clear Skies
+	6 Heretical Prelate
+	12 Hollowmind Drudge
+	1 Horseman of Conquest
+	1 Horseman of Famine
+	1 Horseman of Pestilence
+	1 Horseman of War
+	12 Hour of Greatest Need
+	2 Hugh, Usurper's Thorn
+	6 Hulking Fleshdebter
+	6 Illicit Spellweaver
+	2 Imisti of the Rose Court
+	12 Impetuous Cavalryman
+	6 Indulgent Hedonist
+	12 Invocation of Loisch
+	12 Joyous Reveler
+	12 Kahra's Machinations
+	2 Kahra's Price
+	12 Kahra's Prototype
+	12 Kiss from a Rose
+	12 Knives to Throats
+	2 Lady Kahra Belmord
+	12 Levy Bowmen
+	6 Llech Crann Ambassador
+	12 Llech Crann Knight
+	12 Llech Crann Paladin
+	2 Llosg Crann Quartermaster
+	12 Llosg Crann Sharpshooter
+	6 Loisch, Stonebark Scorcher
+	1 Lysene, Shrewd Smuggler
+	12 Lysene's Plunderer
+	12 Malingering Phantom
+	12 Maritou's Bane
+	2 Maritou's Pride
+	6 Maritou the Strait-Drowned
+	12 Marrowbound Tenacity
+	6 Mellan, Skysworn Inductee
+	12 Mellan's Tactics
+	6 Middenheap Uprising
+	12 Middenswarm Rats
+	12 Militia's Charge
+	2 Mirrored Monstrosities
+	6 Moment's Reprieve
+	12 Moment of Mourning
+	6 Momentary Victory
+	6 Monara, Pale Rider
+	6 Moontouched Courser
+	12 Moor-Witch's Brew
+	12 Necromantic Experiment
+	12 Necrosis Vials
+	2 Norwick, Defiant Farmstead
+	6 Noxious Kiss
+	2 Oath of the Wildlords
+	12 Oathbound Scion
+	12 Oathsworn Bloodsire
+	6 Overwhelming March
+	2 Pactwhisper Demon
+	12 Pale Conquest
+	6 Pale Mercies
+	6 Perfect Partnership
+	6 Pestilent Procession
+	6 Petalsnare
+	6 Phasewalker Rake
+	2 Procession of the Pale
+	12 Protector of Yroncaster
+	12 Provisions Hauler
+	6 Pyresong Incendiary
+	12 Queen's Crusader
+	1 Questant's Beginning
+	12 Ragtatter Collector
+	2 Rallying Banners
+	12 Rancid Plagueherald
+	2 Ratkin Rampage
+	2 Raven Roosts
+	6 Ravings of the Damned
+	12 Reagent Smuggler
+	6 Rebellious Ratkin
+	12 Relentless Driftpicker
+	1 Rhysta, Bladebound
+	2 Rhysta's Deliverance
+	12 Rose Court Sentinel
+	6 Rose Order Pactblade
+	2 Rose Queen's Absolution
+	1 Rose Queen Asamund
+	6 Rosewhisper Garden
+	12 Rouse the Smallfolk
+	12 Rundfora's Resistance
+	2 Rundfora Collaborator
+	6 Rundfora Trickster
+	2 Sanguine Chevalier
+	2 Santriza Collaborator
+	2 Santriza Despoilers
+	12 Santriza Saltbeard
+	6 Save What You Can
+	12 Scale-Slough Drake
+	12 Scion's Sentence
+	12 Scion of Coirchanh
+	2 Scorching Condemnation
+	12 Searmelt
+	12 Settled Giant
+	6 Sheltering Gargantuan
+	12 Skullbark Defiler
+	2 Sky Commander Esmerie
+	2 Skyfall
+	12 Skysworn Companion
+	12 Slip Beyond Fate's Grasp
+	12 Smuggler's Requisition
+	2 Soaring Pridelord
+	1 Sofia, Haunted by Fortune
+	12 Sofia's Stormchaser
+	12 Song of the Red Thirst
+	12 Sorrows of Maritou
+	12 Spark of Inspiration
+	2 Spellstrider Ettin
+	2 Stand as One
+	12 Steadfast Veteran
+	6 Stilthorpe Memorialist
+	1 Stirring of the Run
+	6 Stonebark Invoker
+	12 Strawsewn Mentor
+	12 Strongarm Militia
+	2 Sunheart Greatsword
+	6 Sunlit Waystone
+	12 Surface Envoy
+	12 Sustaining Katlig
+	12 Symbol of Tranquility
+	6 Thanewraith
+	2 Thanewrought Reclaimer
+	2 The Dreadmoon Ascendancy
+	2 The Dwynerloch
+	6 The Marrow Lord
+	2 The Roseblade Reforged
+	2 The Rundfora's Last Gift
+	6 The Usurper's Dark Rebirth
+	2 The Usurper's Final Rest
+	2 Thrashing Kelpie
+	12 Tidecrest Surger
+	12 Timely Arrival
+	12 Treacherous Bloodbriar
+	2 Undermine, the Seething Forges
+	2 Undermine Guardian
+	2 Underpass Ranger
+	12 Unravel the Unfathomable
+	6 Usurper's Will
+	6 Vel, the Forlorn Shield
+	12 Vel's Intervention
+	6 Vengeful Alchemist
+	6 Vernal Decay
+	2 Voracious Dais
+	12 Warden of the Belfry
+	12 Weoran's Hunger
+	6 Weoran the Fleshcarver
+	6 Wihtfyr's Coterie
+	2 Wihtfyr of the Nighthost
+	1 Yaran, Undying Usurper
+	6 Yaran's Scheming
+	6 Yearning Heart
+	1 Yroncaster's Empty Throne
+[wildcard(1)]
+	4 A Dark and Stormy Night
+	7 A Farmer's Life
+	7 A Queen's Duty
+	15 Abaran's Quarry
+	15 Abaran the Haunted
+	7 Abominable Quarry
+	15 Accursed Ancestor
+	6 Acolyte of the Rose Order
+	4 Ahl the Omenwing
+	15 Alchemical Warfare
+	6 Alliance's Aid
+	7 Apex's Prey
+	6 Aravant Welcome
+	15 Asamund's Contemplation
+	7 Asamund's Final Push
+	7 Ashenwind Augur
+	6 Assailed Farmer
+	6 Awakened Hunger
+	15 Beherzt, Sofia's Second
+	15 Beherzt's Squallseeker
+	4 Belmord, Bloodstained Count
+	6 Belmord's Thirst
+	7 Belmord Collaborator
+	15 Bilge Crab
+	7 Bitter Defeat
+	15 Bleakfell Escort
+	15 Bleakfell Mauler
+	6 Blightbound Archer
+	15 Blighthorn Stallion
+	6 Bloodbriar Bat-Rider
+	4 Bloodfall
+	15 Bloodstained Crusade
+	15 Bloodvenge Slayer
+	7 Blow the Man Down
+	15 Borohd, Wartemper Artisan
+	6 Branu's Pathcutter
+	7 Branu of the Dewdrops
+	6 Brazen Chitter-Sage
+	6 Brimstone Charger
+	6 Brought Together
+	4 Bugrund, Firehearth's Last
+	6 Burning Visions
+	6 By Blood and Fire
+	15 Byron, Hero of Norwick
+	15 Byron's Reprisal
+	7 Caer Crann, Forest's Heart
+	7 Caer Crann Collaborator
+	6 Caer Crann Survivalists
+	6 Calamitous Flames
+	7 Call of the Dreadmoon
+	7 Castle Belmord
+	4 Celitiene, Wildfire
+	6 Celitiene's Accorder
+	15 Celitiene's Regret
+	7 Champion of the People
+	15 Chillbone Lich
+	7 Cinderfeather Phoenix
+	6 Cleansing Brimstone
+	7 Cloudstreaker
+	15 Coirchanh's Herald
+	7 Coirchanh's Invocation
+	4 Coirchanh Awakened
+	15 Compromised Sorcerer
+	6 Conscripted Provisioner
+	7 Corpsecaster Mage_TPW
+	15 Corpsefeaster Zwurg
+	6 Corpsestitched Slasher
+	4 Corpus, Drawn to Death
+	6 Costly Ambush
+	15 Daring Sortie
+	6 Daring Windraider
+	6 Darkheart Beckoning
+	6 Deadhunt Mastiff
+	15 Deathrooter
+	15 Deepstone Fusiliers
+	6 Deepstone Traitor
+	6 Deepwilds Survivor
+	6 Deepwood Hermit
+	6 Depraved Dreadlord
+	7 Desperate Commander
+	6 Desperate Retreat
+	6 Dewdrop Crescendo
+	15 Dewdrop Marshal
+	7 Dewshaper Matriarch
+	15 Dreadmoon's Rise
+	7 Dreadmoon Crusader
+	6 Dreadmoon Disciple
+	6 Dwarven Swashbuckler
+	6 Dwynerloch Haunt
+	15 Ebitha, Supplicant of Decay
+	7 Edelber Collaborator
+	6 Edelber Foreman
+	6 Edelber Frontliners
+	6 Edict of the Roses
+	15 Enduring Scion
+	7 Entrenched Forgemaster
+	7 Esalia, the Enduring Root
+	15 Esalia's Witness
+	6 Esmerie's Breeze-Seeker
+	7 Esoteric Alliances
+	6 Evolving Wilds_TPW
+	6 Fading Words
+	6 Fangmarked Neophyte
+	6 Fated Call
+	6 Favor of Petals
+	15 Fencas the Fallen
+	7 Flawed Masterpiece
+	6 Flaws in the Flesh
+	15 Fleeting Valiant
+	15 For Hearth and Home
+	7 Forced Conscription
+	6 Forsaken Mausoleum
+	15 Fortune's Fusillade
+	6 Fortune's Mark
+	15 Frantic Harvesters
+	7 Friendly Challenge
+	15 From the Treetops
+	6 Frontline Familiar
+	15 Gamhaugen Burns
+	6 Gamhaugen Drillbore
+	6 Gamhaugen Owlkeeper
+	15 Glenach, Gossamer Monarch
+	6 Glimmer of Hope
+	15 Glimpse Your Fate
+	6 Glory in Undeath
+	15 Griffin Hatchlings
+	6 Grizzled Expeditioneer
+	4 Gwynsivir, the Listener
+	7 Gwynsivir's Pathfinder
+	7 Hark the Fleeting Host
+	6 Harl's Hornblower
+	7 Harl and Finn, Bloodbrothers
+	6 Harrier Corps
+	7 Hearthfire Disciple
+	15 Heedless Questant
+	7 Hemic Consummation
+	4 Henrick, the Fleeting King
+	15 Herald of Clear Skies
+	15 Heretical Prelate
+	6 Hollowmind Drudge
+	4 Horseman of Conquest
+	4 Horseman of Famine
+	4 Horseman of Pestilence
+	4 Horseman of War
+	6 Hour of Greatest Need
+	7 Hugh, Usurper's Thorn
+	15 Hulking Fleshdebter
+	15 Illicit Spellweaver
+	7 Imisti of the Rose Court
+	6 Impetuous Cavalryman
+	15 Indulgent Hedonist
+	6 Invocation of Loisch
+	6 Joyous Reveler
+	6 Kahra's Machinations
+	7 Kahra's Price
+	6 Kahra's Prototype
+	6 Kiss from a Rose
+	6 Knives to Throats
+	7 Lady Kahra Belmord
+	6 Levy Bowmen
+	15 Llech Crann Ambassador
+	6 Llech Crann Knight
+	6 Llech Crann Paladin
+	7 Llosg Crann Quartermaster
+	6 Llosg Crann Sharpshooter
+	15 Loisch, Stonebark Scorcher
+	4 Lysene, Shrewd Smuggler
+	6 Lysene's Plunderer
+	6 Malingering Phantom
+	6 Maritou's Bane
+	7 Maritou's Pride
+	15 Maritou the Strait-Drowned
+	6 Marrowbound Tenacity
+	15 Mellan, Skysworn Inductee
+	6 Mellan's Tactics
+	15 Middenheap Uprising
+	6 Middenswarm Rats
+	6 Militia's Charge
+	7 Mirrored Monstrosities
+	15 Moment's Reprieve
+	6 Moment of Mourning
+	15 Momentary Victory
+	15 Monara, Pale Rider
+	15 Moontouched Courser
+	6 Moor-Witch's Brew
+	6 Necromantic Experiment
+	6 Necrosis Vials
+	7 Norwick, Defiant Farmstead
+	15 Noxious Kiss
+	7 Oath of the Wildlords
+	6 Oathbound Scion
+	6 Oathsworn Bloodsire
+	15 Overwhelming March
+	7 Pactwhisper Demon
+	6 Pale Conquest
+	15 Pale Mercies
+	15 Perfect Partnership
+	15 Pestilent Procession
+	15 Petalsnare
+	15 Phasewalker Rake
+	7 Procession of the Pale
+	6 Protector of Yroncaster
+	6 Provisions Hauler
+	15 Pyresong Incendiary
+	6 Queen's Crusader
+	4 Questant's Beginning
+	6 Ragtatter Collector
+	7 Rallying Banners
+	6 Rancid Plagueherald
+	7 Ratkin Rampage
+	7 Raven Roosts
+	15 Ravings of the Damned
+	6 Reagent Smuggler
+	15 Rebellious Ratkin
+	6 Relentless Driftpicker
+	4 Rhysta, Bladebound
+	7 Rhysta's Deliverance
+	6 Rose Court Sentinel
+	15 Rose Order Pactblade
+	7 Rose Queen's Absolution
+	4 Rose Queen Asamund
+	15 Rosewhisper Garden
+	6 Rouse the Smallfolk
+	6 Rundfora's Resistance
+	7 Rundfora Collaborator
+	15 Rundfora Trickster
+	7 Sanguine Chevalier
+	7 Santriza Collaborator
+	7 Santriza Despoilers
+	6 Santriza Saltbeard
+	15 Save What You Can
+	6 Scale-Slough Drake
+	6 Scion's Sentence
+	6 Scion of Coirchanh
+	7 Scorching Condemnation
+	6 Searmelt
+	6 Settled Giant
+	15 Sheltering Gargantuan
+	6 Skullbark Defiler
+	7 Sky Commander Esmerie
+	7 Skyfall
+	6 Skysworn Companion
+	6 Slip Beyond Fate's Grasp
+	6 Smuggler's Requisition
+	7 Soaring Pridelord
+	4 Sofia, Haunted by Fortune
+	6 Sofia's Stormchaser
+	6 Song of the Red Thirst
+	6 Sorrows of Maritou
+	6 Spark of Inspiration
+	7 Spellstrider Ettin
+	7 Stand as One
+	6 Steadfast Veteran
+	15 Stilthorpe Memorialist
+	4 Stirring of the Run
+	15 Stonebark Invoker
+	6 Strawsewn Mentor
+	6 Strongarm Militia
+	7 Sunheart Greatsword
+	15 Sunlit Waystone
+	6 Surface Envoy
+	6 Sustaining Katlig
+	6 Symbol of Tranquility
+	15 Thanewraith
+	7 Thanewrought Reclaimer
+	7 The Dreadmoon Ascendancy
+	7 The Dwynerloch
+	15 The Marrow Lord
+	7 The Roseblade Reforged
+	7 The Rundfora's Last Gift
+	15 The Usurper's Dark Rebirth
+	7 The Usurper's Final Rest
+	7 Thrashing Kelpie
+	6 Tidecrest Surger
+	6 Timely Arrival
+	6 Treacherous Bloodbriar
+	7 Undermine, the Seething Forges
+	7 Undermine Guardian
+	7 Underpass Ranger
+	6 Unravel the Unfathomable
+	15 Usurper's Will
+	15 Vel, the Forlorn Shield
+	6 Vel's Intervention
+	15 Vengeful Alchemist
+	15 Vernal Decay
+	7 Voracious Dais
+	6 Warden of the Belfry
+	6 Weoran's Hunger
+	15 Weoran the Fleshcarver
+	15 Wihtfyr's Coterie
+	7 Wihtfyr of the Nighthost
+	4 Yaran, Undying Usurper
+	15 Yaran's Scheming
+	15 Yearning Heart
+	4 Yroncaster's Empty Throne
