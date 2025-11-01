@@ -241,7 +241,7 @@ def generateHTML():
 							break
 
 				html_content += '''<div class="set-icon-container">
-									<a href="previews/''' + code + '''"><div class="set-icon"><img src="sets/''' + code + '''-files/icon.png" title="''' + set_name + '''"></img></div>
+									<a href="sets/''' + code + '''"><div class="set-icon"><img src="sets/''' + code + '''-files/icon.png" title="''' + set_name + '''"></img></div>
 									<div class="set-icon-name">''' + set_name + '''</div></a>
 								</div>
 				'''
@@ -326,7 +326,7 @@ def generateHTML():
 
 				if ("position" in card_stats)
 				{
-					img.src = '/sets/' + card_stats.set + '-files/img/' + card_stats.position + (card_stats.shape.includes('double') ? '_front' : '') + '.' + card_stats.image_type;
+					img.src = "https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/" + card_stats.set + "/" + card_stats.position + "." + card_stats.image_type;
 				}
 				else
 				{

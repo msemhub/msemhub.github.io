@@ -1504,10 +1504,10 @@
 			img.loading = "lazy";
 
 			if ("position" in card_stats) {
-				img.src = "https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/" + card_stats.set + "/" + card_stats.position + ((card_stats.shape.includes("double")) ? "a" : "") + "." + card_stats.image_type;
+				img.src = "https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/" + card_stats.set + "/" + card_stats.position + "." + card_stats.image_type;
 			}
 			else {
-				img.src = "/sets/" + card_stats.set + "-files/img/" + card_stats.number + (card_stats.shape.includes("token") ? "t_" : "_") + card_stats.card_name + ((card_stats.shape.includes("double")) ? "a" : "") + "." + card_stats.image_type;
+				img.src = "/sets/" + card_stats.set + "-files/img/" + card_stats.number + (card_stats.shape.includes("token") ? "t_" : "_") + card_stats.card_name + "." + card_stats.image_type;
 			}
 			
 			const link = document.createElement("a");
