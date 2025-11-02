@@ -57,7 +57,7 @@ def generateHTML(setCode):
 	html_content = '''<!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/''' + setCode + '''-files/icon.png"/>
+	<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/Additional%20Images/Set%20Symbols/''' + setCode + '''/m''' + setCode + '''.png"/>
 	<link rel="stylesheet" href="/resources/header.css">
 	<title>''' + setCode + ''' visual preview</title>
 	<style>
@@ -231,11 +231,11 @@ def generateHTML(setCode):
 </head>
 <body>
 	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/''' + setCode + '''-files/logo.png" />
+	<img class="preload-hidden" src="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/Additional%20Images/Set%20Symbols/''' + setCode + "/m" + setCode + '''.png" />
 	'''
 
 	for code in codes:
-		html_content += '''<img class="preload-hidden" src="/sets/''' + code + '''-files/icon.png" />
+		html_content += '''<img class="preload-hidden" src="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/Additional%20Images/Set%20Symbols/''' + code + '/m' + code + '''.png" />
 		'''
 
 	if os.path.exists(os.path.join('sets', setCode + '-files', 'bg.png')):
@@ -255,7 +255,7 @@ def generateHTML(setCode):
 	
 	count = 0
 	html_content += f'''
-		<a class="set-bar" href="{setCode}"><img src="/sets/{setCode}-files/icon.png">{set_name}</a>
+		<a class="set-bar" href="{setCode}"><img src="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/Additional%20Images/Set%20Symbols/{setCode}/m{setCode}.png">{set_name}</a>
 	'''
 	for code in codes:
 		if code == setCode:
@@ -263,14 +263,14 @@ def generateHTML(setCode):
 		with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as j:
 			js = json.load(j)
 		html_content += f'''
-		<a class="set-bar inactive" href="{code}"><img src="/sets/{code}-files/icon.png">{js['name']}</a>
+		<a class="set-bar inactive" href="{code}"><img src="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/Additional%20Images/Set%20Symbols/{setCode}/m{setCode}.png">{js['name']}</a>
 	'''
 	'''
 	for code in codes:
 		prev_path = os.path.join('sets', setCode + '-files', 'prev_icon.png')
 		if count != 0:
 			html_content += '		 <div class="dot"><img src="/img/dot.png"></img></div>\n'
-		html_content += f'		<div class="icon"><a href="{code}"><img src="/sets/{code}-files/' + ('prev_' if os.path.isfile(prev_path) else '') + 'icon.png"></img></a></div>\n'
+		html_content += f'		<div class="icon"><a href="{code}"><img src="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/Additional%20Images/Set%20Symbols/{code}/m.png"></img></a></div>\n'
 		count += 1
 		if count == header_length:
 			count = 0
@@ -279,7 +279,7 @@ def generateHTML(setCode):
 	html_content += '''
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/''' + setCode + '''-files/logo.png">
+		<img class="logo" src="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/Additional%20Images/Set%20Symbols/''' + setCode + "/m" + setCode + '''.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
@@ -293,7 +293,7 @@ def generateHTML(setCode):
 		if 'l->' in card:
 			html_content += f'''			</div>
 			<div class="banner">
-					<img id="{card[3:]}-logo" class="logo" src="/sets/{card[3:]}-files/logo.png">
+					<img id="{card[3:]}-logo" class="logo" src="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/Additional%20Images/Set%20Symbols/{card[3:]}/m{card[3:]}.png">
 			</div>
 			<div class="grid-container">
 '''

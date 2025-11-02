@@ -38,11 +38,13 @@ def print_set_json(msem_json):
             card["cost2"] = adventure["manaCost"]
             card["rules_text2"] = adventure["text"]
             card["color2"] = getColors(adventure["manaCost"])
-            card["flavor_text2"] = ""
+            card["flavor_text2"] = "[i][/i]"
             card["pt2"] = ""
             card["special_text2"] = ""
             card["artist2"] = card["artist"]
             card["alias2"] = ""
+            card["loyalty2"] = ""
+            card["rules_text"] = msem_card["text"].split("-----\n")[0]
 
         if not in_dfc:
             card["shape"] = card_layout(msem_card)

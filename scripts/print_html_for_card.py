@@ -208,7 +208,7 @@ def generateHTML():
 			}
 
 			var link = document.querySelector("link[rel~='icon']");
-			link.href = '/sets/' + set + '-files/icon.png';
+			link.href = 'https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/Additional%20Images/Set%20Symbols/' + set + '/m' + set + '.png';
 
 			document.title = name;
 
@@ -217,7 +217,7 @@ def generateHTML():
 			const banner_title = document.getElementById("set-banner-title");
 
 			banner.href = '/sets/' + set;
-			banner_logo.src = '/sets/' + set + '-files/icon.png';
+			banner_logo.src = 'https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/Additional%20Images/Set%20Symbols/' + set + '/m' + set + '.png';
 
 			for (const set_stats of set_list.sets)
 			{

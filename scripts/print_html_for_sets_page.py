@@ -130,7 +130,7 @@ def generateHTML():
 
 			html_content += '''
 			<a href="/sets/''' + code + '''" class="set-row"> 
-				<img src="/sets/''' + code + '''-files/icon.png">
+				<img src="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/Additional%20Images/Set%20Symbols/''' + code + '/m' + code + '''.png">
 				<div class="set-title">''' + set_name + '''</div>
 				<div>''' + code + '''</div>
 				<div>''' + str(set_count) + '''</div>

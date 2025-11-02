@@ -22,7 +22,7 @@ def generateHTML(code):
 	html_content = '''<html>
 <head>
   <title>''' + set_name + '''</title>
-  <link rel="icon" type="image/x-icon" href="/sets/''' + code + '''-files/icon.png">
+  <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/Additional%20Images/Set%20Symbols/''' + code + '/m' + code + '''.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
   <link rel="stylesheet" href="/resources/card-text.css">
@@ -331,7 +331,7 @@ def generateHTML(code):
 	<div class="banner">
 		<div class="banner-container">
 			<div class="set-banner" id="set-banner">
-				<img class="set-logo" src="/sets/''' + code + '''-files/icon.png">
+				<img class="set-logo" src="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/Additional%20Images/Set%20Symbols/''' + code + "/m" + code + '''.png">
 				<div class="banner-text">
 					<div class="set-title">''' + set_name + '''</div>
 					<div class="extras-container">'''
